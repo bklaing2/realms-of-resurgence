@@ -1,0 +1,32 @@
+#sai-yoxis/pre-cataclysm #sai-yoxis/the-cataclysm #sai-yoxis/post-cataclysm 
+# Eras of Sai Yoxis 4
+## Pre Cataclysm
+Life is middle-earth-like
+Well advanced (but not as much as [[History#Post Cataclysm|post cataclysm]])
+## The Cataclysm #needs/name
+People are rapidly mutating
+New races evolving
+Horrors emerging
+Latent furomantical radiation is causing strange effects
+Survivors are just trying to survive
+## Post Cataclysm
+Thousands of years after [[The Cataclysm]]
+The races of old have long since died out due to furomancy poisoning
+The races that arose from [[The Cataclysm]] control the planet
+They have advanced very far technologically
+The horrors are confined to [[The Wastes]]
+
+
+# Order of important events on Sai Yoxis 4
+Feel free to veto any of this lol just spitballing
+
+- Sai Yoxis was a fairly normal planet. The only thing of note was its unpredictable [[Furomantic Spells]]
+- As time passed, races began to evolve. However, these were low magic races because of [[Furomantic Spells]]
+- They begin to advance, build civilizations, and start trying to harness [[Furomantic Spells]]
+- These experiments with furomancy get out of hand, and lead to [[The Cataclysm]]
+- Latent magic filled the entire world from the [[The Cataclysm]]
+- Most people living on the planet began to mutate from the excess of furomantical radiation. Simultaneously, normal creatures rapidly evolved/mutated into sentient humanoidal people. A small, lucky percentage of the population was unaffected.
+- Those were hit with the blast were mutated into unimaginable, grotesque horrors.
+- James' Grimdark campaign happens in the wake of [[The Cataclysm]]
+- Many years later, the races that lived through [[The Cataclysm]] have died out (likely due to it) and new races have evolved more quickly due to the leftover radiation
+- Present day, races like the [[Fungrils]] have advanced to beyond space travel
