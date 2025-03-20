@@ -7,6 +7,8 @@ parent: "[[Items]]"
 tags:
   - todo
 ---
+`We will split these up into their own notes`
+
 *simple melee weapons*
 
 club - 1d4 bludgeoning (light)

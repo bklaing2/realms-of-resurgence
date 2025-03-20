@@ -9,6 +9,8 @@ parent: "[[Items]]"
 tags:
   - todo
 ---
+`We will split these up into their own notes`
+
 # Tier One
 Basic arrow
 

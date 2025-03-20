@@ -7,6 +7,8 @@ parent: "[[Items]]"
 tags:
   - todo
 ---
+`We will split these up into their own notes`
+
 # Potions
 **Potion of Healing (regular)** - 2 hours
 - heals drinker 2d4+2 damage

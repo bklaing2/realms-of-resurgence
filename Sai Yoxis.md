@@ -6,6 +6,7 @@ aliases:
 tags:
   - needs/name
   - needs/improvement
+  - todo
 ---
 Sai Yoxis is...
 
