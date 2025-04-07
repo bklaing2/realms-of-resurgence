@@ -32,4 +32,10 @@ Monsters are weakened when they are outside of [[The Wastes]]
 
 no moon
 
-3 types of damage: Physical, Elemental, and Furomantical
+3 types of damage: Physical, Elemental (can include fire and all the others - but it will all just fall under the sign of elemental), and Furomantical
+
+
+Neomancy
+Duomancy
+Ethermancy
+Furomancy
