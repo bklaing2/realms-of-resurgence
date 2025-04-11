@@ -42,3 +42,7 @@ Furomancy
 
 
 What if all the vaporized people were temporally/dimensionally displaced
+
+Leaking furomancy
+
+Npc who was almost dead when the cataclysm happened and is fighting internally struggling with the mutation
