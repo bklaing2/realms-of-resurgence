@@ -39,3 +39,6 @@ Neomancy
 Duomancy
 Ethermancy
 Furomancy
+
+
+What if all the vaporized people were temporally/dimensionally displaced
