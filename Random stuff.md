@@ -39,3 +39,8 @@ Neomancy
 Duomancy
 Ethermancy
 Furomancy
+
+
+Leaking furomancy
+
+Npc who was almost dead when the cataclysm happened and is fighting internally struggling with the mutation 
