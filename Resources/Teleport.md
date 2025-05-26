@@ -1,23 +1,26 @@
 ---
-name: Teleport
-type: spell
-tier: 2
-casting time: 1 action
-range: 60ft
-target: 1 creature
-duration: instantaneous
-components: 
-requires focus: false
-system: 
-parent: "[[Furomancy]]"
+id: Teleport
+aliases: 
 tags:
   - needs/components
+casting time: 1 action
+duration: instantaneous
+name: Teleport
+parent: "[[Mantic Manipulation]]"
+range: 60ft
+requires focus: false
+target: 1 creature
+tier: 2
+type: spell
 ---
+
 # Description
 
 As an action, teleport any creature you can see within 60ft to any area within 60ft of you.
 
+# Antimantic Inverse #todo
 
 # Radiation Fail Outcome
 
 The target is teleported in the opposite direction.
+

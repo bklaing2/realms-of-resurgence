@@ -1,48 +1,68 @@
 ---
-type: moc
-parent: "[[Sai Yoxis]]"
-name: The Wastes
+id: The Wastes
 aliases:
   - Wastes
 tags:
-  - sai-yoxis/the-cataclysm
-  - sai-yoxis/post-cataclysm
+  - sai-yoxis/iv/the-cataclysm
+  - sai-yoxis/iv/post-cataclysm
+name: The Wastes
+parent: "[[Handbook]]"
+type: moc
 ---
-# Radiation
 
-The longer a person spends in [[The Wastes]], the more the latent energy and magic that are so present in them seep into the bodies of those traveling them. This latent magic is very difficult to control and does more to dampen and hamper a person and their "spark" than it does it "fill them with magic". However, after a certain amount of time in [[The Wastes]], a person may see certain effects that seem to empower some of their abilities when they are able to be "controlled".
+# Furomantical Radiation
 
-Every long rest spent in [[The Wastes]], the players must roll to see if they are affected by [[The Wastes]] the normal amount, or if they are extra susceptible to it this day.
-## Levels of [[Latent Radiation in Wastes]]:
+The immense amount Furomantical radiation seeps into the bodies of those traveling within the Wastes. This latent energy is very difficult to control and does more to dampen and hamper a person and their "spark" than it does it "fill them with magic". However, after a certain amount of time in the Wastes a person may see certain effects that seem to empower some of their abilities.
 
-- 1st level of [[Latent Radiation in Wastes]] - 2 hours
-	- d4
-- 2nd level of [[Latent Radiation in Wastes]] - 1 day (18 hours)
-	- d6
-- 3rd level of [[Latent Radiation in Wastes]] - 3 days (54 hours)
-	- d8
-- 4th level of [[Latent Radiation in Wastes]] - 2 weeks (12 days) & (216 hours)
-	- d10
-- 5th level of [[Latent Radiation in Wastes]] - 3 months (18 weeks) & (111 days)
-	- d12
+Traversing the Wastes while under the influence of Furomantical Radiation can make performing even simple tasks a challenge as the Radiation begins to take hold. However, sometimes it aligns with your intention, and a something you were sure to fail magically succeeds.
 
 ## Radiation Die
+
+While affected by the radiation in the Wastes, add a Radiation Die to each d20 roll. The value of the Radiation Die is determined by their level of radiation accumulated from the amount of time spent in the Wastes.
+
+### Determining the Outcome
+
+When performing a roll with radiation, compare the outcomes of the d20 and Radiation Die to determine if the action is viable. There are three scenarios.
+
+#### D20 > Radiation Die
+
+If the outcome of the d20 is greater than the outcome of the Radiation Die, the Radiation Die is added to the roll and success is determined as normal.
+
+#### D20 = Radiation Die (Radical Success)
+
+If the outcome of the d20 matches the outcome of the Radiation Die, the action automatically succeeds.
+`Should this be a crit or normal success?` #todo
+
+#### D20 < Radiation Die (Radical Failure)
+
+If the outcome of the d20 is less than the outcome of the Radiation Die, the intended action fails due to the radiation. The consequences of this failure are usually determined in the moment by the DM. However some actions, like casting a spell, outline specifically how the spell backfires or fails.
+
+If you're attacking and get a nat 1 radiation fail, maybe the enemy gets an attack right then
+
+## Levels of Furomantical Radiation
+
+The longer someone is in the Wastes, the more Furomantical Radiation seeps into and corrupts them. This makes it more likely an action will fail, but also makes a success more powerful. The value of the Radiation Die is determined by the level of radiation someone has, according to the Radiation table.
+
+> [!info]- Radiation Table
+>
+> | _Level_ | Radiation Die Value | After X Time In the Wastes    |
+> | ------- | ------------------- | ----------------------------- |
+> | _1_     | **d4**              | 2 hours                       |
+> | _2_     | **d6**              | 1 day (18 hours)              |
+> | _3_     | **d8**              | 3 days (54 hours)             |
+> | _4_     | **d10**             | 2 weeks (12 days, 216 hours)  |
+> | _5_     | **d12**             | 3 months (18 weeks, 111 days) |
+
+# Old Stuff
+
+Every long rest spent in [[The Wastes]], the players must roll to see if they are affected by [[The Wastes]] the normal amount, or if they are extra susceptible to it this day.
+
 Every long rest, roll a D20 and a radiation die
-The radiation die increases with each level of [[Latent Radiation in Wastes]]. If the D20 is lower than the radiation die, a wastes counter ticks up, increasing the likelihood that a horror finds you. However, if the D20 is the same number as the radiation die, the counter decreases by X amount. Maybe the current level of radiation?
-### Boon
-Brainstorm
-- When you are in [[The Wastes]], every dice roll adds the level of [[Latent Radiation in Wastes]] that you are at (e.g level 1, adds a d4 and so on).
-- If the number match it counts as a crit 
-### Detriment
-Brainstorm
-- if you roll below the radiation die, the action you were trying to do doesn't work
+The radiation die increases with each level of Furomantical Radiation. If the D20 is lower than the radiation die, a wastes counter ticks up, increasing the likelihood that a horror finds you. However, if the D20 is the same number as the radiation die, the counter decreases by X amount. Maybe the current level of radiation?
 
 ### Complications
 
-
 ### "Control"
-
-
 
 # Waste Counter #todo
 

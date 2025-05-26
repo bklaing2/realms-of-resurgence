@@ -1,6 +1,6 @@
 ---
 type: moc
-parent: "[[Sai Yoxis]]"
+parent: "[[Handbook]]"
 name: Items
 aliases: 
 tags:

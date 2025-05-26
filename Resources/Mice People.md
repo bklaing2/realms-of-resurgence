@@ -1,21 +1,29 @@
 ---
-type: race
-name: 
-system: 
-parent: "[[Character Creation]]"
+id: Mice People
+aliases: []
 tags:
-  - sai-yoxis/the-cataclysm
-  - sai-yoxis/post-cataclysm
+  - sai-yoxis/iv/the-cataclysm
+  - sai-yoxis/iv/post-cataclysm
   - needs/name
+parent: "[[Character Creation]]"
+type: race
 ---
+
+Found on [[Sai Yoxis IV]]
+
 I'm picturing these guys to be like swashbucklers with cutlasses, think puss-n-boots. They are stealthy and agile
 
 # Abilities
+
 ## Passive
+
 - good sense of smell
 
 ## Active
-- 
+
+-
 
 ## Skill Proficiency
+
 - bonus to stealth and agility checks
+

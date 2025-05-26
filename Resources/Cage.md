@@ -1,24 +1,23 @@
 ---
-name: 
-type: spell
-tier: 1
-casting time: 1 action
-range: 30ft
-target: 15ft circle OR 1 creature
-duration: while focusing
-components: 
-requires focus: true
-system: 
-parent: "[[Furomancy]]"
+id: Cage
+aliases: 
 tags:
   - needs/components
   - needs/name
+casting time: 1 action
+duration: while focusing
+parent: "[[Mantic Manipulation]]"
+range: 30ft
+requires focus: true
+target: 15ft circle OR 1 creature
+tier: 1
+type: spell
 ---
+
 # Description
 
-As an action, create crystal pillars of furomancy out of the ground in at a point you can see within a range of 30ft. These crystals may take two forms. They can be many smaller and sharper crystals spread out over 15ft, damaging any creatures in the area for 3D6 and making it difficult terrain. Or they can be fewer larger crystals centered on a creature, damaging it for 2D6 but also forming a cage around it, restraining the creature. The crystals disappear if you don't spend your bonus action focusing on it.
+As an action, Mantic crystal emerge out of the ground at a point you can see within a range of 30ft. These crystals may take two forms. They can be many smaller and sharper crystals spread out over 15ft, damaging any creatures in the area for 3D6 and making it difficult terrain. Or they can be fewer larger crystals centered on a creature, damaging it for 2D6 but also forming a cage around it, restraining the creature. The crystals disappear if you don't spend your bonus action focusing on it.
 
+# Antimantic Inverse #todo
 
-
-# Radiation Fail Outcome #todo 
-
+# Radiation Fail Outcome #todo

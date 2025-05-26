@@ -1,4 +1,4 @@
-#sai-yoxis/pre-cataclysm #sai-yoxis/the-cataclysm #sai-yoxis/post-cataclysm 
+#sai-yoxis/iv/pre-cataclysm #sai-yoxis/iv/the-cataclysm #sai-yoxis/iv/post-cataclysm 
 # Eras of Sai Yoxis 4
 ## Pre Cataclysm
 Life is middle-earth-like
@@ -20,9 +20,9 @@ The horrors are confined to [[The Wastes]]
 # Order of important events on Sai Yoxis 4
 Feel free to veto any of this lol just spitballing
 
-- Sai Yoxis was a fairly normal planet. The only thing of note was its unpredictable [[Furomantic Spells]]
-- As time passed, races began to evolve. However, these were low magic races because of [[Furomantic Spells]]
-- They begin to advance, build civilizations, and start trying to harness [[Furomantic Spells]]
+- Sai Yoxis was a fairly normal planet. The only thing of note was its unpredictable magic
+- As time passed, races began to evolve. However, these were low magic races because of [[Neomancy]]
+- They begin to advance, build civilizations, and start trying to harness [[Neomancy]]
 - These experiments with furomancy get out of hand, and lead to [[The Cataclysm]]
 - Latent magic filled the entire world from the [[The Cataclysm]]
 - Most people living on the planet began to mutate from the excess of furomantical radiation. Simultaneously, normal creatures rapidly evolved/mutated into sentient humanoidal people. A small, lucky percentage of the population was unaffected.

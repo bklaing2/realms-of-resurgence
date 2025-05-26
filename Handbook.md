@@ -1,21 +1,22 @@
 ---
-type: moc
-parent: "[[TTRPGs]]"
-name: 
-aliases: 
+id: Handbook
+aliases:
+  - Sai Yoxis
 tags:
   - needs/name
   - needs/improvement
   - todo
+parent: "[[TTRPGs]]"
+type: moc
 ---
+
 Sai Yoxis is...
 
 # Table of Contents
 
+- [[The Worlds of Sai Yoxis]]
 - [[Character Creation]]
-- [[Furomancy]]
-- [[The Wastes]]
+- [[Mantic Manipulation]]
 - [[Creatures]]
 - [[Items]]
 
-# Lore
