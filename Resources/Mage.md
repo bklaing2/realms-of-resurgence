@@ -1,11 +1,16 @@
 ---
-id: Mage
-aliases: 
-tags: 
+id: sai-yoxis-class-7
+aliases:
+tags:
+  - sai-yoxis
 name: Mage
 parent: "[[Character Creation]]"
 type: class
 description: The arcanists
+subclass-i: "[[Neomancer]]"
+subclass-ii: "[[Duomancer]]"
+subclass-iii: "[[Ethermancer]]"
+subclass-iv: "[[Furomancer]]"
 ---
 
 # Class Abilities

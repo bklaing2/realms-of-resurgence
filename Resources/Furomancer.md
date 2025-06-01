@@ -1,7 +1,8 @@
 ---
-id: FuroMancer
+id: sai-yoxis-class-7.4
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iv
 name: Furomancer
 parent: "[[Mage]]"
 type: subclass

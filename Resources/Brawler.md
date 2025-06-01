@@ -1,11 +1,16 @@
 ---
-id: Brawler
+id: sai-yoxis-class-3
 aliases: []
-tags: []
+tags:
+  - sai-yoxis
 description: The tank of the group
 name: Brawler
 parent: "[[Character Creation]]"
 type: class
+subclass-i: "[[NeoBrawler]]"
+subclass-ii: "[[DuoBrawler]]"
+subclass-iii: "[[EtherBrawler]]"
+subclass-iv: "[[Maniac]]"
 ---
 
 # Class Abilities

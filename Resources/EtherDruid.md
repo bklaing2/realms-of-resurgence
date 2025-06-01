@@ -1,7 +1,9 @@
 ---
-id: EtherDruid
+id: sai-yoxis-class-5.3
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iii
+  - needs/name
 name: EtherDruid
 parent: "[[Druid]]"
 type: subclass

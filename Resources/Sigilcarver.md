@@ -1,8 +1,8 @@
 ---
-id: FuroScribe
+id: sai-yoxis-class-6.4
 aliases: []
 tags:
-  - needs/name
+  - sai-yoxis/iv
 name: Sigilcarver
 parent: "[[Scribe]]"
 type: subclass

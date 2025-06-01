@@ -1,7 +1,9 @@
 ---
-id: EtherEngineer
+id: sai-yoxis-class-4.3
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iii
+  - needs/name
 name: EtherEngineer
 parent: "[[Engineer]]"
 type: subclass

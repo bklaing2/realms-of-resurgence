@@ -1,8 +1,8 @@
 ---
-id: NeoScribe
+id: sai-yoxis-class-6.1
 aliases: []
 tags:
-  - needs/name
+  - sai-yoxis/i
 name: Lorekeeper or Scriptmaster
 parent: "[[Scribe]]"
 type: subclass

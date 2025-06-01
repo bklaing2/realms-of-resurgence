@@ -1,7 +1,9 @@
 ---
-id: DuoHunter
+id: sai-yoxis-class-1.2
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/ii
+  - needs/name
 name: DuoHunter
 parent: "[[Hunter]]"
 type: subclass

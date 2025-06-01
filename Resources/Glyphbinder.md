@@ -1,14 +1,14 @@
 ---
-id: EtherScribe
+id: sai-yoxis-class-6.2
 aliases: []
 tags:
-  - needs/name
-name: Runeweaver
+  - sai-yoxis/ii
+name: Glyphbinder
 parent: "[[Scribe]]"
 type: subclass
 ---
 
-Variation of [[Scribe]] found on [[Sai Yoxis III]]
+Variation of [[Scribe]] found on [[Sai Yoxis II]]
 
 # Subclass Abilities
 

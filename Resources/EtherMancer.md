@@ -1,7 +1,8 @@
 ---
-id: EtherMancer
+id: sai-yoxis-class-7.3
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iii
 name: Ethermancer
 parent: "[[Mage]]"
 type: subclass

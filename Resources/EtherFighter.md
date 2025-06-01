@@ -1,7 +1,9 @@
 ---
-id: EtherFighter
+id: sai-yoxis-class-2.3
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iii
+  - needs/name
 name: EtherFighter
 parent: "[[Fighter]]"
 type: subclass

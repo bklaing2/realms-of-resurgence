@@ -1,7 +1,9 @@
 ---
-id: NeoHunter
+id: sai-yoxis-class-1.1
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/i
+  - needs/name
 name: NeoHunter
 parent: "[[Hunter]]"
 type: subclass

@@ -1,7 +1,8 @@
 ---
 id: Rune - Blind or Silence
 aliases: []
-tags: []
+tags:
+  - needs/name
 description: Creatures within are blinded or silenced
 name: Blind or Silence
 parent: "[[Mantic Manipulation]]"

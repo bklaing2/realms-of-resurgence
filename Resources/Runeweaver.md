@@ -1,14 +1,14 @@
 ---
-id: DuoScribe
+id: sai-yoxis-class-6.3
 aliases: []
 tags:
-  - needs/name
-name: Glyphbinder
+  - sai-yoxis/iii
+name: Runeweaver
 parent: "[[Scribe]]"
 type: subclass
 ---
 
-Variation of [[Scribe]] found on [[Sai Yoxis II]]
+Variation of [[Scribe]] found on [[Sai Yoxis III]]
 
 # Subclass Abilities
 

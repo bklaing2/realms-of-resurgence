@@ -1,8 +1,9 @@
 ---
-id: EtherBrawler
-aliases: []
+id: sai-yoxis-class-3.3
+aliases:
 tags:
-  - sai-yoxis/i
+  - sai-yoxis/iii
+  - needs/name
 name: EtherBrawler
 parent: "[[Brawler]]"
 type: subclass

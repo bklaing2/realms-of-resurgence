@@ -1,7 +1,8 @@
 ---
-id: NeoEngineer
+id: sai-yoxis-class-4.1
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/i
 name: Artificer
 parent: "[[Engineer]]"
 type: subclass

@@ -1,7 +1,8 @@
 ---
-id: NeoMancer
+id: sai-yoxis-class-7.1
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/i
 name: Neomancer
 parent: "[[Mage]]"
 type: subclass

@@ -1,7 +1,8 @@
 ---
-id: FuroDruid
+id: sai-yoxis-class-5.4
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iv
 name: Mutant
 parent: "[[Druid]]"
 type: subclass

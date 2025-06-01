@@ -1,7 +1,9 @@
 ---
-id: DuoDruid
+id: sai-yoxis-class-5.2
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/ii
+  - needs/name
 name: DuoDruid
 parent: "[[Druid]]"
 type: subclass

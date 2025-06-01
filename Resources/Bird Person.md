@@ -3,6 +3,7 @@ id: Bird Person
 aliases: []
 tags:
   - needs/name
+  - sai-yoxis/iv
 parent: "[[Character Creation]]"
 type: race
 ---

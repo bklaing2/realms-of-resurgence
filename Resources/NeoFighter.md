@@ -1,7 +1,9 @@
 ---
-id: NeoFighter
+id: sai-yoxis-class-2.1
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/i
+  - needs/name
 name: NeoFighter
 parent: "[[Fighter]]"
 type: subclass

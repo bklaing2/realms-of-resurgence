@@ -1,7 +1,8 @@
 ---
-id: FuroFighter
+id: sai-yoxis-class-2.4
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iv
 name: Mercenary
 parent: "[[Fighter]]"
 type: subclass

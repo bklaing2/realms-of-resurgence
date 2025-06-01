@@ -1,10 +1,13 @@
 ---
-id: EtherHunter
+id: sai-yoxis-class-1.3
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iii
+  - needs/name
 name: EtherHunter
 parent: "[[Hunter]]"
 type: subclass
+description:
 ---
 
 Variation of [[Hunter]] found on [[Sai Yoxis III]]

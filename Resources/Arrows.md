@@ -4,10 +4,11 @@ aliases:
   - Arrow
 type: item
 subtype: ammunition
-system: 
+system:
 parent: "[[Items]]"
 tags:
   - todo
+  - sai-yoxis
 ---
 `We will split these up into their own notes`
 

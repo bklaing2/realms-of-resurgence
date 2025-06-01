@@ -1,12 +1,16 @@
 ---
-id: Scribe
-aliases: 
+id: sai-yoxis-class-6
+aliases:
 tags:
-  - needs/name
+  - sai-yoxis
 name: Scribe
 parent: "[[Character Creation]]"
 type: class
 description: Mystic knowledge keepers
+subclass-i: "[[Lorekeeper]]"
+subclass-ii: "[[Glyphbinder]]"
+subclass-iii: "[[Runeweaver]]"
+subclass-iv: "[[Sigilcarver]]"
 ---
 
 # Class Abilities

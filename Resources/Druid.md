@@ -1,11 +1,17 @@
 ---
-id: Druid
+id: sai-yoxis-class-5
 aliases: []
-tags: []
+tags:
+  - sai-yoxis
+  - needs/name
 description: Main power is shapeshifting
 name: Druid
 parent: "[[Character Creation]]"
 type: class
+subclass-i: "[[NeoDruid]]"
+subclass-ii: "[[DuoDruid]]"
+subclass-iii: "[[EtherDruid]]"
+subclass-iv: "[[Mutant]]"
 ---
 
 # Class Abilities

@@ -1,7 +1,9 @@
 ---
-id: DuoEngineer
+id: sai-yoxis-class-4.2
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/ii
+  - needs/name
 name: DuoEngineer
 parent: "[[Engineer]]"
 type: subclass

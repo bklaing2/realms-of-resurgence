@@ -1,7 +1,8 @@
 ---
-id: DuoMancer
+id: sai-yoxis-class-7.2
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/ii
 name: Duomancer
 parent: "[[Mage]]"
 type: subclass

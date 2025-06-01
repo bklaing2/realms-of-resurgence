@@ -1,8 +1,9 @@
 ---
-id: DuoBrawler
+id: sai-yoxis-class-3.2
 aliases: []
 tags:
-  - sai-yoxis/i
+  - sai-yoxis/ii
+  - needs/name
 name: DuoBrawler
 parent: "[[Brawler]]"
 type: subclass

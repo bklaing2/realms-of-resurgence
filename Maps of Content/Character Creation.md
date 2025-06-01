@@ -44,6 +44,7 @@ const classes = dv
 dv.table(null, classes)
 ```
 
+![[Sai Yoxis.base#Classes]]
 # Choose a Subclass
 
 Every class has a variation found on each planet in the [[Sai Yoxis System]].

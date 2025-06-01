@@ -1,7 +1,8 @@
 ---
 id: Rune - Wormhole
-aliases: 
-tags: 
+aliases:
+tags:
+  - needs/name
 description: Create a wormhole between two points
 name: Wormhole
 parent: "[[Mantic Manipulation]]"

@@ -1,11 +1,16 @@
 ---
-id: Fighter
-aliases: 
-tags: 
+id: sai-yoxis-class-2
+aliases:
+tags:
+  - sai-yoxis
 name: Fighter
 parent: "[[Character Creation]]"
 type: class
 description: The damage dealers
+subclass-i: "[[NeoFighter]]"
+subclass-ii: "[[DuoFighter]]"
+subclass-iii: "[[EtherFighter]]"
+subclass-iv: "[[Mercenary]]"
 ---
 
 # Class Abilities

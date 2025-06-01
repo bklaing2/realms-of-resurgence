@@ -1,7 +1,8 @@
 ---
-id: FuroEngineer
+id: sai-yoxis-class-4.4
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iv
 name: Alchemist
 parent: "[[Engineer]]"
 type: subclass

@@ -1,7 +1,9 @@
 ---
-id: FuroHunter
+id: sai-yoxis-class-1.4
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iv
+  - needs/name
 name: Hunter
 parent: "[[Hunter]]"
 type: subclass

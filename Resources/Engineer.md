@@ -1,11 +1,17 @@
 ---
-id: Engineer
-aliases: 
-tags: 
+id: sai-yoxis-class-4
+aliases:
+tags:
+  - sai-yoxis
+  - needs/name
 name: Engineer
 parent: "[[Character Creation]]"
 type: class
 description: The tinkerers
+subclass-i: "[[Artificer]]"
+subclass-ii: "[[DuoEngineer]]"
+subclass-iii: "[[EtherEngineer]]"
+subclass-iv: "[[Alchemist]]"
 ---
 
 # Class Abilities

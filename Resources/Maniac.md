@@ -1,7 +1,8 @@
 ---
-id: FuroBrawler
+id: sai-yoxis-class-3.4
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iv
 name: Maniac
 parent: "[[Brawler]]"
 type: subclass

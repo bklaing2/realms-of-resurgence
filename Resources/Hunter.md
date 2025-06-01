@@ -1,11 +1,16 @@
 ---
-id: Hunter
-aliases: 
-tags: 
+id: sai-yoxis-class-1
+aliases:
+tags:
+  - sai-yoxis
 name: Hunter
 parent: "[[Character Creation]]"
 type: class
 description: Rouge + ranger
+subclass-i: "[[NeoHunter]]"
+subclass-ii: "[[DuoHunter]]"
+subclass-iii: "[[EtherHunter]]"
+subclass-iv: "[[FuroHunter]]"
 ---
 
 # Abilities
