@@ -2,9 +2,10 @@
 name: Potion Belt
 type: item
 subtype: equipment
-system: 
+system:
 parent: "[[Items]]"
 tags:
+  - sai-yoxis
 ---
 Holds [[Potions]]
 

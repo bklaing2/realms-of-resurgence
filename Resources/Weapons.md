@@ -2,10 +2,11 @@
 name: Weapon
 type: item
 subtype: weapon
-system: 
+system:
 parent: "[[Items]]"
 tags:
   - todo
+  - sai-yoxis
 ---
 `We will split these up into their own notes`
 

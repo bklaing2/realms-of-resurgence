@@ -2,10 +2,11 @@
 name: Potion
 type: item
 subtype: potion
-system: 
+system:
 parent: "[[Items]]"
 tags:
   - todo
+  - sai-yoxis
 ---
 `We will split these up into their own notes`
 

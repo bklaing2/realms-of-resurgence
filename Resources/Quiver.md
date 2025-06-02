@@ -2,9 +2,10 @@
 name: Quiver
 type: item
 subtype: equipment
-system: 
+system:
 parent: "[[Items]]"
 tags:
+  - sai-yoxis
 ---
 Holds [[Arrows]]
 

@@ -1,0 +1,180 @@
+filters:
+  and:
+    - inFolder(file.file, "Sai Yoxis")
+formulas:
+  Mantic Tier: if(tier == 0, "Cantrip", concat("Tier ", tier))
+  Needs Name: if(contains(tags, "needs/name"), "YES")
+  Links to Sai Yoxis I: if(linksTo(file.file, "Sai Yoxis/Maps of Content/Sai Yoxis I"), "YES")
+  Links to Sai Yoxis II: if(linksTo(file.file, "Sai Yoxis/Maps of Content/Sai Yoxis II"), "YES")
+  Untitled: if(linksTo(file.file, "Sai Yoxis/Maps of Content/Sai Yoxis IV"), "YES")
+  Links to Sai Yoxis III: if(linksTo(file.file, "Sai Yoxis/Maps of Content/Sai Yoxis III"), "YES")
+display:
+  file.name: File
+  property.subclass-i: Sai Yoxis I
+  property.subclass-ii: Sai Yoxis II
+  property.subclass-iii: Sai Yoxis III
+  property.subclass-iv: Sai Yoxis IV
+  property.description: Description
+  formula.Untitled: Links to Sai Yoxis IV
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - type
+      - formula.Links to Sai Yoxis I
+      - formula.Links to Sai Yoxis II
+      - formula.Links to Sai Yoxis III
+      - formula.Untitled
+      - tags
+    columnSize:
+      file.name: 194
+      property.tags: 163
+    sort:
+      - column: formula.Links to Sai Yoxis I
+        direction: ASC
+      - column: formula.Links to Sai Yoxis II
+        direction: ASC
+      - column: formula.Links to Sai Yoxis III
+        direction: ASC
+      - column: formula.Untitled
+        direction: ASC
+      - column: property.type
+        direction: ASC
+  - type: table
+    name: Classes
+    filters:
+      or:
+        - property.type == "class"
+    order:
+      - file.name
+      - description
+      - formula.Needs Name
+      - subclass-i
+      - subclass-ii
+      - subclass-iii
+      - subclass-iv
+      - id
+    sort:
+      - column: property.id
+        direction: ASC
+    columnSize:
+      file.name: 139
+      property.description: 269
+      property.subclass-i: 132
+      property.subclass-ii: 146
+      property.subclass-iii: 153
+      property.subclass-iv: 163
+      formula.Needs Name: 150
+      property.id: 155
+  - type: table
+    name: Classes + Subclasses
+    filters:
+      or:
+        - property.type == "class"
+        - property.type == "subclass"
+    order:
+      - file.name
+      - description
+      - formula.Needs Name
+      - id
+    sort:
+      - column: formula.Untitled
+        direction: ASC
+      - column: property.id
+        direction: ASC
+    columnSize:
+      file.name: 139
+      property.description: 284
+      property.id: 235
+      formula.Needs Name: 150
+  - type: table
+    name: Runes
+    filters:
+      and:
+        - property.type == "rune"
+    order:
+      - file.name
+      - description
+      - formula.Mantic Tier
+      - formula.Needs Name
+    sort:
+      - column: formula.Mantic Tier
+        direction: ASC
+      - column: file.name
+        direction: ASC
+      - column: property.tier
+        direction: ASC
+    columnSize:
+      file.name: 235
+      property.description: 613
+      formula.Needs Name: 150
+      property.tags: 163
+  - type: table
+    name: Spells
+    filters:
+      and:
+        - property.type == "spell"
+    order:
+      - file.name
+      - description
+      - formula.Mantic Tier
+      - formula.Needs Name
+    sort:
+      - column: formula.Mantic Tier
+        direction: ASC
+      - column: file.name
+        direction: ASC
+      - column: property.tier
+        direction: ASC
+    columnSize:
+      file.name: 172
+      property.description: 269
+      property.tags: 377
+  - type: table
+    name: Items
+    filters:
+      and:
+        - property.type == "item"
+  - type: table
+    name: Creatures
+    filters:
+      and:
+        - property.type == "creature"
+  - type: table
+    name: Sai Yoxis I
+    filters:
+      and:
+        - linksTo(file.file, "Sai Yoxis/Maps of Content/Sai Yoxis I")
+    order:
+      - file.name
+    columnSize:
+      file.name: 291
+      formula.Needs Name: 150
+  - type: table
+    name: Sai Yoxis II
+    filters:
+      and:
+        - linksTo(file.file, "Sai Yoxis/Maps of Content/Sai Yoxis II")
+    order:
+      - file.name
+    columnSize:
+      file.name: 426
+  - type: table
+    name: Sai Yoxis III
+    filters:
+      and:
+        - linksTo(file.file, "Sai Yoxis/Maps of Content/Sai Yoxis III")
+    order:
+      - file.name
+    columnSize:
+      file.name: 426
+  - type: table
+    name: Sai Yoxis IV
+    filters:
+      and:
+        - linksTo(file.file, "Sai Yoxis/Maps of Content/Sai Yoxis IV")
+    order:
+      - file.name
+    columnSize:
+      file.name: 426
