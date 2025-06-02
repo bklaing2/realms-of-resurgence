@@ -11,10 +11,18 @@ type: subclass
 
 Variation of [[Fighter]] found on [[Sai Yoxis II]]
 
-# Subclass Abilities
+# Abilities
 
-## Ability 1 #needs/name #todo
+## ![[Fighter#Passive Fight or Flight]]
 
-When performing an [[Fighter#Antimantic Attack]] choose to heal 1D6 instead of storing a Mantic Charge.
+## ![[Fighter#Antimantic Attack]]
 
-## Ability 2
+## Ability 1 #needs/name
+
+When performing an [[Fighter#Antimantic Attack]] choose to heal 1d6 instead of storing a [[Fighter#Mantic Charges|Mantic Charge]]
+
+## ![[Fighter#Mantic Attack needs/tuning|Fighter]]
+
+## Ability 2 #todo
+
+# ![[Fighter#Mantic Charges]]

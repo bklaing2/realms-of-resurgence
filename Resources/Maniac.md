@@ -10,17 +10,15 @@ type: subclass
 
 Variation of [[Brawler]] found on [[Sai Yoxis IV]]
 
-# Subclass Abilities
+# Abilities
+
+## ![[Brawler#Passive Intimidate]]
+
+## ![[Brawler#Frenzy]]
 
 ## Mania
 
-When initiating a [[Brawler#Frenzy]], roll a D4. A corresponding effect happens according to the _Furomania Roll Table_
-
-## Furomania
-
-[[#Mania]] uses a D6 instead of a D4
-
-# Other
+When initiating a [[Brawler#Frenzy]], roll a d4. A corresponding effect happens according to the *Furomania Roll Table*
 
 > [!info]- Furomania Roll Table
 >
@@ -32,3 +30,9 @@ When initiating a [[Brawler#Frenzy]], roll a D4. A corresponding effect happens 
 > | 4    | Effect 4 |
 > | 5    | Effect 5 |
 > | 6    | Effect 6 |
+
+## ![[Brawler#Ability 2 needs/name todo]]
+
+## Furomania
+
+[[#Mania]] uses a d6 instead of a d4

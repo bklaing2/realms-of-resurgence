@@ -11,8 +11,14 @@ type: subclass
 
 Variation of [[Druid]] found on [[Sai Yoxis III]]
 
-# Subclass Abilities
+# Abilities
 
-## Ability 1
+## ![[Druid#Passive Druid Speak needs/name]]
 
-## Ability 2
+## ![[Druid#Ability 1 needs/name todo]]
+
+## Ability 1 #todo
+
+## ![[Druid#Ability 2 needs/name todo]]
+
+## Ability 2 #todo

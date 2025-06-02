@@ -10,8 +10,14 @@ type: subclass
 
 Variation of [[Engineer]] found on [[Sai Yoxis I]]
 
-# Subclass Abilities
+# Abilities
 
-## Ability 1
+## ![[Engineer#Passive ??? needs/name todo]]
 
-## Ability 2
+## ![[Engineer#Ability 1 needs/name todo]]
+
+## Ability 1 #todo
+
+## ![[Engineer#Ability 2 needs/name todo]]
+
+## Ability 2 #todo

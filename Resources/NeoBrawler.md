@@ -11,8 +11,14 @@ type: subclass
 
 Variation of [[Brawler]] found on [[Sai Yoxis I]]
 
-# Subclass Abilities
+# Abilities
 
-## Ability 1
+## ![[Brawler#Passive Intimidate]]
 
-## Ability 2
+## ![[Brawler#Frenzy]]
+
+## Ability 1 #todo
+
+## ![[Brawler#Ability 2 needs/name todo]]
+
+## Ability 2 #todo

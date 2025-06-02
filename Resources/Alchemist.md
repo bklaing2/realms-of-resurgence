@@ -10,12 +10,18 @@ type: subclass
 
 Variation of [[Engineer]] found on [[Sai Yoxis IV]]
 
-# Subclass Abilities
+# Abilities
+
+## ![[Engineer#Passive ??? needs/name todo]]
+
+## ![[Engineer#Ability 1 needs/name todo]]
 
 ## Potion Brewing #needs/name #todo
 
 Gain the ability to brew a number of [[Potions#Potions|potions]] according to their class table per rest (short and long). Each of these [[Potions]] goes inert after 8 hours and is therefore unusable.
 Ingredients will need to be obtained from the environment and shops.
+
+## ![[Engineer#Ability 2 needs/name todo]]
 
 ## Unstable Mixtures #needs/name #todo
 

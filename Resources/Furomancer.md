@@ -10,13 +10,19 @@ type: subclass
 
 Variation of [[Mage]] found on [[Sai Yoxis IV]]
 
-# Subclass Abilities
+# Abilities
 
-## Furomancy #needs/name #todo
+## ![[Mage#Passive ??? needs/name todo]]
+
+## ![[Mage#Mage Novice needs/name]]
+
+## Furomancy
 
 Learn 1 [[Mantic Manipulation#Cantrips|Cantrip]]
 Learn 2 Tier 2 [[Mantic Manipulation#Spells|Spells]]
 Gain 1 spell slot
+
+## ![[Mage#Mage Master needs/name]]
 
 ## Furomantic Master
 
@@ -24,7 +30,9 @@ Learn 1 [[Mantic Manipulation#Cantrips|Cantrip]]
 Learn 1 Tier 3 [[Mantic Manipulation#Spells|Spells]]
 Gain 1 spell slot
 
-# Casting Spells While in [[The Wastes]]
+# ![[Mage#Spellcasting]]
+
+## Casting Spells Within [[The Wastes]]
 
 When casting spells while in the Wastes the [[The Wastes#Furomantical Radiation|Furomantical Radiation]] acts as a spellcasting focus, allowing spells to be cast without their required components.
 

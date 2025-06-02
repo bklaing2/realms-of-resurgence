@@ -11,8 +11,16 @@ type: subclass
 
 Variation of [[Fighter]] found on [[Sai Yoxis I]]
 
-# Subclass Abilities
+# Abilities
 
-## Ability 1
+## ![[Fighter#Passive Fight or Flight]]
 
-## Ability 2
+## ![[Fighter#Antimantic Attack]]
+
+## Ability 1 #todo
+
+## ![[Fighter#Mantic Attack needs/tuning|Fighter]]
+
+## Ability 2 #todo
+
+# ![[Fighter#Mantic Charges]]

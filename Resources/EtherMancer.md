@@ -10,8 +10,16 @@ type: subclass
 
 Variation of [[Mage]] found on [[Sai Yoxis III]]
 
-# Subclass Abilities
+# Abilities
 
-## Ability 1
+## ![[Mage#Passive ??? needs/name todo]]
 
-## Ability 2
+## ![[Mage#Mage Novice needs/name]]
+
+## Ability 1 #todo
+
+## ![[Mage#Mage Master needs/name]]
+
+## Ability 2 #todo
+
+# ![[Mage#Spellcasting]]

@@ -12,10 +12,9 @@ Variation of [[Druid]] found on [[Sai Yoxis IV]]
 
 # Abilities
 
-## Passive: Mutant Speak #needs/name
+## ![[Druid#Passive Druid Speak needs/name]]
 
-Speak with known creatures within 120ft
-At level 5 the range increases 200ft
+## ![[Druid#Ability 1 needs/name todo]]
 
 ## Mutate
 
@@ -25,12 +24,14 @@ Your ability to speak or take any action that requires hands is limited to the c
 You retain benefits of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 Your equipment falls to the ground when you mutate and will need to be picked up by a fellow party member.
 
+## ![[Druid#Ability 2 needs/name todo]]
+
 ## Mutate II #needs/name
 
 Mutation can be performed twice per short rest, and gain access to level 1-4 non-flying low-sentience horror. You also no longer have to roll the radiation die when mutated.
 
-## Ability 3 #needs/name #todo
-
 ## Mutate III #needs/name
 
 You can now mutate into level 1-7 low-sentience horror.
+
+

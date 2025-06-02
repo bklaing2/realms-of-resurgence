@@ -11,8 +11,14 @@ type: subclass
 
 Variation of [[Hunter]] found on [[Sai Yoxis I]]
 
-# Subclass Abilities
+# Abilities
 
-## Ability 1
+## ![[Hunter#Passive Stealth]]
 
-## Ability 2
+## ![[Hunter#Hide]]
+
+## Ability 1 #todo
+
+## ![[Hunter#Hunter's Mark]]
+
+## Ability 2 #todo

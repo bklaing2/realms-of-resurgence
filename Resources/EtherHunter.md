@@ -1,19 +1,22 @@
 ---
 id: sai-yoxis-class-1.3
-aliases: []
+aliases:
 tags:
-  - sai-yoxis/iii
-  - needs/name
 name: EtherHunter
-parent: "[[Hunter]]"
-type: subclass
-description:
+parent: "[[Character Creation]]"
+type: class
 ---
 
 Variation of [[Hunter]] found on [[Sai Yoxis III]]
 
-# Subclass Abilities
+# Abilities
 
-## Ability 1
+## ![[Hunter#Passive Stealth]]
 
-## Ability 2
+## ![[Hunter#Hide]]
+
+## Ability 1 #todo
+
+## ![[Hunter#Hunter's Mark]]
+
+## Ability 2 #todo

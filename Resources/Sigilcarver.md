@@ -10,7 +10,11 @@ type: subclass
 
 Variation of [[Scribe]] found on [[Sai Yoxis IV]]
 
-# Subclass Abilities
+# Abilities
+
+## ![[Scribe#Passive needs/name todo]]
+
+## ![[Scribe#Inscription needs/name todo]]
 
 ## Ability 1 #needs/name #todo
 
@@ -25,6 +29,8 @@ Tier 1 Runic Circles become more powerful:
 - Larger area of effect of Circle
 
 <!-- Gain 2 more Tier 1 [[Runes and Circles]] "rune" slots and 3 Tier 2 "rune" slots -->
+
+## ![[Scribe#Ability 2 needs/name todo]]
 
 ## Ability 2 #needs/name
 
