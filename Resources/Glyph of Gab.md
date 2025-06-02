@@ -1,0 +1,11 @@
+---
+id: Rune - Glyph of Gap
+aliases:
+tags:
+description: Inscribe the glyph on an object. While held, you have advantage on Charisma/Persuasion checks
+name: Glyph of Gap
+parent: "[[Mantic Manipulation]]"
+tier: 1
+type: rune
+---
+Inscribe the glyph on an object. While held, you have advantage on Charisma/Persuasion checks

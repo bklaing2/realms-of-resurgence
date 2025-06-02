@@ -27,6 +27,8 @@ Learn 3 Tier 1 [[Mantic Manipulation#Runic Circles|Runes]]
 
 ## Ability 2 #needs/name #todo
 
+As an action, choose to sever the Mantic Connection of an active Glyph. Push the Mantic Energy from that rune into the attacker, doing 1d6 per Glyph Tier and pushing the attacker back 5ft per Glyph Tier if the are large or smaller. This can also be done as a reaction when attacked.
+
 Learn 1 Tier 1 [[Mantic Manipulation#Runic Circles|Rune]]
 Learn 1 Tier 2 [[Mantic Manipulation#Runic Circles|Rune]]
 Learn 1 Tier 3 [[Mantic Manipulation#Runic Circles|Rune]]
@@ -40,3 +42,11 @@ Tier 1 and 2 Runic Circles become more powerful:
 
 <!-- Gain 1 more Tier 2 [[Runes and Circles]] "rune" slots and 3 Tier 3 "rune" slots -->
 
+
+
+
+# Braindumps
+
+Be able to draw glyphs on living flesh as a later unlock
+
+Overcharge a glyph. As an action, pump your remaining charges and direct the Mantic Energy from the active Glyphs into one Glyph, severing the Mantic Connection to those. You can pump all your last charges into a glyph.

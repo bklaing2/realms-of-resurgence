@@ -1,0 +1,16 @@
+---
+id: Rune - Disguise
+aliases:
+tags:
+description: Creatures within the circle get a minor enhancement of your choice
+name: Disguise
+parent: "[[Mantic Manipulation]]"
+tier: 1
+type: rune
+---
+
+Draw a glyph to alter the appearance on someone/thing
+
+# Antimantic Inverse
+
+

@@ -20,3 +20,9 @@ Sai Yoxis is...
 - [[Creatures]]
 - [[Items]]
 
+
+# Braindump
+
+Quick Actions: Reactions are bonus actions used outside of your turn. When you use a reaction, you can't use your bonus action on your next turn.
+
+Quick Actions can be used in place of Actions, so you can do two Quick Actions in one turn.

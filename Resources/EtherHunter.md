@@ -4,7 +4,7 @@ aliases:
 tags:
 name: EtherHunter
 parent: "[[Character Creation]]"
-type: class
+type: subclass
 ---
 
 Variation of [[Hunter]] found on [[Sai Yoxis III]]

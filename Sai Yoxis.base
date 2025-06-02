@@ -89,7 +89,7 @@ views:
       property.id: 235
       formula.Needs Name: 150
   - type: table
-    name: Runes
+    name: Glyphs
     filters:
       and:
         - property.type == "rune"
@@ -129,8 +129,8 @@ views:
         direction: ASC
     columnSize:
       file.name: 172
-      property.description: 269
-      property.tags: 377
+      property.description: 140
+      formula.Needs Name: 150
   - type: table
     name: Items
     filters:
