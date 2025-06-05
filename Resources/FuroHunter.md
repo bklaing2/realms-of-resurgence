@@ -1,10 +1,10 @@
 ---
 id: sai-yoxis-class-1.4
-aliases: []
+aliases:
 tags:
   - sai-yoxis/iv
   - needs/name
-name: Hunter
+name: DuoHunter
 parent: "[[Hunter]]"
 type: subclass
 ---

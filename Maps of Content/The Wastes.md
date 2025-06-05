@@ -53,6 +53,16 @@ The longer someone is in the Wastes, the more Furomantical Radiation seeps into 
 > | _4_     | **d10**             | 2 weeks (12 days, 216 hours)  |
 > | _5_     | **d12**             | 3 months (18 weeks, 111 days) |
 
+## Resting in the Wastes
+
+### Short Rest
+
+Each short rest, the GM will roll the Radiation Die associated with the party's level of radiation, to get an effect from the Radiation Short Rest Table (1-12)
+
+### Long Rest
+
+Each long rest, the GM will roll 1d20 + the Radiation Die associated with the party's level of radiation to get an effect from the Radiation Long Rest Table (2-32)
+
 # Old Stuff
 
 Every long rest spent in [[The Wastes]], the players must roll to see if they are affected by [[The Wastes]] the normal amount, or if they are extra susceptible to it this day.

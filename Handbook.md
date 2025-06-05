@@ -19,6 +19,7 @@ Sai Yoxis is...
 - [[Mantic Manipulation]]
 - [[Creatures]]
 - [[Items]]
+- [[Combat]]
 
 
 # Braindump

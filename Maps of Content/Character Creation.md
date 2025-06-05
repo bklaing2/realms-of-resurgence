@@ -86,6 +86,27 @@ const HEADER = ["***Class***", "**Sai Yoxis I**", "**Sai Yoxis II**", "**Sai Yox
 dv.table(HEADER, rows)
 ```
 
+
+# Attributes
+
+Characters in this system have 5 attributes - 2 physical, 2 mental, and 1 mantic.
+
+| *Attribute*                              | *Examples*                                  |
+| :--------------------------------------- | ------------------------------------------- |
+| **Fortitude**                            | *Strength,*                                 |
+| **Finesse**                              | *Sneaking, lockpicking*                     |
+| **Intelligence** (*"Book Smarts")*       | *History, perception*                       |
+| **E.Q.** *("Street Smarts")* #needs/name | *Charisma, wisdom*                          |
+| **Mantic**                               | *Spellcasting, resisting mantic influences* |
+
+## Roll for Base Attribute Value
+
+Take 2d4, assign one to be positive and the to be negative. Roll and add these 6 times, then drop the lowest. Assign the remaining values to attributes of your choice.
+
+## Add Bonuses from your Race/Background
+
+Some races/backgrounds give bonus to Physical or Mental attributes. These can be distributed between the attributes in the specified category, up to a maximum of 3 for any attribute.
+
 # General Level Unlocks
 
 Every adventurer starts at level 0 - essentially a normal person. The first class ability isn't unlocked until level 1. As the adventure progresses, each character follows the same general outline when levelling up as described in the table below.

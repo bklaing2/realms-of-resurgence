@@ -14,3 +14,9 @@ B: Hyperfixated...
 - Introduced [[Neomancy]], [[Duomancy]], and [[Ethermancy]].
 - Added subclasses for each planet
 - Tidied up
+
+06/02/2025
+BJ: Added a bunch of glyphs and spells! And the Maniac roll table.
+
+06/03/2025
+BJ: Fleshed out initiative, character attributes, character sheet, inventory and slots

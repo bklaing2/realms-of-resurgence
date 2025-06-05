@@ -34,7 +34,7 @@ Gain 1 spell slot
 
 ## Casting Spells Within [[The Wastes]]
 
-When casting spells while in the Wastes the [[The Wastes#Furomantical Radiation|Furomantical Radiation]] acts as a spellcasting focus, allowing spells to be cast without their required components.
+When casting spells while in the Wastes the [[The Wastes#Furomantical Radiation|Furomantical Radiation]] acts as a spellcasting focus, allowing spells to be cast without their required components. However, make a Radiation Roll whenever casting a spell.
 
 On a [[The Wastes#D20 = Radiation Die (Success due to Radiation)|Radical Success]], gain back an expended spell slot.
 

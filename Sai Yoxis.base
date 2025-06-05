@@ -89,7 +89,7 @@ views:
       property.id: 235
       formula.Needs Name: 150
   - type: table
-    name: Glyphs
+    name: Runes
     filters:
       and:
         - property.type == "rune"
@@ -123,13 +123,11 @@ views:
     sort:
       - column: formula.Mantic Tier
         direction: ASC
-      - column: file.name
-        direction: ASC
       - column: property.tier
         direction: ASC
     columnSize:
       file.name: 172
-      property.description: 140
+      property.description: 77
       formula.Needs Name: 150
   - type: table
     name: Items
