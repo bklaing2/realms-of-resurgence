@@ -92,13 +92,13 @@ dv.table(HEADER, rows)
 
 Characters in this system have 5 attributes - 2 physical, 2 mental, and 1 mantic.
 
-| *Attribute*                              | *Examples*                                  |
-| :--------------------------------------- | ------------------------------------------- |
-| **Fortitude**                            | *Strength,*                                 |
-| **Finesse**                              | *Sneaking, lockpicking*                     |
-| **Intelligence** (*"Book Smarts")*       | *History, perception*                       |
-| **E.Q.** *("Street Smarts")* #needs/name | *Charisma, wisdom*                          |
-| **Mantic**                               | *Spellcasting, resisting mantic influences* |
+| *Attribute*                        | *Examples*                                  |
+| :--------------------------------- | ------------------------------------------- |
+| **Fortitude**                      | *Strength,*                                 |
+| **Finesse**                        | *Sneaking, lockpicking*                     |
+| **Intelligence** (*"Book Smarts")* | *History, perception*                       |
+| **Intuition** *("Street Smarts")*  | *Charisma, wisdom*                          |
+| **Mantic**                         | *Spellcasting, resisting mantic influences* |
 
 ## Roll for Base Attribute Value
 
@@ -107,6 +107,12 @@ Take 2d4, assign one to be positive and the to be negative. Roll and add these 6
 ## Add Bonuses from your Race/Background
 
 Some races/backgrounds give bonus to Physical or Mental attributes. These can be distributed between the attributes in the specified category, up to a maximum of 3 for any attribute.
+
+# Health
+
+At level 0 everyone starts with 6hp
+
+When leveling up, add a hp die (determined by your class) to your hp when you level up. Some classes and races get bonuses to this
 
 # General Level Unlocks
 

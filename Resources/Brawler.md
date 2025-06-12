@@ -15,6 +15,10 @@ subclass-iv: "[[Maniac]]"
 
 # Class Abilities
 
+## Passive: Fortified
+
+Add your Fortitude when rolling hp while leveling up
+
 ## Passive: Intimidate
 
 After a succeeding on an intimidation check against a creature, the creature is optionally frightened for 1 round

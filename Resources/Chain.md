@@ -1,6 +1,6 @@
 ---
 id: Chain
-aliases:
+aliases: 
 tags:
   - needs/name
   - needs/components

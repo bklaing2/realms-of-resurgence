@@ -5,20 +5,20 @@ tags:
   - sai-yoxis/i
   - needs/name
 name: NeoHunter
-parent: "[[Hunter]]"
+parent: "[[Scout]]"
 type: subclass
 ---
 
-Variation of [[Hunter]] found on [[Sai Yoxis I]]
+Variation of [[Scout]] found on [[Sai Yoxis I]]
 
 # Abilities
 
-## ![[Hunter#Passive Stealth]]
+## ![[Scout#Passive Stealth]]
 
-## ![[Hunter#Hide]]
+## ![[Scout#Hide]]
 
 ## Ability 1 #todo
 
-## ![[Hunter#Hunter's Mark]]
+## ![[Scout#Hunter's Mark]]
 
 ## Ability 2 #todo

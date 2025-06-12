@@ -8,16 +8,16 @@ parent: "[[Character Creation]]"
 type: subclass
 ---
 
-Variation of [[Hunter]] found on [[Sai Yoxis III]]
+Variation of [[Scout]] found on [[Sai Yoxis III]]
 
 # Abilities
 
-## ![[Hunter#Passive Stealth]]
+## ![[Scout#Passive Stealth]]
 
-## ![[Hunter#Hide]]
+## ![[Scout#Hide]]
 
 ## Ability 1 #todo
 
-## ![[Hunter#Hunter's Mark]]
+## ![[Scout#Hunter's Mark]]
 
 ## Ability 2 #todo

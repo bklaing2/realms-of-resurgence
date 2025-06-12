@@ -3,7 +3,7 @@ id: sai-yoxis-class-1
 aliases:
 tags:
   - sai-yoxis
-name: Hunter
+name: Scout
 parent: "[[Character Creation]]"
 type: class
 description: Rouge + ranger

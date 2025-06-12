@@ -7,6 +7,47 @@ name: Character Creation
 parent: "[[Handbook]]"
 type: moc
 ---
+# Weapons
+
+## Calculating to Hit
+
+Roll a d20 and add the related attribute for the weapon (likely the finesse or fortitude)
+
+## Calculating Damage Given on a Hit
+
+Weapon damage + Related weapon attribute (finesse or fortitude)
+
+
+
+# Armor
+
+## Equipping Armor
+
+| Type   | Required Attributes         | Base AC | Mitigation | Damage Threshold (2\*mitigation) | Damage Slots |
+| ------ | --------------------------- | ------- | ---------- | -------------------------------- | ------------ |
+| Light  | +2 Finesse                  | 8       | 4          | 8                                | 2            |
+| Medium | +1 Finesse and +1 Fortitude | 6       | 6          | 12                               | 4            |
+| Heavy  | +2 Fortitude                | 4       | 8          | 16                               | 6            |
+## Calculating AC
+
+Finesse + Intuition + Base AC of Armor
+
+## Calculating Damage Received on a Hit
+
+Subtract the armor mitigation from the damage. If it falls below zero you take no damage. If it falls above the armor's damage threshold, you take damage like normal and mark off an armor damage slot. (OR make it on a critical hit instead of a damage threshold)
+
+## Armor Damage Slots
+
+Armor has a certain number of extreme hits it can withstand. If it takes all of these, it breaks. A damage slot can be repaired on a short rest with the help of an armor repair kit. A damage slot can be repaired during a long rest without the aid of an armor repair kit. if it breaks completely, it must be taken to an armorer to be repaired.
+
+## Armor Breaks
+
+When you mark the last armor damage slot, the armor stops mitigating damage, but you keep the AC
+
+# Upgrading
+
+If you have the right materials and enough money, you can upgrade your armor or weapon at a blacksmith or armorer or weaponsmith. E.g. +1 to an armor's mitigation
+
 
 # Initiative
 
