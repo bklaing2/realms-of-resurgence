@@ -1,7 +1,8 @@
 ---
 id: Duomancy
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/ii
 ---
 
 Duomancy is the variation of [[Neomancy]] found on [[Sai Yoxis II]]. Not much is known about it yet.

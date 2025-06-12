@@ -1,3 +1,7 @@
+---
+tags:
+  - sai-yoxis/iv
+---
 #sai-yoxis/iv/pre-cataclysm #sai-yoxis/iv/the-cataclysm #sai-yoxis/iv/post-cataclysm 
 # Eras of Sai Yoxis 4
 ## Pre Cataclysm

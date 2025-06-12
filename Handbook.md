@@ -6,6 +6,7 @@ tags:
   - needs/name
   - needs/improvement
   - todo
+  - sai-yoxis
 parent: "[[TTRPGs]]"
 type: moc
 ---

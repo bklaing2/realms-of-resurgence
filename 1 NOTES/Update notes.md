@@ -1,3 +1,7 @@
+---
+tags:
+  - sai-yoxis/iv
+---
 `J: (i meant to put the date here, but i don't remember when it was now)
 04/14/25
 i figured id make this so that we can leave little notes about what we worked on, or what we had some ideas for to the other. since we arent working on things at the same time as often rn. that way, when we log on, we can see if the other left or mentioned anything and then we can go from there.

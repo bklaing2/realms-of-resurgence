@@ -1,7 +1,8 @@
 ---
 id: Furomancy
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iv
 ---
 
 Furomancy is the variation of [[Neomancy]] found on [[Sai Yoxis IV]]. Furomancy is the most powerful, and most dangerous, form of Neomancy. It is immensly unstable, especially within [[The Wastes]].

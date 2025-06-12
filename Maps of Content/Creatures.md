@@ -2,8 +2,9 @@
 type: moc
 parent: "[[Handbook]]"
 name: Creatures
-aliases: 
+aliases:
 tags:
+  - sai-yoxis
 ---
 # Comments
 `I'm thinking we can have 1 or 2 or 3 non-horror monsters based on each race - B`

@@ -1,8 +1,9 @@
 ---
 id: Dominate Horror
-aliases: 
+aliases:
 tags:
   - needs/components
+  - sai-yoxis
 casting time: 1 action
 name: Dominate Horror
 parent: "[[Mantic Manipulation]]"

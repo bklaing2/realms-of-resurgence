@@ -1,7 +1,8 @@
 ---
 id: Neomancy
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/i
 ---
 
 Neomancy is the fundamental magic of the [[Sai Yoxis System]]. It is found in its most pure essence on [[Sai Yoxis I]]. Though every creature is imbued with Neomancy, very few are able to wield it effectively - if at all. This is likely due to the fact that pure neomancy is not a very powerful magic. Beginner Neomancers find the most benefit in Neomancy as a utility magic. Experienced Neomancers are able to leverage it in combat.

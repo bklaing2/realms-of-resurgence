@@ -1,8 +1,9 @@
 ---
 id: Coalesce
-aliases: 
+aliases:
 tags:
   - needs/components
+  - sai-yoxis
 casting time: 1 action
 duration: instantaneous
 name: Coalesce

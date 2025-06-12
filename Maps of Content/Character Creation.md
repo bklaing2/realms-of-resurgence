@@ -1,7 +1,8 @@
 ---
 id: Character Creation
 aliases: []
-tags: []
+tags:
+  - sai-yoxis
 name: Character Creation
 parent: "[[Handbook]]"
 type: moc

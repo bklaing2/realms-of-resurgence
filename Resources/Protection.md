@@ -1,7 +1,8 @@
 ---
 id: Rune - Protection
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/iv
 description: Creatures within are protected from a specific element
 name: Protection
 parent: "[[Mantic Manipulation]]"

@@ -1,9 +1,10 @@
 ---
 id: Chain
-aliases: 
+aliases:
 tags:
   - needs/name
   - needs/components
+  - sai-yoxis
 casting time: 1 action
 duration: instantaneous
 parent: "[[Mantic Manipulation]]"

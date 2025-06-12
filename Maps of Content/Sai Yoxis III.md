@@ -4,6 +4,7 @@ aliases: []
 tags:
   - needs/improvement
   - todo
+  - sai-yoxis/iii
 parent: "[[Sai Yoxis System]]"
 sub type: planet
 type: place

@@ -1,9 +1,10 @@
 ---
 id: Pull
-aliases: 
+aliases:
 tags:
   - needs/name
   - needs/components
+  - sai-yoxis
 casting time: reaction
 duration: 1 round
 parent: "[[Mantic Manipulation]]"

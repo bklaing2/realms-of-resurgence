@@ -1,3 +1,7 @@
+---
+tags:
+  - sai-yoxis
+---
 Sai Yoxians or Fours in their own solar system
 sai yoxis 4 has a brown dwarf as it’s “sun” so even during the day it doesn’t get super bright and it only has 1 moon, which is large but not very bright because of the brown dwarf. the brightest it gets during the day is like a dim dusk that we have here on earth. and that’s at midday.
 

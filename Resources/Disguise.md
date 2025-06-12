@@ -2,6 +2,7 @@
 id: Rune - Disguise
 aliases:
 tags:
+  - sai-yoxis
 description: Creatures within the circle get a minor enhancement of your choice
 name: Disguise
 parent: "[[Mantic Manipulation]]"

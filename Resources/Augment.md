@@ -1,7 +1,8 @@
 ---
 id: Rune - Augment
 aliases: []
-tags: []
+tags:
+  - sai-yoxis
 description: Creatures within the circle get a minor enhancement of your choice
 name: Augment
 parent: "[[Mantic Manipulation]]"

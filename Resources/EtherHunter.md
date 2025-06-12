@@ -2,6 +2,7 @@
 id: sai-yoxis-class-1.3
 aliases:
 tags:
+  - sai-yoxis
 name: EtherHunter
 parent: "[[Character Creation]]"
 type: subclass

@@ -1,5 +1,6 @@
 ---
 id: History of Sai Yoxis II
 aliases: []
-tags: []
+tags:
+  - sai-yoxis/ii
 ---

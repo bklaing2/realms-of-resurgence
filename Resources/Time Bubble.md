@@ -1,9 +1,10 @@
 ---
 id: Time Bubble
-aliases: 
+aliases:
 tags:
   - needs/components
   - needs/name
+  - sai-yoxis
 casting time: 1 action
 parent: "[[Mantic Manipulation]]"
 range: 10ft sphere

@@ -3,6 +3,8 @@ id: Coalesce
 aliases:
 tags:
   - needs/components
+  - sai-yoxis
+  - needs/name
 casting time: 1 action
 duration: instantaneous
 name: Bind

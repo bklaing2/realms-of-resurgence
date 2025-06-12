@@ -1,9 +1,10 @@
 ---
 id: Cage
-aliases: 
+aliases:
 tags:
   - needs/components
   - needs/name
+  - sai-yoxis
 casting time: 1 action
 duration: while focusing
 parent: "[[Mantic Manipulation]]"

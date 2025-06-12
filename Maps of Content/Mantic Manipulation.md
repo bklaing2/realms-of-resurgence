@@ -1,7 +1,8 @@
 ---
 id: Mantic Manipulation
 aliases: []
-tags: []
+tags:
+  - sai-yoxis
 type: moc
 ---
 

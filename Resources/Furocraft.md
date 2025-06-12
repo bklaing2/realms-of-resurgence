@@ -1,8 +1,10 @@
 ---
 id: Craft
-aliases: 
+aliases:
 tags:
   - needs/components
+  - sai-yoxis
+  - needs/name
 casting time: 1 bonus action
 duration: focus
 name: Craft

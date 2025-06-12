@@ -2,7 +2,7 @@
 id: The Cataclysm
 aliases: []
 tags:
-  -  #sai-yoxis/IV
+  - sai-yoxis/iv
 ---
 
 [[Neomancy]] was always a point of frustration for the people of [[Sai Yoxis IV]]. As civilizations grew and technology advanced, the one thing holding them back was Neomancy. The leaders of [[The Main Ancient City]] gathered the best mantic researchers and tasked them with the impossible: harness Neomancy.
