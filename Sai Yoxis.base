@@ -35,22 +35,22 @@ views:
       - formula.Links to Sai Yoxis III
       - formula.Untitled
       - tags
+    sort:
+      - property: property.tags
+        direction: ASC
+      - property: formula.Links to Sai Yoxis I
+        direction: ASC
+      - property: formula.Links to Sai Yoxis II
+        direction: ASC
+      - property: formula.Links to Sai Yoxis III
+        direction: ASC
+      - property: formula.Untitled
+        direction: ASC
+      - property: property.type
+        direction: ASC
     columnSize:
       file.name: 194
       property.tags: 425
-    sort:
-      - column: property.tags
-        direction: ASC
-      - column: formula.Links to Sai Yoxis I
-        direction: ASC
-      - column: formula.Links to Sai Yoxis II
-        direction: ASC
-      - column: formula.Links to Sai Yoxis III
-        direction: ASC
-      - column: formula.Untitled
-        direction: ASC
-      - column: property.type
-        direction: ASC
   - type: table
     name: Classes
     filters:
@@ -66,7 +66,7 @@ views:
       - subclass-iv
       - id
     sort:
-      - column: property.id
+      - property: property.id
         direction: ASC
     columnSize:
       file.name: 139
@@ -90,11 +90,11 @@ views:
       - id
       - formula.NameLink
     sort:
-      - column: note.id
+      - property: id
         direction: ASC
-      - column: formula.Untitled
+      - property: formula.Untitled
         direction: ASC
-      - column: property.id
+      - property: property.id
         direction: ASC
     columnSize:
       file.name: 139
@@ -113,11 +113,11 @@ views:
       - formula.Needs Name
       - tags
     sort:
-      - column: formula.Mantic Tier
+      - property: formula.Mantic Tier
         direction: ASC
-      - column: file.name
+      - property: file.name
         direction: ASC
-      - column: property.tier
+      - property: property.tier
         direction: ASC
     columnSize:
       file.name: 235
@@ -136,9 +136,9 @@ views:
       - formula.Needs Name
       - tags
     sort:
-      - column: formula.Mantic Tier
+      - property: formula.Mantic Tier
         direction: ASC
-      - column: property.tier
+      - property: property.tier
         direction: ASC
     columnSize:
       file.name: 172
@@ -191,3 +191,5 @@ views:
       - file.name
     columnSize:
       file.name: 426
+  - type: cards
+    name: View
