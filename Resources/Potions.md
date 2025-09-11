@@ -30,7 +30,13 @@ tags:
 **Potion of Dark Sight** - 30 minutes
 - drinker can see further and in full darkness better
 - furomantical essence has a slight glow
-- lasts for 8 hours
+- lasts for 8 hours 
+**Potion of Water Breathing** - 
+**Disguise** - 
+- Level 1 - Disguise self
+- Level 2 - Alter self
+- Level 3 - Alter an inanimate object or something else
+**Potion** - 
 
 # Unstable Mixtures
 

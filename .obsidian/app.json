@@ -1,3 +1,9 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "hidden",
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "newFileLocation": "root",
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "attachments"
 }

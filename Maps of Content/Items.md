@@ -2,10 +2,9 @@
 type: moc
 parent: "[[Handbook]]"
 name: Items
-aliases:
+aliases: 
 tags:
   - todo
-  - sai-yoxis
 ---
 Each item will have three attributes: Price, Weight, and Size.
 

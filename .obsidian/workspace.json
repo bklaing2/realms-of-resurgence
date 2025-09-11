@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "acdf966389f22e6e",
+        "id": "21594cf6f21bf42b",
         "type": "tabs",
         "children": [
           {
             "id": "a28b68f9072830af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Amulet of Obscurity.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Amulet of Obscurity"
             }
           }
         ]
@@ -31,7 +35,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0390e57b1f737771",
+            "id": "fb9501efd17b0a93",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -131,39 +135,81 @@
             }
           },
           {
-            "id": "bcabbac7879421eb",
+            "id": "493c99321002b00e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "83458e568d52ef88",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Resources/Amulet of Obscurity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Amulet of Obscurity"
+            }
+          },
+          {
+            "id": "b432c2b873b40777",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "500da75462415b3c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a28b68f9072830af",
   "lastOpenFiles": [
+    "Resources/Amulet of Obscurity.md",
+    "Sai Yoxis.base",
+    "1 NOTES/Update notes.md",
+    "Resources/Air Conditioner.md",
     "Untitled.md",
     "Welcome.md"
   ]

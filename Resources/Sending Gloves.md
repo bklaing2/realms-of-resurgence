@@ -1,0 +1,4 @@
+---
+type: item
+---
+Small object

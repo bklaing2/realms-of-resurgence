@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("Sai Yoxis")
+    - file.inFolder("Resources")
 formulas:
   Mantic Tier: if(tier == 0, "Cantrip", "Tier " + tier)
   Needs Name: if(file.hasTag("needs/name"), "YES")
@@ -50,7 +50,6 @@ views:
         direction: ASC
     columnSize:
       file.name: 194
-      property.tags: 425
   - type: table
     name: Classes
     filters:
@@ -64,7 +63,6 @@ views:
       - subclass-ii
       - subclass-iii
       - subclass-iv
-      - id
     sort:
       - property: property.id
         direction: ASC
@@ -87,7 +85,6 @@ views:
       - file.name
       - description
       - formula.Needs Name
-      - id
       - formula.NameLink
     sort:
       - property: id
@@ -98,8 +95,8 @@ views:
         direction: ASC
     columnSize:
       file.name: 139
+      note.description: 186
       formula.Needs Name: 150
-      note.id: 215
       formula.NameLink: 352
   - type: table
     name: Runes
@@ -191,5 +188,3 @@ views:
       - file.name
     columnSize:
       file.name: 426
-  - type: cards
-    name: View
