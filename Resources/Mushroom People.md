@@ -7,6 +7,10 @@ tags:
 name: Fungrils
 parent: "[[Character Creation]]"
 type: race
+passive-ability:
+roleplay-ability: spores - once a long rest can change the ancestry that you have a bonus to "charisma" checks to
+exploration-ability: Bioluminescence - can glow at x intensity times level for level minutes
+combat-ability: spores - 5ft radius, make a save or take poison damage
 ---
 
 Found on [[Sai Yoxis IV]]

@@ -19,6 +19,6 @@ Finally there was a breakthrough, and the researchers knew they were on the verg
 
 Those outside the initial blast arguably had it worse. Massive doses of Furomantical radiation covered half of the planet. The few survivors, those immune to the radiation for whatever reason, looked on in horror as everyone around them began to change. Limbs elongating, heads splitting in half, skin becoming an inky black... These were the horrors that now ruled this world. Most of the survivors were quickly consumed by their friends and family. Few were able to escape.
 
-The radiation also caused many small, hardy creatures to quickly evolve to sentience. Namely [[Fungrils]], [[Slug People]], [[Mice People]], [[Lizard People]], [[Cockroach People]], [[Shark People]], and [[Plant People]]
+The radiation also caused many small, hardy creatures to quickly evolve to sentience. Namely [[Mushroom People]], [[Slug People]], [[Mice People]], [[Lizard People]], [[Cockroach People]], [[Shark People]], and [[Plant People]]
 
 Smaller amounts of Furomantical radiation spanned the rest of the globe. The damage was done, and Sai Yoxis IV was forever changed.

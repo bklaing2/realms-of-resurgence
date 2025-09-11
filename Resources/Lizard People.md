@@ -7,6 +7,9 @@ tags:
   - needs/name
 parent: "[[Character Creation]]"
 type: race
+roleplay-ability: molt - They can molt their skin once a long rest to make essentially a minor illusion of yourself for an hour
+passive-ability:
+exploration-ability: Can heal some hp over a short rest (since lizards can regrow their tails)
 ---
 
 Found on [[Sai Yoxis IV]]

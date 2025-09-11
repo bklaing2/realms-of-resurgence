@@ -7,6 +7,10 @@ tags:
   - needs/name
 parent: "[[Character Creation]]"
 type: race
+passive-ability: squeeze through tight spaces
+exploration-ability: climb walls up to X feet times level
+roleplay-ability: slug drug - saving through if someone ingests your slime, otherwise they become inebriated
+combat-ability: slime trap - can leave a slippery/sticky slime trail
 ---
 
 Found on [[Sai Yoxis IV]]

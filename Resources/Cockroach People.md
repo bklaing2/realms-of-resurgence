@@ -7,6 +7,9 @@ tags:
   - needs/name
 parent: "[[Character Creation]]"
 type: race
+passive-ability: +1 resistance to things like furomantic radiation and disease
+roleplay-ability: unsettling presence
+exploration-ability: Assisted Jump - can jump up to xft times your level
 ---
 
 Found on [[Sai Yoxis IV]]

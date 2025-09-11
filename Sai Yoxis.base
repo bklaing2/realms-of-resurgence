@@ -2,7 +2,7 @@ filters:
   and:
     - file.inFolder("Resources")
 formulas:
-  Mantic Tier: if(tier == 0, "Cantrip", "Tier " + tier)
+  Mantic Tier: if(tier >= 0, if(tier == 0, "Cantrip", "Tier " + tier))
   Needs Name: if(file.hasTag("needs/name"), "YES")
   Links to Sai Yoxis I: if(file.hasLink("Sai Yoxis/Maps of Content/Sai Yoxis I"), "YES")
   Links to Sai Yoxis II: if(file.hasLink("Sai Yoxis/Maps of Content/Sai Yoxis II"), "YES")
@@ -29,27 +29,32 @@ views:
     name: All
     order:
       - file.name
-      - type
-      - formula.Links to Sai Yoxis I
-      - formula.Links to Sai Yoxis II
-      - formula.Links to Sai Yoxis III
-      - formula.Untitled
-      - tags
-    sort:
-      - property: property.tags
-        direction: ASC
-      - property: formula.Links to Sai Yoxis I
-        direction: ASC
-      - property: formula.Links to Sai Yoxis II
-        direction: ASC
-      - property: formula.Links to Sai Yoxis III
-        direction: ASC
-      - property: formula.Untitled
-        direction: ASC
-      - property: property.type
-        direction: ASC
+      - passive-ability
+      - roleplay-ability
+      - exploration-ability
+    sort: []
     columnSize:
       file.name: 194
+      note.passive-ability: 434
+      note.roleplay-ability: 276
+  - type: table
+    name: Ancestries
+    filters:
+      and:
+        - type == "race"
+    order:
+      - file.name
+      - passive-ability
+      - roleplay-ability
+      - exploration-ability
+      - combat-ability
+      - hp-die
+    columnSize:
+      file.name: 156
+      note.passive-ability: 441
+      note.roleplay-ability: 576
+      note.exploration-ability: 434
+      note.combat-ability: 508
   - type: table
     name: Classes
     filters:
@@ -139,6 +144,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 172
+      note.description: 472
       formula.Needs Name: 150
       note.tags: 785
   - type: table

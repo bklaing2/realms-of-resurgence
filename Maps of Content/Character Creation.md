@@ -124,12 +124,12 @@ Every adventurer starts at level 0 - essentially a normal person. The first clas
 > | ----- | ------------------------------------------------------ |
 > | 0     |                                                        |
 > | 1     | First class ability                                    |
-> | 2     | Choose between race's roleplay and exploration ability |
+> | 2     | Choose between race's roleplay, exploration, or combat ability |
 > | 3     | First subclass ability                                 |
-> | 4     | Race roleplay/exploration ability they didn't choose   |
+> | 4     | Choose between remaining race's roleplay, exploration, or combat ability |
 > | 5     | Upgrade passive ability                                |
 > | 6     | Second class ability                                   |
 > | 7     |                                                        |
-> | 8     |                                                        |
+> | 8     | Choose between remaining race's roleplay, exploration, or combat ability |
 > | 9     | Second subclass ability                                |
 > | 10    |                                                        |

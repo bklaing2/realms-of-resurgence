@@ -33,4 +33,4 @@ Feel free to veto any of this lol just spitballing
 - Those were hit with the blast were mutated into unimaginable, grotesque horrors.
 - James' Grimdark campaign happens in the wake of [[The Cataclysm]]
 - Many years later, the races that lived through [[The Cataclysm]] have died out (likely due to it) and new races have evolved more quickly due to the leftover radiation
-- Present day, races like the [[Fungrils]] have advanced to beyond space travel
+- Present day, races like the [[Mushroom People]] have advanced to beyond space travel

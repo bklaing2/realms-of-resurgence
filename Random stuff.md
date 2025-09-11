@@ -2,6 +2,25 @@
 tags:
   - sai-yoxis
 ---
+Modular monster creator. A few options here... Have a few roll tables for the appearance, abilities, etc of a monster that the DM is trying to make. They can roll to randomly create a monster, or use the tables to manually create their own monster.
+
+We will need:
+For the actual monster creator system, the roll tables will be:
+- abilities (short description)
+- two descriptors of the monster
+	- what they're made out of (plant, bone, etc)
+	- body shape (mammalian, humaniod, etc)
+- Personality (aggressive, ambushy, etc)
+- Potentially radiation fail list. Roll on that, pick one that matches the vibe, or create your own
+
+- A handful of monsters at each tier completely statted out (abilities, radiation fails and everything)
+- Similar to daggerheart, include a table with a range of stats for different tiers
+	- Monsters in tier 1 do 3d4 + x to Y damage. Anything above shouldn't be included in that tier
+- A list of example radiation failures
+
+
+For combat abilites, either the save dc (e.g. 10 + level) or amount of damage will be tied to the level
+
 Ancient devices in the Wastes that can be activated by mantic energy
 
 
