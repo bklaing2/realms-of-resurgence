@@ -24,3 +24,6 @@ BJ: Added a bunch of glyphs and spells! And the Maniac roll table.
 
 06/03/2025
 BJ: Fleshed out initiative, character attributes, character sheet, inventory and slots
+
+09/11/2025
+JT: added git to stuff - yea

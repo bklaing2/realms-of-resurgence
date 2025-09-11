@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Amulet of Obscurity.md",
+                "file": "1 NOTES/Update notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amulet of Obscurity"
+              "title": "Update notes"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0f99b70ab08e4e29",
@@ -140,8 +140,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           },
           {
@@ -188,26 +188,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "system3-relay:Relay": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a28b68f9072830af",
+  "active": "500da75462415b3c",
   "lastOpenFiles": [
-    "Resources/Amulet of Obscurity.md",
     "Sai Yoxis.base",
+    "Resources/Amulet of Obscurity.md",
     "1 NOTES/Update notes.md",
     "Resources/Air Conditioner.md",
     "Untitled.md",
