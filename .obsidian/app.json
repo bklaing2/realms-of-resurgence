@@ -2,8 +2,10 @@
   "promptDelete": false,
   "propertiesInDocument": "hidden",
   "showLineNumber": false,
-  "showIndentGuide": true,
+  "showIndentGuide": false,
   "newFileLocation": "root",
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "tabSize": 2,
+  "trashOption": "system"
 }
