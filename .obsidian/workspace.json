@@ -16,8 +16,51 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "5749807c420cee86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handbook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Handbook"
+            },
+            "group": "c96f2f5f66232a5c"
+          },
+          {
+            "id": "622693ef0257a647",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Handbook.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Handbook"
+            },
+            "group": "c96f2f5f66232a5c"
+          },
+          {
+            "id": "2e4bc0f817fe936a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/Item.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Item"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -29,6 +72,7 @@
       {
         "id": "17cb380f7ae1d3ce",
         "type": "tabs",
+        "dimension": 43.48137535816619,
         "children": [
           {
             "id": "fb9501efd17b0a93",
@@ -41,6 +85,16 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "bf834c35e3d5f849",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -59,60 +113,39 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "bf834c35e3d5f849",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200
-  },
-  "right": {
-    "id": "0f99b70ab08e4e29",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "25d20831de896ccf",
+        "id": "b0dac94d2d0d9184",
         "type": "tabs",
+        "dimension": 56.51862464183382,
         "children": [
           {
-            "id": "d3308a17c78f2f86",
+            "id": "d6978954e774bde4",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "bases",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Sai Yoxis.base",
+                "viewName": "Items"
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "icon": "lucide-table",
+              "title": "Sai Yoxis"
             }
           },
           {
-            "id": "d2dd1836912bee0e",
+            "id": "b432c2b873b40777",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "all-properties",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": "sub"
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -131,44 +164,6 @@
             }
           },
           {
-            "id": "493c99321002b00e",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "83458e568d52ef88",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "b432c2b873b40777",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "500da75462415b3c",
             "type": "leaf",
             "state": {
@@ -177,13 +172,142 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "493c99321002b00e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 288.5
+  },
+  "right": {
+    "id": "0f99b70ab08e4e29",
+    "type": "split",
+    "children": [
+      {
+        "id": "25d20831de896ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83458e568d52ef88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Handbook.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Handbook"
+            }
+          },
+          {
+            "id": "6873d4779e17eb38",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Handbook.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Handbook"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a6e0976675324826",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3308a17c78f2f86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Handbook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Handbook"
+            }
+          },
+          {
+            "id": "d2dd1836912bee0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Handbook.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Handbook"
+            }
+          },
+          {
+            "id": "3748bc3ed969f345",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Handbook.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Handbook"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,18 +317,46 @@
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7692c58ab5674646",
+  "active": "500da75462415b3c",
   "lastOpenFiles": [
-    "1 NOTES/Update notes.md",
-    "Maps of Content/Character Creation.md",
-    "Handbook.md",
     "Sai Yoxis.base",
-    "Resources/Amulet of Obscurity.md",
+    "Random stuff.md",
+    "Handbook.md",
+    "Resources/Hole.md",
+    "Resources/Coalesce.md",
+    "_Templates/Item.md",
+    "_Templates/Rune.md",
+    "_Templates/Spell.md",
+    "_Scripts/property.js~",
+    "_Scripts/4913",
+    "_Scripts/property.js",
+    "_Scripts/extend.js~",
+    "Resources/Wormhole.md",
+    "Resources/Blind or Silence.md",
+    "Resources/Tinted Windows.md",
+    "Resources/Protection.md",
     "Resources/Air Conditioner.md",
-    "Untitled.md",
-    "Welcome.md"
+    "_Scripts/util.js~",
+    "Resources/Reflect.md",
+    "Resources/Time Bubble.md",
+    "Resources/Finger of Death.md",
+    "Resources/Dominate Horror.md",
+    "Resources/Teleport.md",
+    "Resources/Furopull.md",
+    "Resources/Bind.md",
+    "Resources/Tether.md",
+    "Resources/Shield.md",
+    "Resources/Mantic Handshake.md",
+    "Resources/Displacement.md",
+    "Resources/Chain.md",
+    "New spell test.md",
+    "_Scripts/extend.js",
+    "_Scripts/util.js",
+    "_Scripts/suggester.js",
+    "_Scripts"
   ]
 }

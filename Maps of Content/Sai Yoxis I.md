@@ -6,7 +6,7 @@ tags:
   - todo
   - sai-yoxis/i
 parent: "[[Sai Yoxis System]]"
-sub type: planet
+subtype: planet
 type: place
 ---
 

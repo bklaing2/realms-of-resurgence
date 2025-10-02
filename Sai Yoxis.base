@@ -136,7 +136,8 @@ views:
       - description
       - formula.Mantic Tier
       - formula.Needs Name
-      - tags
+      - casting time
+      - duration
     sort:
       - property: formula.Mantic Tier
         direction: ASC
@@ -144,7 +145,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 172
-      note.description: 472
+      note.description: 161
       formula.Needs Name: 150
       note.tags: 785
   - type: table

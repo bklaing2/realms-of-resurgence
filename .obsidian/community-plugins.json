@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "templater-obsidian",
+  "sync-graph-settings",
+  "OA-file-hider"
 ]
