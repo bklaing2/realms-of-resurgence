@@ -5,7 +5,7 @@ description:
 parent: "[[Rings]]"
 type: item
 item type: equipment
-equipment type: undefined
+equipment type: ring
 equippable slots:
   - ring
 tags:

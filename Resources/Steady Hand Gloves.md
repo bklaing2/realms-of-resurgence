@@ -5,7 +5,7 @@ description:
 parent: "[[Gloves]]"
 type: item
 item type: equipment
-equipment type: undefined
+equipment type: gloves
 equippable slots:
   - gloves
 tags:

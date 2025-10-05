@@ -1,0 +1,34 @@
+filters:
+  and:
+    - type == "item"
+views:
+  - type: table
+    name: All Items
+    groupBy:
+      property: item type
+      direction: ASC
+  - type: table
+    name: Equipment
+    filters:
+      and:
+        - note["item type"] == "equipment"
+    groupBy:
+      property: equipment type
+      direction: ASC
+    order:
+      - file.name
+  - type: table
+    name: Weapons
+    filters:
+      and:
+        - note["equipment type"] == "weapon"
+  - type: table
+    name: Armor
+    filters:
+      and:
+        - note["equipment type"] == "armor"
+  - type: table
+    name: Potions
+    filters:
+      and:
+        - note["item type"] == "potion"

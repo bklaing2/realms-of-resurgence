@@ -5,7 +5,7 @@ aliases:
 description:
 parent: "[[Necklaces]]"
 item type: equipment
-equipment type: undefined
+equipment type: necklace
 equippable slots:
   - necklace
 tags:

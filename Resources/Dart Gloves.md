@@ -5,7 +5,7 @@ aliases:
 description:
 parent: "[[Gloves]]"
 item type: equipment
-equipment type: undefined
+equipment type: gloves
 equippable slots:
   - gloves
 tags:

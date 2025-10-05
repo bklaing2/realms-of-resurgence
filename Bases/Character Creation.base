@@ -3,7 +3,7 @@ views:
     name: Ancestries
     filters:
       and:
-        - type == "race"
+        - type == "ancestry"
     order:
       - file.name
       - passive-ability

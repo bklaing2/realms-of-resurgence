@@ -5,7 +5,7 @@ aliases:
 description:
 parent: "[[Boots]]"
 item type: equipment
-equipment type: undefined
+equipment type: boots
 equippable slots:
   - feet
 tags:

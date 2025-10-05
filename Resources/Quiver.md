@@ -5,7 +5,7 @@ description:
 parent: "[[Maps of Content/Equipment|Equipment]]"
 type: item
 item type: equipment
-equipment type: undefined
+equipment type: boots
 equippable slots:
   - belt
   - back

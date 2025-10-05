@@ -1,6 +1,7 @@
 ---
 tags:
   - sai-yoxis
+  - brainstorm
 ---
 Modular monster creator. A few options here... Have a few roll tables for the appearance, abilities, etc of a monster that the DM is trying to make. They can roll to randomly create a monster, or use the tables to manually create their own monster.
 

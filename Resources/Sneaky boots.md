@@ -5,7 +5,7 @@ description:
 parent: "[[Boots]]"
 type: item
 item type: equipment
-equipment type: undefined
+equipment type: boots
 equippable slots:
   - boots
 tags:

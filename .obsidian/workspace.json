@@ -11,24 +11,14 @@
             "id": "4d8bffa05d61fce8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "915dfc4ef609312d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps of Content/Necklaces.md",
-                "mode": "source",
+                "file": "Maps of Content/The Worlds of Sai Yoxis.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Necklaces"
+              "title": "The Worlds of Sai Yoxis"
             }
           }
         ]
@@ -112,7 +102,7 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Sai Yoxis.base",
+                "file": "Bases/Sai Yoxis.base",
                 "viewName": "Items"
               },
               "icon": "lucide-table",
@@ -202,9 +192,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Maps of Content/The Worlds of Sai Yoxis.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for The Worlds of Sai Yoxis"
             }
           }
         ],
@@ -220,6 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maps of Content/The Worlds of Sai Yoxis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +222,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Worlds of Sai Yoxis"
             }
           },
           {
@@ -238,11 +231,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maps of Content/The Worlds of Sai Yoxis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The Worlds of Sai Yoxis"
             }
           },
           {
@@ -251,6 +245,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Maps of Content/The Worlds of Sai Yoxis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -328,7 +323,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of The Worlds of Sai Yoxis"
             }
           }
         ],
@@ -336,8 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 767.5,
-    "collapsed": true
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,6 +346,15 @@
   },
   "active": "500da75462415b3c",
   "lastOpenFiles": [
+    "Handbook.md",
+    "Random stuff.md",
+    "Maps of Content/The Worlds of Sai Yoxis.md",
+    "1 NOTES/Update notes.md",
+    "Bases/Character Creation.base",
+    "Bases",
+    "Bases/Items.base",
+    "_Templates/Potion.md",
+    "Resources/Amulet of Obscurity.md",
     "Maps of Content/Necklaces.md",
     "Maps of Content/Rings.md",
     "Maps of Content/Boots.md",
@@ -372,21 +375,12 @@
     "Resources/Radical Glass.md",
     "Resources/Radical Cloak.md",
     "Resources/Radiation Capsule.md",
-    "Resources/Quiver.md",
-    "Resources/Potion Belt.md",
-    "Resources/Mantic Store.md",
-    "Resources/Mantic Gloves.md",
-    "Resources/Glyph Ring.md",
-    "Resources/Mantic Boots.md",
     "_Scripts/property.js~",
-    "Character Creation.base",
-    "Sai Yoxis.base",
+    "Bases/Sai Yoxis.base",
     "_Scripts/4913",
     "_Scripts/property.js",
     "_Scripts/extend.js~",
     "_Scripts/util.js~",
-    "_Scripts/extend.js",
-    "_Scripts/util.js",
-    "_Scripts/suggester.js"
+    "_Scripts/extend.js"
   ]
 }
