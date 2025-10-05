@@ -4,7 +4,7 @@ aliases:
 tags:
   - sai-yoxis
 name: Scout
-parent: "[[Character Creation]]"
+parent: "[[Classes]]"
 type: class
 description: Rouge + ranger
 subclass-i: "[[NeoHunter]]"

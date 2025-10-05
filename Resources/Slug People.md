@@ -5,8 +5,8 @@ tags:
   - sai-yoxis/iv/the-cataclysm
   - sai-yoxis/iv/post-cataclysm
   - needs/name
-parent: "[[Character Creation]]"
-type: race
+parent: "[[Ancestries]]"
+type: ancestry
 passive-ability: squeeze through tight spaces
 exploration-ability: climb walls up to X feet times level
 roleplay-ability: slug drug - saving through if someone ingests your slime, otherwise they become inebriated

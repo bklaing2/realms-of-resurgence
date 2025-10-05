@@ -5,8 +5,8 @@ tags:
   - sai-yoxis/iv/the-cataclysm
   - sai-yoxis/iv/post-cataclysm
   - needs/name
-parent: "[[Character Creation]]"
-type: race
+parent: "[[Ancestries]]"
+type: ancestry
 passive-ability: don't need to eat if they're in the sun for X amount of time
 exploration-ability: Can grow/shrink for x minutes times their level
 combat-ability: thorns -

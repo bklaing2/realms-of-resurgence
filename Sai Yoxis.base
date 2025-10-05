@@ -41,7 +41,7 @@ views:
     name: Ancestries
     filters:
       and:
-        - type == "race"
+        - type == "ancestry"
     order:
       - file.name
       - passive-ability
@@ -49,12 +49,15 @@ views:
       - exploration-ability
       - combat-ability
       - hp-die
+    sort:
+      - property: combat-ability
+        direction: ASC
     columnSize:
       file.name: 156
-      note.passive-ability: 441
-      note.roleplay-ability: 576
-      note.exploration-ability: 434
-      note.combat-ability: 508
+      note.passive-ability: 107
+      note.roleplay-ability: 115
+      note.exploration-ability: 139
+      note.combat-ability: 129
   - type: table
     name: Classes
     filters:
@@ -150,6 +153,13 @@ views:
     filters:
       and:
         - type == "item"
+    order:
+      - file.name
+      - item type
+      - parent
+    sort: []
+    columnSize:
+      file.name: 166
   - type: table
     name: Creatures
     filters:

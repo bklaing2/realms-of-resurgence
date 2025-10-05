@@ -4,32 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c41c0f73ba45b09a",
-        "type": "tabs",
-        "dimension": 16.414944356120827,
-        "children": [
-          {
-            "id": "afb6a1417c489ebc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handbook.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Handbook"
-            }
-          }
-        ]
-      },
-      {
         "id": "277c774b45e24a77",
         "type": "tabs",
-        "dimension": 83.58505564387917,
         "children": [
           {
             "id": "4d8bffa05d61fce8",
@@ -42,17 +18,17 @@
             }
           },
           {
-            "id": "f55391329fbfd927",
+            "id": "915dfc4ef609312d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/DuoDruid.md",
-                "mode": "preview",
+                "file": "Maps of Content/Necklaces.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DuoDruid"
+              "title": "Necklaces"
             }
           }
         ]
@@ -117,13 +93,27 @@
         "dimension": 57.664756446991404,
         "children": [
           {
+            "id": "afb6a1417c489ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handbook.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Handbook"
+            }
+          },
+          {
             "id": "d6978954e774bde4",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
                 "file": "Sai Yoxis.base",
-                "viewName": "Spells"
+                "viewName": "Items"
               },
               "icon": "lucide-table",
               "title": "Sai Yoxis"
@@ -179,11 +169,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 261.5
   },
   "right": {
     "id": "0f99b70ab08e4e29",
@@ -212,11 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Handbook.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Handbook"
+              "title": "File properties"
             }
           }
         ],
@@ -232,7 +220,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Handbook"
+              "title": "Backlinks"
             }
           },
           {
@@ -251,12 +238,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Handbook"
+              "title": "Outgoing links"
             }
           },
           {
@@ -265,7 +251,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Handbook.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -286,28 +271,7 @@
                       }
                     },
                     {
-                      "query": "[\"type\":spell]",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14765567
-                      }
-                    },
-                    {
-                      "query": "[\"type\":rune]",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8539647
-                      }
-                    },
-                    {
-                      "query": "[\"type\":item]",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14075484
-                      }
-                    },
-                    {
-                      "query": "[\"type\":race]",
+                      "query": "[\"type\":ancestry]",
                       "color": {
                         "a": 1,
                         "rgb": 6076630
@@ -326,6 +290,27 @@
                         "a": 1,
                         "rgb": 4827015
                       }
+                    },
+                    {
+                      "query": "[\"type\":item]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14075484
+                      }
+                    },
+                    {
+                      "query": "[\"type\":spell]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14765567
+                      }
+                    },
+                    {
+                      "query": "[\"type\":rune]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8539647
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -343,7 +328,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Handbook"
+              "title": "Graph view"
             }
           }
         ],
@@ -351,7 +336,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5,
+    "width": 767.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -367,35 +352,35 @@
   },
   "active": "500da75462415b3c",
   "lastOpenFiles": [
-    "Resources/DuoDruid.md",
-    "Resources/NeoDruid.md",
-    "Handbook.md",
-    "Maps of Content/Weapons.md",
-    "Maps of Content/Potions.md",
-    "Resources/Potion Belt.md",
-    "Resources/Potions.md",
-    "_Templates/Weapon.md",
-    "Resources/Weapons.md",
-    "Resources/Quiver.md",
-    "Maps of Content/Combat.md",
-    "Character Creation.base",
-    "TTRPGs.md",
+    "Maps of Content/Necklaces.md",
+    "Maps of Content/Rings.md",
+    "Maps of Content/Boots.md",
+    "Maps of Content/Gloves.md",
+    "Maps of Content/Projectiles.md",
+    "Resources/Waste Watchers.md",
     "Maps of Content/Items.md",
-    "Maps of Content/Equipment.md",
-    "Sai Yoxis.base",
-    "_Templates/Spell.md",
-    "_Templates/Rune.md",
-    "Maps of Content/Runic Circles.md",
-    "_Templates/Potion.md",
-    "_Templates/Map of Content.md",
-    "Maps of Content/Consumables.md",
-    "_Templates/Item.md",
-    "_Templates/Equipment.md",
-    "Maps of Content/Armor.md",
-    "_Templates/Armor.md",
-    "_Templates/Base Template.md",
-    "Resources/Test potion.md",
+    "Resources/Swift Gloves.md",
+    "Resources/Swift Boots.md",
+    "Resources/Steady Hand Gloves.md",
+    "Resources/Spell Amulet.md",
+    "Resources/Sneaky Boots.md",
+    "Resources/Sending Ring.md",
+    "Resources/Sending Gloves.md",
+    "Resources/Sending Amulet.md",
+    "Resources/Ring of Removal.md",
+    "Resources/Ring Amulet Locating Pair.md",
+    "Resources/Radical Glass.md",
+    "Resources/Radical Cloak.md",
+    "Resources/Radiation Capsule.md",
+    "Resources/Quiver.md",
+    "Resources/Potion Belt.md",
+    "Resources/Mantic Store.md",
+    "Resources/Mantic Gloves.md",
+    "Resources/Glyph Ring.md",
+    "Resources/Mantic Boots.md",
     "_Scripts/property.js~",
+    "Character Creation.base",
+    "Sai Yoxis.base",
     "_Scripts/4913",
     "_Scripts/property.js",
     "_Scripts/extend.js~",

@@ -15,28 +15,7 @@
       }
     },
     {
-      "query": "[\"type\":spell]",
-      "color": {
-        "a": 1,
-        "rgb": 14765567
-      }
-    },
-    {
-      "query": "[\"type\":rune]",
-      "color": {
-        "a": 1,
-        "rgb": 8539647
-      }
-    },
-    {
-      "query": "[\"type\":item]",
-      "color": {
-        "a": 1,
-        "rgb": 14075484
-      }
-    },
-    {
-      "query": "[\"type\":race]",
+      "query": "[\"type\":ancestry]",
       "color": {
         "a": 1,
         "rgb": 6076630
@@ -55,18 +34,39 @@
         "a": 1,
         "rgb": 4827015
       }
+    },
+    {
+      "query": "[\"type\":item]",
+      "color": {
+        "a": 1,
+        "rgb": 14075484
+      }
+    },
+    {
+      "query": "[\"type\":spell]",
+      "color": {
+        "a": 1,
+        "rgb": 14765567
+      }
+    },
+    {
+      "query": "[\"type\":rune]",
+      "color": {
+        "a": 1,
+        "rgb": 8539647
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1.87179930795848,
   "lineSizeMultiplier": 1.00709342560554,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.475778546712803,
-  "repelStrength": 11.8685121107266,
+  "repelStrength": 9.72318339100346,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5087618855792675,
-  "close": false
+  "scale": 0.7132754626224553,
+  "close": true
 }

@@ -4,8 +4,8 @@ aliases: []
 tags:
   - needs/name
   - sai-yoxis/iv
-parent: "[[Character Creation]]"
-type: race
+parent: "[[Ancestries]]"
+type: ancestry
 passive-ability: slow falling
 roleplay-ability: screech - force everyone in an area to focus on you for a bit
 exploration-ability: Can fly up to a height of xft times your level

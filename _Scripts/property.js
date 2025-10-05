@@ -9,6 +9,7 @@ function property(tp) {
 
     // Specific Properties
     item,
+    equipment,
     weapon,
     armor,
     potion,
@@ -69,6 +70,18 @@ function property(tp) {
 
     await move_to_resources(item_properties.name);
     return item_properties;
+  }
+
+  // Equipment Properties ////////////////////////
+  async function equipment() {
+    const equipment_name = await name(true);
+
+    const equipment_properties = {
+      ...(await item(equipment_name)),
+    };
+
+    await move_to_resources(equipment_properties.name);
+    return equipment_properties;
   }
 
   // Weapon Properties ////////////////////////////

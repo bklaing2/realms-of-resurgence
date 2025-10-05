@@ -1,15 +1,18 @@
 ---
-name: Arrow
+name: Arrows
 aliases:
-  - Arrow
+description:
+parent: "[[Projectiles]]"
 type: item
-subtype: ammunition
-system:
-parent: "[[Items]]"
+item type: projectile
 tags:
-  - todo
-  - sai-yoxis
+price:
+weight:
+size:
+consumable: true
+tier:
 ---
+# Description #todo
 `We will split these up into their own notes`
 
 # Tier One

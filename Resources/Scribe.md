@@ -4,7 +4,7 @@ aliases:
 tags:
   - sai-yoxis
 name: Scribe
-parent: "[[Character Creation]]"
+parent: "[[Classes]]"
 type: class
 description: Mystic knowledge keepers
 subclass-i: "[[Lorekeeper]]"

@@ -5,8 +5,8 @@ tags:
   - sai-yoxis/iv/the-cataclysm
   - sai-yoxis/iv/post-cataclysm
 name: Fungrils
-parent: "[[Character Creation]]"
-type: race
+parent: "[[Ancestries]]"
+type: ancestry
 passive-ability:
 roleplay-ability: spores - once a long rest can change the ancestry that you have a bonus to "charisma" checks to
 exploration-ability: Bioluminescence - can glow at x intensity times level for level minutes
