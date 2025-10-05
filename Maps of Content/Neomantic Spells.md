@@ -9,12 +9,7 @@ tags:
 
 > [!important]- Neomantic Spells
 >
-> ```dataview
-> TABLE WITHOUT ID choice(tier = 0, "*Cantrips*", "*Tier " + tier + " Spells*") as "***Tier***", link(rows.file.path, rows.name) AS "**Name**", rows.description AS "**Description**"
-> FROM [[]]
-> WHERE type = "spell"
-> GROUP BY tier
-> ```
+> ![[Mantic Manipulation.base#Mantic Spells|no-toolbar]]
 
 # Cantrips
 

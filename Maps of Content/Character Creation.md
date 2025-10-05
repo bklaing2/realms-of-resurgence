@@ -8,85 +8,18 @@ parent: "[[Handbook]]"
 type: moc
 ---
 
-# Choose a Race
+# Choose an Ancestry
 
-```dataview
-TABLE
-FROM [[]]
-WHERE type = "race"
-SORT file.name
-```
+![[Character Creation.base#Ancestries|no-toolbar]]
 
 # Choose a Class
 
-```dataviewjs
-const CLASSES = ["Brawler", "Fighter", "Hunter", "Engineer", "Druid", "Scribe", "Mage"]
-
-// Helpers
-const REGEX = new RegExp(`(${CLASSES.join("|")})`)
-function getClassIndex(c) {
-  if (!c.id) return CLASSES.length
-  const match = c.id.match(REGEX)
-  return match ? CLASSES.indexOf(match[1]) : CLASSES.length
-}
-
-const linked = "[[]]"
-const isClass = p => p.type === "class"
-const byClass = (a, b) => getClassIndex(a) - getClassIndex(b)
-const toRow = c => [c.file.link, `*${c.description}*`]
-
-
-const classes = dv
-  .pages(linked)
-  .where(isClass)
-  .sort(byClass)
-  .map(toRow)
-
-dv.table(null, classes)
-```
-
-![[Sai Yoxis.base#Classes]]
+![[Character Creation.base#Classes|no-toolbar]]
 # Choose a Subclass
 
 Every class has a variation found on each planet in the [[Sai Yoxis System]].
 
-```dataviewjs
-const CLASSES = ["Brawler", "Fighter", "Hunter", "Engineer", "Druid", "Scribe", "Mage"]
-const PREFIXES = ["Neo", "Duo", "Ether", "Furo"]
-
-function getIndex(s, arr, regex) {
-  if (!s) return arr.length
-  const match = s.match(regex)
-  return match ? arr.indexOf(match[1]) : arr.length
-}
-
-// Class helpers
-const getClassIndex = c => getIndex(c.id, CLASSES, new RegExp(`(${CLASSES.join("|")})`))
-const linked = "[[]]"
-const isClass = p => p.type === "class"
-const byClass = (a, b) => getClassIndex(a) - getClassIndex(b)
-
-// Subclass helpers
-const getPrefixIndex = sc => getIndex(sc.id, PREFIXES, new RegExp(`^(${PREFIXES.join("|")})`))
-const bySubclass = (a, b) => getPrefixIndex(a) - getPrefixIndex(b)
-const toNameLink = sc => dv.fileLink(sc.file.path, false, sc.name)
-
-
-const rows = []
-const classes = dv.pages(linked).where(isClass).sort(byClass)
-
-for (let c of classes) {
-  const linkedToClass = c.file.link.text
-  const isSubclass = p => p.type === "subclass" && p.parent.path === c.file.path
-
-  const subclasses = dv.pages(linkedToClass).where(isSubclass).sort(bySubclass).map(toNameLink)
-  rows.push([`*${c.name}*`, ...subclasses])
-}
-
-const HEADER = ["***Class***", "**Sai Yoxis I**", "**Sai Yoxis II**", "**Sai Yoxis III**", "**Sai Yoxis IV**"]
-dv.table(HEADER, rows)
-```
-
+![[Character Creation.base#Subclasses|no-toolbar]]
 
 # Attributes
 

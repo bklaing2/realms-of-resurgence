@@ -28,7 +28,7 @@ Weapon damage + Related weapon attribute (finesse or fortitude)
 | Light  | +2 Finesse                  | 8       | 4          | 8                                | 2            |
 | Medium | +1 Finesse and +1 Fortitude | 6       | 6          | 12                               | 4            |
 | Heavy  | +2 Fortitude                | 4       | 8          | 16                               | 6            |
-#brainstorm What if you rolled a die for mitigating damage on each hit? Higher tiers you roll multiple die
+#brainstorm What if you rolled a die for mitigating damage on each hit? Higher tiers you roll multiple die. Then the Mitigation becomes a Mitigation die
 
 ## Calculating AC
 

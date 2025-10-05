@@ -11,14 +11,23 @@
             "id": "4d8bffa05d61fce8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "42985689bfadb920",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
               "state": {
-                "file": "Maps of Content/The Worlds of Sai Yoxis.md",
-                "mode": "preview",
-                "source": false
+                "file": "Bases/Mantic Manipulation.base",
+                "viewName": "Runic Circles"
               },
-              "icon": "lucide-file",
-              "title": "The Worlds of Sai Yoxis"
+              "icon": "lucide-list",
+              "title": "Mantic Manipulation"
             }
           }
         ]
@@ -163,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 329.5
   },
   "right": {
     "id": "0f99b70ab08e4e29",
@@ -193,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Maps of Content/The Worlds of Sai Yoxis.md"
+                "file": "Handbook.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Worlds of Sai Yoxis"
+              "title": "File properties for Handbook"
             }
           }
         ],
@@ -212,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps of Content/The Worlds of Sai Yoxis.md",
+                "file": "Maps of Content/Character Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Worlds of Sai Yoxis"
+              "title": "Backlinks for Character Creation"
             }
           },
           {
@@ -231,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maps of Content/The Worlds of Sai Yoxis.md",
+                "file": "Maps of Content/Character Creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Worlds of Sai Yoxis"
+              "title": "Outgoing links from Character Creation"
             }
           },
           {
@@ -245,10 +254,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Maps of Content/The Worlds of Sai Yoxis.md",
+                "file": "Handbook.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "",
+                  "search": "-path:Bases  ",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -323,7 +332,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Worlds of Sai Yoxis"
+              "title": "Graph of Handbook"
             }
           }
         ],
@@ -331,7 +340,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 484.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -346,11 +356,28 @@
   },
   "active": "500da75462415b3c",
   "lastOpenFiles": [
-    "Handbook.md",
-    "Random stuff.md",
     "Maps of Content/The Worlds of Sai Yoxis.md",
-    "1 NOTES/Update notes.md",
+    "Handbook.md",
+    "Maps of Content/Combat.md",
+    "Maps of Content/Items.md",
+    "Maps of Content/Creatures.md",
+    "Maps of Content/Mantic Manipulation.md",
+    "Maps of Content/Neomantic Spells.md",
+    "Maps of Content/Runic Circles.md",
+    "Bases/Mantic Manipulation.base",
     "Bases/Character Creation.base",
+    "Bases/Sai Yoxis.base",
+    "Maps of Content/Character Creation.md",
+    "Maps of Content/Sai Yoxis IV.md",
+    "Maps of Content/The Wastes.md",
+    "Lore and History/History of Sai Yoxis III.md",
+    "Resources/Duomancy.md",
+    "Lore and History/History of Sai Yoxis II.md",
+    "Maps of Content/Sai Yoxis I.md",
+    "Resources/Neomancy.md",
+    "Lore and History/History of Sai Yoxis I.md",
+    "Random stuff.md",
+    "1 NOTES/Update notes.md",
     "Bases",
     "Bases/Items.base",
     "_Templates/Potion.md",
@@ -360,27 +387,10 @@
     "Maps of Content/Boots.md",
     "Maps of Content/Gloves.md",
     "Maps of Content/Projectiles.md",
-    "Resources/Waste Watchers.md",
-    "Maps of Content/Items.md",
-    "Resources/Swift Gloves.md",
-    "Resources/Swift Boots.md",
-    "Resources/Steady Hand Gloves.md",
-    "Resources/Spell Amulet.md",
-    "Resources/Sneaky Boots.md",
-    "Resources/Sending Ring.md",
-    "Resources/Sending Gloves.md",
-    "Resources/Sending Amulet.md",
-    "Resources/Ring of Removal.md",
-    "Resources/Ring Amulet Locating Pair.md",
-    "Resources/Radical Glass.md",
-    "Resources/Radical Cloak.md",
-    "Resources/Radiation Capsule.md",
     "_Scripts/property.js~",
-    "Bases/Sai Yoxis.base",
     "_Scripts/4913",
     "_Scripts/property.js",
     "_Scripts/extend.js~",
-    "_Scripts/util.js~",
-    "_Scripts/extend.js"
+    "_Scripts/util.js~"
   ]
 }

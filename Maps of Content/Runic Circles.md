@@ -9,12 +9,7 @@ Long ago, [[Scribe|Scribes]] discovered a way to influence Neomancy. By inscribi
 
 > [!note]- Runic Circles
 >
-> ```dataview
-> TABLE WITHOUT ID "*Tier " + tier + " Runes*" as "***Tier***", link(rows.file.path, rows.name) AS "**Name**", rows.description AS "**Description**"
-> FROM [[]]
-> WHERE type = "rune"
-> GROUP BY tier
-> ```
+> ![[Mantic Manipulation.base#Runic Circles|no-toolbar]]
 
 > [!question]- Ways the runes actually work #brainstorm
 > 

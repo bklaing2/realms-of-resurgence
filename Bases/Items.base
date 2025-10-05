@@ -2,7 +2,7 @@ filters:
   and:
     - type == "item"
 views:
-  - type: table
+  - type: list
     name: All Items
     groupBy:
       property: item type

@@ -1,0 +1,21 @@
+formulas:
+  Mantic Tier: if(tier >= 0, if(tier == 0, "Cantrip", "Tier " + tier))
+views:
+  - type: list
+    name: Runic Circles
+    filters:
+      and:
+        - type == "rune"
+    groupBy:
+      property: formula.Mantic Tier
+      direction: ASC
+    order:
+      - file.name
+  - type: list
+    name: Mantic Spells
+    filters:
+      and:
+        - type == "spell"
+    groupBy:
+      property: formula.Mantic Tier
+      direction: ASC

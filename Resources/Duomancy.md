@@ -15,5 +15,5 @@ Duomancy revolves around opposites, yin and yang, give and take. Like you can gi
 
 Each spell will have a Neomantic and Antimantic version. Which affect is cast depends on the current orbit. Maybe there could be something like sorcery points that you can expend for meta-magic. Like cast the inversed version of a spell, amplify the effects, etc. And maybe be able to trade a spell slot for a few points and vice-versa.
 
-# Game Mechanic
+# Game Mechanic #todo 
 
