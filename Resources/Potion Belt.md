@@ -3,7 +3,7 @@ name: Potion Belt
 type: item
 subtype: equipment
 system:
-parent: "[[Items]]"
+parent: "[[Maps of Content/Equipment|Equipment]]"
 tags:
   - sai-yoxis
 ---

@@ -6,17 +6,67 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "[\"type\":moc]",
+      "color": {
+        "a": 1,
+        "rgb": 13750737
+      }
+    },
+    {
+      "query": "[\"type\":spell]",
+      "color": {
+        "a": 1,
+        "rgb": 14765567
+      }
+    },
+    {
+      "query": "[\"type\":rune]",
+      "color": {
+        "a": 1,
+        "rgb": 8539647
+      }
+    },
+    {
+      "query": "[\"type\":item]",
+      "color": {
+        "a": 1,
+        "rgb": 14075484
+      }
+    },
+    {
+      "query": "[\"type\":race]",
+      "color": {
+        "a": 1,
+        "rgb": 6076630
+      }
+    },
+    {
+      "query": "[\"type\":subclass]",
+      "color": {
+        "a": 1,
+        "rgb": 6149805
+      }
+    },
+    {
+      "query": "[\"type\":class]",
+      "color": {
+        "a": 1,
+        "rgb": 4827015
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.87179930795848,
+  "lineSizeMultiplier": 1.00709342560554,
+  "collapse-forces": false,
+  "centerStrength": 0.475778546712803,
+  "repelStrength": 11.8685121107266,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224493,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.5087618855792675,
+  "close": false
 }

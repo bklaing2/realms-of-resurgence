@@ -4,118 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "010d134741463e15",
-        "type": "split",
-        "dimension": 48.91966759002771,
+        "id": "c41c0f73ba45b09a",
+        "type": "tabs",
+        "dimension": 16.414944356120827,
         "children": [
           {
-            "id": "c41c0f73ba45b09a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "afb6a1417c489ebc",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Handbook.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Handbook"
-                }
+            "id": "afb6a1417c489ebc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handbook.md",
+                "mode": "preview",
+                "source": false
               },
-              {
-                "id": "4d8bffa05d61fce8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Maps of Content/Combat.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Combat"
-                }
-              },
-              {
-                "id": "a10b6973f3d6512a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_Templates/Weapon.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Weapon"
-                }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "b4e6e6fad5255e50",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5f3b9dd40d4a7346",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_Templates/Weapon.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Weapon"
-                }
-              }
-            ]
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Handbook"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
-        "id": "4805df9f8b2c2fcb",
+        "id": "277c774b45e24a77",
         "type": "tabs",
-        "dimension": 51.08033240997229,
+        "dimension": 83.58505564387917,
         "children": [
           {
-            "id": "5e8c3923908ffb58",
+            "id": "4d8bffa05d61fce8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f55391329fbfd927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/Armor.md",
-                "mode": "source",
-                "source": true
+                "file": "Resources/DuoDruid.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Armor"
-            }
-          },
-          {
-            "id": "c3526298ad495f38",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Character Creation.base",
-                "viewName": "Classes"
-              },
-              "icon": "lucide-list",
-              "title": "Character Creation"
+              "title": "DuoDruid"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 278.5
   },
   "right": {
     "id": "0f99b70ab08e4e29",
@@ -273,10 +213,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Character Creation.base"
+                "file": "Handbook.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Character Creation"
+              "title": "File properties for Handbook"
             }
           }
         ],
@@ -292,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation.base",
+                "file": "Handbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +242,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Character Creation"
+              "title": "Backlinks for Handbook"
             }
           },
           {
@@ -311,12 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation.base",
+                "file": "Handbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Character Creation"
+              "title": "Outgoing links from Handbook"
             }
           },
           {
@@ -325,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Character Creation.base",
+                "file": "Handbook.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -337,12 +277,62 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "[\"type\":moc]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13750737
+                      }
+                    },
+                    {
+                      "query": "[\"type\":spell]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14765567
+                      }
+                    },
+                    {
+                      "query": "[\"type\":rune]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8539647
+                      }
+                    },
+                    {
+                      "query": "[\"type\":item]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14075484
+                      }
+                    },
+                    {
+                      "query": "[\"type\":race]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6076630
+                      }
+                    },
+                    {
+                      "query": "[\"type\":subclass]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6149805
+                      }
+                    },
+                    {
+                      "query": "[\"type\":class]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4827015
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "nodeSizeMultiplier": 1.87179930795848,
+                  "lineSizeMultiplier": 1.00709342560554,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
@@ -353,7 +343,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Character Creation"
+              "title": "Graph of Handbook"
             }
           }
         ],
@@ -361,7 +351,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 477.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -376,12 +367,21 @@
   },
   "active": "500da75462415b3c",
   "lastOpenFiles": [
+    "Resources/DuoDruid.md",
+    "Resources/NeoDruid.md",
     "Handbook.md",
+    "Maps of Content/Weapons.md",
+    "Maps of Content/Potions.md",
+    "Resources/Potion Belt.md",
+    "Resources/Potions.md",
+    "_Templates/Weapon.md",
+    "Resources/Weapons.md",
+    "Resources/Quiver.md",
+    "Maps of Content/Combat.md",
+    "Character Creation.base",
     "TTRPGs.md",
     "Maps of Content/Items.md",
     "Maps of Content/Equipment.md",
-    "Maps of Content/Weapons.md",
-    "_Templates/Weapon.md",
     "Sai Yoxis.base",
     "_Templates/Spell.md",
     "_Templates/Rune.md",
@@ -389,7 +389,6 @@
     "_Templates/Potion.md",
     "_Templates/Map of Content.md",
     "Maps of Content/Consumables.md",
-    "Maps of Content/Potions.md",
     "_Templates/Item.md",
     "_Templates/Equipment.md",
     "Maps of Content/Armor.md",
@@ -398,15 +397,7 @@
     "Resources/Test potion.md",
     "_Scripts/property.js~",
     "_Scripts/4913",
-    "Maps of Content/Mantic Manipulation.md",
-    "Resources/Test weapon.md",
-    "Resources/Test armor.md",
-    "Resources/Untitled.md",
-    "test armor.md",
-    "Maps of Content/Combat.md",
-    "Spell test.md",
     "_Scripts/property.js",
-    "Character Creation.base",
     "_Scripts/extend.js~",
     "_Scripts/util.js~",
     "_Scripts/extend.js",
