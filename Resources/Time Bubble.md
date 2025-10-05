@@ -22,7 +22,7 @@ As an action, push all Mantic energy away from you in a 10ft sphere. The flow of
 
 # Radiation Fail Outcome #needs/improvement
 
-Just a brainstorm, but I'm not a fan of this - B
+Just a #brainstorm, but I'm not a fan of this - B
 hmm yea, we can think of something better - J
 The radiation is instead pulled towards you in a 5ft sphere. Any creature within its radius loses one turn.
 

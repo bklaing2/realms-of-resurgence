@@ -1,0 +1,355 @@
+{
+  "workspaces": {
+    "General": {
+      "main": {
+        "id": "75cddecfb933c23a",
+        "type": "split",
+        "children": [
+          {
+            "id": "edd215762bec356f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c1df584c3f43796d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Handbook.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Handbook"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e1b81955e564a8e",
+        "type": "split",
+        "children": [
+          {
+            "id": "17cb380f7ae1d3ce",
+            "type": "tabs",
+            "dimension": 42.335243553008596,
+            "children": [
+              {
+                "id": "fb9501efd17b0a93",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "bf834c35e3d5f849",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "1e2e4fcea07a175b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "b0dac94d2d0d9184",
+            "type": "tabs",
+            "dimension": 57.664756446991404,
+            "children": [
+              {
+                "id": "afb6a1417c489ebc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Handbook.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Handbook"
+                }
+              },
+              {
+                "id": "d6978954e774bde4",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "Bases/Sai Yoxis.base",
+                    "viewName": "Classes"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Sai Yoxis"
+                }
+              },
+              {
+                "id": "b432c2b873b40777",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "0714c0b1b5efc5f9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "500da75462415b3c",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "493c99321002b00e",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {},
+                  "icon": "history",
+                  "title": "History"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 329.5
+      },
+      "right": {
+        "id": "0f99b70ab08e4e29",
+        "type": "split",
+        "children": [
+          {
+            "id": "25d20831de896ccf",
+            "type": "tabs",
+            "dimension": 38.81944444444444,
+            "children": [
+              {
+                "id": "83458e568d52ef88",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "6873d4779e17eb38",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Handbook.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Handbook"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a6e0976675324826",
+            "type": "tabs",
+            "dimension": 61.18055555555556,
+            "children": [
+              {
+                "id": "3748bc3ed969f345",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Handbook.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "-path:Bases  ",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "[\"type\":moc]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13750737
+                          }
+                        },
+                        {
+                          "query": "[\"type\":ancestry]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6076630
+                          }
+                        },
+                        {
+                          "query": "[\"type\":subclass]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6149805
+                          }
+                        },
+                        {
+                          "query": "[\"type\":class]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4827015
+                          }
+                        },
+                        {
+                          "query": "[\"type\":item]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14075484
+                          }
+                        },
+                        {
+                          "query": "[\"type\":spell]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14765567
+                          }
+                        },
+                        {
+                          "query": "[\"type\":rune]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8539647
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.87179930795848,
+                      "lineSizeMultiplier": 1.00709342560554,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5087618855792588,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Handbook"
+                }
+              },
+              {
+                "id": "d3308a17c78f2f86",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Handbook.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Handbook"
+                }
+              },
+              {
+                "id": "d2dd1836912bee0e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Handbook.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Handbook"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 484.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Open graph view": false,
+          "bases:Create new base": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "command-palette:Open command palette": false,
+          "obsidian-git:Open Git source control": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "3748bc3ed969f345",
+      "mtime": "2025-10-05T14:29:47-05:00"
+    }
+  },
+  "active": "General"
+}

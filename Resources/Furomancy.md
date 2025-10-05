@@ -15,7 +15,7 @@ Furomancy is the variation of [[Neomancy]] found on [[Sai Yoxis IV]]. Furomancy 
 
 ![[The Wastes]]
 
-# Brainstorm
+# Brainstorm #brainstorm 
 
 This planet has very dangerous and unpredictable magic (which they call Furomancy and the people who do it Furomancers) it rarely does what they want it to do and it tends to overpower even the simplest of spells and reverse back on the user.
 

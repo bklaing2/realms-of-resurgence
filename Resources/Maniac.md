@@ -39,7 +39,7 @@ When initiating a [[Brawler#Frenzy]], roll a d4. A corresponding effect happens 
 
 [[#Mania]] uses a d8 instead of a d4
 
-braindump: give an ability to choose to add 4 to the furomania roll to get a better effect
+#brainstorm give an ability to choose to add 4 to the furomania roll to get a better effect
 
 
 
