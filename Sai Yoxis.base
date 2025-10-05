@@ -108,46 +108,43 @@ views:
     filters:
       and:
         - type == "rune"
+    groupBy:
+      property: formula.Mantic Tier
+      direction: ASC
     order:
       - file.name
-      - description
-      - formula.Mantic Tier
-      - formula.Needs Name
-      - tags
+      - inscription time
     sort:
       - property: formula.Mantic Tier
-        direction: ASC
-      - property: file.name
         direction: ASC
       - property: property.tier
         direction: ASC
     columnSize:
-      file.name: 235
-      property.description: 613
-      formula.Needs Name: 150
-      property.tags: 163
+      file.name: 124
   - type: table
     name: Spells
     filters:
       and:
         - type == "spell"
+    groupBy:
+      property: formula.Mantic Tier
+      direction: ASC
     order:
       - file.name
-      - description
-      - formula.Mantic Tier
-      - formula.Needs Name
       - casting time
+      - target
+      - range
       - duration
-    sort:
-      - property: formula.Mantic Tier
-        direction: ASC
-      - property: property.tier
-        direction: ASC
+      - requires focus
+    sort: []
+    summaries: {}
     columnSize:
-      file.name: 172
-      note.description: 161
-      formula.Needs Name: 150
-      note.tags: 785
+      file.name: 138
+      note.casting time: 101
+      note.target: 115
+      note.range: 60
+      note.duration: 107
+      note.requires focus: 101
   - type: table
     name: Items
     filters:

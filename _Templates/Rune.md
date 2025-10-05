@@ -1,13 +1,19 @@
 ---
-type: rune
-name: <%* const props = tp.user.property(tp) %><% await props.name(true) %>
+name: <%* const rune = await tp.user.property(tp).rune() %><% rune.name %>
 aliases:
 description:
+parent: "[[Runic Circles]]"
+type: rune
 tags:
-tier: <% await props.tier(false) %>
-inscription time: <% await props.casting_time() %>
-target: <% await props.target() %>
-range: <% await props.range() %>
-duration: <% await props.duration() %>
+  - needs/components
+tier: <% rune.tier %>
+scribing time: <% rune.scribing_time %>
+duration: <% rune.duration %>
 components:
 ---
+# Description #todo 
+
+
+
+# Antimantic Inverse #todo 
+

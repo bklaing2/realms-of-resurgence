@@ -1,0 +1,30 @@
+views:
+  - type: list
+    name: Ancestries
+    filters:
+      and:
+        - type == "race"
+    order:
+      - file.name
+      - passive-ability
+      - roleplay-ability
+      - exploration-ability
+      - combat-ability
+    markers: none
+    nestedProperties: true
+  - type: list
+    name: Classes
+    filters:
+      and:
+        - type == "subclass"
+    groupBy:
+      property: parent
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: id
+        direction: ASC
+    nestedProperties: false
+    markers: number
+    cardSize: 90

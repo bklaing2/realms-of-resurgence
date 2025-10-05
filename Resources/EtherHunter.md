@@ -4,7 +4,7 @@ aliases:
 tags:
   - sai-yoxis
 name: EtherHunter
-parent: "[[Character Creation]]"
+parent: "[[Scout]]"
 type: subclass
 ---
 

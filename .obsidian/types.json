@@ -4,6 +4,16 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "tier": "number",
-    "components": "multitext"
+    "components": "multitext",
+    "price": "number",
+    "weight": "number",
+    "size": "number",
+    "consumable": "checkbox",
+    "armor class": "number",
+    "damage mitigation": "number",
+    "damage threshold": "number",
+    "damage slots": "number",
+    "equippable": "checkbox",
+    "equippable slots": "multitext"
   }
 }

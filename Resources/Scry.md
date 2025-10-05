@@ -6,7 +6,7 @@ tags:
   - needs/name
 description: Creatures within the circle get a minor enhancement of your choice
 name: Scry
-parent: "[[Mantic Manipulation]]"
+parent: "[[Runic Circles]]"
 tier: 1
 type: rune
 ---

@@ -1,14 +1,28 @@
 ---
-type: item
-name: <%* const props = tp.user.property(tp) %><% await props.name(true) %>
+name: <%* const spell = await tp.user.property(tp).spell() %><% spell.name %>
 aliases:
 description:
+parent: "[[Neomantic Spells]]"
+type: spell
 tags:
-tier: <% await props.tier(true) %>
-casting time: <% await props.casting_time() %>
-target: <% await props.target() %>
-range: <% await props.range() %>
-duration: <% await props.duration() %>
+  - needs/components
+tier: <% spell.tier %>
+casting time: <% spell.casting_time %>
+target: <% spell.target %>
+range: <% spell.range %>
+duration: <% spell.duration %>
+area of effect: <% spell.aoe %>
+damage: <% spell.damage %>
 requires focus:
 components:
 ---
+# Description #todo 
+
+
+
+# Antimantic Inverse #todo 
+
+
+
+# Radiation Fail Outcome #todo
+

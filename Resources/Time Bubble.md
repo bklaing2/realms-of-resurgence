@@ -6,7 +6,7 @@ tags:
   - needs/name
   - sai-yoxis
 casting time: 1 action
-parent: "[[Mantic Manipulation]]"
+parent: "[[Neomantic Spells]]"
 range: 10ft sphere
 requires focus: false
 target: self

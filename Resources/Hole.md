@@ -9,4 +9,5 @@ inscription time: 1 minute
 range: 60 feet
 duration: 5 minutes
 components:
+parent: "[[Runic Circles]]"
 ---

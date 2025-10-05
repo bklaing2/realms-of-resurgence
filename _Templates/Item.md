@@ -1,10 +1,15 @@
 ---
-type: spell
-subtype:
-name: <%* const props = tp.user.property(tp) %><% await props.name(true) %>
+name: <%* const item = await tp.user.property(tp).item() %><% item.name %>
 aliases:
 description:
+parent: "[[Items]]"
+type: item
+item type:
 tags:
-tier: <% await props.tier(true) %>
-components:
+price: <% item.price %>
+weight: <% item.weight %>
+size: <% item.size %>
+consumable:
+tier:
 ---
+# Description #todo

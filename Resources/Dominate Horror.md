@@ -6,7 +6,7 @@ tags:
   - sai-yoxis
 casting time: 1 action
 name: Dominate Horror
-parent: "[[Mantic Manipulation]]"
+parent: "[[Neomantic Spells]]"
 range: 60ft
 requires focus: false
 target: 1 horror

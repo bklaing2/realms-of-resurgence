@@ -6,7 +6,7 @@ tags:
   - needs/name
 description: While within the rune, you are invisible
 name: Invisibility
-parent: "[[Mantic Manipulation]]"
+parent: "[[Runic Circles]]"
 tier: 2
 type: rune
 ---

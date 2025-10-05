@@ -4,59 +4,114 @@
     "type": "split",
     "children": [
       {
-        "id": "c41c0f73ba45b09a",
-        "type": "tabs",
+        "id": "010d134741463e15",
+        "type": "split",
+        "dimension": 48.91966759002771,
         "children": [
           {
-            "id": "7692c58ab5674646",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+            "id": "c41c0f73ba45b09a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "afb6a1417c489ebc",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Handbook.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Handbook"
+                }
+              },
+              {
+                "id": "4d8bffa05d61fce8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Maps of Content/Combat.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Combat"
+                }
+              },
+              {
+                "id": "a10b6973f3d6512a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Templates/Weapon.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Weapon"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "5749807c420cee86",
+            "id": "b4e6e6fad5255e50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f3b9dd40d4a7346",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Templates/Weapon.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Weapon"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "4805df9f8b2c2fcb",
+        "type": "tabs",
+        "dimension": 51.08033240997229,
+        "children": [
+          {
+            "id": "5e8c3923908ffb58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handbook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Handbook"
-            },
-            "group": "c96f2f5f66232a5c"
-          },
-          {
-            "id": "622693ef0257a647",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Handbook.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Handbook"
-            },
-            "group": "c96f2f5f66232a5c"
-          },
-          {
-            "id": "2e4bc0f817fe936a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/Item.md",
+                "file": "_Templates/Armor.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Item"
+              "title": "Armor"
+            }
+          },
+          {
+            "id": "c3526298ad495f38",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Character Creation.base",
+                "viewName": "Classes"
+              },
+              "icon": "lucide-list",
+              "title": "Character Creation"
             }
           }
         ],
@@ -72,7 +127,7 @@
       {
         "id": "17cb380f7ae1d3ce",
         "type": "tabs",
-        "dimension": 43.48137535816619,
+        "dimension": 42.335243553008596,
         "children": [
           {
             "id": "fb9501efd17b0a93",
@@ -119,7 +174,7 @@
       {
         "id": "b0dac94d2d0d9184",
         "type": "tabs",
-        "dimension": 56.51862464183382,
+        "dimension": 57.664756446991404,
         "children": [
           {
             "id": "d6978954e774bde4",
@@ -128,7 +183,7 @@
               "type": "bases",
               "state": {
                 "file": "Sai Yoxis.base",
-                "viewName": "Items"
+                "viewName": "Spells"
               },
               "icon": "lucide-table",
               "title": "Sai Yoxis"
@@ -142,7 +197,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "showSearch": true,
-                "searchQuery": "sub"
+                "searchQuery": ""
               },
               "icon": "lucide-archive",
               "title": "All properties"
@@ -188,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 423.5
   },
   "right": {
     "id": "0f99b70ab08e4e29",
@@ -204,13 +259,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handbook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Handbook"
+              "title": "Outline"
             }
           },
           {
@@ -219,10 +273,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Handbook.md"
+                "file": "Character Creation.base"
               },
               "icon": "lucide-info",
-              "title": "File properties for Handbook"
+              "title": "File properties for Character Creation"
             }
           }
         ],
@@ -238,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handbook.md",
+                "file": "Character Creation.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +302,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Handbook"
+              "title": "Backlinks for Character Creation"
             }
           },
           {
@@ -257,12 +311,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handbook.md",
+                "file": "Character Creation.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Handbook"
+              "title": "Outgoing links from Character Creation"
             }
           },
           {
@@ -271,9 +325,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Handbook.md",
+                "file": "Character Creation.base",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -294,12 +348,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
+                  "scale": 0.5087618855792588,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Handbook"
+              "title": "Graph of Character Creation"
             }
           }
         ],
@@ -314,7 +368,6 @@
       "graph:Open graph view": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
@@ -323,40 +376,41 @@
   },
   "active": "500da75462415b3c",
   "lastOpenFiles": [
-    "Sai Yoxis.base",
-    "Random stuff.md",
     "Handbook.md",
-    "Resources/Hole.md",
-    "Resources/Coalesce.md",
-    "_Templates/Item.md",
-    "_Templates/Rune.md",
+    "TTRPGs.md",
+    "Maps of Content/Items.md",
+    "Maps of Content/Equipment.md",
+    "Maps of Content/Weapons.md",
+    "_Templates/Weapon.md",
+    "Sai Yoxis.base",
     "_Templates/Spell.md",
+    "_Templates/Rune.md",
+    "Maps of Content/Runic Circles.md",
+    "_Templates/Potion.md",
+    "_Templates/Map of Content.md",
+    "Maps of Content/Consumables.md",
+    "Maps of Content/Potions.md",
+    "_Templates/Item.md",
+    "_Templates/Equipment.md",
+    "Maps of Content/Armor.md",
+    "_Templates/Armor.md",
+    "_Templates/Base Template.md",
+    "Resources/Test potion.md",
     "_Scripts/property.js~",
     "_Scripts/4913",
+    "Maps of Content/Mantic Manipulation.md",
+    "Resources/Test weapon.md",
+    "Resources/Test armor.md",
+    "Resources/Untitled.md",
+    "test armor.md",
+    "Maps of Content/Combat.md",
+    "Spell test.md",
     "_Scripts/property.js",
+    "Character Creation.base",
     "_Scripts/extend.js~",
-    "Resources/Wormhole.md",
-    "Resources/Blind or Silence.md",
-    "Resources/Tinted Windows.md",
-    "Resources/Protection.md",
-    "Resources/Air Conditioner.md",
     "_Scripts/util.js~",
-    "Resources/Reflect.md",
-    "Resources/Time Bubble.md",
-    "Resources/Finger of Death.md",
-    "Resources/Dominate Horror.md",
-    "Resources/Teleport.md",
-    "Resources/Furopull.md",
-    "Resources/Bind.md",
-    "Resources/Tether.md",
-    "Resources/Shield.md",
-    "Resources/Mantic Handshake.md",
-    "Resources/Displacement.md",
-    "Resources/Chain.md",
-    "New spell test.md",
     "_Scripts/extend.js",
     "_Scripts/util.js",
-    "_Scripts/suggester.js",
-    "_Scripts"
+    "_Scripts/suggester.js"
   ]
 }

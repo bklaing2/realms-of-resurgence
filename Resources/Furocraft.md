@@ -8,7 +8,7 @@ tags:
 casting time: 1 bonus action
 duration: focus
 name: Craft
-parent: "[[Mantic Manipulation]]"
+parent: "[[Neomantic Spells]]"
 requires focus: true
 tier: 2
 type: spell

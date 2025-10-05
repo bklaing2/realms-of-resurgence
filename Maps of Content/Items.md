@@ -1,8 +1,8 @@
 ---
-type: moc
-parent: "[[Handbook]]"
 name: Items
-aliases: 
+aliases:
+parent: "[[Handbook]]"
+type: moc
 tags:
   - todo
 ---

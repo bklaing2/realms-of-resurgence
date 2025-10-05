@@ -6,7 +6,7 @@ tags:
   - sai-yoxis
 description: Make the area within the circle warmer or colder
 name: Temperature
-parent: "[[Mantic Manipulation]]"
+parent: "[[Runic Circles]]"
 tier: 1
 type: rune
 ---

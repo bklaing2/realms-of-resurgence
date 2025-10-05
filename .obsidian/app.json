@@ -7,5 +7,9 @@
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "attachments",
   "tabSize": 2,
-  "trashOption": "system"
+  "trashOption": "system",
+  "userIgnoreFilters": [
+    "/^_+/"
+  ],
+  "defaultViewMode": "preview"
 }
