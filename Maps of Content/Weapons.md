@@ -1,6 +1,9 @@
 ---
 name: Weapons
 aliases:
+  - Weapon
+  - weapon
+  - weapons
 parent: "[[Maps of Content/Equipment|Equipment]]"
 type: moc
 tags:

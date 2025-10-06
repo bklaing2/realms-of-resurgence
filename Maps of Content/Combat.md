@@ -11,7 +11,7 @@ type: moc
 
 ## Calculating to Hit
 
-Roll a d20 and add the related attribute for the weapon (likely the finesse or fortitude)
+Roll a d20 and add the related attribute for the [[Weapons|weapon]] (likely the finesse or fortitude)
 
 ## Calculating Damage Given on a Hit
 
@@ -20,6 +20,8 @@ Weapon damage + Related weapon attribute (finesse or fortitude)
 
 
 # Armor
+
+There are three basic types of [[Maps of Content/Armor|armor]],
 
 ## Equipping Armor
 
@@ -36,7 +38,8 @@ Finesse + Intuition + Base AC of Armor
 
 ## Calculating Damage Received on a Hit
 
-Subtract the armor mitigation from the damage. If it falls below zero you take no damage. If it falls above the armor's damage threshold, you take damage like normal and mark off an armor damage slot. (OR make it on a critical hit instead of a damage threshold)
+Subtract the armor mitigation from the damage. If it falls below zero you take no damage. If it falls above the armor's damage threshold, you take damage like normal and mark off an armor damage slot. 
+#brainstorm  can also make it on a critical hit against you mark off a damage slot
 
 ## Armor Damage Slots
 
