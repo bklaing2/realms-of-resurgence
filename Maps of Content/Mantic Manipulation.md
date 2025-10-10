@@ -3,6 +3,7 @@ id: Mantic Manipulation
 aliases: []
 tags:
   - sai-yoxis
+parent: "[[Handbook]]"
 type: moc
 ---
 

@@ -184,7 +184,8 @@
                   "state": {
                     "followCursor": false,
                     "showSearch": false,
-                    "searchQuery": ""
+                    "searchQuery": "",
+                    "file": "Handbook.md"
                   },
                   "icon": "lucide-list",
                   "title": "Outline"
