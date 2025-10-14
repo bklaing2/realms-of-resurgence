@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "edd215762bec356f",
+        "id": "dc7298e68d6fcce1",
         "type": "tabs",
         "children": [
           {
-            "id": "c1df584c3f43796d",
+            "id": "d57d24eb9ee9c739",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Maps of Content/Mantic Manipulation.md",
-                "bFile": "Maps of Content/Mantic Manipulation.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Mantic Manipulation"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -343,8 +339,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1df584c3f43796d",
+  "active": "d57d24eb9ee9c739",
   "lastOpenFiles": [
+    "Resources/Medium Armor.md",
+    "Resources/Light Armor.md",
+    "Resources/Heavy Armor.md",
+    "Resources/Dagger.md",
     "Handbook.md",
     "Maps of Content/Items.md",
     "Maps of Content/Projectiles.md",
@@ -370,10 +370,6 @@
     "Bases/Character Creation.base",
     "Maps of Content/Character Creation.md",
     "Maps of Content/Sai Yoxis IV.md",
-    "Lore and History/History of Sai Yoxis III.md",
-    "Resources/Duomancy.md",
-    "Lore and History/History of Sai Yoxis II.md",
-    "Maps of Content/Sai Yoxis I.md",
     "Bases",
     "Bases/Items.base",
     "_Scripts/property.js~",
