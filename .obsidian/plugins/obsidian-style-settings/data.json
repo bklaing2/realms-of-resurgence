@@ -2,8 +2,7 @@
   "minimal-style@@bg1@@light": "#FFF6C9",
   "minimal-style@@bg1@@dark": "#F2EECB",
   "minimal-style@@bg2@@light": "#DDD79F",
-  "minimal-style@@ui1@@light": "#0000001A",
-  "minimal-style@@ui3@@light": "#FF000000",
+  "minimal-style@@ui1@@light": "#00000017",
   "minimal-style@@bases-toolbar-opacity": 0.35,
   "minimal-style@@bases-table-header-icon-display": "none",
   "minimal-style@@bases-table-row-height": 28,
@@ -38,10 +37,10 @@
   "minimal-style@@tag-radius": "14px",
   "minimal-style@@tag-border-width": "1px",
   "minimal-style@@tag-background-hover@@light": "#DDD79F",
-  "minimal-style@@hl1@@light": "#DDD79F",
-  "minimal-style@@hl2@@light": "#DDD79F",
-  "minimal-style@@tx2@@light": "#636045",
-  "minimal-style@@tx3@@light": "#BDB886",
+  "minimal-style@@hl1@@light": "#00000026",
+  "minimal-style@@hl2@@light": "#00000026",
+  "minimal-style@@tx2@@light": "#00000080",
+  "minimal-style@@tx3@@light": "#0000004D",
   "minimal-style@@bold-modifier": 300,
   "minimal-style@@file-header-visibility": "minimal-tab-title-visible",
   "minimal-style@@file-header-justify": "left",
@@ -51,5 +50,7 @@
   "minimal-style@@window-title-off": false,
   "minimal-advanced@@animations": "default",
   "minimal-advanced@@cursor": "default",
-  "minimal-style@@ui2@@light": "#DDD79F40"
+  "minimal-style@@ui2@@light": "#DDD79F40",
+  "minimal-style@@bg3@@light": "#FFFFFF5E",
+  "minimal-style@@ui3@@light": "#00000033"
 }

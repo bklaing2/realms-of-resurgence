@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 268.5
   },
   "right": {
     "id": "0f99b70ab08e4e29",
@@ -326,7 +326,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5
+    "width": 219.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,7 +339,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d57d24eb9ee9c739",
+  "active": "500da75462415b3c",
   "lastOpenFiles": [
     "Resources/Medium Armor.md",
     "Resources/Light Armor.md",
