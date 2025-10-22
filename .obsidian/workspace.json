@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "0f99b70ab08e4e29",
@@ -326,7 +327,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 502.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,8 +340,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "500da75462415b3c",
+  "active": "d57d24eb9ee9c739",
   "lastOpenFiles": [
+    "_Templates/Armor.md",
+    "_Templates/Item.md",
+    "_Templates/Map of Content.md",
+    "_Scripts 1/property.js",
+    "_Scripts 1/util.js",
+    "_Scripts 1/extend.js",
+    "_Scripts 1",
     "Resources/Medium Armor.md",
     "Resources/Light Armor.md",
     "Resources/Heavy Armor.md",
@@ -365,17 +373,10 @@
     "Resources/Furomancy.md",
     "Maps of Content/The Worlds of Sai Yoxis.md",
     "Maps of Content/Creatures.md",
-    "Maps of Content/Neomantic Spells.md",
     "Bases/Mantic Manipulation.base",
     "Bases/Character Creation.base",
-    "Maps of Content/Character Creation.md",
-    "Maps of Content/Sai Yoxis IV.md",
     "Bases",
     "Bases/Items.base",
-    "_Scripts/property.js~",
-    "_Scripts/4913",
-    "_Scripts/property.js",
-    "_Scripts/extend.js~",
-    "_Scripts/util.js~"
+    "_Scripts/property.js~"
   ]
 }

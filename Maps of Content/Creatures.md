@@ -1,6 +1,6 @@
 ---
 type: moc
-parent: "[[Handbook]]"
+parent: "[[Sai Yoxis]]"
 name: Creatures
 aliases:
 tags:

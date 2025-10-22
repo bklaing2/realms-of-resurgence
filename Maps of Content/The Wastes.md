@@ -6,7 +6,7 @@ tags:
   - sai-yoxis/iv/the-cataclysm
   - sai-yoxis/iv/post-cataclysm
 name: The Wastes
-parent: "[[Handbook]]"
+parent: "[[Sai Yoxis]]"
 type: moc
 ---
 

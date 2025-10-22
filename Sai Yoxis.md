@@ -1,14 +1,15 @@
 ---
+type: "[[Projects|project]]"
+status: in progress
 id: Handbook
 aliases:
-  - Sai Yoxis
+  - Handbook
 tags:
   - needs/name
   - needs/improvement
   - todo
   - sai-yoxis
 parent: "[[TTRPGs]]"
-type: moc
 ---
 
 Sai Yoxis is... #todo 

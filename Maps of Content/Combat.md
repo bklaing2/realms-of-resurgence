@@ -4,7 +4,7 @@ aliases: []
 tags:
   - sai-yoxis
 name: Character Creation
-parent: "[[Handbook]]"
+parent: "[[Sai Yoxis]]"
 type: moc
 ---
 # Weapons

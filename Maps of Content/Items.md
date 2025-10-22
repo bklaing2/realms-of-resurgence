@@ -1,7 +1,7 @@
 ---
 name: Items
 aliases:
-parent: "[[Handbook]]"
+parent: "[[Sai Yoxis]]"
 type: moc
 tags:
   - todo
