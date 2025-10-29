@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dc7298e68d6fcce1",
+        "id": "2534717ad1654049",
         "type": "tabs",
         "children": [
           {
-            "id": "d57d24eb9ee9c739",
+            "id": "0fbdf2442d85466e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "0f99b70ab08e4e29",
@@ -340,9 +339,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d57d24eb9ee9c739",
+  "active": "0fbdf2442d85466e",
   "lastOpenFiles": [
     "_Templates/Armor.md",
+    "Bases/Character Creation.base",
+    "Bases/Sai Yoxis.base",
+    "Random stuff.md",
     "_Templates/Item.md",
     "_Templates/Map of Content.md",
     "_Scripts 1/property.js",
@@ -357,14 +359,12 @@
     "Maps of Content/Items.md",
     "Maps of Content/Projectiles.md",
     "Maps of Content/Mantic Manipulation.md",
-    "Bases/Sai Yoxis.base",
     "Maps of Content/Armor.md",
     "Maps of Content/Combat.md",
     "Maps of Content/Gloves.md",
     "Maps of Content/Equipment.md",
     "Maps of Content/Weapons.md",
     "Resources/Spiritwalker.md",
-    "Random stuff.md",
     "Resources/Time Bubble.md",
     "Maps of Content/The Wastes.md",
     "Maps of Content/Runic Circles.md",
@@ -372,9 +372,7 @@
     "Resources/Maniac.md",
     "Resources/Furomancy.md",
     "Maps of Content/The Worlds of Sai Yoxis.md",
-    "Maps of Content/Creatures.md",
     "Bases/Mantic Manipulation.base",
-    "Bases/Character Creation.base",
     "Bases",
     "Bases/Items.base",
     "_Scripts/property.js~"

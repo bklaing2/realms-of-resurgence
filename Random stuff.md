@@ -3,6 +3,11 @@ tags:
   - sai-yoxis
   - brainstorm
 ---
+Consolidate abilities that use Mantic energy (fighter empowered charges, spell slots, runic charge slots) under the umbrella term of "Mantic Charge". Everything will be called a Mantic Charge, and anything that consumes a Mantic Charge can be powered by anything else that produces a Mantic Charge. Therefore, a Fighter can pump three Mantic Charges into a Mage to allow them to cast a tier 3 Spell on their turn
+
+An enemy where you have to roll X or lower to hit - it would be harder to hit the higher level you are
+
+
 Modular monster creator. A few options here... Have a few roll tables for the appearance, abilities, etc of a monster that the DM is trying to make. They can roll to randomly create a monster, or use the tables to manually create their own monster.
 
 We will need:
