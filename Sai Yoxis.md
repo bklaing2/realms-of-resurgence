@@ -10,6 +10,8 @@ tags:
   - todo
   - sai-yoxis
 parent: "[[TTRPGs]]"
+note icon: emoji:📗
+note color: "#10b981"
 ---
 
 Sai Yoxis is... #todo 
