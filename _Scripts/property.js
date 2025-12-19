@@ -92,12 +92,19 @@ function property(tp) {
     const weapon_properties = {
       type: await type(),
       range: await prompt_for_range(),
-      attack: await prompt_for_dice("Attack"),
+      attack: await attack(),
       damage: await damage(),
       ...(await item(weapon_name)),
     };
 
     return weapon_properties;
+
+    async function attack_type() {
+      const labels = ["Finesse", "Fortitude"];
+      const values = labels.map((label) => label.toLowerCase());
+
+      return await tp.system.suggester(labels, values, "Attack Type");
+    }
 
     async function type() {
       const labels = ["Sword", "Dagger", "Bow"];

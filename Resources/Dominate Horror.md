@@ -21,4 +21,3 @@ As an action, roll to control a horror you can see within 60ft. On a success, yo
 # Radiation Fail Outcome
 
 If you get a radiation fail while attempting to dominate a horror or keep control of one, the horror targets you and immediately gets to take an extra turn.
-

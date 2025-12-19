@@ -24,6 +24,10 @@ Long ago, [[Scribe|Scribes]] discovered a way to influence Neomancy. By inscribi
 > **Option C**
 > 
 > A combination of A and B
+> 
+> **What we are going with** #solved
+> 
+> Runes will have a base glyph that produces one desired effect (E.g. [[Augment]] or [[Protection]]). The components used on it after it is drawn decide what it effects (HP, AC, etc). What the rune is drawn on determines how the effect manifests
 
 # Inscription
 

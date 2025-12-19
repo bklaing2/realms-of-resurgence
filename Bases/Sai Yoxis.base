@@ -54,7 +54,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 156
-      note.passive-ability: 107
+      note.passive-ability: 307
       note.roleplay-ability: 115
       note.exploration-ability: 139
       note.combat-ability: 129
@@ -75,14 +75,9 @@ views:
       - property: property.id
         direction: ASC
     columnSize:
-      file.name: 139
-      property.description: 269
-      property.subclass-i: 132
-      property.subclass-ii: 146
-      property.subclass-iii: 153
-      property.subclass-iv: 163
+      file.name: 67
+      note.description: 164
       formula.Needs Name: 150
-      property.id: 155
   - type: table
     name: Classes + Subclasses
     filters:
@@ -160,6 +155,7 @@ views:
     sort: []
     columnSize:
       file.name: 166
+      note.item type: 149
   - type: table
     name: Creatures
     filters:

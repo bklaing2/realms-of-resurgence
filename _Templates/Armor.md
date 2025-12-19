@@ -1,4 +1,4 @@
---
+---
 name: <%* const armor = await tp.user.property(tp).armor() %><% armor.name %>
 aliases:
 description:
