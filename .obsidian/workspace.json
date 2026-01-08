@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Whispering Angels.md",
+                "file": "Resources/Brawler.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Whispering Angels"
+              "title": "Brawler"
             }
           }
         ]
@@ -269,7 +269,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Whispering Angels.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Bases  ",
@@ -347,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Whispering Angels"
+              "title": "Graph view"
             }
           },
           {
@@ -356,7 +355,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Whispering Angels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +364,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Whispering Angels"
+              "title": "Backlinks"
             }
           },
           {
@@ -402,41 +400,41 @@
   },
   "active": "500da75462415b3c",
   "lastOpenFiles": [
+    "Bases/Sai Yoxis.base~",
+    "Bases/4913",
+    "What's needed for the practice one shot.md~",
+    "4913",
+    "Resources/Whispering Angels Cultist.md",
+    "Resources/Warped Wolf.md",
+    "Resources/Mantic Knight.md",
+    "Resources/Fleshwrought Armor.md",
+    "Resources/Barkspawn Tyrant.md",
+    "Resources/Barkspawn Sleeper.md",
+    "Resources/Barkspawn Runner.md",
+    "Resources/Bandit.md",
+    "Resources/Wolf of the Wastes.md",
+    "Resources/Whispering Angels.md",
+    "Resources/The Gathering Bright.md",
+    "Resources/Standing.md",
+    "Resources/Mysts.md",
+    "Resources/Forgotten Armor of the Wastes.md",
+    "Resources/Blood of the Wastes.md",
     "Maps of Content/Combat.md",
     "Maps of Content/Character Creation.md",
-    "Resources/Whispering Angels.md",
     "Resources/Brawler.md",
     "Resources/Dagger.md",
     "Bases/Items.base",
     "What's needed for the practice one shot.md",
-    "Resources/The Gathering Bright.md",
-    "Resources/Forgotten Armor of the Wastes.md",
     "Sai Yoxis.md",
     "Random stuff.md",
-    "Resources/Blood of the Wastes.md",
-    "Resources/Standing.md",
-    "Resources/Mysts.md",
     "Resources/Teleport Arrow.md",
     "Resources/Scribe.md",
     "Resources/FuroHunter.md",
-    "Resources/Scout.md",
-    "Resources/Mage.md",
-    "Resources/Mercenary.md",
-    "Resources/Fighter.md",
-    "Resources/Maniac.md",
-    "Maps of Content/Classes.md",
     "Bases/Sai Yoxis.base",
     "Bases/Mantic Manipulation.base",
-    "Maps of Content/Mantic Manipulation.md",
-    "Resources/Mutant.md",
-    "_Templates/Weapon.md",
-    "Resources/Dominate Horror.md",
     "_Scripts/property.js~",
     "_Scripts/4913",
     "Bases/Character Creation.base",
-    "_Scripts 1/property.js",
-    "_Scripts 1/util.js",
-    "_Scripts 1/extend.js",
-    "_Scripts 1"
+    "_Scripts 1/property.js"
   ]
 }
