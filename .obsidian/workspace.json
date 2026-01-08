@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maps of Content/Combat.md",
+                "file": "Resources/Whispering Angels.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Combat"
+              "title": "Outline of Whispering Angels"
             }
           },
           {
@@ -250,10 +250,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Maps of Content/Combat.md"
+                "file": "Resources/Whispering Angels.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Combat"
+              "title": "File properties for Whispering Angels"
             }
           }
         ]
@@ -269,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Maps of Content/Combat.md",
+                "file": "Resources/Whispering Angels.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Bases  ",
@@ -347,7 +347,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Combat"
+              "title": "Graph of Whispering Angels"
             }
           },
           {
@@ -356,7 +356,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps of Content/Combat.md",
+                "file": "Resources/Whispering Angels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +366,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Combat"
+              "title": "Backlinks for Whispering Angels"
             }
           },
           {
@@ -400,11 +400,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "500da75462415b3c",
+  "active": "7d517f3a050d630e",
   "lastOpenFiles": [
+    "Maps of Content/Combat.md",
     "Maps of Content/Character Creation.md",
     "Resources/Whispering Angels.md",
-    "Maps of Content/Combat.md",
     "Resources/Brawler.md",
     "Resources/Dagger.md",
     "Bases/Items.base",
