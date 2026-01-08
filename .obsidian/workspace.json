@@ -10,6 +10,7 @@
           {
             "id": "0084b272389e8e56",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,27 +18,31 @@
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Character Creation"
             }
           },
           {
-            "id": "ab559cbe85dbeda8",
+            "id": "735e4e374e34824d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Teleport Arrow.md",
+                "file": "Maps of Content/Combat.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Teleport Arrow"
+              "title": "Combat"
             }
           },
           {
             "id": "4a5f252a20879a89",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -45,12 +50,33 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "What's needed for the practice one shot"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "13fa19330dfad1fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d517f3a050d630e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Whispering Angels.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Whispering Angels"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +97,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -132,7 +158,7 @@
               "type": "bases",
               "state": {
                 "file": "Bases/Sai Yoxis.base",
-                "viewName": "Items"
+                "viewName": "Classes"
               },
               "icon": "lucide-table",
               "title": "Sai Yoxis"
@@ -192,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 509.5
   },
   "right": {
     "id": "0f99b70ab08e4e29",
@@ -209,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/Weapon.md",
+                "file": "Maps of Content/Combat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Weapon"
+              "title": "Outline of Combat"
             }
           },
           {
@@ -224,14 +250,13 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "What's needed for the practice one shot.md"
+                "file": "Maps of Content/Combat.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for What's needed for the practice one shot"
+              "title": "File properties for Combat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a6e0976675324826",
@@ -244,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "What's needed for the practice one shot.md",
+                "file": "Maps of Content/Combat.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Bases  ",
@@ -317,12 +342,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224436,
+                  "scale": 0.3628873693012126,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of What's needed for the practice one shot"
+              "title": "Graph of Combat"
             }
           },
           {
@@ -331,7 +356,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What's needed for the practice one shot.md",
+                "file": "Maps of Content/Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +366,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What's needed for the practice one shot"
+              "title": "Backlinks for Combat"
             }
           },
           {
@@ -358,12 +383,11 @@
               "title": "Outgoing links from Handbook"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 743.5
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -378,36 +402,37 @@
   },
   "active": "500da75462415b3c",
   "lastOpenFiles": [
-    "Sai Yoxis.md",
-    "Maps of Content/Mantic Manipulation.md",
-    "What's needed for the practice one shot.md",
-    "Bases/Items.base",
-    "Resources/Maniac.md",
-    "Resources/Mutant.md",
-    "Bases/Sai Yoxis.base",
-    "Resources/Teleport Arrow.md",
-    "_Templates/Weapon.md",
-    "Resources/Mage.md",
     "Maps of Content/Character Creation.md",
+    "Resources/Whispering Angels.md",
+    "Maps of Content/Combat.md",
+    "Resources/Brawler.md",
+    "Resources/Dagger.md",
+    "Bases/Items.base",
+    "What's needed for the practice one shot.md",
+    "Resources/The Gathering Bright.md",
+    "Resources/Forgotten Armor of the Wastes.md",
+    "Sai Yoxis.md",
     "Random stuff.md",
+    "Resources/Blood of the Wastes.md",
+    "Resources/Standing.md",
+    "Resources/Mysts.md",
+    "Resources/Teleport Arrow.md",
+    "Resources/Scribe.md",
+    "Resources/FuroHunter.md",
+    "Resources/Scout.md",
+    "Resources/Mage.md",
+    "Resources/Mercenary.md",
+    "Resources/Fighter.md",
+    "Resources/Maniac.md",
+    "Maps of Content/Classes.md",
+    "Bases/Sai Yoxis.base",
+    "Bases/Mantic Manipulation.base",
+    "Maps of Content/Mantic Manipulation.md",
+    "Resources/Mutant.md",
+    "_Templates/Weapon.md",
     "Resources/Dominate Horror.md",
-    "Resources/Mantic Core.md",
-    "Resources/Finger of Death.md",
-    "Maps of Content/Neomantic Spells.md",
-    "Resources/Obscure.md",
-    "Resources/Weapon.md",
     "_Scripts/property.js~",
     "_Scripts/4913",
-    "Resources/Maul.md",
-    "Maps of Content/Combat.md",
-    "_Templates/Spell.md",
-    "_Templates/Rune.md",
-    "_Templates/Potion.md",
-    "_Templates/Map of Content.md",
-    "_Templates/Item.md",
-    "_Templates/Equipment.md",
-    "_Templates/Base Template.md",
-    "Bases/Mantic Manipulation.base",
     "Bases/Character Creation.base",
     "_Scripts 1/property.js",
     "_Scripts 1/util.js",

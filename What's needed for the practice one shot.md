@@ -2,11 +2,14 @@
 
 - At least 5 classes complete through level 4
 	- Practice levelling up through level 4 with each class
+	- [[Brawler]], [[Fighter]], [[Mage]], [[Scout]], [[Scribe]]
 - Enemies/monsters
 	- Non horror enemies
 	- Horrors
 - Verify that combat is finished
-	- Three combats
+	- Four combats
+		- with a few bandits (normal guys)
+			- then level up to level one
 		- with people
 			- will be short
 		- with low intelligence low power horror
@@ -18,15 +21,17 @@
 	- Weapons for each player
 - Cool items to find
 	- A good range
+	- Finding spells/runes
 - Flesh out the wastes a bit more
 	- Get a good wastes table
 - Resting
 	- Outside the wastes
 	- Inside the wastes
+- Character Sheet
 
 # First step
 
-- Do a little complete improve mini adventure with the two of us following the above outline
+- Do a little complete improv mini adventure with the two of us following the above outline
 - If there's something blocking us from continuing
 	- Pause
 	- Address it

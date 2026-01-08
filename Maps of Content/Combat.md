@@ -41,6 +41,10 @@ Finesse + Intuition + Base AC of Armor
 Subtract the armor mitigation from the damage. If it falls below zero you take no damage. If it falls above the armor's damage threshold, you take damage like normal and mark off an armor damage slot. 
 #brainstorm  can also make it on a critical hit against you mark off a damage slot
 
+### On a Critical Hit
+
+Roll and add max potential dice damage to it
+
 ## Armor Damage Slots
 
 Armor has a certain number of extreme hits it can withstand. If it takes all of these, it breaks. A damage slot can be repaired on a short rest with the help of an armor repair kit. A damage slot can be repaired during a long rest without the aid of an armor repair kit. if it breaks completely, it must be taken to an armorer to be repaired.
