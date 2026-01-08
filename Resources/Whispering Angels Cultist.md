@@ -1,6 +1,7 @@
 ---
 type: creature
 ---
+[[Whispering Angels]]
 **AC**: 10  
 **HP**: 8  
 **Speed**: 30 ft  

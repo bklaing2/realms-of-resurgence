@@ -4,45 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "34b96718e048a697",
+        "id": "21594cf6f21bf42b",
         "type": "tabs",
         "children": [
           {
-            "id": "0084b272389e8e56",
+            "id": "a6e64696a48620b8",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maps of Content/Character Creation.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Character Creation"
-            }
-          },
-          {
-            "id": "735e4e374e34824d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maps of Content/Combat.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Combat"
-            }
-          },
-          {
-            "id": "4a5f252a20879a89",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -50,30 +17,49 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "What's needed for the practice one shot"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "13fa19330dfad1fd",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7d517f3a050d630e",
+            "id": "073ede69ff84a66d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Sai Yoxis.base",
+                "viewName": "Runes"
+              },
+              "icon": "lucide-table",
+              "title": "Sai Yoxis"
+            }
+          },
+          {
+            "id": "d1fe4f5bbf546c3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Barkspawn Tyrant.md",
+                "file": "Resources/Scribe.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barkspawn Tyrant"
+              "title": "Scribe"
+            }
+          },
+          {
+            "id": "4a124acfc85edcfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Brawler.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brawler"
             }
           }
         ]
@@ -88,7 +74,6 @@
       {
         "id": "17cb380f7ae1d3ce",
         "type": "tabs",
-        "dimension": 56.191839656406586,
         "children": [
           {
             "id": "fb9501efd17b0a93",
@@ -97,20 +82,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "bf834c35e3d5f849",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           },
           {
@@ -129,53 +104,60 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "bf834c35e3d5f849",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
-      },
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0f99b70ab08e4e29",
+    "type": "split",
+    "children": [
       {
-        "id": "b0dac94d2d0d9184",
+        "id": "25d20831de896ccf",
         "type": "tabs",
-        "dimension": 43.808160343593414,
         "children": [
           {
-            "id": "afb6a1417c489ebc",
+            "id": "d3308a17c78f2f86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "backlink",
               "state": {
-                "file": "Maps of Content/Mantic Manipulation.md",
-                "mode": "preview",
-                "source": false
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-file",
-              "title": "Mantic Manipulation"
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "d6978954e774bde4",
+            "id": "d2dd1836912bee0e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "outgoing-link",
               "state": {
-                "file": "Bases/Sai Yoxis.base",
-                "viewName": "Creatures"
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-table",
-              "title": "Sai Yoxis"
-            }
-          },
-          {
-            "id": "b432c2b873b40777",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -194,16 +176,6 @@
             }
           },
           {
-            "id": "500da75462415b3c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "493c99321002b00e",
             "type": "leaf",
             "state": {
@@ -212,230 +184,100 @@
               "icon": "history",
               "title": "History"
             }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 509.5
-  },
-  "right": {
-    "id": "0f99b70ab08e4e29",
-    "type": "split",
-    "children": [
-      {
-        "id": "25d20831de896ccf",
-        "type": "tabs",
-        "dimension": 53.888888888888886,
-        "children": [
+          },
           {
             "id": "83458e568d52ef88",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Barkspawn Tyrant.md",
+                "file": "What's needed for the practice one shot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Barkspawn Tyrant"
+              "title": "Outline of What's needed for the practice one shot"
             }
           },
           {
-            "id": "6873d4779e17eb38",
+            "id": "b432c2b873b40777",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "all-properties",
               "state": {
-                "file": "Resources/Barkspawn Tyrant.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Barkspawn Tyrant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a6e0976675324826",
-        "type": "tabs",
-        "dimension": 46.111111111111114,
-        "children": [
-          {
-            "id": "3748bc3ed969f345",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Resources/Barkspawn Tyrant.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "-path:Bases  ",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "[\"type\":moc]",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13750737
-                      }
-                    },
-                    {
-                      "query": "[\"type\":ancestry]",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6076630
-                      }
-                    },
-                    {
-                      "query": "[\"type\":subclass]",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6149805
-                      }
-                    },
-                    {
-                      "query": "[\"type\":class]",
-                      "color": {
-                        "a": 1,
-                        "rgb": 4827015
-                      }
-                    },
-                    {
-                      "query": "[\"type\":item]",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14075484
-                      }
-                    },
-                    {
-                      "query": "[\"type\":spell]",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14765567
-                      }
-                    },
-                    {
-                      "query": "[\"type\":rune]",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8539647
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.87179930795848,
-                  "lineSizeMultiplier": 1.00709342560554,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3628873693012126,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Barkspawn Tyrant"
-            }
-          },
-          {
-            "id": "d3308a17c78f2f86",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Resources/Barkspawn Tyrant.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Barkspawn Tyrant"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "d2dd1836912bee0e",
+            "id": "500da75462415b3c",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Handbook.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Handbook"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "graph:Open graph view": false,
-      "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d517f3a050d630e",
+  "active": "a6e64696a48620b8",
   "lastOpenFiles": [
+    "Bases/Sai Yoxis.base",
+    "Resources/Scribe.md",
+    "Resources/Whispering Angels Cultist.md",
+    "Resources/Standing.md",
+    "Resources/Brawler.md",
+    "Resources/Maniac.md",
+    "Resources/Barkspawn Tyrant.md",
+    "Resources/Barkspawn Runner.md",
     "Resources/Whispering Angels.md",
     "Resources/The Gathering Bright.md",
-    "Resources/Standing.md",
     "Resources/Mysts.md",
     "Resources/Blood of the Wastes.md",
+    "Resources/NeoBrawler.md",
     "Resources/Bandit.md",
-    "What's needed for the practice one shot.md",
     "Maps of Content/Combat.md",
-    "Resources/Brawler.md",
-    "Bases/Sai Yoxis.base~",
-    "Bases/4913",
-    "What's needed for the practice one shot.md~",
-    "4913",
-    "Resources/Whispering Angels Cultist.md",
-    "Resources/Warped Wolf.md",
-    "Resources/Mantic Knight.md",
-    "Resources/Fleshwrought Armor.md",
-    "Resources/Barkspawn Tyrant.md",
-    "Resources/Barkspawn Sleeper.md",
-    "Resources/Barkspawn Runner.md",
-    "Resources/Wolf of the Wastes.md",
-    "Resources/Forgotten Armor of the Wastes.md",
-    "Maps of Content/Character Creation.md",
-    "Resources/Dagger.md",
-    "Bases/Items.base",
-    "Sai Yoxis.md",
-    "Random stuff.md",
-    "Resources/Teleport Arrow.md",
-    "Resources/Scribe.md",
-    "Resources/FuroHunter.md",
-    "Bases/Sai Yoxis.base",
     "Bases/Mantic Manipulation.base",
-    "_Scripts/property.js~",
-    "_Scripts/4913",
-    "Bases/Character Creation.base"
+    "Resources/Mantic Knight.md",
+    "Resources/Tardigrades.md",
+    "Resources/Barkspawn Sleeper.md",
+    "Resources/Warped Wolf.md",
+    "Resources/Fleshwrought Armor.md",
+    "Resources/Mage.md",
+    "Resources/Druid.md",
+    "Resources/Engineer.md",
+    "Resources/Spiritwalker.md",
+    "What's needed for the practice one shot.md",
+    "Bases/Character Creation.base",
+    "Bases/Items.base",
+    "_Templates/Weapon.md",
+    "_Templates",
+    "_Scripts/util.js",
+    "_Scripts/property.js",
+    "_Scripts/extend.js",
+    "_Scripts",
+    "Bases"
   ]
 }

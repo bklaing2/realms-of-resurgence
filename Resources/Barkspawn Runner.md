@@ -1,6 +1,7 @@
 ---
 type: creature
 ---
+[[The Wastes]]
 **AC**: 13  
 **HP**: 25  
 **Speed**: 40 ft  
