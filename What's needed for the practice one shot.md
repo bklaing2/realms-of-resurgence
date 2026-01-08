@@ -1,28 +1,29 @@
 # Big Picture
 
-- At least 5 classes complete through level 4
-	- Practice levelling up through level 4 with each class
-- Enemies/monsters
-	- Non horror enemies
-	- Horrors
-- Verify that combat is finished
-	- Three combats
-		- with people
-			- will be short
-		- with low intelligence low power horror
-			- will be a bit longer
-			- low waste radiation
-		- with 'boss' horror
-			- will be a proper battle
-			- high waste radiation
-	- Weapons for each player
-- Cool items to find
-	- A good range
-- Flesh out the wastes a bit more
-	- Get a good wastes table
-- Resting
-	- Outside the wastes
-	- Inside the wastes
+- [ ] At least 5 classes complete through level 4
+	- [ ] Practice leveling up through level 4 with each class
+- [ ] Enemies/monsters
+	- [ ] Non horror enemies
+	- [ ] Horrors
+- [ ] Verify that combat is finished
+	- [ ] Three combats
+		- [ ] with people
+			- [ ] will be short
+		- [ ] with low intelligence low power horror
+			- [ ] will be a bit longer
+			- [ ] low waste radiation
+		- [ ] with 'boss' horror
+			- [ ] will be a proper battle
+			- [ ] high waste radiation
+	- [ ] Weapons for each player
+- [ ] Cool items to find
+	- [ ] A good range
+- [ ] Flesh out the wastes a bit more
+	- [ ] Get a good wastes table
+- [ ] Resting
+	- [ ] Outside the wastes
+	- [ ] Inside the wastes
+- Character sheet
 
 # First step
 
