@@ -25,13 +25,14 @@
             "id": "073ede69ff84a66d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Sai Yoxis.base",
-                "viewName": "Creatures"
+                "file": "Resources/Whispering Angels Cultist.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Sai Yoxis"
+              "icon": "lucide-file",
+              "title": "Whispering Angels Cultist"
             }
           }
         ],
@@ -164,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases/Sai Yoxis.base",
+                "file": "Resources/Whispering Angels Cultist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sai Yoxis"
+              "title": "Outline of Whispering Angels Cultist"
             }
           },
           {
@@ -217,11 +218,11 @@
   },
   "active": "073ede69ff84a66d",
   "lastOpenFiles": [
+    "Bases/Sai Yoxis.base",
     "Resources/Whispering Angels Cultist.md",
     "Resources/Bandit.md",
     "Maps of Content/Combat.md",
     "Bases/Mantic Manipulation.base",
-    "Bases/Sai Yoxis.base",
     "Resources/Mantic Knight.md",
     "Resources/Tardigrades.md",
     "Resources/Barkspawn Tyrant.md",
