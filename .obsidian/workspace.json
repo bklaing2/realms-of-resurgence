@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Brawler.md",
+                "file": "Resources/Barkspawn Tyrant.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brawler"
+              "title": "Barkspawn Tyrant"
             }
           }
         ]
@@ -88,7 +88,7 @@
       {
         "id": "17cb380f7ae1d3ce",
         "type": "tabs",
-        "dimension": 54.15472779369628,
+        "dimension": 56.191839656406586,
         "children": [
           {
             "id": "fb9501efd17b0a93",
@@ -135,7 +135,7 @@
       {
         "id": "b0dac94d2d0d9184",
         "type": "tabs",
-        "dimension": 45.845272206303726,
+        "dimension": 43.808160343593414,
         "children": [
           {
             "id": "afb6a1417c489ebc",
@@ -158,7 +158,7 @@
               "type": "bases",
               "state": {
                 "file": "Bases/Sai Yoxis.base",
-                "viewName": "Classes"
+                "viewName": "Creatures"
               },
               "icon": "lucide-table",
               "title": "Sai Yoxis"
@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Whispering Angels.md",
+                "file": "Resources/Barkspawn Tyrant.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Whispering Angels"
+              "title": "Outline of Barkspawn Tyrant"
             }
           },
           {
@@ -250,10 +250,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/Whispering Angels.md"
+                "file": "Resources/Barkspawn Tyrant.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Whispering Angels"
+              "title": "File properties for Barkspawn Tyrant"
             }
           }
         ]
@@ -269,6 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Resources/Barkspawn Tyrant.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Bases  ",
@@ -346,7 +347,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Barkspawn Tyrant"
             }
           },
           {
@@ -355,6 +356,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resources/Barkspawn Tyrant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +366,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Barkspawn Tyrant"
             }
           },
           {
@@ -398,8 +400,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "500da75462415b3c",
+  "active": "7d517f3a050d630e",
   "lastOpenFiles": [
+    "Resources/Whispering Angels.md",
+    "Resources/The Gathering Bright.md",
+    "Resources/Standing.md",
+    "Resources/Mysts.md",
+    "Resources/Blood of the Wastes.md",
+    "Resources/Bandit.md",
+    "What's needed for the practice one shot.md",
+    "Maps of Content/Combat.md",
+    "Resources/Brawler.md",
     "Bases/Sai Yoxis.base~",
     "Bases/4913",
     "What's needed for the practice one shot.md~",
@@ -411,20 +422,11 @@
     "Resources/Barkspawn Tyrant.md",
     "Resources/Barkspawn Sleeper.md",
     "Resources/Barkspawn Runner.md",
-    "Resources/Bandit.md",
     "Resources/Wolf of the Wastes.md",
-    "Resources/Whispering Angels.md",
-    "Resources/The Gathering Bright.md",
-    "Resources/Standing.md",
-    "Resources/Mysts.md",
     "Resources/Forgotten Armor of the Wastes.md",
-    "Resources/Blood of the Wastes.md",
-    "Maps of Content/Combat.md",
     "Maps of Content/Character Creation.md",
-    "Resources/Brawler.md",
     "Resources/Dagger.md",
     "Bases/Items.base",
-    "What's needed for the practice one shot.md",
     "Sai Yoxis.md",
     "Random stuff.md",
     "Resources/Teleport Arrow.md",
@@ -434,7 +436,6 @@
     "Bases/Mantic Manipulation.base",
     "_Scripts/property.js~",
     "_Scripts/4913",
-    "Bases/Character Creation.base",
-    "_Scripts 1/property.js"
+    "Bases/Character Creation.base"
   ]
 }
