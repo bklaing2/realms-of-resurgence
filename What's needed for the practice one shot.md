@@ -41,5 +41,23 @@
   - Address it
   - Continue where we left off
 
+## 08-01-2026: Started the practice mini adventure
+
+- 5 characters starting at level 0
+	- James
+		- [[Brawler]]
+		- [[Scribe]]
+	- Bryceson
+		- [[Scout]]
+		- [[Fighter]]
+		- [[Mage]]
+- Did a short combat against a group of [[Whispering Angels Cultist]]
+	- They attacked the [[Standing]] of the village as they were trying to protect against Horrors attacking the village
+	- The group of players attacked the cultists to protect their friend in the Standing
+	- Managed to kill them
+	- The mage was almost felled in one hit
+- After the combat, a few [[The Gathering Bright|Gathering Bright]] told the group to follow them
+	- We will level up to to level one next time
+
 # 7 weeks to get this ready
 

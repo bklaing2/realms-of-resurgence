@@ -1,6 +1,7 @@
 ---
 name: Gathering Bright
 aliases:
+  - Gathering Bright
 type: organization
 allies:
 enemies:
