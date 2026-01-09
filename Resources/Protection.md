@@ -5,7 +5,7 @@ tags:
   - sai-yoxis/iv
 description: Creatures within are protected from a specific element
 name: Protection
-parent: "[[Mantic Manipulation]]"
+parent: "[[Runic Circles]]"
 tier: 2
 type: rune
 ---

@@ -5,7 +5,7 @@ tags:
   - sai-yoxis
 description: The tank of the group
 name: Brawler
-parent: "[[Character Creation]]"
+parent: "[[Classes]]"
 type: class
 subclass-i: "[[NeoBrawler]]"
 subclass-ii: "[[DuoBrawler]]"

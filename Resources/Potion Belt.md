@@ -1,12 +1,22 @@
 ---
 name: Potion Belt
+aliases:
+description:
+parent: "[[Maps of Content/Equipment|Equipment]]"
 type: item
-subtype: equipment
-system:
-parent: "[[Items]]"
+item type: equipment
+equipment type:
+equippable slots:
+  - belt
 tags:
-  - sai-yoxis
+price:
+weight:
+size:
+consumable: false
+tier:
 ---
+# Description #todo
+
 Holds [[Potions]]
 
 Allows the wearer to take a potion as a bonus action. Can store 2 potions

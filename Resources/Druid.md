@@ -6,7 +6,7 @@ tags:
   - needs/name
 description: Main power is shapeshifting
 name: Druid
-parent: "[[Character Creation]]"
+parent: "[[Classes]]"
 type: class
 subclass-i: "[[NeoDruid]]"
 subclass-ii: "[[DuoDruid]]"

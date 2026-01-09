@@ -1,7 +1,23 @@
 ---
 tags:
   - sai-yoxis
+  - brainstorm
 ---
+Augment increase intrinsic mantic charge capacity
+
+# Casting spells using external mantic charges
+
+If (your intrinsic mantic ability score OR the number of mantic charges you use) is less than half of the required mantic charges needed for the intended action, then you have to make a roll for it or the (antimantic inverse OR radical fail outcome) occurs even outside of the wastes
+
+
+# Mantic abilities all use mantic charges
+
+Consolidate abilities that use Mantic energy (fighter empowered charges, spell slots, runic charge slots) under the umbrella term of "Mantic Charge". Everything will be called a Mantic Charge, and anything that consumes a Mantic Charge can be powered by anything else that produces a Mantic Charge. Therefore, a Fighter can pump three Mantic Charges into a Mage to allow them to cast a tier 3 Spell on their turn
+
+An enemy where you have to roll X or lower to hit - it would be harder to hit the higher level you are
+
+# Monster creator
+
 Modular monster creator. A few options here... Have a few roll tables for the appearance, abilities, etc of a monster that the DM is trying to make. They can roll to randomly create a monster, or use the tables to manually create their own monster.
 
 We will need:
@@ -18,6 +34,7 @@ For the actual monster creator system, the roll tables will be:
 	- Monsters in tier 1 do 3d4 + x to Y damage. Anything above shouldn't be included in that tier
 - A list of example radiation failures
 
+# Combat
 
 For combat abilites, either the save dc (e.g. 10 + level) or amount of damage will be tied to the level
 

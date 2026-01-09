@@ -5,8 +5,8 @@ tags:
   - sai-yoxis/iv/the-cataclysm
   - sai-yoxis/iv/post-cataclysm
   - needs/name
-parent: "[[Character Creation]]"
-type: race
+parent: "[[Ancestries]]"
+type: ancestry
 roleplay-ability: molt - They can molt their skin once a long rest to make essentially a minor illusion of yourself for an hour
 passive-ability:
 exploration-ability: Can heal some hp over a short rest (since lizards can regrow their tails)

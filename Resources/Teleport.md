@@ -8,7 +8,7 @@ tags:
 casting time: 1 action
 duration: instantaneous
 name: Teleport
-parent: "[[Mantic Manipulation]]"
+parent: "[[Neomantic Spells]]"
 range: 60ft
 requires focus: false
 target: 1 creature

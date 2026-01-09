@@ -4,14 +4,14 @@ aliases: []
 tags:
   - sai-yoxis
 name: Character Creation
-parent: "[[Handbook]]"
+parent: "[[Sai Yoxis]]"
 type: moc
 ---
 # Weapons
 
 ## Calculating to Hit
 
-Roll a d20 and add the related attribute for the weapon (likely the finesse or fortitude)
+Roll a d20 and add the related attribute for the [[Weapons|weapon]] (likely the finesse or fortitude)
 
 ## Calculating Damage Given on a Hit
 
@@ -21,6 +21,8 @@ Weapon damage + Related weapon attribute (finesse or fortitude)
 
 # Armor
 
+There are three basic types of [[Maps of Content/Armor|armor]],
+
 ## Equipping Armor
 
 | Type   | Required Attributes         | Base AC | Mitigation | Damage Threshold (2\*mitigation) | Damage Slots |
@@ -28,13 +30,20 @@ Weapon damage + Related weapon attribute (finesse or fortitude)
 | Light  | +2 Finesse                  | 8       | 4          | 8                                | 2            |
 | Medium | +1 Finesse and +1 Fortitude | 6       | 6          | 12                               | 4            |
 | Heavy  | +2 Fortitude                | 4       | 8          | 16                               | 6            |
+#brainstorm What if you rolled a die for mitigating damage on each hit? Higher tiers you roll multiple die. Then the Mitigation becomes a Mitigation die
+
 ## Calculating AC
 
 Finesse + Intuition + Base AC of Armor
 
 ## Calculating Damage Received on a Hit
 
-Subtract the armor mitigation from the damage. If it falls below zero you take no damage. If it falls above the armor's damage threshold, you take damage like normal and mark off an armor damage slot. (OR make it on a critical hit instead of a damage threshold)
+Subtract the armor mitigation from the damage. If it falls below zero you take no damage. If it falls above the armor's damage threshold, you take damage like normal and mark off an armor damage slot. 
+#brainstorm  can also make it on a critical hit against you mark off a damage slot
+
+### On a Critical Hit
+
+Roll and add max potential dice damage to it
 
 ## Armor Damage Slots
 

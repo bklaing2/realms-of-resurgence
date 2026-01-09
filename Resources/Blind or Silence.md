@@ -6,7 +6,7 @@ tags:
   - sai-yoxis
 description: Creatures within are blinded or silenced
 name: Blind or Silence
-parent: "[[Mantic Manipulation]]"
+parent: "[[Runic Circles]]"
 tier: 1
 type: rune
 ---

@@ -1,16 +1,16 @@
 ---
-id: sai-yoxis-class-7
+id: sai-yoxis-class-8
 aliases:
 tags:
   - sai-yoxis
-name: Mage
-parent: "[[Character Creation]]"
+name: Spiritwalker
+parent: "[[Classes]]"
 type: class
-description: The arcanists
-subclass-i: "[[Neomancer]]"
-subclass-ii: "[[Duomancer]]"
-subclass-iii: "[[Ethermancer]]"
-subclass-iv: "[[Furomancer]]"
+description:
+subclass-i: "[[NeoSpiritwalker]]"
+subclass-ii: "[[DuoSpiritwalker]]"
+subclass-iii: "[[EtherSpiritwalker]]"
+subclass-iv: "[[FuroSpiritwalker]]"
 ---
 
 # Class Abilities
@@ -24,6 +24,6 @@ subclass-iv: "[[Furomancer]]"
 ## Ability 2 #needs/name
 
 
-# Brainstorm
+# Brainstorm #brainstorm
 
 Model it after the clockwork soul or the bladesinger

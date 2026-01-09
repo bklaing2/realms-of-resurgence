@@ -4,7 +4,7 @@ aliases:
 tags:
   - sai-yoxis
 name: Mage
-parent: "[[Character Creation]]"
+parent: "[[Classes]]"
 type: class
 description: The arcanists
 subclass-i: "[[Neomancer]]"

@@ -1,8 +1,8 @@
 ---
-type: moc
-parent: "[[Handbook]]"
 name: Items
-aliases: 
+aliases:
+parent: "[[Sai Yoxis]]"
+type: moc
 tags:
   - todo
 ---
@@ -12,6 +12,4 @@ Things like backpacks will only have a certain amount of space, meaning they can
 
 A player can only carry a backpack (+ the armor they're wearing yada yada) according to their Fortidude attribute.
 
-# Equipment
-
-# Consumables
+![[Items.base|no-toolbar]]

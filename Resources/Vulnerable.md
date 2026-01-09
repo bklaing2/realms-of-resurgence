@@ -6,7 +6,7 @@ tags:
   - sai-yoxis
 description: Creatures within are vulnerable to damage for x number of rounds
 name: Vulnerable
-parent: "[[Mantic Manipulation]]"
+parent: "[[Runic Circles]]"
 tier: 1
 type: rune
 ---

@@ -8,7 +8,7 @@ tags:
 casting time: 1 action
 duration: instantaneous
 name: Bind
-parent: "[[Mantic Manipulation]]"
+parent: "[[Neomantic Spells]]"
 range: 30ft
 requires focus: true
 tier: 1

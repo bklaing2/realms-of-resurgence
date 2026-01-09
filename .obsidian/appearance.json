@@ -1,1 +1,13 @@
-{}
+{
+  "textFontFamily": "Baskervville,Baskerville,Cambria",
+  "interfaceFontFamily": "Candara,Trebuchet MS",
+  "monospaceFontFamily": "MapleMono Nerd Font,Menlo",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "bases-no-toolbar"
+  ],
+  "accentColor": "#ab8df8"
+}

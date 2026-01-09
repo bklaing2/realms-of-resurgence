@@ -4,7 +4,7 @@ aliases:
 tags:
   - sai-yoxis
 name: Scribe
-parent: "[[Character Creation]]"
+parent: "[[Classes]]"
 type: class
 description: Mystic knowledge keepers
 subclass-i: "[[Lorekeeper]]"
@@ -45,7 +45,7 @@ Tier 1 and 2 Runic Circles become more powerful:
 
 
 
-# Braindumps
+# Braindumps #brainstorm 
 
 Be able to draw glyphs on living flesh as a later unlock
 

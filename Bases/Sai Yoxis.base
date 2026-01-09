@@ -41,7 +41,7 @@ views:
     name: Ancestries
     filters:
       and:
-        - type == "race"
+        - type == "ancestry"
     order:
       - file.name
       - passive-ability
@@ -49,12 +49,15 @@ views:
       - exploration-ability
       - combat-ability
       - hp-die
+    sort:
+      - property: combat-ability
+        direction: ASC
     columnSize:
       file.name: 156
-      note.passive-ability: 441
-      note.roleplay-ability: 576
-      note.exploration-ability: 434
-      note.combat-ability: 508
+      note.passive-ability: 307
+      note.roleplay-ability: 115
+      note.exploration-ability: 139
+      note.combat-ability: 129
   - type: table
     name: Classes
     filters:
@@ -72,14 +75,9 @@ views:
       - property: property.id
         direction: ASC
     columnSize:
-      file.name: 139
-      property.description: 269
-      property.subclass-i: 132
-      property.subclass-ii: 146
-      property.subclass-iii: 153
-      property.subclass-iv: 163
+      file.name: 67
+      note.description: 164
       formula.Needs Name: 150
-      property.id: 155
   - type: table
     name: Classes + Subclasses
     filters:
@@ -108,55 +106,63 @@ views:
     filters:
       and:
         - type == "rune"
+    groupBy:
+      property: formula.Mantic Tier
+      direction: ASC
     order:
       - file.name
-      - description
-      - formula.Mantic Tier
-      - formula.Needs Name
-      - tags
+      - inscription time
     sort:
       - property: formula.Mantic Tier
-        direction: ASC
-      - property: file.name
         direction: ASC
       - property: property.tier
         direction: ASC
     columnSize:
-      file.name: 235
-      property.description: 613
-      formula.Needs Name: 150
-      property.tags: 163
+      file.name: 124
   - type: table
     name: Spells
     filters:
       and:
         - type == "spell"
+    groupBy:
+      property: formula.Mantic Tier
+      direction: ASC
     order:
       - file.name
-      - description
-      - formula.Mantic Tier
-      - formula.Needs Name
-      - tags
-    sort:
-      - property: formula.Mantic Tier
-        direction: ASC
-      - property: property.tier
-        direction: ASC
+      - casting time
+      - target
+      - range
+      - duration
+      - requires focus
+    sort: []
+    summaries: {}
     columnSize:
-      file.name: 172
-      note.description: 472
-      formula.Needs Name: 150
-      note.tags: 785
+      file.name: 138
+      note.casting time: 101
+      note.target: 115
+      note.range: 60
+      note.duration: 107
+      note.requires focus: 101
   - type: table
     name: Items
     filters:
       and:
         - type == "item"
+    order:
+      - file.name
+      - item type
+      - parent
+    sort: []
+    columnSize:
+      file.name: 166
+      note.item type: 149
   - type: table
     name: Creatures
     filters:
       and:
         - type == "creature"
+    columnSize:
+      file.name: 218
   - type: table
     name: Sai Yoxis I
     filters:

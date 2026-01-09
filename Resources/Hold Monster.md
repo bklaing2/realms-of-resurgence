@@ -6,7 +6,7 @@ tags:
   - sai-yoxis
 description: Creatures within are held
 name: Hold Monster
-parent: "[[Mantic Manipulation]]"
+parent: "[[Runic Circles]]"
 tier: 2
 type: rune
 ---

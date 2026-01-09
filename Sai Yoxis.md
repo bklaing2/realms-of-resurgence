@@ -1,17 +1,20 @@
 ---
+type: "[[Projects|project]]"
+status: in progress
 id: Handbook
 aliases:
-  - Sai Yoxis
+  - Handbook
 tags:
   - needs/name
   - needs/improvement
   - todo
   - sai-yoxis
 parent: "[[TTRPGs]]"
-type: moc
+note icon: emoji:📗
+note color: "#10b981"
 ---
 
-Sai Yoxis is...
+Sai Yoxis is... #todo 
 
 # Table of Contents
 
@@ -23,7 +26,7 @@ Sai Yoxis is...
 - [[Combat]]
 
 
-# Braindump
+# Braindump #brainstorm 
 
 Quick Actions: Reactions are bonus actions used outside of your turn. When you use a reaction, you can't use your bonus action on your next turn.
 

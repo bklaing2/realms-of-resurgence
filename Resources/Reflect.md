@@ -5,4 +5,5 @@ tags:
   - needs/name
   - needs/components
   - sai-yoxis
+parent: "[[Neomantic Spells]]"
 ---

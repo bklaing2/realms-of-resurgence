@@ -1,0 +1,33 @@
+views:
+  - type: list
+    name: Ancestries
+    filters:
+      and:
+        - type == "ancestry"
+    order:
+      - file.name
+    markers: bullet
+    nestedProperties: true
+  - type: list
+    name: Classes
+    filters:
+      and:
+        - type == "class"
+    order:
+      - file.name
+    sort: []
+    nestedProperties: false
+    markers: bullet
+    cardSize: 90
+  - type: list
+    name: Subclasses
+    filters:
+      and:
+        - type == "subclass"
+    groupBy:
+      property: parent
+      direction: ASC
+    sort:
+      - property: id
+        direction: ASC
+    markers: number

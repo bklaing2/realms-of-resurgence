@@ -1,12 +1,13 @@
 ---
-name: Weapon
-type: item
-subtype: weapon
-system:
-parent: "[[Items]]"
+name: Weapons
+aliases:
+  - Weapon
+  - weapon
+  - weapons
+parent: "[[Maps of Content/Equipment|Equipment]]"
+type: moc
 tags:
   - todo
-  - sai-yoxis
 ---
 `We will split these up into their own notes`
 

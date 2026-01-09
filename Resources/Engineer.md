@@ -5,7 +5,7 @@ tags:
   - sai-yoxis
   - needs/name
 name: Engineer
-parent: "[[Character Creation]]"
+parent: "[[Classes]]"
 type: class
 description: The tinkerers
 subclass-i: "[[Artificer]]"

@@ -5,8 +5,8 @@ tags:
   - sai-yoxis/iv/the-cataclysm
   - sai-yoxis/iv/post-cataclysm
   - needs/name
-parent: "[[Character Creation]]"
-type: race
+parent: "[[Ancestries]]"
+type: ancestry
 passive-ability: +1 resistance to things like furomantic radiation and disease
 roleplay-ability: unsettling presence
 exploration-ability: Assisted Jump - can jump up to xft times your level

@@ -7,7 +7,7 @@ tags:
   - sai-yoxis
 casting time: 1 action
 duration: while focusing
-parent: "[[Mantic Manipulation]]"
+parent: "[[Neomantic Spells]]"
 range: 30ft
 requires focus: true
 target: 15ft circle OR 1 creature

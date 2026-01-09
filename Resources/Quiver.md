@@ -1,12 +1,23 @@
 ---
 name: Quiver
+aliases:
+description:
+parent: "[[Maps of Content/Equipment|Equipment]]"
 type: item
-subtype: equipment
-system:
-parent: "[[Items]]"
+item type: equipment
+equipment type: boots
+equippable slots:
+  - belt
+  - back
 tags:
-  - sai-yoxis
+price:
+weight:
+size:
+consumable: false
+tier:
 ---
+# Description #todo
+
 Holds [[Arrows]]
 
 Has 8 arrow slots, but some special arrows may take more slots. When the quiver runs out, it requires an action to reload it from other arrows in the player's inventory.

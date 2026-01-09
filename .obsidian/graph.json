@@ -1,22 +1,72 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:Bases  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"type\":moc]",
+      "color": {
+        "a": 1,
+        "rgb": 13750737
+      }
+    },
+    {
+      "query": "[\"type\":ancestry]",
+      "color": {
+        "a": 1,
+        "rgb": 6076630
+      }
+    },
+    {
+      "query": "[\"type\":subclass]",
+      "color": {
+        "a": 1,
+        "rgb": 6149805
+      }
+    },
+    {
+      "query": "[\"type\":class]",
+      "color": {
+        "a": 1,
+        "rgb": 4827015
+      }
+    },
+    {
+      "query": "[\"type\":item]",
+      "color": {
+        "a": 1,
+        "rgb": 14075484
+      }
+    },
+    {
+      "query": "[\"type\":spell]",
+      "color": {
+        "a": 1,
+        "rgb": 14765567
+      }
+    },
+    {
+      "query": "[\"type\":rune]",
+      "color": {
+        "a": 1,
+        "rgb": 8539647
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.87179930795848,
+  "lineSizeMultiplier": 1.00709342560554,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.475778546712803,
+  "repelStrength": 10.9688581314879,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 30,
+  "scale": 0.6572596753575032,
   "close": true
 }

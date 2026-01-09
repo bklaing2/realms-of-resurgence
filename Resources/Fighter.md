@@ -4,7 +4,7 @@ aliases:
 tags:
   - sai-yoxis
 name: Fighter
-parent: "[[Character Creation]]"
+parent: "[[Classes]]"
 type: class
 description: The damage dealers
 subclass-i: "[[NeoFighter]]"

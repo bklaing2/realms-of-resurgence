@@ -5,8 +5,8 @@ tags:
   - sai-yoxis/iv/the-cataclysm
   - sai-yoxis/iv/post-cataclysm
   - needs/name
-parent: "[[Character Creation]]"
-type: race
+parent: "[[Ancestries]]"
+type: ancestry
 passive-ability: whisking - good sense of smell/hearing, ultrasonic communication
 exploration-ability: Burrowing - can dig xft times level
 combat-ability: incisors?

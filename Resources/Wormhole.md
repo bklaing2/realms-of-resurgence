@@ -6,7 +6,7 @@ tags:
   - sai-yoxis
 description: Create a wormhole between two points
 name: Wormhole
-parent: "[[Mantic Manipulation]]"
+parent: "[[Runic Circles]]"
 tier: 3
 type: rune
 ---
