@@ -1,3 +1,2 @@
 # Ignore volatile UI-related state
 .obsidian/workspace*
-plugins/obsidian-git/data.json

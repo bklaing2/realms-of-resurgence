@@ -43,7 +43,7 @@
 
 ## 08-01-2026: Started the practice mini adventure
 
-- 5 characters starting at level 0
+- Made 5 characters starting at level 0
 	- James
 		- [[Brawler]]
 		- [[Scribe]]
@@ -51,6 +51,7 @@
 		- [[Scout]]
 		- [[Fighter]]
 		- [[Mage]]
+
 - Did a short combat against a group of [[Whispering Angels Cultist]]
 	- They attacked the [[Standing]] of the village as they were trying to protect against Horrors attacking the village
 	- The group of players attacked the cultists to protect their friend in the Standing
