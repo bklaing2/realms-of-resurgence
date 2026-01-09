@@ -1,0 +1,2 @@
+# Ignore volatile UI-related state
+.obsidian/workspace*
