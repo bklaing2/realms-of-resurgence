@@ -41,7 +41,7 @@
   - Address it
   - Continue where we left off
 
-## 08-01-2026: Started the practice mini adventure
+## 07-01-2026: practice mini adventure - level 2
 
 - Made 5 characters starting at level 0
 	- James
@@ -59,6 +59,10 @@
 	- The mage was almost felled in one hit
 - After the combat, a few [[The Gathering Bright|Gathering Bright]] told the group to follow them
 	- We will level up to to level one next time
+
+## 15-01-2026: practice mini adventure - level 1
+
+
 
 # 7 weeks to get this ready
 
