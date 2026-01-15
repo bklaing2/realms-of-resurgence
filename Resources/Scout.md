@@ -11,6 +11,7 @@ subclass-i: "[[NeoHunter]]"
 subclass-ii: "[[DuoHunter]]"
 subclass-iii: "[[EtherHunter]]"
 subclass-iv: "[[FuroHunter]]"
+hit points: d6
 ---
 
 # Abilities

@@ -12,6 +12,7 @@ subclass-i: "[[Artificer]]"
 subclass-ii: "[[DuoEngineer]]"
 subclass-iii: "[[EtherEngineer]]"
 subclass-iv: "[[Alchemist]]"
+hit points: d6
 ---
 
 # Class Abilities

@@ -11,6 +11,7 @@ subclass-i: "[[NeoBrawler]]"
 subclass-ii: "[[DuoBrawler]]"
 subclass-iii: "[[EtherBrawler]]"
 subclass-iv: "[[Maniac]]"
+hit points: d8
 ---
 
 # Class Abilities

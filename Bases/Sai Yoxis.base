@@ -71,11 +71,14 @@ views:
       - subclass-ii
       - subclass-iii
       - subclass-iv
+      - hit points
     sort:
+      - property: hit points
+        direction: DESC
       - property: property.id
         direction: ASC
     columnSize:
-      file.name: 67
+      file.name: 91
       note.description: 164
       formula.Needs Name: 150
   - type: table

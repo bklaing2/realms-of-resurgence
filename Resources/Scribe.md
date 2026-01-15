@@ -9,9 +9,9 @@ type: class
 description: Mystic knowledge keepers
 subclass-i: "[[Lorekeeper]]"
 subclass-ii: "[[Glyphbinder]]"
-
 subclass-iii: "[[Sigilweaver]]"
 subclass-iv: "[[Runecarver]]"
+hit points: d6
 ---
 
 # Class Abilities

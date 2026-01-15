@@ -12,6 +12,7 @@ subclass-i: "[[NeoDruid]]"
 subclass-ii: "[[DuoDruid]]"
 subclass-iii: "[[EtherDruid]]"
 subclass-iv: "[[Mutant]]"
+hit points: d6
 ---
 
 # Class Abilities

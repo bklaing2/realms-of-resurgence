@@ -47,9 +47,17 @@ Some races/backgrounds give bonus to Physical or Mental attributes. These can be
 
 At level 0 everyone starts with 6hp
 
-When leveling up, add a hp die (determined by your class) to your hp when you level up. Some classes and races get bonuses to this
+# Levelling Up
 
-# General Level Unlocks
+## Ability Score Increase
+
+Add one to any ability score.
+
+## Health
+
+Roll a hit die (determined by your class) and add your new level (so levelling up to level 1 will be a roll + 1, levelling to 5 will give roll + 5) to your hp when you level up. Some classes and races get bonuses to this.
+
+## General Level Unlocks
 
 Every adventurer starts at level 0 - essentially a normal person. The first class ability isn't unlocked until level 1. As the adventure progresses, each character follows the same general outline when levelling up as described in the table below.
 
