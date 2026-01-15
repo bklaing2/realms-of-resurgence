@@ -9,13 +9,15 @@ equipment type: weapon
 equippable slots:
   - primary hand
 weapon type: dagger
+damage ability:
+hit ability:
 range: 5 feet
 attack: 1D4
 damage: 1D4
 tags:
-price: 
-weight: 
-size: 
+price:
+weight:
+size:
 consumable: false
 tier:
 ---
