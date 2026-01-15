@@ -12,8 +12,8 @@ equippable slots:
 weapon type:
 hit ability: intuition
 damage ability: fortitude
-range: 5ft / 30ft
-damage: 1d6 slashing
+range: 5ft
+damage: 1d8 bludgeoning
 tags:
 price:
 weight:

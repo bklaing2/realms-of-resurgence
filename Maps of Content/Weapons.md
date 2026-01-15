@@ -15,10 +15,10 @@ What if, instead, of having bludgeoning, slashing, etc, the damage is based on f
 
 *simple melee weapons*
 
-club - 1d4 bludgeoning (intuition/finesse)
-dagger - 1d4 piercing (finesse, light, thrown 20/60)
-greatclub - 1d8 bludgeoning (two-handed)
-handaxe - 1d6 slashing (light, thrown 30/120)
+[[Club]] - 1d4 bludgeoning (intuition/finesse)
+[[Dagger]] - 1d4 piercing (finesse, light, thrown 20/60)
+[[Greatclub]] - 1d8 bludgeoning (two-handed)
+[[Handaxe]] - 1d6 slashing (light, thrown 30/120)
 [[Javelin]] - 1d6 piercing (thrown 30/120)
 [[Light Hammer]] - 1d4 bludgeoning (light, thrown 20/60)
 [[Mace]] - 1d6 bludgeoning
