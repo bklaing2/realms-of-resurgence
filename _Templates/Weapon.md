@@ -9,6 +9,8 @@ equipment type: weapon
 equippable slots:
   - primary hand
 weapon type: <% weapon.type %>
+hit ability:
+damage ability:
 range: <% weapon.range %>
 attack: <% weapon.attack %>
 damage: <% weapon.damage %>

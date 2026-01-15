@@ -49,6 +49,8 @@ At level 0 everyone starts with 6hp
 
 # Levelling Up
 
+You must rest to level up
+
 ## Ability Score Increase
 
 Add one to any ability score.
