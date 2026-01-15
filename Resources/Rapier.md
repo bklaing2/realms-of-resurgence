@@ -10,10 +10,10 @@ equippable slots:
   - primary hand
   - off hand
 weapon type:
-hit ability: intelligence
-damage ability: fortitude
-range: 5ft
-damage: 1d8 slashing
+hit ability: intuition
+damage ability: finesse
+range: 5 ft
+damage: 1d8 piercing
 tags:
 price:
 weight:
@@ -24,6 +24,6 @@ tier:
 ---
 # Description #todo
 
-shortsword - 1d8 slashing
-intelligence to hit
+rapier - 1d8 piercing
+intuition to hit
 finesse for damage
