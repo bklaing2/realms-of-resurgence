@@ -1,5 +1,5 @@
 ---
-name: Crossbow
+name: Spear
 aliases:
 description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
@@ -8,11 +8,12 @@ item type: equipment
 equipment type: weapon
 equippable slots:
   - primary hand
+  - off hand
 weapon type:
 hit ability: intelligence
-damage ability: fortitude
-range: 120ft
-damage: 1d8 piercing
+damage ability: finesse
+range: 10ft
+damage: 1d6 piercing
 tags:
 price:
 weight:

@@ -22,6 +22,11 @@ views:
     filters:
       and:
         - note["equipment type"] == "weapon"
+    order:
+      - file.name
+      - hit ability
+      - damage ability
+      - damage
   - type: table
     name: Armor
     filters:

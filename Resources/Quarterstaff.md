@@ -1,5 +1,5 @@
 ---
-name: Crossbow
+name: Sickle
 aliases:
 description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
@@ -11,8 +11,8 @@ equippable slots:
 weapon type:
 hit ability: intelligence
 damage ability: fortitude
-range: 120ft
-damage: 1d8 piercing
+range: 10ft
+damage: 1d4 slashing
 tags:
 price:
 weight:
