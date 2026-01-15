@@ -8,16 +8,18 @@ item type: equipment
 equipment type: weapon
 equippable slots:
   - primary hand
+  - off hand
 weapon type:
-hit ability: intelligence
+hit ability: intuition
 damage ability: fortitude
-range: 10ft
-damage: 1d6 bludgeoning
+range: 10ft / 30ft
+damage: 1d6 piercing
 tags:
 price:
 weight:
 size:
 consumable: false
+throwable: true
 tier:
 ---
 # Description #todo
