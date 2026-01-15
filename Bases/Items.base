@@ -28,7 +28,9 @@ views:
       - damage ability
       - damage
     columnSize:
-      file.name: 105
+      file.name: 104
+      note.hit ability: 115
+      note.damage ability: 138
   - type: table
     name: Armor
     filters:
