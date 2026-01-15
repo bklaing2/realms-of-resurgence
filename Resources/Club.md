@@ -13,7 +13,7 @@ hit ability: intelligence
 damage ability: fortitude
 range: 5 feet
 attack:
-damage: 1D4
+damage: 1D4 bludgeoning
 tags:
 price:
 weight:

@@ -13,7 +13,7 @@ hit ability: intuition
 damage ability: finesse
 range: 20/60 feet
 attack:
-damage: 1D4
+damage: 1d4 slashing
 tags:
 price:
 weight:

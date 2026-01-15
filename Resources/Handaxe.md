@@ -13,7 +13,7 @@ hit ability: intuition
 damage ability: fortitude
 range: 30/120 feet
 attack:
-damage: 1D6
+damage: 1D6 slashing
 tags:
 price:
 weight:

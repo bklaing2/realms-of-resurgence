@@ -13,7 +13,7 @@ hit ability: intelligence
 damage ability: fortitude
 range: 30/120 feet
 attack:
-damage: 1D6
+damage: 1d6 piercing
 tags:
 price:
 weight:
