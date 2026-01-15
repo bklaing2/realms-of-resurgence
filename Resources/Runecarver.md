@@ -3,7 +3,7 @@ id: sai-yoxis-class-6.4
 aliases: []
 tags:
   - sai-yoxis/iv
-name: Sigilcarver
+name: Runecarver
 parent: "[[Scribe]]"
 type: subclass
 ---

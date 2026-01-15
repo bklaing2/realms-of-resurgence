@@ -9,7 +9,8 @@ type: class
 description: Mystic knowledge keepers
 subclass-i: "[[Lorekeeper]]"
 subclass-ii: "[[Glyphbinder]]"
-subclass-iii: "[[Runeweaver]]"
+
+subclass-iii: "[[Sigilweaver]]"
 subclass-iv: "[[Runecarver]]"
 ---
 

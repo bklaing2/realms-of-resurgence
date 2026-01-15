@@ -3,7 +3,7 @@ id: sai-yoxis-class-6.3
 aliases: []
 tags:
   - sai-yoxis/iii
-name: Runeweaver
+name: Sigilweaver
 parent: "[[Scribe]]"
 type: subclass
 ---
