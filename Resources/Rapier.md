@@ -19,7 +19,7 @@ price:
 weight:
 size:
 consumable: false
-throwable: true
+throwable: false
 tier:
 ---
 # Description #todo
