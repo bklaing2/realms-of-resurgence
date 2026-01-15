@@ -3,6 +3,11 @@ tags:
   - sai-yoxis
   - brainstorm
 ---
+# Scars and Death Saving Throws
+
+Each character starts with a capacity of 1 death saving throw failure, and need two successes to get back up. If they die, they can choose to take a scar. This will permanently mark off their one death saving throw failure capacity. If they go down again and die, they are dead dead
+
+
 Augment increase intrinsic mantic charge capacity
 
 # Casting spells using external mantic charges
