@@ -60,9 +60,11 @@
 - After the combat, a few [[The Gathering Bright|Gathering Bright]] told the group to follow them
 	- We will level up to to level one next time
 
-## 15-01-2026: practice mini adventure - level 1
+## 15-01-2026: Finalizing character sheet, weapons, and starting practice mini adventure - level 1
 
-
-
+- The party was summoned to the Gathering Bright.
+- They have been tasked with finding a Whispering Angels outpost, about three days trek in the [[The Wastes|Wastes]]
+- They have been given 8 days of rations and 3 torches each, 2 potions of health, maps of the region where they're going, other general info of the wastes
+- They exiting through the gates, and are officially in the Wastes for the first time in their lives
 # 7 weeks to get this ready
 
