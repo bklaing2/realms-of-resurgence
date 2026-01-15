@@ -26,4 +26,4 @@ spear - 1d6 piercing (thrown 20/60, versatile 1d8)
 
 *simple ranged weapons*
 
-light crossbow - 1d8 piercing (ammunition 80/320, loading, two-handed)
+[[Crossbow]] - 1d8 piercing (ammunition 80/320, loading, two-handed)
