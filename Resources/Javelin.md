@@ -1,5 +1,5 @@
 ---
-name: Sickle
+name: Javelin
 aliases:
 description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
@@ -10,7 +10,7 @@ equippable slots:
   - primary hand
   - off hand
 weapon type:
-hit ability: intuition
+hit ability: intelligence
 damage ability: fortitude
 range: 10ft / 30ft
 damage: 1d6 piercing
@@ -19,7 +19,13 @@ price:
 weight:
 size:
 consumable: false
+
 throwable: true
 tier:
 ---
 # Description #todo
+
+javelin - 1d6 piercing (thrown 30/120)
+intelligence to hit
+fortitude for damage
+>>>>>>> origin/main

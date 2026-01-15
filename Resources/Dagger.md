@@ -12,8 +12,9 @@ equippable slots:
 weapon type:
 hit ability: intelligence
 damage ability: finesse
-range: 5 feet
-damage: 1d4
+range: 20/60 feet
+damage: 1d4 slashing
+
 tags:
 price:
 weight:
@@ -23,3 +24,7 @@ throwable: true
 tier:
 ---
 # Description #todo
+
+dagger - 1d4 piercing (finesse, light, thrown 20/60)
+intuition to hit
+finesse for damage

@@ -1,5 +1,5 @@
 ---
-name: Sickle
+name: Handaxe
 aliases:
 description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
@@ -19,7 +19,12 @@ price:
 weight:
 size:
 consumable: false
+
 throwable: true
 tier:
 ---
 # Description #todo
+
+handaxe - 1d6 slashing (light, thrown 30/120)
+intuition to hit
+fortitude for damage

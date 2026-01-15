@@ -1,5 +1,5 @@
 ---
-name: Sickle
+name: Club
 aliases:
 description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
@@ -19,7 +19,12 @@ price:
 weight:
 size:
 consumable: false
+
 throwable: true
 tier:
 ---
 # Description #todo
+
+club - 1d4 bludgeoning (finesse, light)
+intelligence to hit
+fortitude for damage
