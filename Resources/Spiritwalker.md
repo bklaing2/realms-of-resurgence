@@ -11,6 +11,7 @@ subclass-i: "[[NeoSpiritwalker]]"
 subclass-ii: "[[DuoSpiritwalker]]"
 subclass-iii: "[[EtherSpiritwalker]]"
 subclass-iv: "[[FuroSpiritwalker]]"
+hit points: d4
 ---
 
 # Class Abilities

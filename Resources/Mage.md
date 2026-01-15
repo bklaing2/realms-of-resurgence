@@ -11,6 +11,7 @@ subclass-i: "[[Neomancer]]"
 subclass-ii: "[[Duomancer]]"
 subclass-iii: "[[Ethermancer]]"
 subclass-iv: "[[Furomancer]]"
+hit points: d4
 ---
 
 # Class Abilities

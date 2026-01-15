@@ -11,6 +11,7 @@ subclass-i: "[[NeoFighter]]"
 subclass-ii: "[[DuoFighter]]"
 subclass-iii: "[[EtherFighter]]"
 subclass-iv: "[[Mercenary]]"
+hit points: d8
 ---
 
 # Class Abilities
