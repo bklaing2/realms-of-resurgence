@@ -11,7 +11,7 @@ tags:
 ---
 `We will split these up into their own notes`
 
-What if, instead, of having bludgeoning, slashing, etc, the damage is based on fortitude/finesse, so the brawler takes half damage from attacks based in fortitude and such
+#brainstorm What if, instead, of having bludgeoning, slashing, etc, the damage is based on fortitude/finesse, so the brawler takes half damage from attacks based in fortitude and such
 
 *simple melee weapons*
 
