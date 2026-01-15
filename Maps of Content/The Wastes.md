@@ -33,6 +33,10 @@ If the outcome of the d20 is greater than the outcome of the Radiation Die, the 
 If the outcome of the d20 matches the outcome of the Radiation Die, the action automatically succeeds.
 `Should this be a crit or normal success?` #todo
 
+Get a mantic charge back
+
+If you were rolling a death saving throw, automatically come back up, and get a turn
+
 #### D20 < Radiation Die (Radical Failure)
 
 If the outcome of the d20 is less than the outcome of the Radiation Die, the intended action fails due to the radiation. The consequences of this failure are usually determined in the moment by the DM. However some actions, like casting a spell, outline specifically how the spell backfires or fails.
@@ -40,6 +44,8 @@ If the outcome of the d20 is less than the outcome of the Radiation Die, the int
 If you're attacking and get a nat 1 radiation fail, maybe the enemy gets an attack right then.
 
 If the action has a defined Radical Failure outcome, that happens as stated. However, if you radically fail on an action that doesn't have a radical failure outcome, something else may happen up to the GM. Some enemies will have a radiation fail outcome that is triggered when a nearby player radically fails on an action that *doesn't* have a defined radiation fail outcome (e.g. on a roll to hit). They use their reaction to do it, once per round.
+
+If you radically fail on a death saving throw, you mutate and come back up as a horror and attack the other players
 
 ## Levels of Furomantical Radiation
 
