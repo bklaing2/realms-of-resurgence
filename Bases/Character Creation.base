@@ -31,3 +31,5 @@ views:
       - property: id
         direction: ASC
     markers: number
+  - type: table
+    name: View
