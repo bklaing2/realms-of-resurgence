@@ -9,8 +9,8 @@ equipment type: weapon
 equippable slots:
   - primary hand
 weapon type: dagger
-damage ability:
 hit ability:
+damage ability:
 range: 5 feet
 attack: 1D4
 damage: 1D4
