@@ -7,7 +7,7 @@ name: Character Creation
 parent: "[[Sai Yoxis]]"
 type: moc
 ---
-# Weapons
+# Weapons #in-progress
 
 ## Calculating to Hit
 
@@ -16,6 +16,8 @@ Roll a d20 and add the related attribute for the [[Weapons|weapon]] (likely the 
 ## Calculating Damage Given on a Hit
 
 Weapon damage + Related weapon attribute (finesse or fortitude)
+
+#brainstorm The to hit and numbers will each have an associated attribute. To hit will have a mental attribute, and damage will have a physical attribute. For example, a bow may use intelligence for the to hit number (cause aiming is hard) and damage will use fortitude (how strong you are to pull it back farther)
 
 
 
