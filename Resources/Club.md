@@ -9,9 +9,9 @@ equipment type: weapon
 equippable slots:
   - primary hand
 weapon type: dagger
-hit ability: intuition
-damage ability: finesse
-range: 20/60 feet
+hit ability: intelligence
+damage ability: fortitude
+range: 5 feet
 attack:
 damage: 1D4
 tags:
@@ -23,6 +23,6 @@ tier:
 ---
 # Description #todo
 
-dagger - 1d4 piercing (finesse, light, thrown 20/60)
-intuition to hit
-finesse for damage
+club - 1d4 bludgeoning (finesse, light)
+intelligence to hit
+fortitude for damage
