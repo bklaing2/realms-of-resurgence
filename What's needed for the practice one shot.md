@@ -20,7 +20,7 @@
       - [ ] will be a proper battle
       - [ ] high waste radiation
 
-  - [ ] Weapons for each player
+  - [x] Weapons for each player
 - [ ] Cool items to find
   - [ ] A good range
 
