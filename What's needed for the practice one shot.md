@@ -31,7 +31,7 @@
   - [ ] Outside the wastes
   - [ ] Inside the wastes
 
-- [ ] Character sheet
+- [x] Character sheet
 
 # First step
 
