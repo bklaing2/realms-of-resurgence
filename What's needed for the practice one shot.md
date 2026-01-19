@@ -66,5 +66,17 @@
 - They have been tasked with finding a Whispering Angels outpost, about three days trek in the [[The Wastes|Wastes]]
 - They have been given 10 days of rations and 3 torches each, 2 potions of health, maps of the region where they're going, other general info of the wastes
 - They exited through the gates, and are officially in the Wastes for the first time in their lives
+
+## 19-01-2026: continuing practice mini adventure - level 1
+
+- Fought wolves
+- Fighter almost died
+- Scribe drew a trap
+- Killed the first wolf
+- Rested through the night
+- Radically failed both checks in the night
+- As we were leaving camp, attacked by [[Barkspawn Sleeper]]
+- It killed the scout. Scribe and Mage are unconscious
+
 # 7 weeks to get this ready
 
