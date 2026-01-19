@@ -64,7 +64,7 @@
 
 - The party was summoned to the Gathering Bright.
 - They have been tasked with finding a Whispering Angels outpost, about three days trek in the [[The Wastes|Wastes]]
-- They have been given 8 days of rations and 3 torches each, 2 potions of health, maps of the region where they're going, other general info of the wastes
-- They exiting through the gates, and are officially in the Wastes for the first time in their lives
+- They have been given 10 days of rations and 3 torches each, 2 potions of health, maps of the region where they're going, other general info of the wastes
+- They exited through the gates, and are officially in the Wastes for the first time in their lives
 # 7 weeks to get this ready
 
