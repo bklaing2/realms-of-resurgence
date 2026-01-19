@@ -34,6 +34,8 @@ There are three basic types of [[Maps of Content/Armor|armor]],
 | Heavy  | +2 Fortitude                | 4       | 8          | 16                               | 6            |
 #brainstorm What if you rolled a die for mitigating damage on each hit? Higher tiers you roll multiple die. Then the Mitigation becomes a Mitigation die
 
+#brainstorm if you do not have the required attributes to wear the armor, you can still wear it and gain the AC benefit, but not be able to mitigate any damage. You still mark damage slots based on thresholds in case you become able to mitigate, it still may be broken.
+
 ## Calculating AC
 
 Finesse + Intuition + Base AC of Armor
