@@ -78,5 +78,7 @@
 - As we were leaving camp, attacked by [[Barkspawn Sleeper]]
 - It killed the scout. Scribe and Mage are unconscious
 
+- We will start from rolling initiative again
+
 # 7 weeks to get this ready
 
