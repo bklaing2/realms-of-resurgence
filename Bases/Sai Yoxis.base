@@ -165,7 +165,7 @@ views:
       and:
         - type == "creature"
     columnSize:
-      file.name: 218
+      file.name: 226
   - type: table
     name: Sai Yoxis I
     filters:

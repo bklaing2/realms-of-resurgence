@@ -77,8 +77,16 @@
 - Radically failed both checks in the night
 - As we were leaving camp, attacked by [[Barkspawn Sleeper]]
 - It killed the scout. Scribe and Mage are unconscious
-
 - We will start from rolling initiative again
+- And need to roll on the Waste Table in [[The Wastes]]
+
+## 22-01-2026: James working in school
+
+- added [[Warhammer]]
+- added [[Whispering Angels Dreadmarshal]] and [[Whispering Angels Hexbound]]
+- added some properties to some things in [[Items.base]]
+- added an actual waste table to [[The Wastes|Wastes]]
+- 
 
 # 7 weeks to get this ready
 

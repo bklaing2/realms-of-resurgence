@@ -5,7 +5,7 @@ description:
 parent: "[[Maps of Content/Equipment|Equipment]]"
 type: item
 item type: equipment
-equipment type:
+equipment type: paired
 equippable slots:
   - ring
   - necklace

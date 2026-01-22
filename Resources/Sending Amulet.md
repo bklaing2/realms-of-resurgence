@@ -5,7 +5,7 @@ description:
 parent: "[[Necklaces]]"
 type: item
 item type: equipment
-equipment type: necklace
+equipment type: paired
 equippable slots:
   - necklace
 tags:
