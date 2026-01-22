@@ -48,9 +48,24 @@ Some races/backgrounds give bonus to Physical or Mental attributes. These can be
 These are called skills in D&D. Instead of being based on one attribute though, I think we can make them based on a combination.
 
 > [!help]- D&D Skills
-> 
-> Performance (Cha)
-> Religion (Int)
+> - [ ] Acrobatics (Dex)
+> - [ ] Animal Handling (Wis)
+> - [x] Arcana (Int)
+> - [x] Athletics (Str)
+> - [x] Deception (Cha)
+> - [x] History (Int)
+> - [x] Insight (Wis)
+> - [x] Intimidation (Cha)
+> - [x] Investigation (Int)
+> - [x] Medicine (Wis)
+> - [ ] Nature (Int)
+> - [x] Perception (Wis) (Intuition)
+> - [ ] Performance (Cha)
+> - [x] Persuasion (Cha)
+> - [ ] Religion (Int)
+> - [x] Sleight of Hand (Dex)
+> - [x] Stealth (Dex)
+> - [x] Survival (Wis)
 
 ### Table V1
 
@@ -79,21 +94,13 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 
 ### Table V4
 
-|     ***Fortitude***     |                      |                            |                            |              |
-| :---------------------: | :------------------: | :------------------------: | :------------------------: | :----------: |
-| Athletics ([[Fighter]]) |    ***Finesse***     |                            |                            |              |
-| Survival ([[Brawler]])  | Stealth ([[Scout]])  |      ***Intuition***       |                            |              |
-|      Intimidation       |      Persuasion      |  Tinkering ([[Engineer]])  |     ***Intelligence***     |              |
-| Constitution ([[Mage]]) | Survival ([[Druid]]) | Insight ([[Spiritwalker]]) | Investigation ([[Scribe]]) | ***Mantic*** |
+| ***Fortitude*** |          [[Fighter]]           |   [[Brawler]]   |       *Support?*       |     [[Mage]]     |
+| :-------------: | :----------------------------: | :-------------: | :--------------------: | :--------------: |
+|    Athletics    |         ***Finesse***          |    [[Scout]]    |      [[Engineer]]      |    [[Druid]]     |
+|  Intimidation   | Subterfuge?(Stealth/Deception) | ***Intuition*** |       *Support?*       | [[Spiritwalker]] |
+|   Persuasion    |        Tinker/Medicine         |  Investigation  |   ***Intelligence***   |    [[Scribe]]    |
+|  Constitution   | Legerdemain? (Sleight of Hand) |     Insight     | Lore? (Arcana/History) |   ***Mantic***   |
 
-### Table V5
-
-| Fortitude | Constitution ([[Mage]]) | Survival ([[Druid]]) | Insight ([[Spiritwalker]]) | Investigation ([[Scribe]]) |
-| :-------: | :---------------------: | :------------------: | :------------------------: | :------------------------: |
-|  Finesse  |     ***Fortitude***     |                      |                            |                            |
-|           | Athletics ([[Fighter]]) |    ***Finesse***     |                            |                            |
-|           | Survival ([[Brawler]])  | Stealth ([[Scout]])  |      ***Intuition***       |                            |
-|           |      Intimidation       |      Persuasion      |  Tinkering ([[Engineer]])  |     ***Intelligence***     |
 
 
 # Health
