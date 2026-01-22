@@ -68,13 +68,13 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 > Stealth (Dex)
 > Survival (Wis)
 
-|                  | Fortitude   | Finesse   | Intelligence     | Intuition     | Mantic   |
-| ---------------- | ----------- | --------- | ---------------- | ------------- | -------- |
-| **Fortitude**    | *Fortitude* | Athletics |                  | Intimidation  |          |
-| **Finesse**      | Acrobatics  | *Finesse* | Sleight of Hand? | Stealth       |          |
-| **Intelligence** |             | Medicine  | *Intelligence*   | Investigation | History  |
-| **Intuition**    | Persuasion  | Deception | Insight          | *Intuition*   |          |
-| **Mantic**       |             |           | Arcana           |               | *Mantic* |
+|                  | Fortitude   | Finesse   | Intelligence                               | Intuition     | Mantic   |
+| ---------------- | ----------- | --------- | ------------------------------------------ | ------------- | -------- |
+| **Fortitude**    | *Fortitude* | Athletics | Bigger craft things                        | Intimidation  |          |
+| **Finesse**      | Acrobatics  | *Finesse* | Sleight of Hand? Dexterous crafting things | Stealth       |          |
+| **Intelligence** | Survival    | Medicine  | *Intelligence*                             | Investigation | History  |
+| **Intuition**    | Persuasion  | Deception | Insight                                    | *Intuition*   |          |
+| **Mantic**       |             |           | Arcana                                     |               | *Mantic* |
 
 
 # Health
