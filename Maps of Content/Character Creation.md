@@ -77,12 +77,12 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 | Persuasion            | Acrobatics               | Animism                 | ***Intuition***              | Investigation         |
 | Survival              | Medicine                 | History                 | Insight                      | ***Intelligence***    |
 
-|     ***Fortitude***     |                     | Constitution ([[Mage]]) |          Intimidation ([[Brawler]])           |        Persuasion        |
-| :---------------------: | :-----------------: | :---------------------: | :-------------------------------------------: | :----------------------: |
-| Atletics ([[Fighter]])  |    ***Finesse***    |                         |             Survival ([[Scout]])              |                          |
-|  Channeling ([[Mage]])  |                     |      ***Mantic***       |         Summoning ([[Spiritwalker]])          | Inscription ([[Scribe]]) |
-| Athletics ([[Brawler]]) | Stealth ([[Scout]]) |   Animism ([[Druid]])   |                ***Intuition***                |                          |
-|        *Support*        |                     |                         | Tinkering / Forging / Crafting ([[Engineer]]) |    ***Intelligence***    |
+|     ***Fortitude***     |                        | Constitution ([[Mage]]) |          Intimidation ([[Brawler]])           |        Persuasion        |
+| :---------------------: | :--------------------: | :---------------------: | :-------------------------------------------: | :----------------------: |
+| Athletics ([[Fighter]]) |     ***Finesse***      |                         |              Stealth ([[Scout]])              |                          |
+|  Channeling ([[Mage]])  |                        |      ***Mantic***       |         Summoning ([[Spiritwalker]])          | Inscription ([[Scribe]]) |
+| Athletics ([[Brawler]]) | Acrobatics ([[Scout]]) |   Animism ([[Druid]])   |                ***Intuition***                |                          |
+|        Survival         |                        |                         | Tinkering / Forging / Crafting ([[Engineer]]) |    ***Intelligence***    |
 
 
 
