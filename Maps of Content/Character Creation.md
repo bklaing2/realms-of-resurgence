@@ -49,32 +49,16 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 
 > [!help]- D&D Skills
 > 
-> Acrobatics (Dex)
-> Animal Handling (Wis)
-> Arcana (Int)
-> Athletics (Str)
-> Deception (Cha)
-> History (Int)
-> Insight (Wis)
-> Intimidation (Cha)
-> Investigation (Int)
-> Medicine (Wis)
-> Nature (Int)
-> Perception (Wis)
 > Performance (Cha)
-> Persuasion (Cha)
 > Religion (Int)
-> Sleight of Hand (Dex)
-> Stealth (Dex)
-> Survival (Wis)
 
-|                  | Fortitude   | Finesse   | Intelligence   | Intuition     | Mantic   |
-| ---------------- | ----------- | --------- | -------------- | ------------- | -------- |
-| **Fortitude**    | *Fortitude* | Athletics | Forging        | Intimidation  |          |
-| **Finesse**      | Acrobatics  | *Finesse* | Tinkering      | Stealth       |          |
-| **Intelligence** | Survival    | Medicine  | *Intelligence* | Investigation | History  |
-| **Intuition**    | Persuasion  | Deception | Insight        | *Intuition*   |          |
-| **Mantic**       |             |           | Arcana         |               | *Mantic* |
+|                  | Fortitude   | Finesse   | Intelligence                                   | Intuition                                                     | Mantic                   |
+| ---------------- | ----------- | --------- | ---------------------------------------------- | ------------------------------------------------------------- | ------------------------ |
+| **Fortitude**    | *Fortitude* | Athletics | Forging                                        | Intimidation                                                  | Constitution             |
+| **Finesse**      | Acrobatics  | *Finesse* | Tinkering                                      | Stealth                                                       | Sleight of Hand          |
+| **Intelligence** | Survival    | Medicine  | *Intelligence*                                 | Investigation                                                 | History                  |
+| **Intuition**    | Persuasion  | Deception | Insight                                        | *Intuition*                                                   | Nature / Animal Handling |
+| **Mantic**       |             |           | Arcana - explain what this could be for please | Divination / Religion ? Like things to come, stuff like that? | *Mantic*                 |
 
 
 # Health
