@@ -52,13 +52,31 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 > Performance (Cha)
 > Religion (Int)
 
-|                  | Fortitude   | Finesse   | Intelligence                                   | Intuition                                                     | Mantic                   |
-| ---------------- | ----------- | --------- | ---------------------------------------------- | ------------------------------------------------------------- | ------------------------ |
-| **Fortitude**    | *Fortitude* | Athletics | Forging                                        | Intimidation                                                  | Constitution             |
-| **Finesse**      | Acrobatics  | *Finesse* | Tinkering                                      | Stealth                                                       | Sleight of Hand          |
-| **Intelligence** | Survival    | Medicine  | *Intelligence*                                 | Investigation                                                 | History                  |
-| **Intuition**    | Persuasion  | Deception | Insight                                        | *Intuition*                                                   | Nature / Animal Handling |
-| **Mantic**       |             |           | Arcana - explain what this could be for please | Divination / Religion ? Like things to come, stuff like that? | *Mantic*                 |
+### Table V1
+
+| ***Fortitude*** | Athletics     | Forging            | Intimidation    | Constitution |
+| --------------- | ------------- | ------------------ | --------------- | ------------ |
+| Acrobatics      | ***Finesse*** | Tinkering          | Stealth         | Illusion     |
+| Survival        | Medicine      | ***Intelligence*** | Investigation   | Inscription  |
+| Persuasion      | Deception     | Insight            | ***Intuition*** | Animism      |
+| Channeling      | History?      | Arcana             | Summoning       | ***Mantic*** |
+### Table V2
+
+| ***Fortitude*** | Athletics     | Constitution | Intimidation    |                    |
+| --------------- | ------------- | ------------ | --------------- | ------------------ |
+| Acrobatics      | ***Finesse*** | Tinkering    | Stealth         | Illusion           |
+| Channeling      | Illusion      | ***Mantic*** | Summoning       | Inscription        |
+| Persuasion      | Deception     | Animism      | ***Intuition*** | Investigation      |
+| Survival        | History?      | Arcana       | Insight         | ***Intelligence*** |
+### Table V3
+
+|     ***Fortitude***     |                              | Constitution ([[Mage]])  |          Intimidation ([[Brawler]])           |                      |
+| :---------------------: | :--------------------------: | :----------------------: | :-------------------------------------------: | :------------------: |
+|        *Support*        |        ***Finesse***         |                          |                    Stealth                    | Survival ([[Scout]]) |
+|  Channeling ([[Mage]])  | Summoning ([[Spiritwalker]]) |       ***Mantic***       |                                               |                      |
+| Athletics ([[Brawler]]) |   Acrobatics ([[Fighter]])   |   Animism ([[Druid]])    |                ***Intuition***                |                      |
+|        *Support*        |     Stealth ([[Scout]])      | Inscription ([[Scribe]]) | Tinkering / Forging / Crafting ([[Engineer]]) |  ***Intelligence***  |
+
 
 
 # Health

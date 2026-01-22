@@ -7,7 +7,8 @@
   "cssTheme": "Minimal",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "bases-no-toolbar"
+    "bases-no-toolbar",
+    "table-dont-bold-first-row"
   ],
   "accentColor": "#ab8df8"
 }

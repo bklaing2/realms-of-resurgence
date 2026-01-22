@@ -1,0 +1,11 @@
+/* table header weigth in reading mode */
+.markdown-preview-view {
+  --table-header-weight: normal;
+  /* bold/normal */
+}
+
+/* table header weigth in live preview */
+.markdown-source-view {
+  --table-header-weight: normal;
+  /* bold/normal */
+}
