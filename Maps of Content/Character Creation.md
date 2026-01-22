@@ -43,6 +43,40 @@ Take 2d4, assign one to be positive and the to be negative. Roll and add these 6
 
 Some races/backgrounds give bonus to Physical or Mental attributes. These can be distributed between the attributes in the specified category, up to a maximum of 3 for any attribute.
 
+## Calculate specific attributes #brainstorm #needs/name
+
+These are called skills in D&D. Instead of being based on one attribute though, I think we can make them based on a combination.
+
+> [!help]- D&D Skills
+> 
+> Acrobatics (Dex)
+> Animal Handling (Wis)
+> Arcana (Int)
+> Athletics (Str)
+> Deception (Cha)
+> History (Int)
+> Insight (Wis)
+> Intimidation (Cha)
+> Investigation (Int)
+> Medicine (Wis)
+> Nature (Int)
+> Perception (Wis)
+> Performance (Cha)
+> Persuasion (Cha)
+> Religion (Int)
+> Sleight of Hand (Dex)
+> Stealth (Dex)
+> Survival (Wis)
+
+|                  | Fortitude   | Finesse    | Intelligence   | Intuition     | Mantic   |
+| ---------------- | ----------- | ---------- | -------------- | ------------- | -------- |
+| **Fortitude**    | *Fortitude* | Athletics  | Survival       | Intimidation  |          |
+| **Finesse**      | Acrobatics  | *Finesse*  | Deception      |               |          |
+| **Intelligence** |             | Persuasion | *Intelligence* | Investigation | History  |
+| **Intuition**    |             | Medicine   | Insight        | *Intuition*   |          |
+| **Mantic**       |             |            | Arcana         |               | *Mantic* |
+
+
 # Health
 
 At level 0 everyone starts with 6hp
