@@ -80,8 +80,8 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 |     ***Fortitude***     |                        | Constitution ([[Mage]]) |          Intimidation ([[Brawler]])           |        Persuasion        |
 | :---------------------: | :--------------------: | :---------------------: | :-------------------------------------------: | :----------------------: |
 | Athletics ([[Fighter]]) |     ***Finesse***      |                         |              Stealth ([[Scout]])              |                          |
-|  Channeling ([[Mage]])  |                        |      ***Mantic***       |         Summoning ([[Spiritwalker]])          | Inscription ([[Scribe]]) |
-| Athletics ([[Brawler]]) | Acrobatics ([[Scout]]) |   Animism ([[Druid]])   |                ***Intuition***                |                          |
+|  Channeling ([[Mage]])  |  Animism ([[Druid]])   |      ***Mantic***       |         Summoning ([[Spiritwalker]])          | Inscription ([[Scribe]]) |
+| Athletics ([[Brawler]]) | Acrobatics ([[Scout]]) |                         |                ***Intuition***                |                          |
 |        Survival         |                        |                         | Tinkering / Forging / Crafting ([[Engineer]]) |    ***Intelligence***    |
 
 
