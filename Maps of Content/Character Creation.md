@@ -77,9 +77,9 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 | Persuasion            | Acrobatics               | Animism                 | ***Intuition***              | Investigation         |
 | Survival              | Medicine                 | History                 | Insight                      | ***Intelligence***    |
 
-|     ***Fortitude***     |                              | Constitution ([[Mage]])  |          Intimidation ([[Brawler]])           |                      |
+|     ***Fortitude***     |                              | Constitution ([[Mage]])  |          Intimidation ([[Brawler]])           |      Persuasion      |
 | :---------------------: | :--------------------------: | :----------------------: | :-------------------------------------------: | :------------------: |
-|        *Support*        |        ***Finesse***         |                          |                    Stealth                    | Survival ([[Scout]]) |
+|        *Support*        |        ***Finesse***         |                          |                                               | Survival ([[Scout]]) |
 |  Channeling ([[Mage]])  | Summoning ([[Spiritwalker]]) |       ***Mantic***       |                                               |                      |
 | Athletics ([[Brawler]]) |   Acrobatics ([[Fighter]])   |   Animism ([[Druid]])    |                ***Intuition***                |                      |
 |        *Support*        |     Stealth ([[Scout]])      | Inscription ([[Scribe]]) | Tinkering / Forging / Crafting ([[Engineer]]) |  ***Intelligence***  |
