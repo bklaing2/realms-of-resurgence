@@ -85,8 +85,8 @@
 - added [[Warhammer]]
 - added [[Whispering Angels Dreadmarshal]] and [[Whispering Angels Hexbound]]
 - added some properties to some things in [[Items.base]]
-- added an actual waste table to [[The Wastes|Wastes]]
+- added an actual waste table to [[The Wastes|Wastes]] (**PLEASE READ** numbers 9 and 11 and let me know if you like them and if they fit in the table)
 - 
 
-# 7 weeks to get this ready
+# 5 weeks to get this ready
 
