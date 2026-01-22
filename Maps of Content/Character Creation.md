@@ -77,13 +77,23 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 | Persuasion            | Acrobatics               | Animism                 | ***Intuition***              | Investigation         |
 | Survival              | Medicine                 | History                 | Insight                      | ***Intelligence***    |
 
-|     ***Fortitude***     |                      | Intimidation ([[Brawler]]) |         Persuasion         |    Channeling ([[Mage]])     |
-| :---------------------: | :------------------: | :------------------------: | :------------------------: | :--------------------------: |
-| Athletics ([[Fighter]]) |    ***Finesse***     |    Stealth ([[Scout]])     |                            |     Animism ([[Druid]])      |
-| Survival ([[Brawler]])  | Stealth ([[Scout]])  |      ***Intuition***       |                            | Summoning ([[Spiritwalker]]) |
-|      Intimidation       |      Persuasion      |  Tinkering ([[Engineer]])  |     ***Intelligence***     |   Inscription ([[Scribe]])   |
-| Constitution ([[Mage]]) | Survival ([[Druid]]) | Insight ([[Spiritwalker]]) | Investigation ([[Scribe]]) |         ***Mantic***         |
+### Table V4
 
+|     ***Fortitude***     |                      |                            |                            |              |
+| :---------------------: | :------------------: | :------------------------: | :------------------------: | :----------: |
+| Athletics ([[Fighter]]) |    ***Finesse***     |                            |                            |              |
+| Survival ([[Brawler]])  | Stealth ([[Scout]])  |      ***Intuition***       |                            |              |
+|      Intimidation       |      Persuasion      |  Tinkering ([[Engineer]])  |     ***Intelligence***     |              |
+| Constitution ([[Mage]]) | Survival ([[Druid]]) | Insight ([[Spiritwalker]]) | Investigation ([[Scribe]]) | ***Mantic*** |
+
+### Table V5
+
+| Fortitude | Constitution ([[Mage]]) | Survival ([[Druid]]) | Insight ([[Spiritwalker]]) | Investigation ([[Scribe]]) |
+| :-------: | :---------------------: | :------------------: | :------------------------: | :------------------------: |
+|  Finesse  |     ***Fortitude***     |                      |                            |                            |
+|           | Athletics ([[Fighter]]) |    ***Finesse***     |                            |                            |
+|           | Survival ([[Brawler]])  | Stealth ([[Scout]])  |      ***Intuition***       |                            |
+|           |      Intimidation       |      Persuasion      |  Tinkering ([[Engineer]])  |     ***Intelligence***     |
 
 
 # Health
