@@ -77,12 +77,12 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 | Persuasion            | Acrobatics               | Animism                 | ***Intuition***              | Investigation         |
 | Survival              | Medicine                 | History                 | Insight                      | ***Intelligence***    |
 
-|     ***Fortitude***     |                        |          Intimidation ([[Brawler]])           |        Persuasion        | Constitution ([[Mage]]) |
-| :---------------------: | :--------------------: | :-------------------------------------------: | :----------------------: | :---------------------: |
-| Athletics ([[Fighter]]) |     ***Finesse***      |              Stealth ([[Scout]])              |                          |                         |
-| Athletics ([[Brawler]]) | Acrobatics ([[Scout]]) |                ***Intuition***                |                          |                         |
-|        Survival         |                        | Tinkering / Forging / Crafting ([[Engineer]]) |    ***Intelligence***    |                         |
-|  Channeling ([[Mage]])  |  Animism ([[Druid]])   |         Summoning ([[Spiritwalker]])          | Inscription ([[Scribe]]) |      ***Mantic***       |
+|     ***Fortitude***     |                     | Intimidation ([[Brawler]]) |     Persuasion     | Channeling ([[Mage]]) |
+| :---------------------: | :-----------------: | :------------------------: | :----------------: | :-------------------: |
+| Athletics ([[Fighter]]) |    ***Finesse***    |   Acrobatics ([[Scout]])   |                    |        Animism        |
+| Athletics ([[Brawler]]) | Stealth ([[Scout]]) |      ***Intuition***       |                    |       Summoning       |
+|        Survival         |                     |  Tinkering ([[Engineer]])  | ***Intelligence*** |      Inscription      |
+| Constitution ([[Mage]]) |     ([[Druid]])     |     ([[Spiritwalker]])     |    ([[Scribe]])    |     ***Mantic***      |
 
 
 
