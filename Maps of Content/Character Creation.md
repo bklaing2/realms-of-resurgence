@@ -70,11 +70,11 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 | Survival        | Medicine      | History      | Insight         | ***Intelligence***    |
 ### Table V3
 
-| ***Fortitude***       | Athletics                | Constitution ([[Mage]]) | Intimidation                 | Forging / Crafting?   |
+| ***Fortitude***       | Deception?               | Constitution ([[Mage]]) | Intimidation                 | Forging / Crafting?   |
 | --------------------- | ------------------------ | ----------------------- | ---------------------------- | --------------------- |
-| Acrobatics            | ***Finesse***            | Illusion ([[Scribe]])   | Stealth                      | Tinkering / Crafting? |
+| Athletics             | ***Finesse***            | Illusion ([[Scribe]])   | Stealth                      | Tinkering / Crafting? |
 | Channeling ([[Mage]]) | Inscription ([[Scribe]]) | ***Mantic***            | Summoning ([[Spiritwalker]]) | Arcana                |
-| Persuasion            | Deception                | Animism                 | ***Intuition***              | Investigation         |
+| Persuasion            | Acrobatics               | Animism                 | ***Intuition***              | Investigation         |
 | Survival              | Medicine                 | History                 | Insight                      | ***Intelligence***    |
 
 |     ***Fortitude***     |                              | Constitution ([[Mage]])  |          Intimidation ([[Brawler]])           |                      |
