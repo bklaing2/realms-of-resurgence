@@ -6,8 +6,8 @@ parent: "[[Creatures]]"
 ac: 17
 hp: 9
 speed: 35
-to hit: "6"
-mantic score: 3
+to hit: "5"
+mantic score: 4
 perception:
 ---
 **AC**: 17
