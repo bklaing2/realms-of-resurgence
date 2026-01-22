@@ -57,18 +57,25 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 | ***Fortitude*** | Athletics     | Forging            | Intimidation    | Constitution |
 | --------------- | ------------- | ------------------ | --------------- | ------------ |
 | Acrobatics      | ***Finesse*** | Tinkering          | Stealth         | Illusion     |
-| Survival        | Medicine      | ***Intelligence*** | Investigation   | Inscription  |
+| Survival        | Medicine      | ***Intelligence*** | Investigation   | History?     |
 | Persuasion      | Deception     | Insight            | ***Intuition*** | Animism      |
-| Channeling      | History?      | Arcana             | Summoning       | ***Mantic*** |
+| Channeling      | Inscription   | Arcana             | Summoning       | ***Mantic*** |
 ### Table V2
 
-| ***Fortitude*** | Athletics     | Constitution | Intimidation    |                    |
-| --------------- | ------------- | ------------ | --------------- | ------------------ |
-| Acrobatics      | ***Finesse*** | Tinkering    | Stealth         | Illusion           |
-| Channeling      | Illusion      | ***Mantic*** | Summoning       | Inscription        |
-| Persuasion      | Deception     | Animism      | ***Intuition*** | Investigation      |
-| Survival        | History?      | Arcana       | Insight         | ***Intelligence*** |
+| ***Fortitude*** | Athletics     | Constitution | Intimidation    | Forging / Crafting?   |
+| --------------- | ------------- | ------------ | --------------- | --------------------- |
+| Acrobatics      | ***Finesse*** | Illusion     | Stealth         | Tinkering / Crafting? |
+| Channeling      | Inscription   | ***Mantic*** | Summoning       | Arcana                |
+| Persuasion      | Deception     | Animism      | ***Intuition*** | Investigation         |
+| Survival        | Medicine      | History      | Insight         | ***Intelligence***    |
 ### Table V3
+
+| ***Fortitude***       | Athletics                | Constitution ([[Mage]]) | Intimidation                 | Forging / Crafting?   |
+| --------------------- | ------------------------ | ----------------------- | ---------------------------- | --------------------- |
+| Acrobatics            | ***Finesse***            | Illusion ([[Scribe]])   | Stealth                      | Tinkering / Crafting? |
+| Channeling ([[Mage]]) | Inscription ([[Scribe]]) | ***Mantic***            | Summoning ([[Spiritwalker]]) | Arcana                |
+| Persuasion            | Deception                | Animism                 | ***Intuition***              | Investigation         |
+| Survival              | Medicine                 | History                 | Insight                      | ***Intelligence***    |
 
 |     ***Fortitude***     |                              | Constitution ([[Mage]])  |          Intimidation ([[Brawler]])           |                      |
 | :---------------------: | :--------------------------: | :----------------------: | :-------------------------------------------: | :------------------: |
