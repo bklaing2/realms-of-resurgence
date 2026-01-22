@@ -77,12 +77,12 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 | Persuasion            | Acrobatics               | Animism                 | ***Intuition***              | Investigation         |
 | Survival              | Medicine                 | History                 | Insight                      | ***Intelligence***    |
 
-|     ***Fortitude***     |                     | Intimidation ([[Brawler]]) |     Persuasion     |    Channeling ([[Mage]])     |
-| :---------------------: | :-----------------: | :------------------------: | :----------------: | :--------------------------: |
-| Athletics ([[Fighter]]) |    ***Finesse***    |   Acrobatics ([[Scout]])   |                    |     Animism ([[Druid]])      |
-| Athletics ([[Brawler]]) | Stealth ([[Scout]]) |      ***Intuition***       |                    | Summoning ([[Spiritwalker]]) |
-|        Survival         |                     |  Tinkering ([[Engineer]])  | ***Intelligence*** |   Inscription ([[Scribe]])   |
-| Constitution ([[Mage]]) |     ([[Druid]])     |     ([[Spiritwalker]])     |    ([[Scribe]])    |         ***Mantic***         |
+|      ***Fortitude***       |                        | Intimidation ([[Brawler]]) |         Persuasion         |    Channeling ([[Mage]])     |
+| :------------------------: | :--------------------: | :------------------------: | :------------------------: | :--------------------------: |
+|  Athletics ([[Fighter]])   |     ***Finesse***      |    Stealth ([[Scout]])     |                            |     Animism ([[Druid]])      |
+| Intimidation ([[Brawler]]) | Acrobatics ([[Scout]]) |      ***Intuition***       |                            | Summoning ([[Spiritwalker]]) |
+|          Survival          |       Persuasion       |  Tinkering ([[Engineer]])  |     ***Intelligence***     |   Inscription ([[Scribe]])   |
+|  Constitution ([[Mage]])   | Deception ([[Druid]])  | Insight ([[Spiritwalker]]) | Investigation ([[Scribe]]) |         ***Mantic***         |
 
 
 
