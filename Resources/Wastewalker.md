@@ -26,6 +26,9 @@ As an action, the Wastewalker lets out a shattering wail that can be heard for m
 
 # Proximity Radical Fail Outcome
 When a PC within 25 ft rolls a radiation failure, the Wastewalker fills with mantic energy and becomes more physical than before (before being extremely ethereal). They now have new stats, shown below: passives and Wail are still the same, though full Wastewalkers will choose to attack twice rather than Wail.
+
+# Updated Stat Block
+
 **AC**: 10  
 **HP**: +20 whatever the previous form had  
 **Speed**: 45 ft  

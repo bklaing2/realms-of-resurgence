@@ -62,9 +62,9 @@ OK, so like here's what I'm thinking so obviously I'm thinking about psychosis a
 
 333 days in year
 18 hours in a day
-long rest 6 hours
-short rest 30 minutes
-closer to "sun" (than earth is)
+**long rest 6 hours**
+**short rest 30 minutes**
+closer to "sun" (than earth is) (sun is an old dwarf brown star)
 revolving about the same speed
 rotating faster
 9 months of 37 days each

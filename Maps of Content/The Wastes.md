@@ -63,13 +63,14 @@ The longer someone is in the Wastes, the more Furomantical Radiation seeps into 
 
 ## Resting in the Wastes
 
-### Short Rest
+see [[Resting]]
+### ~~Short Rest~~
 
-Each short rest, the GM will roll the Radiation Die associated with the party's level of radiation, to get an effect from the Radiation Short Rest Table (1-12)
+~~Each short rest, the GM will roll the Radiation Die associated with the party's level of radiation, to get an effect from the Radiation Short Rest Table (1-12)~~
 
-### Long Rest
+### ~~Long Rest~~
 
-Each long rest, the GM will roll 1d20 + the Radiation Die associated with the party's level of radiation to get an effect from the Radiation Long Rest Table (2-32)
+~~Each long rest, the GM will roll 1d20 + the Radiation Die associated with the party's level of radiation to get an effect from the Radiation Long Rest Table (2-32)~~
 
 **waste table**
 roll on this after every short or long rest - dm rolls the dice that the players are using for their radiation dice based on the time they have been in the wastes

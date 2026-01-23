@@ -25,7 +25,7 @@
   - [ ] A good range
 
 - [ ] Flesh out the wastes a bit more
-  - [ ] Get a good wastes table
+  - [x] Get a good wastes table
 
 - [ ] Resting
   - [ ] Outside the wastes
@@ -87,6 +87,14 @@
 - added some properties to some things in [[Items.base]]
 - added an actual waste table to [[The Wastes|Wastes]] (**PLEASE READ** numbers 9 and 11 and let me know if you like them and if they fit in the table)
 - added [[Wastewalker]]
+
+## 23-01-2026: James in Starbucks
+
+- [[Mantic Wand]]
+- [[Battlemage Wand]]
+- [[Armor Repair Kit]]
+- [[Advanced Armor Repair Kit]]
+- [[Resting]]
 - 
 
 # 5 weeks to get this ready
