@@ -164,6 +164,9 @@ views:
     filters:
       and:
         - type == "creature"
+    order:
+      - file.name
+      - subtype
     columnSize:
       file.name: 226
   - type: table

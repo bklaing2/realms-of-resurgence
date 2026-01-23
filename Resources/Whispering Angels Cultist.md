@@ -1,5 +1,6 @@
 ---
 type: creature
+subtype: humanoid
 ---
 [[Whispering Angels]]
 **AC**: 10  

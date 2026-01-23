@@ -6,7 +6,7 @@ speed:
 armor class:
 hit points:
 type: creature
-subtype:
+subtype: beast
 system:
 parent: "[[Creatures]]"
 tags:

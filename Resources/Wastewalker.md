@@ -1,5 +1,6 @@
 ---
 type: creature
+subtype: horror
 ---
 [[The Wastes]]
 **AC**: 11  

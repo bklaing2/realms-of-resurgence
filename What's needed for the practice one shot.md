@@ -95,6 +95,7 @@
 - [[Armor Repair Kit]]
 - [[Advanced Armor Repair Kit]]
 - [[Resting]]
+- [[The Absent]] and [[The Attending]]
 - 
 
 # 5 weeks to get this ready

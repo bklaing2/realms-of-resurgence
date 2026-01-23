@@ -1,5 +1,6 @@
 ---
 type: creature
+subtype: humanoid
 ---
 **AC**: 8  
 **HP**: 4  

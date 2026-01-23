@@ -10,6 +10,8 @@ to hit: "5"
 mantic score: 4
 perception:
 ---
+
+[[The Wastes]]
 **AC**: 17
 **HP**: 9  
 **Speed**: 35 ft  

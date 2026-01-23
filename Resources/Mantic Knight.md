@@ -1,6 +1,8 @@
 ---
 type: creature
+subtype: horror
 ---
+[[The Wastes]] 
 **AC**: 15  
 **HP**: 30  
 **Speed**: 30 ft  

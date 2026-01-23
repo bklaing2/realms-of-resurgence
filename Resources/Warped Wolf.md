@@ -9,6 +9,7 @@ speed: "45"
 to hit: "6"
 mantic score: 3
 ---
+[[The Wastes]]
 **AC**: 15
 **HP**: 12
 **Speed**: 45 ft

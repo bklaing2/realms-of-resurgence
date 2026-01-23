@@ -1,6 +1,8 @@
 ---
 type: creature
+subtype: great horror
 ---
+[[The Wastes|Wastes]]
 **AC**: 15  
 **HP**: 70  
 **Speed**: 35 ft  
@@ -14,7 +16,7 @@ type: creature
 **Iron Bark**: Resistant to slashing, bludgeoning, and piercing damage from non-mantic attacks.
 
 **Actions**:  
-**Multiattack:** (3) Tyrant makes 3 (Bite and 2 Bark Spikes) each turn.
+**Multiattack:** (3) Tyrant makes 3 (Bite and 2 Bark Spikes) attacks each turn.
 # Attacks:
 ## Bite:
 +10 to hit  
