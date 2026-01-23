@@ -3,6 +3,7 @@ type: creature
 subtype: humanoid
 power/intelligence: low/low
 ---
+[[The Wastes]] 
 **AC**: 10  
 **HP**: 15  
 **Speed**: 25 ft  
@@ -24,7 +25,9 @@ power/intelligence: low/low
 1d6 + 3 piercing damage
 
 # Proximity Radical Fail Outcome
-When a PC within 15 ft rolls a radiation failure, the Exiled immediately mutates into 
+When a PC within 15 ft rolls a radiation failure, the Exiled immediately mutates into a horror of the Wastes.
+### **Updated Stat Block after Mutation:**
+[[Exiled, Mutated]]
 
 ## Description
 A person who has been exiled and cast out of a Settlement into [[The Wastes]], but has yet to be killed, mutated, or turned. Desperate and willing to do anything. Normally exiled for horrible crimes.

@@ -1,6 +1,6 @@
 ---
 type: creature
-subtype: horror
+subtype: great horror
 power/intelligence: high/high
 ---
 [[The Wastes]], [[The Gathering Bright]]
@@ -19,7 +19,7 @@ power/intelligence: high/high
 **Gathered Bright**: Any creature within 10 ft of a Dawnmarked takes 1d10 mantic damage at the start of their turn.
 
 **Actions**:  
-**Multiattack**: (4) Unbound Dawnmarked makes 4 attacks (3 greatsword and 1 headbutt) each turn.
+**Multiattack**: (4) Unbound Dawnmarked makes 4 attacks (3 greatsword - carries two greatswords -and 1 headbutt) each turn.
 # Attacks:
 ## Greatsword:
 +9 to hit  
@@ -38,3 +38,4 @@ When a PC within 20 ft rolls a radiation failure, the Unbound Dawnmarked can suc
 
 
 ## Description:
+Dawnmarked are [[The Gathering Bright]]'s most powerful "creations". Exposed to mantic energy from [[The Wastes]] and their "Light" at the same time, after years of training in a secret location, they become something not quite human. Mostly sent out into the Wastes to research, hunt, and recover artifacts, Unbound Dawnmarked are ones that lost their way in the Wastes, or were turned by something powerful. Now fully a horror, they roam the Wastes alone, killing everything in sight and gathering artifacts for themselves, or working as a powerful minion of a Lord of the Wastes.
