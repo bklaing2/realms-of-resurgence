@@ -27,9 +27,9 @@
 - [ ] Flesh out the wastes a bit more
   - [x] Get a good wastes table
 
-- [ ] Resting
-  - [ ] Outside the wastes
-  - [ ] Inside the wastes
+- [x] Resting
+  - [x] Outside the wastes
+  - [x] Inside the wastes
 
 - [x] Character sheet
 
