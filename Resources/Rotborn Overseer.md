@@ -27,4 +27,4 @@ Overseer can Yank the chain attached to the controlled Rotborn Feral and move it
 
 # Proximity Radical Fail Outcome
 
-When a PC within 20 ft rolls a radiation failure, the Rotspawn Overseer 
+When a PC within 20 ft rolls a radiation failure, the Rotspawn Overseer fg
