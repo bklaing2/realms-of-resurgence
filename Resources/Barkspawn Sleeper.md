@@ -1,6 +1,7 @@
 ---
 type: creature
 subtype: horror
+power/intelligence: low/low
 ---
 [[The Wastes]] 
 **AC**: 11  

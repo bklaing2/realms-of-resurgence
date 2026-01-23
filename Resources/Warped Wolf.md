@@ -8,6 +8,7 @@ hp: 12
 speed: "45"
 to hit: "6"
 mantic score: 3
+power/intelligence: low/low
 ---
 [[The Wastes]]
 **AC**: 15

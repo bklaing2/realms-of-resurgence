@@ -11,5 +11,6 @@ system:
 parent: "[[Creatures]]"
 tags:
   - sai-yoxis
+power/intelligence: low/low
 ---
 Giant tardigrades are like the cows of this world

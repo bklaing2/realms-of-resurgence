@@ -1,6 +1,7 @@
 ---
 type: creature
 subtype: humanoid
+power/intelligence: low/high
 ---
 [[Whispering Angels]]
 **AC**: 12  

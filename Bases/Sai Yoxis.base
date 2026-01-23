@@ -167,8 +167,10 @@ views:
     order:
       - file.name
       - subtype
+      - power/intelligence
     columnSize:
       file.name: 226
+      note.subtype: 122
   - type: table
     name: Sai Yoxis I
     filters:

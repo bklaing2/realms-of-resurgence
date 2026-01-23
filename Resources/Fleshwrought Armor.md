@@ -9,6 +9,7 @@ speed: 35
 to hit: "5"
 mantic score: 4
 perception:
+power/intelligence: low/low
 ---
 
 [[The Wastes]]

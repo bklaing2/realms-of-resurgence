@@ -96,7 +96,9 @@
 - [[Advanced Armor Repair Kit]]
 - [[Resting]]
 - [[The Absent]] and [[The Attending]]
-- [[Rotborn Overseer]], Rotspawn Feral, and Rotspawn Swarmer
+- [[Rotborne Overseer]], [[Rotborne Feral]], and Rotborne Spawn
+- added power/intelligence property to [[Creatures]]
+- 
 
 # 5 weeks to get this ready
 

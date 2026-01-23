@@ -11,5 +11,6 @@
   "userIgnoreFilters": [
     "/^_+/"
   ],
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }

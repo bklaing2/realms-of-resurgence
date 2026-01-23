@@ -1,6 +1,7 @@
 ---
 type: creature
 subtype: humanoid
+power/intelligence: low/low
 ---
 **AC**: 8  
 **HP**: 4  

@@ -1,6 +1,7 @@
 ---
 type: creature
 subtype: great horror
+power/intelligence: high/low
 ---
 [[The Wastes|Wastes]]
 **AC**: 15  
