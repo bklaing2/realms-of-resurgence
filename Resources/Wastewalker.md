@@ -6,7 +6,7 @@ power/intelligence: low/low
 [[The Wastes]]
 **AC**: 11  
 **HP**: 14  
-**Speed**: 20 ft  
+**Speed**: 15 ft  
 **Finesse**: +2  
 **Mantic**: +4  
 **Perception**: +3
