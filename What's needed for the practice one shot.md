@@ -100,7 +100,7 @@
 - added power/intelligence property to [[Creatures]]
 - [[Exiled]] and [[Exiled, Mutated]]
 - [[Dawnmarked, Bound]] and [[Dawnmarked, Unbound]]
-- Added something **JUICY** at the bottom of [[The Gathering Bright|Gathering Bright]] - let me know what you think
+- Added something **JUICY** at the bottom of [[The Gathering Bright|Gathering Bright]] - *let me know what you think*
 - Added photos to most of the [[Creatures]], [[The Gathering Bright|Gathering Bright]], and [[Whispering Angels]]
 
 # 5 weeks to get this ready
