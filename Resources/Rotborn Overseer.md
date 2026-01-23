@@ -21,10 +21,10 @@ subtype: horror
 10 ft range  
 2d10 + 3 slashing damage
 
-## Blight Blast:
-*Refreshes on a 5-6 and a radiation fail*
-20 ft cone blast of blighted branches and dirt, DC 14 Finesse saving throw or take 4d10 + 5 mantic damage. 1/2 damage on a success.
+## Chain Yank:
+*Refreshes on a 5-6*
+Overseer can Yank the chain attached to the controlled Rotborn Feral and move it anywhere within the 25 foot chain.
 
 # Proximity Radical Fail Outcome
 
-When a PC within 20 ft rolls a radiation failure, the Barkspawn Runner sucks in that Mantic energy and hardens their bark skin, making it resistant to slashing, bludgeoning, and piercing damage from non-mantic attacks for 1d4 - 1 rounds (min 1).
+When a PC within 20 ft rolls a radiation failure, the Rotspawn Overseer 
