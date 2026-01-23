@@ -9,13 +9,13 @@
 
 - [ ] Verify that combat is finished
   - [ ] Four combats
-    - [ ] with a few bandits (normal guys)
-      - [ ] then level up to level one
+    - [x] with a few bandits (normal guys)
+      - [x] then level up to level one
     - [ ] with people
       - [ ] will be short
-    - [ ] with low intelligence low power horror
-      - [ ] will be a bit longer
-      - [ ] low waste radiation
+    - [x] with low intelligence low power horror
+      - [x] will be a bit longer
+      - [x] low waste radiation
     - [ ] with 'boss' horror
       - [ ] will be a proper battle
       - [ ] high waste radiation
