@@ -96,7 +96,7 @@
 - [[Advanced Armor Repair Kit]]
 - [[Resting]]
 - [[The Absent]] and [[The Attending]]
-- 
+- [[Rotborn Overseer]], Rotspawn Feral, and Rotspawn Swarmer
 
 # 5 weeks to get this ready
 
