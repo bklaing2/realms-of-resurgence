@@ -98,7 +98,9 @@
 - [[Absent, The]] and [[Attending, The]]
 - [[Rotborne Overseer]], [[Rotborne Feral]], and [[Rotborne Spawn]]
 - added power/intelligence property to [[Creatures]]
-- [[Exiled]]
+- [[Exiled]] and [[Exiled, Mutated]]
+- [[Dawnmarked, Bound]] and [[Dawnmarked, Unbound]]
+- Added something JUICY at the bottom of [[The Gathering Bright|Gathering Bright]] - let me know what you think
 - 
 
 # 5 weeks to get this ready
