@@ -49,3 +49,5 @@ Cannot climb
 +2 to hit  
 5 ft range  
 Weapon dice for the weapon being used + 0
+
+![[IMG_0846.jpg]]

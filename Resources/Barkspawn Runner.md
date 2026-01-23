@@ -28,3 +28,5 @@ power/intelligence: low/low
 # Proximity Radical Fail Outcome
 
 When a PC within 20 ft rolls a radiation failure, the Barkspawn Runner sucks in that Mantic energy and hardens their bark skin, making it resistant to slashing, bludgeoning, and piercing damage from non-mantic attacks for 1d4 - 1 rounds (min 1).
+
+![[IMG_0845.jpg]]

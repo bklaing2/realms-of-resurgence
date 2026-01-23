@@ -43,3 +43,5 @@ Target must make a DC 13 Fortitude saving throw or be restrained, and the wolf c
 # Proximity Radical Fail Outcome
 
 When a PC within 15 ft rolls a radiation failure, the Warped Wolf immediately rips open their body more and the mantacles extend. (Unlocks Mantacle attack)
+
+![[IMG_0814.jpg]]

@@ -26,3 +26,5 @@ When a PC within 35 ft rolls a radiation failure, the Rotborne Spawn immediately
 
 ## Description
 Rotborne wander [[The Wastes]] searching for things to kill, eat, and scavenge. They live in small tents made of flesh in small camps of 2-8 Overseers and their entourages. Can be traded with occasionally, but often times will attack if they feel like they have the upper hand and the opposing people have something they want (or they are hungry).
+
+![[IMG_0841 2.jpg]]

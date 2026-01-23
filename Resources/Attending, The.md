@@ -29,3 +29,5 @@ As an action, The Attending can Mark a creature. This creature now becomes the c
 When a PC within 25 ft rolls a radiation failure, The Attending can swap places with their paired [[Absent, The]] via teleportation, and then can immediately make a free Eyebeam or Mark.
 
 If a PC rolls a radiation failure within 25 ft of both this The Attending AND its paired [[Absent, The]], they instead teleport to each other and fuse, combining HP and taking The Absent's AC and other physical stats, but now no longer has to roll focus checks after hits and can use the Absent's multiattack AND the Attending's eyebeam each turn.
+
+![[IMG_0840 1.jpg]]

@@ -44,3 +44,5 @@ When a PC within 25 ft rolls a radiation failure, the Wastewalker fills with man
 +4 to hit  
 5 ft range  
 4d4 + 5 slashing damage
+
+![[IMG_0844.jpeg]]

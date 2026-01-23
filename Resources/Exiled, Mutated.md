@@ -23,3 +23,5 @@ power/intelligence: low/low
 When a PC within 15 ft rolls a radiation failure, the Mutated Exiled spews bodily fluids from its mouth in a 15 ft cone, dealing 1d10 +3 poison damage to anyone who fails a DC 13 Finesse saving throw. Half damage on a success.
 ## Description
 A person who has been exiled and cast out of a Settlement into [[The Wastes]], but has yet to be killed, mutated, or turned. Desperate and willing to do anything. Normally exiled for horrible crimes. This exiled has already been **mutated**.
+
+![[IMG_0852.jpg]]

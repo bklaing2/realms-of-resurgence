@@ -39,3 +39,5 @@ When a PC within 20 ft rolls a radiation failure, the Unbound Dawnmarked can suc
 
 ## Description:
 Dawnmarked are [[The Gathering Bright]]'s most powerful "creations". Exposed to mantic energy from [[The Wastes]] and their "Light" at the same time, after years of training in a secret location, they become something not quite human. Mostly sent out into the Wastes to research, hunt, and recover artifacts, Unbound Dawnmarked are ones that lost their way in the Wastes, or were turned by something powerful. Now fully a horror, they roam the Wastes alone, killing everything in sight and gathering artifacts for themselves, or working as a powerful minion of a Lord of the Wastes.
+
+![[IMG_0847.jpg]]

@@ -33,3 +33,5 @@ PCs make a DC 16 Finesse saving throw or become pinned and restrained  by the sp
 # Proximity Radical Fail Outcome
 
 When a PC within 40 ft rolls a radiation failure, the Barkspawn Tyrant becomes enraged and now has 2 separate turns in the initiative order every round, moving with mantic speed and power.
+
+![[IMG_0794.jpg]]
