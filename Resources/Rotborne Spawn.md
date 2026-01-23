@@ -6,7 +6,7 @@ power/intelligence: low/low
 [[The Wastes]]
 **AC**: 10  
 **HP**: 8  
-**Speed**: 35 ft  
+**Speed**: 35 ft  (flying)
 **Finesse**: +3  
 **Mantic**: +1
 
@@ -16,12 +16,12 @@ power/intelligence: low/low
 **Actions**:  
 # Attacks:
 ## Bile Spit:
-+6 to hit  
-5 ft range  
-2d4 + 2 slashing damage
+5 ft radius AOE, every creature inside must make a finesse saving throw or take the damage. Half damage on a success. 
+20 ft range  
+1d6 + 3 poison damage
 
 # Proximity Radical Fail Outcome
-When a PC within 20 ft rolls a radiation failure, the Rotborne Feral goes absolutely nuts and breaks off of their chain to attack the PC furthest from their original Overseer. When off the chain (whether by this or by the [[Rotborne Overseer]] dropping the chain) the Feral takes an extra bite attack each turn and goes after the player **furthest** from their original chain holder.
+When a PC within 35 ft rolls a radiation failure, the Rotborne Spawn immediately flies towards the PC who radically failed and attaches to their face. That PC is now blind (disadvantage on attacks and others have advantage to hit) and take 9 points of poison damage at the top of each turn. The creature must make a contested Fortitude check against the Spawn (who has a +0) as an action on their turn to remove the Spawn from their face.
 
 
 ## Description

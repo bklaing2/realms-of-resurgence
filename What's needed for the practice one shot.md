@@ -88,7 +88,7 @@
 - added an actual waste table to [[The Wastes|Wastes]] (**PLEASE READ** numbers 9 and 11 and let me know if you like them and if they fit in the table)
 - added [[Wastewalker]]
 
-## 23-01-2026: James in Starbucks
+## 23-01-2026: James in Starbucks and at home
 
 - [[Mantic Wand]]
 - [[Battlemage Wand]]
