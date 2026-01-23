@@ -1,7 +1,7 @@
 ---
 type: creature
 subtype: horror
-power/intelligence: low/high
+power/intelligence: low/low
 ---
 [[The Wastes]]
 **AC**: 11  
@@ -11,22 +11,25 @@ power/intelligence: low/high
 **Mantic**: +2
 
 **Passives**:  
-**Rot Stench:** 
+**Rot Stench:** Creatures within 10 ft of a Rotborne Feral must make a Fortitude saving throw DC 12 at the top of each turn or be poisoned for 1 minute (poison condition means creatures take 1d4 damage at the top of each of their turns). Once a creature succeeds a saving throw, they are immune to that particular Feral's stench for a day, but will still roll a saving throw if they are near other Feral's.
+
+**Battlefield Soldier:** If within 60 ft of a Rotborne Overseer, deals an extra 1d4 damage on every attack.
 
 **Actions**:  
-**Multiattack**: (2) The Overseer makes 2 (glaive) attacks each turn.
+**Multiattack**: (3) The Feral makes 3 (2 claw and 1 bite) attacks each turn.
 # Attacks:
-## Glaive:
-+5 to hit  
-10 ft range  
-2d10 + 3 slashing damage
+## Claw:
++6 to hit  
+5 ft range  
+2d4 + 2 slashing damage
 
-## Chain Yank:
-*Refreshes on a 5-6*
-Overseer can Yank the chain attached to the controlled Rotborne Feral and move it anywhere within the 25 foot chain.
+## Bite:
++6 to hit
+5 ft range
+1d8 + 2 piercing damage
 
 # Proximity Radical Fail Outcome
-When a PC within 20 ft rolls a radiation failure, the Rotborne Overseer releases the Rotborn Feral attached to its chain and flings it at the PC that radically failed. The PC must make a DC 15 Fortitude saving throw or be chained to the Overseer. Players that are chained take half the damage dealt to the Overseer and are restrained (can only move if the Overseer Yanks them). On a success, the PC takes 1d6 + 4 damage, but shrugs off the chain.
+When a PC within 20 ft rolls a radiation failure, the Rotborne Feral goes absolutely nuts and 
 
 
 ## Description
