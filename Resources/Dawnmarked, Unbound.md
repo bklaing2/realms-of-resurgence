@@ -16,7 +16,7 @@ power/intelligence: high/high
 **Insight:** +5
 
 **Passives**:  
-**Gathered Bright**: Any creature within 10 ft of a Dawnmarked takes 1d10 mantic damage at the start of their turn.
+**Gathered Shadow**: Any creature within 10 ft of a Dawnmarked takes 1d10 mantic damage at the start of their turn.
 
 **Actions**:  
 **Multiattack**: (4) Unbound Dawnmarked makes 4 attacks (3 greatsword - carries two greatswords -and 1 headbutt) each turn.
