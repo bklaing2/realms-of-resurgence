@@ -37,3 +37,4 @@ When a PC within 15 ft rolls a radiation failure, the Bound Dawnmarked can suck 
 
 
 ## Description:
+Dawnmarked are [[The Gathering Bright]]'s most powerful creations. Exposed to mantic energy from [[The Wastes]] and their "Light" at the same time, after years of training in a secret location, they become something not quite human. Mostly sent out into the Wastes to research, hunt, and recover objects, they can be found roaming the Wastes in pairs, or guarding very important clergy and their Reliquaries

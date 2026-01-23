@@ -16,3 +16,5 @@ In public, the upper members wear large, voluminous robes covering almost their 
 Carrying old tomes and scrolls with information from an old age, trying to find some scrap of something to help bring back the "gods" of old and the light.
 
 Behind closed doors, things are very different. The members are quite mean and enjoy running towns and controlling the artifacts that are found in the [[The Wastes|Wastes]] for their own purposes.
+
+Their holy buildings are called reliquaries, in which are built on top of and around the ancient burial sites of dead Lord's of the Wastes, deities, and other powerful beings. The left over power from these bodies is what protects Settlements from the horrors of [[The Wastes]].
