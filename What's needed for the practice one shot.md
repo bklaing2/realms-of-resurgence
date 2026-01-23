@@ -95,9 +95,10 @@
 - [[Armor Repair Kit]]
 - [[Advanced Armor Repair Kit]]
 - [[Resting]]
-- [[The Absent]] and [[The Attending]]
+- [[Absent, The]] and [[Attending, The]]
 - [[Rotborne Overseer]], [[Rotborne Feral]], and [[Rotborne Spawn]]
 - added power/intelligence property to [[Creatures]]
+- [[Exiled]]
 - 
 
 # 5 weeks to get this ready

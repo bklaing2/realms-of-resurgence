@@ -23,6 +23,6 @@ power/intelligence: low/low
 2d6 + 4 mantic damage
 
 # Proximity Radical Fail Outcome
-When a PC within 25 ft rolls a radiation failure, The Absent can teleport to their marked creature (if no creature is marked, then they may teleport to their paired [[The Attending]]), and then can immediately make one free Shortsword attack.
+When a PC within 25 ft rolls a radiation failure, The Absent can teleport to their marked creature (if no creature is marked, then they may teleport to their paired [[Attending, The]]), and then can immediately make one free Shortsword attack.
 
-If a PC rolls a radiation failure within 25 ft of both this The Absent AND its paired [[The Attending]], they instead teleport to each other and fuse, combining HP and taking The Absent's AC and other physical stats, but now no longer has to roll focus checks after hits and can use the Absent's multiattack AND the Attending's eyebeam each turn.
+If a PC rolls a radiation failure within 25 ft of both this The Absent AND its paired [[Attending, The]], they instead teleport to each other and fuse, combining HP and taking The Absent's AC and other physical stats, but now no longer has to roll focus checks after hits and can use the Absent's multiattack AND the Attending's eyebeam each turn.
