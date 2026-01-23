@@ -3,9 +3,9 @@
 - [ ] At least 5 classes complete through level 4
   - [ ] Practice leveling up through level 4 with each class
 
-- [ ] Enemies/monsters
-  - [ ] Non horror enemies
-  - [ ] Horrors
+- [x] Enemies/monsters
+  - [x] Non horror enemies
+  - [x] Horrors
 
 - [ ] Verify that combat is finished
   - [ ] Four combats
