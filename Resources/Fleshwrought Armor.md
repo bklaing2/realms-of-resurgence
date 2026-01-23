@@ -25,15 +25,12 @@ Climbing speed is doubled, can climb on walls (spider climb)
 
 **Actions**:  
 # Attacks:
-
 ## Weapon Attack:
 +5 to hit  
 10 ft range  
 Weapon dice for the weapon being used x2 +4
-
 # Proximity Radical Fail Outcome
 Mantic energy is redirected into a nearby (within 60 ft) Fleshwrought Armor that has been slain. The body parts begin to reanimate and attack nearby PCs with reduced stats. If more radiation fails are rolled, more slain body parts reanimate.
-
 # Reduced stat block:
 **AC**: 13
 **HP**: 5  
