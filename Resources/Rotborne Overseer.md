@@ -27,7 +27,7 @@ power/intelligence: low/high
 Overseer can Yank the chain attached to the controlled [[Rotborne Feral]] and move it anywhere within the 25 foot chain.
 
 # Proximity Radical Fail Outcome
-When a PC within 20 ft rolls a radiation failure, the Rotborne Overseer releases the [[Rotborne Feral]] attached to its chain and flings it at the PC that radically failed. The PC must make a DC 15 Fortitude saving throw or be chained to the Overseer. Players that are chained take half the damage dealt to the Overseer and are restrained (can only move if the Overseer Yanks them). On a success, the PC takes 1d6 + 4 damage, but shrugs off the chain.
+When a PC within 15 ft rolls a radiation failure, the Rotborne Overseer releases the [[Rotborne Feral]] attached to its chain and flings it at the PC that radically failed. The PC must make a DC 15 Fortitude saving throw or be chained to the Overseer. Players that are chained take half the damage dealt to the Overseer and are restrained (can only move if the Overseer Yanks them). On a success, the PC takes 1d6 + 4 damage, but shrugs off the chain.
 
 
 ## Description
