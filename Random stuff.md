@@ -19,8 +19,9 @@ intuition
 intelligence
 mantic
 
-| fortitude    | **fortitude** + finesse      | **fortitude + finesse** + intuition      | **fortitude + finesse + intuition** + intelligence | **fortitude + finesse + intuition + intelligence + mantic** |
+| *Primary*    | *Secondary*                  | *Tertiary*                               | *Quaternary*                                       | *Quinary*                                                   |
 | ------------ | ---------------------------- | ---------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------- |
+| fortitude    | **fortitude** + finesse      | **fortitude + finesse** + intuition      | **fortitude + finesse + intuition** + intelligence | **fortitude + finesse + intuition + intelligence + mantic** |
 |              |                              |                                          | **fortitude + finesse + intuition** + mantic       |                                                             |
 |              |                              | **fortitude + finesse** + intelligence   | **fortitude + finesse + intelligence** + mantic    |                                                             |
 |              |                              | **fortitude + finesse** + mantic         |                                                    |                                                             |
