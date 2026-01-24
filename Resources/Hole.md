@@ -10,4 +10,5 @@ range: 60 feet
 duration: 5 minutes
 components:
 parent: "[[Runic Circles]]"
+mantic charge minimum: 2
 ---

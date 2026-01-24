@@ -13,6 +13,7 @@ requires focus: true
 target: 15ft circle OR 1 creature
 tier: 1
 type: spell
+mantic charge minimum: 4
 ---
 
 # Description

@@ -8,6 +8,8 @@ name: Protection
 parent: "[[Runic Circles]]"
 tier: 2
 type: rune
+inscription time: 1 minute
+mantic charge minimum: 3
 ---
 
 - Radiation (don't need to roll the radiation die but can't cast spells)

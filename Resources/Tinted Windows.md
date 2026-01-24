@@ -9,4 +9,6 @@ name: Tinted Windows
 parent: "[[Runic Circles]]"
 tier: 2
 type: rune
+inscription time: 1 minute
+mantic charge minimum: 2
 ---

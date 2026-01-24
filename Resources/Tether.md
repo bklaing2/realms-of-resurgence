@@ -13,6 +13,7 @@ target: 1 creature
 tier: 0
 type: spell
 description: Tether yourself to an object or surface you can see within 50ft
+mantic charge minimum: 2
 ---
 
 # Description

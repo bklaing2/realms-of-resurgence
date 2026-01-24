@@ -12,6 +12,7 @@ range: 30ft
 target: 1 creature
 tier: 0
 type: spell
+mantic charge minimum: 0
 ---
 
 # Description

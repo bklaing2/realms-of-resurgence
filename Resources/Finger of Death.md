@@ -13,6 +13,7 @@ requires focus: false
 target: 1 creature
 tier: 3
 type: spell
+mantic charge minimum: 6
 ---
 
 # Description

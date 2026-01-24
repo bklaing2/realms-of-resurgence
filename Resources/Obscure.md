@@ -15,6 +15,7 @@ area of effect: 10 feet
 damage: 0
 requires focus:
 components:
+mantic charge minimum: 2
 ---
 # Description #todo 
 

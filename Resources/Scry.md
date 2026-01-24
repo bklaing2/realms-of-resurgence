@@ -9,6 +9,8 @@ name: Scry
 parent: "[[Runic Circles]]"
 tier: 1
 type: rune
+inscription time: 4 actions (2 per glyph)
+mantic charge minimum: 2
 ---
 
 Draw two glyphs, you can choose to either talk through them or see through them

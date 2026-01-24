@@ -13,11 +13,12 @@ requires focus: false
 target: 1 creature
 tier: 1
 type: spell
+mantic charge minimum: 2
 ---
 
 # Description
 
-As a reaction, grab the tethers of Mantic energy and pull a creature that is within 15ft of you and is about to be hit with an attack, yanking them 5ft out of the way of an attack. This yank reduces the damage they receive by your [[Mage]] level.
+As a reaction, grab the tethers of Mantic energy and pull a creature that is within 15ft of you and is about to be hit with an attack, yanking them 5ft out of the way of an attack. This yank reduces the damage they receive by the number of Mantic Charges expended.
 
 # Antimantic Inverse
 

@@ -3,6 +3,46 @@ tags:
   - sai-yoxis
   - brainstorm
 ---
+# Testing stuff
+
+| ***Fortitude*** |          [[Fighter]]           |   [[Brawler]]   |       *Support?*       |     [[Mage]]     |
+| :-------------: | :----------------------------: | :-------------: | :--------------------: | :--------------: |
+|    Athletics    |         ***Finesse***          |    [[Scout]]    |      [[Engineer]]      |    [[Druid]]     |
+|  Intimidation   | Subterfuge?(Stealth/Deception) | ***Intuition*** |       *Support?*       | [[Spiritwalker]] |
+|   Persuasion    |        Tinker/Medicine         |  Investigation  |   ***Intelligence***   |    [[Scribe]]    |
+|  Constitution   | Legerdemain? (Sleight of Hand) |     Insight     | Lore? (Arcana/History) |   ***Mantic***   |
+
+## Base attributes
+fortitude
+finesse
+intuition
+intelligence
+mantic
+
+| fortitude    | **fortitude** + finesse      | **fortitude + finesse** + intuition      | **fortitude + finesse + intuition** + intelligence | **fortitude + finesse + intuition + intelligence + mantic** |
+| ------------ | ---------------------------- | ---------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------- |
+|              |                              |                                          | **fortitude + finesse + intuition** + mantic       |                                                             |
+|              |                              | **fortitude + finesse** + intelligence   | **fortitude + finesse + intelligence** + mantic    |                                                             |
+|              |                              | **fortitude + finesse** + mantic         |                                                    |                                                             |
+|              | **fortitude** + intuition    | **fortitude + intuition** + intelligence | **fortitude + intuition + intelligence** + mantic  |                                                             |
+|              |                              | **fortitude + intuition** + mantic       |                                                    |                                                             |
+|              | **fortitude** + intelligence | **fortitude + intelligence** + mantic    |                                                    |                                                             |
+|              | **fortitude** + mantic       |                                          |                                                    |                                                             |
+|              |                              |                                          |                                                    |                                                             |
+| finesse      | **finesse** + intuition      | **finesse + intuition** + intelligence   | **finesse + intuition + intelligence** + mantic    |                                                             |
+|              |                              | **finesse + intuition** + mantic         |                                                    |                                                             |
+|              | **finesse** + intelligence   | **finesse + intelligence** + mantic      |                                                    |                                                             |
+|              | **finesse** + mantic         |                                          |                                                    |                                                             |
+|              |                              |                                          |                                                    |                                                             |
+| intuition    | **intuition** + intelligence | **intuition + intelligence** + mantic    |                                                    |                                                             |
+|              | **intuition** + mantic       |                                          |                                                    |                                                             |
+|              |                              |                                          |                                                    |                                                             |
+| intelligence | **intelligence** + mantic    |                                          |                                                    |                                                             |
+|              |                              |                                          |                                                    |                                                             |
+| mantic       |                              |                                          |                                                    |                                                             |
+|              |                              |                                          |                                                    |                                                             |
+
+
 # Experiences?
 
 Basically like daggerheart experiences

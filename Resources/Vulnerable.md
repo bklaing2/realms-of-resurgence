@@ -9,4 +9,6 @@ name: Vulnerable
 parent: "[[Runic Circles]]"
 tier: 1
 type: rune
+inscription time: 3 actions
+mantic charge minimum: 1
 ---

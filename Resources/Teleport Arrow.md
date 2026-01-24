@@ -16,6 +16,7 @@ area of effect: beam
 damage:
 requires focus:
 components:
+mantic charge minimum: 2
 ---
 # Description #todo 
 

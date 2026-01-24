@@ -109,27 +109,27 @@ views:
     filters:
       and:
         - type == "rune"
-    groupBy:
-      property: formula.Mantic Tier
-      direction: ASC
     order:
       - file.name
       - inscription time
+      - mantic charge minimum
     sort:
+      - property: mantic charge minimum
+        direction: ASC
+      - property: inscription time
+        direction: ASC
       - property: formula.Mantic Tier
         direction: ASC
       - property: property.tier
         direction: ASC
     columnSize:
       file.name: 124
+      note.inscription time: 200
   - type: table
     name: Spells
     filters:
       and:
         - type == "spell"
-    groupBy:
-      property: formula.Mantic Tier
-      direction: ASC
     order:
       - file.name
       - casting time
@@ -137,7 +137,10 @@ views:
       - range
       - duration
       - requires focus
-    sort: []
+      - mantic charge minimum
+    sort:
+      - property: mantic charge minimum
+        direction: ASC
     summaries: {}
     columnSize:
       file.name: 138

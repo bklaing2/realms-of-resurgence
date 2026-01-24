@@ -9,4 +9,6 @@ name: Hold Monster
 parent: "[[Runic Circles]]"
 tier: 2
 type: rune
+inscription time: 5 actions
+mantic charge minimum: 3
 ---

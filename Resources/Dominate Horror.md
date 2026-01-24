@@ -12,6 +12,7 @@ requires focus: false
 target: 1 horror
 tier: 3
 type: spell
+mantic charge minimum: 5
 ---
 
 # Description

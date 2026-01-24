@@ -14,6 +14,7 @@ requires focus: false
 target: 1 creature
 tier: 2
 type: spell
+mantic charge minimum: 4
 ---
 
 # Description

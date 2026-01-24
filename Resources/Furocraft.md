@@ -12,6 +12,7 @@ parent: "[[Neomantic Spells]]"
 requires focus: true
 tier: 2
 type: spell
+mantic charge minimum: 4
 ---
 
 # Description

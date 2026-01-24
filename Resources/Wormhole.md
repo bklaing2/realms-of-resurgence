@@ -9,4 +9,6 @@ name: Wormhole
 parent: "[[Runic Circles]]"
 tier: 3
 type: rune
+inscription time: 8 actions (4 per glyph)
+mantic charge minimum: 4
 ---

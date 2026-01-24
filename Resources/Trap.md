@@ -9,6 +9,8 @@ name: Trap
 parent: "[[Runic Circles]]"
 tier: 1
 type: rune
+inscription time: 4 actions
+mantic charge minimum: 2
 ---
 If a creature steps on this it explodes
 4 actions to draw and power this rune
