@@ -21,7 +21,7 @@ power/intelligence: low/low
 10 ft range  
 1d12 + 5 bludgeoning damage
 ## Kick:
-20 ft line
+20 ft line - 5 ft wide - 10 ft in front and 10 ft behind the sleeper
 3d10 + 5 bludgeoning damage
 PCs make a DC 14 Finesse saving throw or catch a face of bark leg. 1/2 damage on a success.
 # Proximity Radical Fail Outcome
