@@ -16,7 +16,9 @@ hit points: d6
 
 # Class Abilities
 
-## Passive: #needs/name #todo
+## Passive: Mantic Restoration #needs/name 
+
+During any rest, can roll to restore 1d6 mantic charges
 
 ## Inscription #needs/name #todo
 
