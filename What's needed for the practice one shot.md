@@ -115,6 +115,7 @@
 - As we were getting ready to continue, a [[Barkspawn Tyrant]] fought with two figures, who dropped the chains of the creatures they were holding
 - The two creatures ran toward the cave, so we ran away, luckily unnoticed
 - We ran to a building that used to be a mill
+- Went into a house. There is something there
 
 # 5 weeks to get this ready
 
