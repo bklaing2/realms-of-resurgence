@@ -138,6 +138,7 @@ views:
       - duration
       - requires focus
       - mantic charge minimum
+      - attributes
     sort:
       - property: mantic charge minimum
         direction: ASC

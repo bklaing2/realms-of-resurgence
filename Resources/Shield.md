@@ -13,6 +13,9 @@ target: 1 creature
 tier: 0
 type: spell
 mantic charge minimum: 1
+attributes:
+  - "[[Fortitude]]"
+  - "[[Intuition]]"
 ---
 
 # Description
