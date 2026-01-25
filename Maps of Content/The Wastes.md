@@ -80,7 +80,7 @@ roll on this after every short or long rest - dm rolls the dice that the players
 > | _Number rolled_ | Problem that occurs    |
 > | ------- |  ----------------------------- |
 > | **_1_**     | until the next rest, the party feels like there is another presence nearby watching them |
-> | **_2_**     | each party member loses something from their packs |
+> | **_2_**     | until the next rest, the party loses their sense of taste to the point that food and water instead taste terrible |
 > | **_3_**     | until the next rest, the party sees shadows and hears voices that are not there |
 > | **_4_**     | one or more low-low monsters comes within range of the party’s camp |
 > | **_5_**     | until the next rest, all ground becomes difficult terrain to the players |
