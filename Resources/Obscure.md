@@ -13,7 +13,7 @@ range: 60 feet
 duration: 1 minute
 area of effect: 10 feet
 damage: 0
-requires focus:
+requires focus: true
 components:
 mantic charge minimum: 2
 ---
