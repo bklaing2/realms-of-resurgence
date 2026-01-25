@@ -105,7 +105,7 @@
 
 **24-01-2025: Bryceson hyperfixated on the spell system**
 
-- [[]]
+![[Attribute Testing.canvas]]
 
 **25-01-2025: More playtesting**
 
