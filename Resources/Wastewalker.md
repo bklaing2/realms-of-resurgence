@@ -24,7 +24,7 @@ Very good hearing, advantage on perception checks using their hearing.
 
 **Wail:**
 *Refreshes on a 5-6*
-As an action, the Wastewalker lets out a shattering wail that can be heard for miles around, and anyone within 50 ft makes a Fortitude saving throw DC 15. On a failure, they are stunned for 1 minute and can reroll the saving throw at the end of every subsequent turn. On a success, they take 2d6 + 4 mantic damage and are not stunned. Stunned creatures cannot move, get attacked with advantage, and take automatic critical hits when attacked with a melee attack.
+As an action, the Wastewalker lets out a shattering wail that can be heard for miles around, and anyone within 50 ft makes a Fortitude saving throw DC 15. On a failure, they are stunned for 1 minute and can reroll the saving throw at the end of every subsequent turn. On a success, they take 1d6 + 4 mantic damage and are not stunned. Stunned creatures cannot move, get attacked with advantage, and take automatic critical hits when attacked with a melee attack.
 
 # Proximity Radical Fail Outcome
 When a PC within 25 ft rolls a radiation failure, the Wastewalker fills with mantic energy and becomes more physical than before (before being extremely ethereal). They now have new stats, shown below: passives and Wail are still the same, though full Wastewalkers will choose to attack twice rather than Wail.
