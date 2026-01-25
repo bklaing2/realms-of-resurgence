@@ -109,5 +109,12 @@
 
 **25-01-2025: More playtesting**
 
+- Restarted rolling initiative right before the [[Barkspawn Sleeper]] encounter
+- Everyone lived this time, but the Scribe had to be stabilized by a health potion
+- Ran to a cave to let the Scribe recover
+- As we were getting ready to continue, a [[Barkspawn Tyrant]] fought with two figures, who dropped the chains of the creatures they were holding
+- The two creatures ran toward the cave, so we ran away, luckily unnoticed
+- We ran to a building that used to be a mill
+
 # 5 weeks to get this ready
 

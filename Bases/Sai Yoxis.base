@@ -54,7 +54,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 156
-      note.passive-ability: 260
+      note.passive-ability: 433
       note.roleplay-ability: 115
       note.exploration-ability: 139
       note.combat-ability: 129
