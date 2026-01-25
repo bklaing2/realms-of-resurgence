@@ -103,5 +103,11 @@
 - Added something **JUICY** at the bottom of [[The Gathering Bright|Gathering Bright]] - *let me know what you think*
 - Added photos to most of the [[Creatures]], [[The Gathering Bright|Gathering Bright]], and [[Whispering Angels]]
 
+**24-01-2025: Bryceson hyperfixated on the spell system**
+
+- [[]]
+
+**25-01-2025: More playtesting**
+
 # 5 weeks to get this ready
 
