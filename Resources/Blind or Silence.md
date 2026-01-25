@@ -12,3 +12,4 @@ type: rune
 inscription time: 2 actions
 mantic charge minimum: 1
 ---
+Creatures within are blinded or silenced
