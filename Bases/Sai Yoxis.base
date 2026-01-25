@@ -111,6 +111,7 @@ views:
         - type == "rune"
     order:
       - file.name
+      - description
       - inscription time
       - mantic charge minimum
     sort:
@@ -124,6 +125,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 124
+      note.description: 605
       note.inscription time: 200
   - type: table
     name: Spells
