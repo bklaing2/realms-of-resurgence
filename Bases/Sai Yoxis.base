@@ -125,8 +125,8 @@ views:
         direction: ASC
     columnSize:
       file.name: 124
-      note.description: 605
-      note.inscription time: 200
+      note.description: 449
+      note.inscription time: 134
   - type: table
     name: Spells
     filters:
