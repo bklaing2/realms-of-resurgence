@@ -35,11 +35,11 @@
 > | _Number rolled_ | Problem that occurs    |
 > | ------- |  ----------------------------- |
 > | **_1_**     | until the next rest, the party feels like there is another presence nearby watching them |
-> | **_2_**     | each party member loses something from their packs |
+> | **_2_**     | until the next rest, the party loses their sense of taste to the point that food and water instead taste terrible |
 > | **_3_**     | until the next rest, the party sees shadows and hears voices that are not there |
-> | **_4_**     | one or more low-low monsters comes within range of the party’s camp |
+> | **_4_**     | one or more low-low horrors comes within range of the party’s camp |
 > | **_5_**     | until the next rest, all ground becomes difficult terrain to the players |
-> | **_6_**     | one or more high power-low intelligence comes within range of the party’s camp |
+> | **_6_**     | one or more high power-low intelligence horrors comes within range of the party’s camp |
 > | **_7_**     | each party members loses two resources (food/water) |
 > | **_8_**     | the party wakes up and unknowingly goes the wrong direction, becoming lost in the wastes for 1d6 days |
 > | **_9_**     | the entire next day, the dwarf star is not visible within the Wastes, perception and navigation rolls are made with disadvantage |
