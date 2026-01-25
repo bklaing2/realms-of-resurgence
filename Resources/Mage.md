@@ -13,10 +13,11 @@ subclass-iii: "[[Ethermancer]]"
 subclass-iv: "[[Furomancer]]"
 hit points: d4
 ---
-
 # Class Abilities
 
-## Passive: ??? #needs/name #todo
+## Passive: Mantic Refreshment #needs/name 
+
+During any rest, can roll to restore 1d4 mantic charges
 
 ## Mage Novice #needs/name
 
