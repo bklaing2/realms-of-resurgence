@@ -43,3 +43,10 @@ views:
     filters:
       and:
         - note["item type"] == "potion"
+    order:
+      - file.name
+      - brewing time
+      - duration
+      - element
+    columnSize:
+      file.name: 265
