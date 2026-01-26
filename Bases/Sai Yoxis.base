@@ -153,7 +153,7 @@ views:
     summaries: {}
     columnSize:
       file.name: 129
-      note.attributes: 158
+      note.attributes: 209
       note.casting time: 101
       note.target: 115
       note.range: 60
