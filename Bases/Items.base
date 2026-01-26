@@ -30,7 +30,7 @@ views:
       - damage ability
       - damage
     columnSize:
-      file.name: 104
+      file.name: 141
       note.hit ability: 115
       note.damage ability: 138
   - type: table
@@ -48,5 +48,6 @@ views:
       - brewing time
       - duration
       - element
+    sort: []
     columnSize:
       file.name: 265

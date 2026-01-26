@@ -60,7 +60,7 @@ views:
     columnSize:
       file.name: 156
       note.passive-ability: 386
-      note.roleplay-ability: 282
+      note.roleplay-ability: 295
       note.exploration-ability: 337
       note.combat-ability: 375
   - type: table
