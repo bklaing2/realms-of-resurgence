@@ -129,7 +129,12 @@
 - Level up to level two
 - added [[Potions]] and [[Unstable Mixture of Chaos]] and others to the [[Items.base]]
 
-- Found 2 [[Armor Repair Kit]] and some weapons. 2 [[Potion of Healing, Regular]], 1 vial of bubbling, fizzing, clear liquid. 1 amulet
+- Found 2 [[Armor Repair Kit]] and some weapons. 2 [[Potion of Healing, Regular]], 1 vial of bubbling, fizzing, clear liquid. 1 amulet.
+- Crossed the river
+- Came across an abandoned settlement
+- Investigate the [[Reliquary]], finding another health potion, a vial of pitch black liquid, a flask with pink viscous liquid, a pair of boots (that make the scribe's amulet buzz when close to it), a pouch with 45 gold, and a ring
+- A tall lanky figure is coming towards the Reliquary
+- 
 
 # 5 weeks to get this ready
 
