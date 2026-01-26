@@ -107,7 +107,7 @@
 
 ![[Attribute Testing.canvas]]
 
-**25-01-2025: More playtesting**
+**25-01-2025: More playtesting - rest of level one**
 
 - Restarted rolling initiative right before the [[Barkspawn Sleeper]] encounter
 - Everyone lived this time, but the Scribe had to be stabilized by a health potion
@@ -120,6 +120,11 @@
 - Fought, the scribe went down and back up, the scout and brawler went down too.
 - The [[Bind]] spell was clutch here
 - Everybody lived. Barely
+
+**26-01-2025: Playtest level 2**
+
+- We will roleplay the long rest
+- Level up to level two
 
 # 5 weeks to get this ready
 

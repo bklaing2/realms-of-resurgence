@@ -54,10 +54,10 @@ views:
         direction: ASC
     columnSize:
       file.name: 156
-      note.passive-ability: 433
-      note.roleplay-ability: 115
-      note.exploration-ability: 139
-      note.combat-ability: 129
+      note.passive-ability: 386
+      note.roleplay-ability: 282
+      note.exploration-ability: 337
+      note.combat-ability: 375
   - type: table
     name: Classes
     filters:
