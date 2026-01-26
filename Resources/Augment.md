@@ -13,6 +13,7 @@ mantic charge minimum: 1
 ---
 
 As an action, inscribe a circle on the surface. Upon activation, choose an attribute to augment. Creatures within the circle receive an additional 1d4 + [[Scribe]] level to that attribute while the circle is active.
+Duration: about an hour
 
 You can choose from the following attributes:
 
