@@ -153,8 +153,7 @@ views:
     summaries: {}
     columnSize:
       file.name: 129
-      note.attributes: 160
-      formula.ignore: 385
+      note.attributes: 158
       note.casting time: 101
       note.target: 115
       note.range: 60
