@@ -33,6 +33,8 @@
 
 - [x] Character sheet
 
+- [x] potions
+
 # First step
 
 - Do a little complete improv mini adventure with the two of us following the above outline
@@ -125,6 +127,8 @@
 
 - We will roleplay the long rest
 - Level up to level two
+- added [[Potions]] and [[Unstable Mixture of Chaos]] and others to the [[Items.base]]
+- 
 
 # 5 weeks to get this ready
 
