@@ -117,7 +117,9 @@
 - We ran to a building that used to be a mill
 - Went into the house. There is something there
 - It was two [[Wastewalker]]
-- 
+- Fought, the scribe went down and back up, the scout and brawler went down too.
+- The [[Bind]] spell was clutch here
+- Everybody lived. Barely
 
 # 5 weeks to get this ready
 
