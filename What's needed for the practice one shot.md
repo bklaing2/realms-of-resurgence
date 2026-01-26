@@ -129,7 +129,7 @@
 - Level up to level two
 - added [[Potions]] and [[Unstable Mixture of Chaos]] and others to the [[Items.base]]
 
-- Found 2 [[Armor Repair Kit]] and some weapons. 2 [[Potion of Healing, Regular]], 1 vial of bubbling, fizzing, clear liquid. 1 amulet
+- Found 2 [[Armor Repair Kit]] and some weapons. 2 [[Potion of Healing, Regular]], 1 vial of bubbling, fizzing, clear liquid. 1 amulet.
 
 # 5 weeks to get this ready
 
