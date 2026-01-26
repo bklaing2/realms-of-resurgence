@@ -3,14 +3,15 @@
   "propertiesInDocument": "hidden",
   "showLineNumber": false,
   "showIndentGuide": false,
-  "newFileLocation": "root",
+  "newFileLocation": "folder",
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "_Attachements",
   "tabSize": 2,
   "trashOption": "system",
   "userIgnoreFilters": [
     "/^_+/"
   ],
   "defaultViewMode": "preview",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "Unprocessed"
 }

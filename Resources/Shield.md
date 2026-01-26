@@ -1,26 +1,33 @@
 ---
-id: Chain
-aliases:
-tags:
-  - needs/name
-  - needs/components
-  - sai-yoxis
-casting time: 1 action
-duration: instantaneous
+type: "[[Neomantic Spells|spell]]"
 parent: "[[Neomantic Spells]]"
-range: 30ft
-target: 1 creature
-tier: 0
-type: spell
-mantic charge minimum: 1
+name:
+description: Create a temporary shield as a reaction
 attributes:
   - "[[Fortitude]]"
   - "[[Intuition]]"
+mantic charge minimum: 1
+quick action: true
+reaction: true
+requires focus: false
+components:
+casting time: reaction
+target: self
+range:
+duration: 1 round
+area of effect:
+damage:
+damage mitigation: "[[Mantic Damage]]"
+tags:
+  - needs/components
+  - needs/antimantic-inverse
+  - needs/radiation-fail-outcome
 ---
-
 # Description
 
-Use your quick action to mold a shield out of Mantic Energy that negates 1 + [[Mage]] level of damage. It is destroyed when hit. You may use this as a reaction when attacked.
+Use your quick action to mold a shield out of Mantic Energy that mitigates [[Mantic Damage]] damage. The shield is destroyed when hit for an amount that exceeds its damage threshold (2 × [[Mantic Damage]]), and it dissolves at the end of your turn if you are not focused on this spell.
+
+You may use this as a reaction when attacked.
 
 # Antimantic Inverse
 

@@ -1,13 +1,14 @@
 ---
 type: "[[Neomantic Spells|spell]]"
 parent: "[[Neomantic Spells]]"
-name:
+name: Guidance?
 description:
 attributes:
+  - "[[Intelligence]]"
 mantic charge minimum: 0
-quick action: true
-reaction:
-requires focus: false
+quick action: false
+reaction: false
+requires focus: true
 components:
 casting time:
 target:
@@ -29,4 +30,3 @@ tags:
 
 
 # Radiation Fail Outcome #todo
-

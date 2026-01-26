@@ -8,6 +8,7 @@ attributes:
   - "[[Mantic]]"
 mantic charge minimum: 2
 quick action: true
+reaction: false
 requires focus: false
 components:
 casting time: quick action

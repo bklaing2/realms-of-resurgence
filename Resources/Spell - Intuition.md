@@ -2,20 +2,20 @@
 type: "[[Neomantic Spells|spell]]"
 parent: "[[Neomantic Spells]]"
 name:
-description: Touch a creature to damage it
+description:
 attributes:
-  - "[[Fortitude]]"
+  - "[[Intuition]]"
 mantic charge minimum: 0
 quick action: false
-reaction: false
+reaction: true
 requires focus: false
 components:
-casting time: 1 action
-target: 1 creature
-range: touch
-duration: instantaneous
+casting time:
+target:
+range:
+duration:
 area of effect:
-damage: 1d4 mantic
+damage:
 tags:
   - needs/components
   - needs/antimantic-inverse
@@ -23,7 +23,7 @@ tags:
 ---
 # Description #todo 
 
-As an action, touch a creature. Direct Mantic energy into them, damaging them for 1d4 + [[Mantic Damage]]
+
 
 # Antimantic Inverse #todo 
 

@@ -1,6 +1,10 @@
 filters:
   and:
-    - file.inFolder("Resources")
+    - or:
+        - file.inFolder("Resources")
+        - file.inFolder("Sai Yoxis")
+        - file.inFolder("Unprocessed")
+    - formula.ignore == false
 formulas:
   Mantic Tier: if(tier >= 0, if(tier == 0, "Cantrip", "Tier " + tier))
   Needs Name: if(file.hasTag("needs/name"), "YES")
@@ -9,6 +13,7 @@ formulas:
   Untitled: if(file.hasLink("Sai Yoxis/Maps of Content/Sai Yoxis IV"), "YES")
   Links to Sai Yoxis III: if(file.hasLink("Sai Yoxis/Maps of Content/Sai Yoxis III"), "YES")
   NameLink: file.asLink(name)
+  ignore: file.path.split('/').map(value.startsWith("_")).contains(true)
 properties:
   file.name:
     displayName: File
@@ -149,6 +154,7 @@ views:
     columnSize:
       file.name: 129
       note.attributes: 160
+      formula.ignore: 385
       note.casting time: 101
       note.target: 115
       note.range: 60
