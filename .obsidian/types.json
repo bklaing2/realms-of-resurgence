@@ -17,6 +17,8 @@
     "equippable slots": "multitext",
     "throwable": "checkbox",
     "mantic charge minimum": "number",
-    "attributes": "multitext"
+    "attributes": "multitext",
+    "quick action": "checkbox",
+    "reaction": "checkbox"
   }
 }

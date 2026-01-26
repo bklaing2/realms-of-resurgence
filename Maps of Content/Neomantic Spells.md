@@ -3,6 +3,10 @@ parent: "[[Mantic Manipulation]]"
 type: moc
 name: Neomantic Spells
 aliases:
+  - Spells
+  - Spell
+  - spells
+  - spell
 tags:
 ---
 [[Mage|Mages]] are those of Sai Yoxis that innately have the most control over Neomancy. They are able to cast spells by using their own body as a conduit.

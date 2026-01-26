@@ -5,9 +5,9 @@ name:
 description:
 attributes:
 mantic charge minimum: 0
-quick action:
+quick action: true
 reaction:
-requires focus:
+requires focus: false
 components:
 casting time:
 target:

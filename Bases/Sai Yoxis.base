@@ -130,23 +130,25 @@ views:
   - type: table
     name: Spells
     filters:
-      and:
+      or:
         - type == "spell"
+        - type == link("Neomantic Spells", "spell")
     order:
       - file.name
+      - attributes
+      - mantic charge minimum
       - casting time
       - target
       - range
       - duration
       - requires focus
-      - mantic charge minimum
-      - attributes
     sort:
       - property: mantic charge minimum
         direction: ASC
     summaries: {}
     columnSize:
-      file.name: 138
+      file.name: 129
+      note.attributes: 160
       note.casting time: 101
       note.target: 115
       note.range: 60
