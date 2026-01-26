@@ -11,7 +11,7 @@ views:
       direction: ASC
     order:
       - file.name
-  - type: list
+  - type: table
     name: Mantic Spells
     filters:
       and:
