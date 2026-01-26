@@ -30,7 +30,7 @@ views:
       - damage ability
       - damage
     columnSize:
-      file.name: 104
+      file.name: 141
       note.hit ability: 115
       note.damage ability: 138
   - type: table
@@ -43,3 +43,11 @@ views:
     filters:
       and:
         - note["item type"] == "potion"
+    order:
+      - file.name
+      - brewing time
+      - duration
+      - element
+    sort: []
+    columnSize:
+      file.name: 265
