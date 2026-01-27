@@ -2,6 +2,7 @@
 type: creature
 subtype: humanoid
 power/intelligence: low/high
+body size: medium
 ---
 [[Whispering Angels]]
 **AC**: 12  

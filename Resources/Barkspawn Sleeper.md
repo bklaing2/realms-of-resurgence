@@ -2,6 +2,7 @@
 type: creature
 subtype: horror
 power/intelligence: low/low
+body size: huge
 ---
 [[The Wastes]] 
 **AC**: 11  
