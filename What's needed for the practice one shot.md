@@ -11,8 +11,8 @@
   - [ ] Four combats
     - [x] with a few bandits (normal guys)
       - [x] then level up to level one
-    - [ ] with people
-      - [ ] will be short
+    - [x] with people
+      - [x] will be short
     - [x] with low intelligence low power horror
       - [x] will be a bit longer
       - [x] low waste radiation
@@ -32,6 +32,7 @@
   - [x] Inside the wastes
 
 - [x] Character sheet
+	- [ ] Officially printed sheet
 
 - [x] potions
 
@@ -105,11 +106,11 @@
 - Added something **JUICY** at the bottom of [[The Gathering Bright|Gathering Bright]] - *let me know what you think*
 - Added photos to most of the [[Creatures]], [[The Gathering Bright|Gathering Bright]], and [[Whispering Angels]]
 
-**24-01-2025: Bryceson hyperfixated on the spell system**
+**24-01-2026: Bryceson hyperfixated on the spell system**
 
 ![[Attribute Testing.canvas]]
 
-**25-01-2025: More playtesting - rest of level one**
+**25-01-2026: More playtesting - rest of level one**
 
 - Restarted rolling initiative right before the [[Barkspawn Sleeper]] encounter
 - Everyone lived this time, but the Scribe had to be stabilized by a health potion
@@ -123,7 +124,7 @@
 - The [[Entangle]] spell was clutch here
 - Everybody lived. Barely
 
-**26-01-2025: Playtest level 2**
+**26-01-2026: Playtest level 2**
 
 - We will roleplay the long rest
 - Level up to level two
@@ -134,6 +135,11 @@
 - Came across an abandoned settlement
 - Investigate the [[Reliquary]], finding another health potion, a vial of pitch black liquid, a flask with pink viscous liquid, a pair of boots (that make the scribe's amulet buzz when close to it), a pouch with 45 gold, and a ring
 - A tall lanky figure is coming towards the Reliquary
+
+**27-01-2026**
+
+- Updated [[Reliquary]] with some information and created [[Settlement]], will add more to these soon.
+- Updates to [[The Gathering Bright]] and their titles and such - let me know what you think
 - 
 
 # 5 weeks to get this ready

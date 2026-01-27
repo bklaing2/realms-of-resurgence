@@ -4,7 +4,7 @@ item type: potion
 consumable: true
 quick action: true
 action: true
-duration:
+duration: instantaneous
 brewing time: 2.5 hours
 throwable: true
 area of effect: 10 ft radius
