@@ -1,3 +1,9 @@
+---
+type: creature
+subtype: humanoid
+power/intelligence: low/mid
+body size: medium
+---
 **AC**: 12 
 **HP**: 15  
 **Speed**: 30 ft  
