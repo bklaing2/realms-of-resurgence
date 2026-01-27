@@ -5,7 +5,7 @@ name:
 description: Touch a creature to damage it
 attributes:
   - "[[Fortitude]]"
-mantic charge minimum: 0
+mantic charge minimum: 1
 quick action: false
 reaction: false
 requires focus: false

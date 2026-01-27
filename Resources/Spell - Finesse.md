@@ -5,7 +5,7 @@ name:
 description:
 attributes:
   - "[[Finesse]]"
-mantic charge minimum: 0
+mantic charge minimum: 1
 quick action: true
 reaction: false
 requires focus: false
@@ -20,6 +20,7 @@ tags:
   - needs/components
   - needs/antimantic-inverse
   - needs/radiation-fail-outcome
+  - needs/name
 ---
 # Description #todo 
 
