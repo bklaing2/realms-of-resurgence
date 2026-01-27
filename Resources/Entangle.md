@@ -2,7 +2,7 @@
 type: "[[Neomantic Spells|spell]]"
 parent: "[[Neomantic Spells]]"
 name:
-description:
+description: Bind creatures so that damaging one also damages the rest
 attributes:
   - "[[Intelligence]]"
   - "[[Mantic]]"

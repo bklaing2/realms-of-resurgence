@@ -4,10 +4,10 @@ parent: "[[Neomantic Spells]]"
 name:
 description: Create a temporary shield as a reaction
 attributes:
-  - "[[Fortitude]]"
   - "[[Intuition]]"
-mantic charge minimum: 1
-quick action: true
+  - "[[Mantic]]"
+mantic charge minimum: 2
+quick action: false
 reaction: true
 requires focus: false
 components:
@@ -25,9 +25,7 @@ tags:
 ---
 # Description
 
-Use your quick action to mold a shield out of Mantic Energy that mitigates [[Mantic Damage]] damage. The shield is destroyed when hit for an amount that exceeds its damage threshold (2 × [[Mantic Damage]]), and it dissolves at the end of your turn if you are not focused on this spell.
-
-You may use this as a reaction when attacked.
+When attacked, use your reaction to mold a shield out of Mantic Energy that mitigates [[Mantic Damage]] damage for one turn. The shield is destroyed when hit for an amount that exceeds its damage threshold (2 × [[Mantic Damage]]), and it dissolves at the start of your next turn.
 
 # Antimantic Inverse
 
