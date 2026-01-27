@@ -184,7 +184,7 @@ views:
       - parent
     sort: []
     columnSize:
-      file.name: 166
+      file.name: 172
       note.item type: 149
   - type: table
     name: Creatures
