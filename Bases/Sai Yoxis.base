@@ -14,6 +14,18 @@ formulas:
   Links to Sai Yoxis III: if(file.hasLink("Sai Yoxis/Maps of Content/Sai Yoxis III"), "YES")
   NameLink: file.asLink(name)
   ignore: file.path.split('/').map(value.startsWith("_")).contains(true)
+  sort by attributes: |-
+    number(attributes
+    .map(value.toString().lower())
+    .map(
+    if(value.contains("fortitude"), 1,
+    if(value.contains("finesse"), 2, 
+    if(value.contains("intuition"), 3, 
+    if(value.contains("intelligence"), 4,
+    if(value.contains("mantic"), 5,
+    ""
+    ))))))
+    .join(""))
 properties:
   file.name:
     displayName: File
@@ -29,6 +41,8 @@ properties:
     displayName: Description
   formula.Untitled:
     displayName: Links to Sai Yoxis IV
+  note.mantic charge minimum:
+    displayName: MCM
 views:
   - type: table
     name: All
@@ -139,21 +153,21 @@ views:
         - type == "spell"
         - type == link("Neomantic Spells", "spell")
     order:
+      - mantic charge minimum
       - file.name
       - attributes
-      - mantic charge minimum
       - casting time
       - target
       - range
       - duration
       - requires focus
     sort:
-      - property: mantic charge minimum
+      - property: formula.sort by attributes
         direction: ASC
     summaries: {}
     columnSize:
       file.name: 129
-      note.attributes: 209
+      note.attributes: 224
       note.casting time: 101
       note.target: 115
       note.range: 60

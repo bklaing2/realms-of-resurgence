@@ -56,7 +56,7 @@
 		{"id":"44cbe960a0232553","type":"text","text":"[[Spell - Intuition|Luck?]]\nintuition\n#brainstorm reactions","x":15620,"y":12900,"width":160,"height":150,"color":"1"},
 		{"id":"de4f6bdf78a434d5","type":"text","text":"finesse + intuition\n(subterfuge)","x":14980,"y":12300,"width":160,"height":150,"color":"2"},
 		{"id":"bdede02b32798db9","type":"text","text":"[[Mantic Spike]]\nmantic\n#brainstorm \nMantic energy manifests physically","x":15140,"y":11100,"width":160,"height":150,"color":"1"},
-		{"id":"327053843a8345cc","type":"text","text":"[[Bind]]\nfinesse + intelligence + mantic","x":15140,"y":11700,"width":160,"height":150,"color":"3"},
+		{"id":"327053843a8345cc","type":"text","text":"[[Entangle]]\nfinesse + intelligence + mantic","x":15140,"y":11700,"width":160,"height":150,"color":"3"},
 		{"id":"4fe4219fce93785a","type":"text","text":"finesse + intuition + intelligence","x":15300,"y":12150,"width":160,"height":150,"color":"3"},
 		{"id":"6e1b1adede2b58cd","type":"text","text":"fortitude + intelligence\n(persuasion)","x":15300,"y":12300,"width":160,"height":150,"color":"2"},
 		{"id":"0f92d3b344b2558c","type":"text","text":"finesse + mantic\n(legerdemain)","x":14500,"y":11250,"width":160,"height":150,"color":"2"},

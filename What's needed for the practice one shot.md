@@ -120,7 +120,7 @@
 - Went into the house. There is something there
 - It was two [[Wastewalker]]
 - Fought, the scribe went down and back up, the scout and brawler went down too.
-- The [[Bind]] spell was clutch here
+- The [[Entangle]] spell was clutch here
 - Everybody lived. Barely
 
 **26-01-2025: Playtest level 2**
