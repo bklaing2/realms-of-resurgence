@@ -1,3 +1,5 @@
+# 5 WEEKS TO GET THIS READY!!
+
 # Big Picture
 
 - [ ] At least 5 classes complete through level 4
@@ -44,6 +46,7 @@
   - Address it
   - Continue where we left off
 
+# Log
 ## 07-01-2026: practice mini adventure - level 2
 
 - Made 5 characters starting at level 0
@@ -135,14 +138,16 @@
 - Came across an abandoned settlement
 - Investigate the [[Reliquary]], finding another health potion, a vial of pitch black liquid, a flask with pink viscous liquid, a pair of boots (that make the scribe's amulet buzz when close to it), a pouch with 45 gold, and a ring
 - A tall lanky figure is coming towards the Reliquary
+- We began combat against some glowing bois and those lanky guys IIRC
 
 **27-01-2026**
 
+**James**
 - Updated [[Reliquary]] with some information and created [[Settlement]], will add more to these soon.
 - Updates to [[The Gathering Bright]] and their titles and such - let me know what you think
 - Added [[Bandit Captain]] and **body size** property to [[Creatures]]
 - Added our FIRST LORD OF THE WASTE [[Rogalth, The Dread Visage, Lord of the Waste]]
-- 
 
-# 5 weeks to get this ready
+**Bryceson**
+- Working on spells. Fun fun :). It's late but I'm not tired enough to sleep :-|
 
