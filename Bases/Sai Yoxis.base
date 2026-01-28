@@ -230,7 +230,7 @@ views:
       - property: size
         direction: ASC
     columnSize:
-      file.name: 308
+      file.name: 217
       note.subtype: 132
   - type: table
     name: Sai Yoxis I
