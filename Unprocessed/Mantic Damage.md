@@ -1,0 +1,1 @@
+Mantic Damage is calculated according to the Fibonacci Sequence
