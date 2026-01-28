@@ -35,6 +35,7 @@
 
 - [x] Character sheet
 	- [ ] Officially printed sheet
+	- [ ] cheat sheet for players
 
 - [x] potions
 - [ ] arrows, at least some tier 1 arrows
