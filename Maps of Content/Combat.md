@@ -29,9 +29,9 @@ There are three basic types of [[Maps of Content/Armor|armor]],
 
 | Type   | Required Attributes         | Base AC | Mitigation | Damage Threshold (2\*mitigation) | Damage Slots |
 | ------ | --------------------------- | ------- | ---------- | -------------------------------- | ------------ |
-| Light  | +2 Finesse                  | 8       | 4          | 8                                | 2            |
+| Light  | +2 Finesse                  | 8       | 4          | 8                                | 6            |
 | Medium | +1 Finesse and +1 Fortitude | 6       | 6          | 12                               | 4            |
-| Heavy  | +2 Fortitude                | 4       | 8          | 16                               | 6            |
+| Heavy  | +2 Fortitude                | 4       | 8          | 16                               | 2            |
 #brainstorm What if you rolled a die for mitigating damage on each hit? Higher tiers you roll multiple die. Then the Mitigation becomes a Mitigation die
 
 #brainstorm if you do not have the required attributes to wear the armor, you can still wear it and gain the AC benefit, but not be able to mitigate any damage. You still mark damage slots based on thresholds in case you become able to mitigate, it still may be broken.
