@@ -2,6 +2,7 @@
 type: creature
 subtype: humanoid
 power/intelligence: low/low
+body size: medium
 ---
 [[The Wastes]] 
 **AC**: 10  

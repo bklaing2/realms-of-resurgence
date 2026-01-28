@@ -217,6 +217,10 @@ views:
       - file.name
       - subtype
       - power/intelligence
+      - body size
+    sort:
+      - property: size
+        direction: ASC
     columnSize:
       file.name: 226
       note.subtype: 122

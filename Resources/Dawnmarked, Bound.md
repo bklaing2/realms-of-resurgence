@@ -2,6 +2,7 @@
 type: creature
 subtype: humanoid
 power/intelligence: high/high
+body size: large
 ---
 [[The Wastes]], [[The Gathering Bright]]
 **AC**: 17  

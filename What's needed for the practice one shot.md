@@ -140,6 +140,7 @@
 
 - Updated [[Reliquary]] with some information and created [[Settlement]], will add more to these soon.
 - Updates to [[The Gathering Bright]] and their titles and such - let me know what you think
+- Added [[Bandit Captain]] and **body size** property to [[Creatures]]
 - 
 
 # 5 weeks to get this ready
