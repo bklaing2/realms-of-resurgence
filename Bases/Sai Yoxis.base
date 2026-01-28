@@ -229,8 +229,8 @@ views:
       - property: size
         direction: ASC
     columnSize:
-      file.name: 226
-      note.subtype: 122
+      file.name: 308
+      note.subtype: 132
   - type: table
     name: Sai Yoxis I
     filters:
