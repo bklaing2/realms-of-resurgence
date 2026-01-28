@@ -1,5 +1,4 @@
 # Short Rests
-
 - short rests can be done pretty much at any time
 - they last about 30 minutes
 - this is time for the PCs to rest, eat, chat, plan, and do some general upkeep
@@ -12,7 +11,6 @@
 
 
 # Long Rests
-
 - long rests can be done once per day
 - last about 6 hours
 - similar things as a short rest, except that the players will also sleep and keep watch
