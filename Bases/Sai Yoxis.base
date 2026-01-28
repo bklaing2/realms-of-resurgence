@@ -109,12 +109,12 @@ views:
     order:
       - file.name
       - description
+      - hit points
       - formula.Needs Name
       - subclass-i
       - subclass-ii
       - subclass-iii
       - subclass-iv
-      - hit points
     sort:
       - property: hit points
         direction: DESC
