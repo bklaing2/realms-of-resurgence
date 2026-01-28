@@ -37,6 +37,7 @@
 	- [ ] Officially printed sheet
 
 - [x] potions
+- [ ] arrows, at least some tier 1 arrows
 
 # First step
 
