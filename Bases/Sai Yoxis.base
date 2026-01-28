@@ -1,3 +1,25 @@
+summaries:
+  Primary: values.filter(value.length == 1).length
+  Secondary: values.filter(value.length == 2).length
+  Quaternary: values.filter(value.length == 4).length
+  Quinary: values.filter(value.length == 5).length
+  Tertiary: values.filter(value.length == 3).length
+  Unique: values.unique().length
+  Filled: values.filter(!value.isType("null")).length
+  Empty: values.filter(value.isType("null")).length
+  Orders: |-
+    values
+    .map(value.length)
+    .filter(value.isTruthy())
+    .reduce([
+    acc[0] + number(value == 1),
+    acc[1] + number(value == 2),
+    acc[2] + number(value == 3),
+    acc[3] + number(value == 4),
+    acc[4] + number(value == 5)
+    ], [0, 0, 0, 0, 0])
+    .map(value + "/" + if(index == 0 || index == 3, 5, if(index == 1 || index == 2, 10, 1)))
+    .join(" | ")
 filters:
   and:
     - or:
@@ -26,26 +48,7 @@ formulas:
     ""
     ))))))
     .join(""))
-summaries:
-  Primary: values.filter(value.length == 1).length
-  Secondary: values.filter(value.length == 2).length
-  Quaternary: values.filter(value.length == 4).length
-  Quinary: values.filter(value.length == 5).length
-  Levels: |-
-    values
-    .map(value.length)
-    .filter(value.isTruthy())
-    .reduce([
-    acc[0] + number(value == 1),
-    acc[1] + number(value == 2),
-    acc[2] + number(value == 3),
-    acc[3] + number(value == 4),
-    acc[4] + number(value == 5)
-    ], [0, 0, 0, 0, 0])
-  Tertiary: values.filter(value.length == 3).length
-  Unique: values.unique().length
-  Filled: values.filter(!value.isType("null")).length
-  Empty: values.filter(value.isType("null")).length
+  order: attributes.length
 properties:
   file.name:
     displayName: File
@@ -173,6 +176,7 @@ views:
         - type == "spell"
         - type == link("Neomantic Spells", "spell")
     order:
+      - formula.order
       - mantic charge minimum
       - file.name
       - attributes
@@ -186,8 +190,9 @@ views:
       - property: formula.sort by attributes
         direction: ASC
     summaries:
-      attributes: Levels
+      attributes: Orders
     columnSize:
+      formula.order: 51
       file.name: 129
       note.attributes: 224
       note.casting time: 101
@@ -195,6 +200,7 @@ views:
       note.range: 60
       note.duration: 107
       note.requires focus: 101
+      note.description: 449
   - type: table
     name: Items
     filters:
