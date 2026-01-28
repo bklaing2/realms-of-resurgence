@@ -4,8 +4,8 @@ parent: "[[Neomantic Spells]]"
 name:
 description: Create a temporary shield as a reaction
 attributes:
+  - "[[Fortitude]]"
   - "[[Intuition]]"
-  - "[[Mantic]]"
 mantic charge minimum: 2
 quick action: false
 reaction: true

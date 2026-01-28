@@ -1,23 +1,31 @@
 ---
-id: Dominate Horror
-aliases:
+type: "[[Neomantic Spells|spell]]"
+parent: "[[Neomantic Spells]]"
+name:
+description:
+attributes:
+  - "[[Intuition]]"
+  - "[[Intelligence]]"
+  - "[[Mantic]]"
+mantic charge minimum: 3
+quick action: false
+reaction: false
+requires focus: true
+components:
+casting time: action
+target: 1 horror
+range: 60ft
+duration: focus
+area of effect:
+damage:
 tags:
   - needs/components
-  - sai-yoxis
-casting time: 1 action
-name: Dominate Horror
-parent: "[[Neomantic Spells]]"
-range: 60ft
-requires focus: false
-target: 1 horror
-tier: 3
-type: spell
-mantic charge minimum: 5
+  - needs/antimantic-inverse
+  - needs/radiation-fail-outcome
 ---
-
 # Description
 
-As an action, roll to control a horror you can see within 60ft. On a success, you gain control of the horror and can give it a command as a bonus action on your turn. At the end of your turn, roll to check if you keep control of the horror.
+As an action, roll to control a horror you can see within 60ft. On a success, you gain control of the horror and can give it a command on your turn. At the end of your turn, roll to check if you keep control of the horror. Additional Mantic Charges used to cast this spell increase the difficulty check for the Horror to regain control.
 
 # Radiation Fail Outcome
 

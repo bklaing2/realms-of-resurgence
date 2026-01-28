@@ -4,7 +4,7 @@ parent: "[[Neomantic Spells]]"
 name:
 description: Touch a creature to damage it
 attributes:
-  - "[[Fortitude]]"
+  - "[[Mantic]]"
 mantic charge minimum: 1
 quick action: false
 reaction: false

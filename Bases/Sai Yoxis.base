@@ -177,7 +177,6 @@ views:
         - type == link("Neomantic Spells", "spell")
     order:
       - formula.order
-      - mantic charge minimum
       - file.name
       - attributes
       - casting time

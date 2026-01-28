@@ -4,9 +4,9 @@ parent: "[[Neomantic Spells]]"
 name: Project
 description: Project a Mantic facsimile of your hands within 60 feet
 attributes:
+  - "[[Fortitude]]"
   - "[[Finesse]]"
   - "[[Intelligence]]"
-  - "[[Mantic]]"
 mantic charge minimum: 3
 quick action: true
 reaction: false
