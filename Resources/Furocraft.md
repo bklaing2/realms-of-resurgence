@@ -4,10 +4,10 @@ parent: "[[Neomantic Spells]]"
 name:
 description: Shape Mantic energy into an empowered weapon or shield that can be transformed at will
 attributes:
+  - "[[Fortitude]]"
   - "[[Finesse]]"
   - "[[Intuition]]"
   - "[[Intelligence]]"
-  - "[[Mantic]]"
 mantic charge minimum: 4
 quick action: true
 reaction: true

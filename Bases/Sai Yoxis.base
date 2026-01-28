@@ -193,7 +193,7 @@ views:
     columnSize:
       formula.order: 51
       file.name: 129
-      note.attributes: 224
+      note.attributes: 307
       note.casting time: 101
       note.target: 115
       note.range: 60

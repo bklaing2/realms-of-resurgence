@@ -1,26 +1,35 @@
 ---
-id: Tether
-aliases:
-tags:
-  - needs/name
-  - needs/components
-  - sai-yoxis
-casting time: 1 action
-duration: instantaneous
+type: "[[Neomantic Spells|spell]]"
 parent: "[[Neomantic Spells]]"
-range: 30ft
-target: 1 creature
-tier: 0
-type: spell
-description: Tether yourself to an object or surface you can see within 50ft
-mantic charge minimum: 2
+name:
+description: Tether yourself to an object or surface
+attributes:
+  - "[[Fortitude]]"
+  - "[[Intelligence]]"
+  - "[[Mantic]]"
+mantic charge minimum: 0
+quick action: false
+reaction: false
+requires focus: true
+components:
+casting time: action
+target: surface
+range: 60ft
+duration: focus
+area of effect:
+damage:
+tags:
+  - needs/components
+  - needs/antimantic-inverse
+  - needs/radiation-fail-outcome
 ---
-
 # Description
 
-As an action, tether yourself to an object or surface you can see within 50ft. Other creatures can touch and affect the tether.
+As an action, tether yourself to an object or surface you can see within 50ft. Other creatures can touch and affect the tether?
 
 If they can't see it the [[Scribe]] and [[Mage]] can work together using the [[Scry]] Glyph to keep line of sight.
+
+The spell ends when you don't focus on it.
 
 # Antimantic Inverse
 
