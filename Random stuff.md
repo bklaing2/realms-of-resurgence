@@ -3,6 +3,10 @@ tags:
   - sai-yoxis
   - brainstorm
 ---
+# Wander?
+
+Maybe the name something to do with wander? Some potential there?
+
 # Testing stuff
 
 | ***Fortitude*** |          [[Fighter]]           |   [[Brawler]]   |       *Support?*       |     [[Mage]]     |
