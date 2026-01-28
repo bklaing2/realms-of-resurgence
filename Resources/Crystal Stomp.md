@@ -2,7 +2,7 @@
 type: "[[Neomantic Spells|spell]]"
 parent: "[[Neomantic Spells]]"
 name:
-description:
+description: Summon Mantic crystals from the ground, forming either widespread shards or a cage around a target
 attributes:
   - "[[Fortitude]]"
   - "[[Intelligence]]"

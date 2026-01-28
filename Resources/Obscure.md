@@ -1,25 +1,29 @@
 ---
-name: Obscure
-aliases:
-description:
+type: "[[Neomantic Spells|spell]]"
 parent: "[[Neomantic Spells]]"
-type: spell
-tags:
-  - needs/components
-tier: 1
-casting time: 1 action
-target: Open Space
-range: 60 feet
-duration: 1 minute
-area of effect: 10 feet
-damage: 0
+name:
+description: Create a cloud of crackling energy that makes it nigh impossible to see in/through
+attributes:
+  - "[[Intelligence]]"
+mantic charge minimum: 1
+quick action: false
+reaction: false
 requires focus: true
 components:
-mantic charge minimum: 2
+casting time: action
+target: open space
+range: 60ft
+duration: 1 minute per mantic charge expended
+area of effect: 10ft cube
+damage:
+tags:
+  - needs/components
+  - needs/antimantic-inverse
+  - needs/radiation-fail-outcome
 ---
 # Description #todo 
 
-Creates a cloud that makes it nigh impossible to see in/through
+As an action, create a cloud of crackling energy that makes it nigh impossible to see in/through.
 
 # Antimantic Inverse #todo 
 

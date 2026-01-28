@@ -1,25 +1,37 @@
 ---
-id: Craft
-aliases:
+type: "[[Neomantic Spells|spell]]"
+parent: "[[Neomantic Spells]]"
+name:
+description: Shape Mantic energy into an empowered weapon or shield that can be transformed at will
+attributes:
+  - "[[Finesse]]"
+  - "[[Intuition]]"
+  - "[[Intelligence]]"
+  - "[[Mantic]]"
+mantic charge minimum: 4
+quick action: true
+reaction: true
+requires focus: true
+components:
+casting time: quick action OR reaction
+target:
+range:
+duration: focus
+area of effect:
+damage:
 tags:
   - needs/components
-  - sai-yoxis
-  - needs/name
-casting time: 1 bonus action
-duration: focus
-name: Craft
-parent: "[[Neomantic Spells]]"
-requires focus: true
-tier: 2
-type: spell
-mantic charge minimum: 4
+  - needs/antimantic-inverse
+  - needs/radiation-fail-outcome
 ---
-
 # Description
 
-As a bonus action, mold Mantic energy into a solid form of one of: shield, dagger, short sword, longsword, or javelin. The object stays as long as you spend your bonus action focusing on it. If it leaves your hand for more than one turn or you don't focus on it the object evaporates back into latent furomancy.
+As a quick action, mold Mantic energy into a solid shield or weapon of your choice. The object will be empowered with [[Mantic Damage]].
 
-You may also use a reaction to craft it into a shield.
+The object persists only while you maintain focus and remains in your possession. If it leaves your hand for more than one turn or you fail to focus on the spell during your turn, it dissolves into latent Mantic energy.
+
+You can additionally use your quick action to change the object into a different form.
+You may cast this spell as a reaction when you are attacked.
 
 # Antimantic Inverse #todo
 
