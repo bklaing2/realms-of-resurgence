@@ -159,3 +159,10 @@
 - added [[Lords of the Wastes]] page
 - updated [[Rogalth, The Dread Visage, Lord of the Bone Road]]'s page
 - added #2, [[Kuzrael, The Wandering Swine, Lord of the Dust]]
+
+**Playtesting:**
+- killed the two [[Absent, The]]s and [[Attending, The]]s in the [[Reliquary]] of the abandoned [[Settlement]]
+- long rested and leveled up to level 3!
+- reached day 3 in the [[The Wastes|Wastes]], now use a d8 for radiation dice
+- rolled a 4 on the Waste table for the next rest
+- party is a few hours from their location of the [[Whispering Angels]]' hideout
