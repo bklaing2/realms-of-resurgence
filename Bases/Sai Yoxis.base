@@ -200,7 +200,7 @@ views:
       note.attributes: 115
       note.quick action: 88
       note.requires focus: 101
-      note.casting time: 198
+      note.casting time: 132
       note.target: 207
       note.range: 60
   - type: table
