@@ -197,7 +197,7 @@ views:
     summaries: {}
     columnSize:
       file.name: 118
-      note.attributes: 114
+      note.attributes: 115
       note.quick action: 88
       note.requires focus: 101
       note.casting time: 198
