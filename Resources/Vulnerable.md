@@ -4,7 +4,7 @@ aliases: []
 tags:
   - needs/name
   - sai-yoxis
-description: Creatures within are vulnerable to damage for x number of rounds
+description: Creatures within are vulnerable to damage and take extra mantic damage while in the rune equal to the number of mantic charges expended
 name: Vulnerable
 parent: "[[Runic Circles]]"
 tier: 1
