@@ -83,6 +83,7 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 | Channeling      | Inscription   | ***Mantic*** | Summoning       | Arcana                |
 | Persuasion      | Deception     | Animism      | ***Intuition*** | Investigation         |
 | Survival        | Medicine      | History      | Insight         | ***Intelligence***    |
+
 ### Table V3
 
 | ***Fortitude***       | Deception?               | Constitution ([[Mage]]) | Intimidation                 | Forging / Crafting?   |
