@@ -48,3 +48,6 @@ When a PC within 25 ft rolls a radiation failure, Kuzrael's runic circles on its
 gargantuan boar creature that slowly drags itself and its tusks through the ground of its realm of the wastes. (most people think this lord of the waste is stupid and just incredibly powerful, but truly he is drawing the biggest runic circle ever seen to mutate every single living creature within the circle and then transfer their mantic energy to him).
 
 created by an ancient [[Lords of the Wastes]], Kuzrael never stopped growing in power or size, much to the surprise and demise of his creator. Eventually Kuzrael killed him, took his power and realm, and has been wandering ever since.
+
+![[IMG_0870.jpg]]
+![[IMG_0869.jpg]]

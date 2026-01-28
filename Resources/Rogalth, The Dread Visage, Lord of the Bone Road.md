@@ -48,3 +48,5 @@ every 25 years, the skeleton and therefore “personality” in control of Rogal
 *will be in control next*: **Gromsh** - warlord. very powerful and scary and much more focused on spreading their realm and killing people. Shangnar is worried about when he will take control (in 3 years)  
 
 *ancient famous controller*: **Crech** - helped raise them to the title of lord of the wastes by building the bone road and spreading their realm. every controller hopes to be remembered as he is.
+
+![[IMG_0868.jpg]]
