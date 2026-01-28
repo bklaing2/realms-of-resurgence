@@ -23,7 +23,7 @@ Less detectable by low-power low-sentient horrors.
 
 ## Sneak Attack
 
-When you have advantage on an attack, add 3D6 to your damage roll once per turn. Can craft [[Arrows#Tier Two|tier two arrows]].
+When you have advantage on an attack, add 3d6 to your damage roll once per turn. Can craft [[Arrows#Tier Two|tier two arrows]].
 
 ## ![[Scout#Hunter's Mark]]
 
