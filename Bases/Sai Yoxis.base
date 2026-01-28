@@ -169,8 +169,9 @@ views:
         direction: ASC
     columnSize:
       file.name: 124
-      note.description: 449
+      note.description: 487
       note.inscription time: 134
+      note.mantic charge minimum: 83
   - type: table
     name: Spells
     filters:

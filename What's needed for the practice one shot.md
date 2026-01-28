@@ -147,7 +147,13 @@
 - Updates to [[The Gathering Bright]] and their titles and such - let me know what you think
 - Added [[Bandit Captain]] and **body size** property to [[Creatures]]
 - Added our FIRST LORD OF THE WASTE [[Rogalth, The Dread Visage, Lord of the Bone Road]]
-
 **Bryceson**
 - Working on spells. Fun fun :). It's late but I'm not tired enough to sleep :-|
+	- *(how late were you up jajaja)*
 
+**28-01-2026**
+
+**James**
+- added [[Lords of the Wastes]] page
+- updated [[Rogalth, The Dread Visage, Lord of the Bone Road]]'s page
+- added #2, [[Kuzrael, The Wandering Swine, Lord of the Dust]]
