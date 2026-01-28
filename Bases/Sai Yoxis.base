@@ -49,6 +49,7 @@ formulas:
     ))))))
     .join(""))
   order: attributes.length
+  sorted attributes: ""
 properties:
   file.name:
     displayName: File
@@ -149,8 +150,9 @@ views:
   - type: table
     name: Runes
     filters:
-      and:
+      or:
         - type == "rune"
+        - type == link("Runic Circles", "rune")
     order:
       - file.name
       - description
@@ -175,31 +177,31 @@ views:
       or:
         - type == "spell"
         - type == link("Neomantic Spells", "spell")
+    groupBy:
+      property: formula.order
+      direction: ASC
     order:
-      - formula.order
       - file.name
       - attributes
+      - quick action
+      - reaction
+      - requires focus
       - casting time
       - target
       - range
       - duration
-      - requires focus
-      - description
     sort:
       - property: formula.sort by attributes
         direction: ASC
-    summaries:
-      attributes: Orders
+    summaries: {}
     columnSize:
-      formula.order: 51
-      file.name: 129
-      note.attributes: 307
-      note.casting time: 101
-      note.target: 115
-      note.range: 60
-      note.duration: 107
+      file.name: 118
+      note.attributes: 114
+      note.quick action: 88
       note.requires focus: 101
-      note.description: 449
+      note.casting time: 198
+      note.target: 207
+      note.range: 60
   - type: table
     name: Items
     filters:

@@ -1,6 +1,5 @@
 ---
 type: "[[Neomantic Spells|spell]]"
-parent: "[[Neomantic Spells]]"
 name:
 description: Beam Mantic energy directly into a creature, dealing massive damage
 attributes:

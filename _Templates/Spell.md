@@ -1,20 +1,23 @@
 ---
-name: <%* const spell = await tp.user.property(tp).spell() %><% spell.name %>
-aliases:
+type: "[[Neomantic Spells|spell]]"
+name:
 description:
-parent: "[[Neomantic Spells]]"
-type: spell
-tags:
-  - needs/components
-tier: <% spell.tier %>
-casting time: <% spell.casting_time %>
-target: <% spell.target %>
-range: <% spell.range %>
-duration: <% spell.duration %>
-area of effect: <% spell.aoe %>
-damage: <% spell.damage %>
+attributes:
+mantic charge minimum: 0
+quick action:
+reaction:
 requires focus:
 components:
+casting time:
+target:
+range:
+duration:
+area of effect:
+damage:
+tags:
+  - needs/components
+  - needs/antimantic-inverse
+  - needs/radiation-fail-outcome
 ---
 # Description #todo 
 

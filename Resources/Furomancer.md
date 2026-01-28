@@ -18,17 +18,13 @@ Variation of [[Mage]] found on [[Sai Yoxis IV]]
 
 ## Furomancy
 
-Learn 1 [[Mantic Manipulation#Cantrips|Cantrip]]
-Learn 2 Tier 2 [[Mantic Manipulation#Spells|Spells]]
-Gain 1 spell slot
+Can cast 2nd order spells
 
 ## ![[Mage#Mage Master needs/name]]
 
 ## Furomantic Master
 
-Learn 1 [[Mantic Manipulation#Cantrips|Cantrip]]
-Learn 1 Tier 3 [[Mantic Manipulation#Spells|Spells]]
-Gain 1 spell slot
+Can cast 4th order spells
 
 # ![[Mage#Spellcasting]]
 

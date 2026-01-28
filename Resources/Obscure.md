@@ -1,6 +1,5 @@
 ---
 type: "[[Neomantic Spells|spell]]"
-parent: "[[Neomantic Spells]]"
 name:
 description: Create a cloud of crackling energy that makes it nigh impossible to see in/through
 attributes:

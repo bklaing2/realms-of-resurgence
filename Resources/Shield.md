@@ -1,6 +1,5 @@
 ---
 type: "[[Neomantic Spells|spell]]"
-parent: "[[Neomantic Spells]]"
 name:
 description: Create a temporary shield as a reaction
 attributes:

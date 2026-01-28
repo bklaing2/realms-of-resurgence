@@ -19,6 +19,8 @@
     "mantic charge minimum": "number",
     "attributes": "multitext",
     "quick action": "checkbox",
-    "reaction": "checkbox"
+    "reaction": "checkbox",
+    "casting time": "multitext",
+    "target": "multitext"
   }
 }

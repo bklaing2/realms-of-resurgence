@@ -1,6 +1,5 @@
 ---
 type: "[[Neomantic Spells|spell]]"
-parent: "[[Neomantic Spells]]"
 name:
 description: Gather Mantic energy into a growing explosive charge
 attributes:
@@ -13,7 +12,9 @@ reaction: false
 requires focus: true
 components:
 casting time: quick action
-target: surface OR self
+target:
+  - surface
+  - self
 range: 30ft
 duration: focus up to 5 rounds
 area of effect: 15ft radius

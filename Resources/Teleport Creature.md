@@ -1,9 +1,8 @@
 ---
 type: "[[Neomantic Spells|spell]]"
 name:
-description: Teleport within 30 feet, damaging creatures in your path
+description: Teleport a creature within 60ft
 attributes:
-  - "[[Fortitude]]"
   - "[[Intuition]]"
   - "[[Mantic]]"
 mantic charge minimum: 0
@@ -12,8 +11,8 @@ reaction: false
 requires focus: false
 components:
 casting time: action
-target: self
-range: 30ft
+target: 1 creature
+range: 60ft
 duration: instantaneous
 area of effect:
 damage:
@@ -22,13 +21,13 @@ tags:
   - needs/antimantic-inverse
   - needs/radiation-fail-outcome
 ---
-# Description #todo 
+# Description
 
-As an action, teleport yourself within 30 feet. Any creature in your path takes [[Mantic Damage]] damage.
+As an action, teleport any creature you can see within 60ft to any area within 60ft of you. You can't teleport yourself
 
-# Antimantic Inverse #todo 
+# Antimantic Inverse #todo
 
+# Radiation Fail Outcome
 
-
-# Radiation Fail Outcome #todo
+The target is teleported in the opposite direction.
 

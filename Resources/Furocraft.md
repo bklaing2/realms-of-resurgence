@@ -1,6 +1,5 @@
 ---
 type: "[[Neomantic Spells|spell]]"
-parent: "[[Neomantic Spells]]"
 name:
 description: Shape Mantic energy into an empowered weapon or shield that can be transformed at will
 attributes:
@@ -13,7 +12,9 @@ quick action: true
 reaction: true
 requires focus: true
 components:
-casting time: quick action OR reaction
+casting time:
+  - quick action
+  - reaction
 target:
 range:
 duration: focus

@@ -1,6 +1,5 @@
 ---
 type: "[[Neomantic Spells|spell]]"
-parent: "[[Neomantic Spells]]"
 name:
 description: Create a temporary solid spike of Mantic energy
 attributes:
@@ -10,7 +9,7 @@ quick action: false
 reaction: false
 requires focus: false
 components:
-casting time:
+casting time: action
 target:
 range:
 duration:

@@ -1,19 +1,20 @@
 ---
-name: <%* const rune = await tp.user.property(tp).rune() %><% rune.name %>
-aliases:
+type: "[[Runic Circles|rune]]"
+name:
 description:
-parent: "[[Runic Circles]]"
-type: rune
+attributes:
+mantic charge minimum: 0
+components:
+inscription time:
+duration:
 tags:
   - needs/components
-tier: <% rune.tier %>
-scribing time: <% rune.scribing_time %>
-duration: <% rune.duration %>
-components:
+  - needs/antimantic-inverse
 ---
 # Description #todo 
 
 
 
 # Antimantic Inverse #todo 
+
 

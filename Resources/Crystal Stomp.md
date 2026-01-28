@@ -1,6 +1,5 @@
 ---
 type: "[[Neomantic Spells|spell]]"
-parent: "[[Neomantic Spells]]"
 name:
 description: Summon Mantic crystals from the ground, forming either widespread shards or a cage around a target
 attributes:
@@ -11,7 +10,7 @@ quick action: false
 reaction: false
 requires focus: true
 components:
-casting time: 1 action
+casting time: action
 target: ground
 range: 30ft
 duration: focus

@@ -1,6 +1,5 @@
 ---
 type: "[[Neomantic Spells|spell]]"
-parent: "[[Neomantic Spells]]"
 name:
 description: Bind creatures so that damaging one also damages the rest
 attributes:
@@ -11,7 +10,7 @@ quick action: false
 reaction: false
 requires focus: true
 components:
-casting time: 1 action
+casting time: action
 target: 2 or more creatures
 range: 60ft
 duration: focus

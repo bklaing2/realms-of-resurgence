@@ -27,9 +27,11 @@ Once per long rest, during a short or long rest, can restore 1d4 mantic charges.
 
 Gain the ability to cast spells
 
+Can cast 1st order spells
+
 ## Mage Master #needs/name 
 
-
+Can cast 3rd order spells
 
 # Spellcasting
 

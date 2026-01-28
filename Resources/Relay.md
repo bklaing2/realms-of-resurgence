@@ -1,6 +1,5 @@
 ---
 type: "[[Neomantic Spells|spell]]"
-parent: "[[Neomantic Spells]]"
 name:
 description: Bounce energy through creatures, damaging them
 attributes:
@@ -11,10 +10,10 @@ quick action: false
 reaction: false
 requires focus: true
 components:
-casting time: 1 action
+casting time: action
 target: 1 creature
 range: 30ft
-duration: while focusing
+duration: focus
 area of effect:
 damage: "[[Mantic Damage]]"
 tags:

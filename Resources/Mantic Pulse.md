@@ -1,6 +1,5 @@
 ---
 type: "[[Neomantic Spells|spell]]"
-parent: "[[Neomantic Spells]]"
 name:
 description: Touch a creature to damage it
 attributes:
@@ -10,7 +9,7 @@ quick action: false
 reaction: false
 requires focus: false
 components:
-casting time: 1 action
+casting time: action
 target: 1 creature
 range: touch
 duration: instantaneous
