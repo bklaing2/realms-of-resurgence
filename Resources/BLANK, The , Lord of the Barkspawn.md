@@ -17,23 +17,33 @@ body size: large
 **Insight:** +10
 
 **Passives**:  
-**Travel the Bone Road**: 
+**Barkstep**: In a 10 ft radius around them, roots and vines grow up and move constantly, making it difficult terrain and causing damage to anyone entering it for the first time or starting their turn there. Creatures entering or starting their turn within the range must make a DC 14 Fortitude check or take 2d8 + 8 mantic damage and half damage on a success.
 
 **Actions**:  
-**Multiattack**: (4) BLANK makes 4 attacks (2 longsword attacks and 2 bark attacks) each turn.
+**Multiattack**: (4) BLANK makes 4 attacks (3 longsword attacks and 1 bark shield bash) each turn.
 # Attacks:
-## Greatstaff:
-+8 to hit  
-15 ft range  
-3d8 + 8 bludgeoning damage
-## Mantic Grab:
-PC must make a Mantic saving throw, DC 16 or take 2d10 + 12 mantic damage and Rogalth heals for half the amount. PC takes half damage on a success and Rogalth does not heal. On a failure, the PC is also grappled by the hand and is held up into the air. Rogalth can hold two creatures at once, more if he is no longer holding his weapons. Creatures grappled by Rogalth have disadvantage on the saving throw.
-
+## Longsword:
++9 to hit  
+5 ft range  
+2d10 + 9 slashing damage
+## Bark Shield Bash:
++9 to hit
+5 ft range
+3d6 + 5 bludgeoning damage
+## Bark Spawn:
+*Refreshes on a 5-6*
+As an action, they summon another Barkspawn creature to aid them in this battle, pulled from the Barkspawn that they have killed and joined to their root system over the many years of life. The summoned Barkspawn come out of the vines and roots nearby with their heads removed and a dark void able to be seen inside.
+**Roll a d4:**
+**1-2:** [[Barkspawn Runner]]
+**3:** [[Barkspawn Sleeper]]
+**4:** [[Barkspawn Tyrant]]
 ## Legendary Actions (3 per round):
-Can use them to cast a spell immediately after an initiative block, can use as many LAs as he wants to add MC equal to that into the spell cast, or to cast a higher level spell.
+**Dash:** Can immediately move their full movement speed. **Cost: 1 LA**
+**Longsword Strike:** Can immediately make an attack with their longsword against a creature within range. **Cost: 1 LA**
+**Root Growth:** Can immediately command any plants in a 50 ft range to strike at a creature within 10 ft of the plant. PC makes a Finesse saving throw, DC 13, or take 2d6 + 6 piercing damage and half damage on a success. **Cost: 2 LA**
 
 # Proximity Radical Fail Outcome
-When a PC within 60 ft rolls a radiation failure, Rogalth immediately takes control of the bones that are buried beneath his lair/area of the wastes and can cause them to break through the floor and either grab creatures, block off different areas of the map, or lift people up to different heights in a room. Fortitude saving throw DC 14 to break out of the bone grapple (if failure, the creature is just restrained) and the bones have an AC of 10 and a section has 12 HP if a creature wants to try to break out of a section. Vulnerable to bludgeoning damage.
+When a PC within 25 ft rolls a radiation failure, the bark and roots around BLANK 
 
 
 ## Description:
