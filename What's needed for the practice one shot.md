@@ -171,4 +171,6 @@
 **29-01-2026**
 - [[Bandit Scribe]] and [[Bandit Bruiser]]
 - [[Gnawmite]]
+- [[Vael'ok, The Prime Verdant, Lord of the Barkspawn]]
+- [[Components]]
 - 
