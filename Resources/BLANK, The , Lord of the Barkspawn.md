@@ -37,3 +37,7 @@ When a PC within 60 ft rolls a radiation failure, Rogalth immediately takes cont
 
 
 ## Description:
+
+
+![[IMG_0875.jpg]]
+![[IMG_0876.jpg]]
