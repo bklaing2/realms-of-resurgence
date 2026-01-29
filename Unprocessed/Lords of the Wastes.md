@@ -6,4 +6,5 @@ they talk of them as if they are gods, “the god of the north plain” “the g
 **Known Lords of the Wastes:**
 - [[Rogalth, The Dread Visage, Lord of the Bone Road]]
 - [[Kuzrael, The Wandering Swine, Lord of the Dust]]
+- [[BLANK, The , Lord of the Barkspawn]]
 - 
