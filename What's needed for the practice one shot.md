@@ -167,3 +167,10 @@
 - reached day 3 in the [[The Wastes|Wastes]], now use a d8 for radiation dice
 - rolled a 4 on the Waste table for the next rest
 - party is a few hours from their location of the [[Whispering Angels]]' hideout
+
+**29-01-2026**
+- [[Bandit Scribe]] and [[Bandit Bruiser]]
+- [[Gnawmite]]
+- [[Vael'ok, The Prime Verdant, Lord of the Barkspawn]]
+- [[Components]]
+- 

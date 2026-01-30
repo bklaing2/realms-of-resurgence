@@ -6,7 +6,7 @@ body size: huge
 ---
 [[The Wastes|Wastes]]
 **AC**: 15  
-**HP**: 70  
+**HP**: 50  
 **Speed**: 35 ft  
 **Fortitude**: +10
 **Finesse:** +7
