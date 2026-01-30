@@ -5,7 +5,6 @@ summaries:
   Quinary: values.filter(value.length == 5).length
   Tertiary: values.filter(value.length == 3).length
   Unique: values.unique().length
-  Filled: values.filter(!value.isType("null")).length
   Empty: values.filter(value.isType("null")).length
   Orders: |-
     values
@@ -20,6 +19,7 @@ summaries:
     ], [0, 0, 0, 0, 0])
     .map(value + "/" + if(index == 0 || index == 3, 5, if(index == 1 || index == 2, 10, 1)))
     .join(" | ")
+  Count: values.filter(!value.isType("null")).length
 filters:
   and:
     - or:
@@ -292,12 +292,12 @@ views:
     sort:
       - property: formula.sort by attributes
         direction: ASC
-    summaries: {}
+    summaries:
+      file.name: Count
     columnSize:
-      file.name: 118
-      note.attributes: 246
+      file.name: 192
+      note.attributes: 87
       note.quick action: 88
       note.requires focus: 101
-      note.casting time: 132
       note.target: 207
       note.range: 60

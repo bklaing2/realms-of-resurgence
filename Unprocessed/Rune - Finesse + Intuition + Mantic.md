@@ -1,24 +1,18 @@
 ---
-type: "[[Neomantic Spells|spell]]"
+type: "[[Runic Circles|rune]]"
 name:
 description:
 attributes:
   - "[[Finesse]]"
+  - "[[Intuition]]"
+  - "[[Mantic]]"
 mantic charge minimum: 0
-quick action: true
-reaction: false
-requires focus: false
 components:
-casting time:
-target:
-range:
+inscription time:
 duration:
-area of effect:
-damage:
 tags:
   - needs/components
   - needs/antimantic-inverse
-  - needs/radiation-fail-outcome
 ---
 # Description #todo 
 
@@ -27,6 +21,10 @@ tags:
 # Antimantic Inverse #todo 
 
 
+# Description #todo 
 
-# Radiation Fail Outcome #todo
+
+
+# Antimantic Inverse #todo 
+
 
