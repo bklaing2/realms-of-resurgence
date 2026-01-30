@@ -1,0 +1,22 @@
+---
+type: "[[Runic Circles|rune]]"
+name:
+description:
+attributes:
+  - "[[Fortitude]]"
+  - "[[Mantic]]"
+mantic charge minimum: 0
+components:
+inscription time:
+duration:
+tags:
+  - needs/components
+  - needs/antimantic-inverse
+---
+# Description #todo 
+
+
+
+# Antimantic Inverse #todo 
+
+
