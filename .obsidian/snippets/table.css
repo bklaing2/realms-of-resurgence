@@ -1,6 +1,17 @@
 .table-full {
   --table-column-max-width: max-content;
+  --link-color: red;
   /* --workspace-background-translucent: ; */
+}
+
+.table-full table {
+  width: 100%;
+  max-width: 100%;
+}
+
+.table-full td {
+  width: 100%;
+  max-width: max-content;
 }
 
 /* table header weigth in reading mode */
