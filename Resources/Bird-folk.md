@@ -18,11 +18,11 @@ Found on [[Sai Yoxis IV]]
 
 ## Passive
 
-- Slow falling
+- **Slow Fall:** Rather than taking fall damage from 10 ft and up, bird-folk only start taking fall damage from 30 ft and up. And they can roll a DC 15 (minus their level)l Athletics check to halve the damage. #brainstorm 
 
 ## Active
 
--
+- **Screech:** 15 ft cone in which a bird-folk may screech and any creatures  #brainstorm 
 
 ## Skill Proficiency
 

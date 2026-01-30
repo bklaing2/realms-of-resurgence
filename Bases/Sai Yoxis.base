@@ -221,14 +221,15 @@ views:
     filters:
       and:
         - type == "creature"
+    groupBy:
+      property: subtype
+      direction: ASC
     order:
       - file.name
       - subtype
       - power/intelligence
       - body size
-    sort:
-      - property: size
-        direction: ASC
+    sort: []
     columnSize:
       file.name: 217
       note.subtype: 132
