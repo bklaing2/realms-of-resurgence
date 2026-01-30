@@ -1,33 +1,25 @@
 /* Table */
 
 /** Default **/
-* {
-  --table-column-min-width: max-content;
-  --table-column-max-width: max-content;
-}
-
-th,
-td,
-.table-cell-wrapper {
-  /* --table-column-min-width: max-content; */
-  /* --table-column-max-width: max-content; */
-  /* width: max-content !important; */
-}
 
 td,
 th {
-  white-space: nowrap;
+  white-space: nowrap !important;
 }
 
-/** Grow/shrink to fit page **/
-.table-w-full .table-cell-wrapper {
-  width: unset;
+/** Grow/shrink to fit **/
+.table-w-full td,
+.table-w-full th,
+.table-w-pane td,
+.table-w-pane th {
+  /* white-space: unset !important; */
 }
 
+/*** Grow to fit page **/
 .table-w-full .table-wrapper,
 .table-w-full .table-editor {
   width: 100% !important;
-  /* width: 100%; */
+  width: 100%;
 }
 
 

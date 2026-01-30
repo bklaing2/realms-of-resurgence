@@ -1,7 +1,7 @@
 ---
 cssclasses:
+  - table-w-full
 ---
-
 
 
 |                           | ***Fortitude***      | ***Finesse***    | ***Intuition*** | ***Intelligence*** | ***Mantic***                        |
