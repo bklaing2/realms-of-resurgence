@@ -25,7 +25,7 @@ I'm picturing these guys to be like swashbucklers with cutlasses, think puss-n-b
 
 ## Active
 
-- 
+- **Ultrasonic Message:** Mice-folk can send other creatures a message of 15 words or less if they are within 100 ft of range and have no barriers between them more than 5 ft wide. #brainstorm 
 
 ## Skill Proficiency
 

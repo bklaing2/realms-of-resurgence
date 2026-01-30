@@ -178,4 +178,4 @@
 - [[Bird-folk]] passive and active brainstorm
 - [[Roach-folk]] name change, passive clarification, and active brainstorm
 - [[Lizard-folk]] passive brainstorm and active clarification
-- 
+- [[Mice-folk]] passive and active brainstorm
