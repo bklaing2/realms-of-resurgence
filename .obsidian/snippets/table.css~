@@ -1,3 +1,5 @@
+/* Table Width */
+
 .table-full {
   --table-column-max-width: max-content;
   --link-color: red;
@@ -9,9 +11,20 @@
   max-width: 100%;
 }
 
-.table-full td {
+.table-w-full table {
+  min-width: 100%;
   width: 100%;
-  max-width: max-content;
+}
+
+.table-w-full .table-cell-wrapper {
+  min-width: 100%;
+  width: unset;
+}
+
+
+
+.table-cell-wrapper {
+  width: max-content;
 }
 
 /* table header weigth in reading mode */
