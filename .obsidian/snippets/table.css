@@ -1,43 +1,35 @@
-/* Table */
-
-/** Default **/
-
+/* Default */
 td,
 th {
   white-space: nowrap !important;
 }
 
-/** Grow/shrink to fit **/
-.table-w-full td,
-.table-w-full th,
-.table-w-pane td,
-.table-w-pane th {
-  /* white-space: unset !important; */
+tr {
+  height: 2.2em;
 }
 
-/*** Grow to fit page **/
-.table-w-full .table-wrapper,
-.table-w-full .table-editor {
+/* Grow to fit */
+
+/** Page **/
+.table-w-full table,
+.table-w-full .table-wrapper {
   width: 100% !important;
-  width: 100%;
 }
 
 
-/** Grow/shrink to fit pane **/
+/** Pane **/
+.table-w-pane {
+  --container-table-margin: 0;
+}
+
+.table-w-pane .el-table,
 .table-w-pane .cm-table-widget {
-  margin: 0 !important;
   min-width: 100% !important;
 }
 
 
-/* table header weigth in reading mode */
-.markdown-preview-view {
-  --table-header-weight: normal;
-  /* bold/normal */
-}
-
-/* table header weigth in live preview */
+/*  Typography  */
+.markdown-preview-view,
 .markdown-source-view {
   --table-header-weight: normal;
-  /* bold/normal */
 }

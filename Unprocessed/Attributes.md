@@ -1,5 +1,6 @@
 ---
 cssclasses:
+  - table-w-pane
   - table-w-full
 ---
 
@@ -10,8 +11,3 @@ cssclasses:
 | **Optional Rune Effect**  | duration?            | inscription time |                 | duration?          |                                     |
 | **Manifestation**         | solid                | liquid           | sparkles        | crackling energy   | *unknown*                           |
 | **Color**                 | orange               | yellow           | light green     | light blue         | *unknown*                           |
-
-
-|     |     |
-| --- | --- |
-|     |     |
