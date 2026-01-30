@@ -49,7 +49,9 @@ When a PC within 25 ft rolls a radiation failure, the bark and roots around Vael
 ## Description:
 A tall, valiant figure in brown, bark armor. A swirling and gnarling crown of roots and vines rises from Vael'ok's helmet of bark that covers Vael'ok's face. In Vael'ok's hands you see a beautifully carved longsword made of the bark of the magical ironwood tree and a large tower shield of the same make, decorated with depictions of Barkspawn being separated and brought over to Vael'ok's enthrall. A long leaf green cloak flows out behind Vael'ok, matching the hair trickling out of the sides of the helmet.
 
-Dangerous and territorial, Vael'ok constantly pushes his realm farther and higher with the shepherding of the trees and forests within from his place of power, "Ginkgostalk, The Vinekeep." Protected and held by other Barkspawn, now controlled by Vael'ok, this grand fortress built where a mountain and forest collide, is desolate and cold to all who enter.
+Dangerous and territorial, Vael'ok constantly pushes his realm farther and higher with the shepherding of the trees and forests within from his place of power, "**Ginkgostalk, The Vinekeep**." Protected and held by other headless Barkspawn, now controlled by Vael'ok, this grand fortress built where a mountain and forest collide, is desolate and cold to all who enter.
+
+Vael'ok runs their realm more like a classical "kingdom" of sorts, and even has [[Settlement]]s within their realm that, rather than threaten and destroy, Vael'ok protects them from other horrors of the [[The Wastes|Wastes]] and other [[Lords of the Wastes]], as long as the [[Settlement]]s pay their tithe and do what Vael'ok tells them to.
 
 ![[IMG_0875.jpg]]
 ![[IMG_0876.jpg]]
