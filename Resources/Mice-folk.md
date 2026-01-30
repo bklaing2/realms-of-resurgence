@@ -21,11 +21,11 @@ I'm picturing these guys to be like swashbucklers with cutlasses, think puss-n-b
 
 ## Passive
 
-- good sense of smell
+- **What dat nose do:** Advantage on Intuition checks that involve smell. #brainstorm  
 
 ## Active
 
--
+- 
 
 ## Skill Proficiency
 

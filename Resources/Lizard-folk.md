@@ -18,11 +18,11 @@ Found on [[Sai Yoxis IV]]
 
 ## Passive
 
--
+- **Natural Camouflage:** As an action, lizard-folk can change their skin color slightly to blend in with their surroundings. If one has done this, they receive a + equal to their level to Stealth checks. #brainstorm 
 
 ## Active
 
-- Can heal some hp over a short rest (since lizards can regrow their tails)
+- **Regrowth:** Once per long rest, lizard-folk can heal two extra hit dice of HP during a short rest. #brainstorm 
 
 ## Skill Proficiency
 
