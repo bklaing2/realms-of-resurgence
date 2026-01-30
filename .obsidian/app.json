@@ -11,7 +11,7 @@
   "userIgnoreFilters": [
     "/^_+/"
   ],
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
   "newFileFolderPath": "Unprocessed"
 }

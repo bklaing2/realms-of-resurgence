@@ -269,3 +269,34 @@ views:
       - file.name
     columnSize:
       file.name: 426
+  - type: table
+    name: Spells 2
+    filters:
+      or:
+        - type == "rune"
+        - type == link("Runic Circles", "rune")
+    groupBy:
+      property: formula.order
+      direction: ASC
+    order:
+      - file.name
+      - attributes
+      - quick action
+      - reaction
+      - requires focus
+      - inscription time
+      - target
+      - range
+      - duration
+    sort:
+      - property: formula.sort by attributes
+        direction: ASC
+    summaries: {}
+    columnSize:
+      file.name: 118
+      note.attributes: 246
+      note.quick action: 88
+      note.requires focus: 101
+      note.casting time: 132
+      note.target: 207
+      note.range: 60
