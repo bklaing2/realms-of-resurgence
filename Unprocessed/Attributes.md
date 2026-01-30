@@ -1,5 +1,6 @@
 ---
 cssclasses:
+  - table-w-pane
 ---
 
 

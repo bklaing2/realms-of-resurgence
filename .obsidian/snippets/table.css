@@ -1,10 +1,6 @@
 /* Table */
 
 /** Default **/
-.cm-table-widget {
-  margin: 0 !important;
-}
-
 .table-cell-wrapper {
   width: max-content;
 }
@@ -16,22 +12,16 @@
 
 .table-w-full .table-wrapper,
 .table-w-full .table-editor {
+  width: 100% !important;
   /* width: 100%; */
 }
 
-/*** In progress for Grow ^ ***/
-.cm-contentContainer {}
 
-.table-wrapper {
-  width: 100% !important;
+/** Grow/shrink to fit pane **/
+.table-w-pane .cm-table-widget {
+  margin: 0 !important;
+  min-width: 100% !important;
 }
-
-.table-editor {
-  width: 100% !important;
-}
-
-
-
 
 
 /* table header weigth in reading mode */
