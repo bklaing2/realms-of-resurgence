@@ -1,0 +1,43 @@
+/* Table Width */
+
+/* Defaults */
+.table-cell-wrapper {
+  /* width: max-content; */
+}
+
+.table-w-full .table-cell-wrapper {
+  /* min-width: 100%; */
+  /* width: unset; */
+}
+
+
+/* Grow/shrink to fit page */
+.table-wrapper {
+  width: 100% !
+}
+
+.table-editor {
+  width: 100%;
+}
+
+/* Grow/shrink to fit page */
+.table-w-full .table-wrapper,
+.table-w-full .table-editor {
+  width: 100%;
+}
+
+
+
+
+
+/* table header weigth in reading mode */
+.markdown-preview-view {
+  --table-header-weight: normal;
+  /* bold/normal */
+}
+
+/* table header weigth in live preview */
+.markdown-source-view {
+  --table-header-weight: normal;
+  /* bold/normal */
+}

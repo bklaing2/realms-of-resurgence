@@ -1,6 +1,5 @@
 ---
 cssclasses:
-  - table-w-full
 ---
 
 
