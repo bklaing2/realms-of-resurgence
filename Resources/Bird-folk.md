@@ -18,11 +18,11 @@ Found on [[Sai Yoxis IV]]
 
 ## Passive
 
-- **Slow Fall:** Rather than taking fall damage from 10 ft and up, bird-folk only start taking fall damage from 30 ft and up. And they can roll a DC 15 (minus their level)l Athletics check to halve the damage. #brainstorm 
+- **Slow Fall:** Rather than taking fall damage from 10 ft and up, bird-folk only start taking fall damage from 30 ft and up. And they can roll a DC 15 - level Athletics check to halve the damage. #brainstorm 
 
 ## Active
 
-- **Screech:** 15 ft cone in which a bird-folk may screech and any creatures  #brainstorm 
+- **Screech:** 15 ft cone in which a bird-folk may screech and any creatures within that range must make a DC 8 + level Fortitude saving throw or become stunned until the end of the bird-folk's next turn. Stunned creatures cannot move, automatically fails Fortitude and Finesse saving throws, and attack rolls against them have advantage. #brainstorm 
 
 ## Skill Proficiency
 
