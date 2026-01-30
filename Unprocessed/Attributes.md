@@ -1,7 +1,5 @@
 ---
 cssclasses:
-  - table-w-full
-  - w-pane
 ---
 
 

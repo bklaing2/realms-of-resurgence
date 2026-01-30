@@ -9,8 +9,14 @@
 th,
 td,
 .table-cell-wrapper {
-  shadow: auto;
-  width: max-content !important;
+  /* --table-column-min-width: max-content; */
+  /* --table-column-max-width: max-content; */
+  /* width: max-content !important; */
+}
+
+td,
+th {
+  white-space: nowrap;
 }
 
 /** Grow/shrink to fit page **/
