@@ -1,8 +1,16 @@
 /* Table */
 
 /** Default **/
+* {
+  --table-column-min-width: max-content;
+  --table-column-max-width: max-content;
+}
+
+th,
+td,
 .table-cell-wrapper {
-  width: max-content;
+  shadow: auto;
+  width: max-content !important;
 }
 
 /** Grow/shrink to fit page **/

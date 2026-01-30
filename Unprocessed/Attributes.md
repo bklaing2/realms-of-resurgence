@@ -1,7 +1,9 @@
 ---
 cssclasses:
-  - table-w-pane
+  - table-w-full
+  - w-pane
 ---
+
 
 
 |                           | ***Fortitude***      | ***Finesse***    | ***Intuition*** | ***Intelligence*** | ***Mantic***                        |

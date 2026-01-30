@@ -1,0 +1,4 @@
+.w-pane .cm-content>* {
+  margin: 10px !important;
+  min-width: 100% !important;
+}

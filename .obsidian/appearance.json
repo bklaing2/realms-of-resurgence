@@ -9,7 +9,8 @@
   "enabledCssSnippets": [
     "bases-no-toolbar",
     "table-dont-bold-first-row",
-    "table"
+    "table",
+    "miscellaneous"
   ],
   "accentColor": "#ab8df8"
 }
