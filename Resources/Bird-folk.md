@@ -26,4 +26,4 @@ Found on [[Sai Yoxis IV]]
 
 ## Skill Proficiency
 
--
+talon - advantage if attacked from the air

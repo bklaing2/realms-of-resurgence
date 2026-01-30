@@ -14,7 +14,6 @@ combat-ability: slime trap - can leave a slippery/sticky slime trail
 ---
 
 Found on [[Sai Yoxis IV]]
-
 # Abilities
 
 ## Passive
@@ -29,3 +28,4 @@ Found on [[Sai Yoxis IV]]
 ## Skill Proficiency
 
 -
+slug drug - saving through if someone ingests your slime, otherwise they become inebriated

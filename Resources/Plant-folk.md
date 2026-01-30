@@ -14,3 +14,12 @@ roleplay-ability: once a long rest transform your face to look like someone/thin
 ---
 
 Found on [[Sai Yoxis IV]]
+# Abilities
+
+## Passive
+
+- don't need to eat if they're in the sun for X amount of time
+
+## Active
+
+- 

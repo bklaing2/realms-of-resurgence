@@ -31,3 +31,6 @@ I'm picturing these guys to be like swashbucklers with cutlasses, think puss-n-b
 
 - bonus to stealth and agility checks
 
+Burrowing - can dig xft times level
+
+incisors?
