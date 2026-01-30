@@ -1,3 +1,8 @@
+.table-full {
+  --table-column-max-width: max-content;
+  /* --workspace-background-translucent: ; */
+}
+
 /* table header weigth in reading mode */
 .markdown-preview-view {
   --table-header-weight: normal;

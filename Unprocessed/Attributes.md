@@ -1,5 +1,7 @@
 ---
-cssclasses: wide-table
+cssclasses:
+  - wide-table
+  - table-full
 ---
 
 |                           | ***Fortitude***      | ***Finesse*** | ***Intuition*** | ***Intelligence*** | ***Mantic***                        |

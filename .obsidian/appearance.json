@@ -8,7 +8,8 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "bases-no-toolbar",
-    "table-dont-bold-first-row"
+    "table-dont-bold-first-row",
+    "table"
   ],
   "accentColor": "#ab8df8"
 }
