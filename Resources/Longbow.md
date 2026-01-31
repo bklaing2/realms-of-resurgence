@@ -25,5 +25,5 @@ tier:
 # Description #todo
 
 Longbow - 1d8 piercing
-intuition to hit
+[[intuition]] to hit
 [[fortitude]] for damage

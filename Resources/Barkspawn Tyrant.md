@@ -10,12 +10,12 @@ body size: huge
 **Speed**: 35 ft  
 **[[Fortitude]]**: +10
 **[[Finesse]]:** +7
-**Intelligence:** +4
-**Mantic**: +7  
+**[[Intelligence]]:** +4
+**[[Mantic]]**: +7  
 **Perception**: +5
 
 **Passives**:  
-**Iron Bark**: Resistant to slashing, bludgeoning, and piercing damage from non-mantic attacks.
+**Iron Bark**: Resistant to slashing, bludgeoning, and piercing damage from non-[[mantic]] attacks.
 
 **Actions**:  
 **Multiattack:** (3) Tyrant makes 3 (Bite and 2 Bark Spikes) attacks each turn.
@@ -31,7 +31,7 @@ body size: huge
 3d8 + 7 piercing damage
 PCs make a DC 16 [[Finesse]] saving throw or become pinned and restrained  by the spike.
 # Proximity Radical Fail Outcome
-When a PC within 40 ft rolls a radiation failure, the Barkspawn Tyrant becomes enraged and now has 2 separate turns in the initiative order every round, moving with mantic speed and power.
+When a PC within 40 ft rolls a radiation failure, the Barkspawn Tyrant becomes enraged and now has 2 separate turns in the initiative order every round, moving with [[mantic]] speed and power.
 
 ![[IMG_0794.jpg]]
 ![[IMG_0871.jpg]]

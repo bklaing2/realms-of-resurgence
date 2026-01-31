@@ -18,7 +18,7 @@ Found on [[Sai Yoxis IV]]
 
 ## Passive
 
-- **Slow Fall:** Rather than taking fall damage from 10 ft and up, bird-folk only start taking fall damage from 30 ft and up. And they can roll a DC 15 - level Athletics check to halve the damage. #brainstorm 
+- **Slow Fall:** Rather than taking fall damage from 10 ft and up, bird-folk only start taking fall damage from 30 ft and up. And they can roll a DC 15 - level [[Athletics]] check to halve the damage. #brainstorm 
 
 ## Active
 

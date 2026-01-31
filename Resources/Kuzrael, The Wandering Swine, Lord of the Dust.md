@@ -11,10 +11,10 @@ body size: colossal
 **[[Fortitude]]**: +10  
 **[[Finesse]]:** +4
 **Mantic**: +10  
-**Intelligence:** +9
-**Intuition:** +7
+**[[Intelligence]]:** +9
+**[[Intuition]]:** +7
 **Perception**: +4
-**Insight:** +7
+**[[Insight]]:** +7
 
 **Passives**:  **Putrescence:** When damaging Kuzrael with a slashing or piercing attack, poisonous gasses and liquids spew from Kuzrael's body and any creature within 5 ft of said attack take 1d6 + 4 poison damage.
 

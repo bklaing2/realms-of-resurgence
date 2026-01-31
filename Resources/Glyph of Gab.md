@@ -1,14 +1,20 @@
 ---
-id: Rune - Glyph of Gap
-aliases:
-tags:
-  - sai-yoxis
+type: "[[Runic Circles|rune]]"
 description: Inscribe the glyph on an object. While held, you have advantage on Charisma/Persuasion checks
-name: Glyph of Gap
-parent: "[[Runic Circles]]"
-tier: 1
-type: rune
+attributes:
+  - "[[Fortitude]]"
+  - "[[Intelligence]]"
+mantic charge minimum: 2
+components:
 inscription time: 1 minute
-mantic charge minimum: 1
+duration: 1 hour
+tags:
+  - needs/components
+  - needs/antimantic-inverse
 ---
-Inscribe the glyph on an object. While held, you have advantage on Charisma/Persuasion checks
+# Description
+
+Inscribe the glyph on an object. While held, you have advantage on Charisma/[[Persuasion]] checks
+
+# Antimantic Inverse #todo 
+

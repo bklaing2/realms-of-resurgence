@@ -8,9 +8,9 @@ body size: medium
 **HP**: 10  
 **Speed**: 25 ft  
 **[[Fortitude]]**: +3  
-**Mantic**: +0  
+**[[Mantic]]**: +0  
 **Perception**: +1
-**Intimidation:** +2
+**[[Intimidation]]:** +2
 
 **Passives**:  None
 

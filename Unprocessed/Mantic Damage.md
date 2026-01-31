@@ -1,1 +1,1 @@
-Mantic Damage is calculated according to the Fibonacci Sequence per number of mantic charges
+Mantic Damage is calculated according to the Fibonacci Sequence per number of [[Mantic Charge|mantic charges]]

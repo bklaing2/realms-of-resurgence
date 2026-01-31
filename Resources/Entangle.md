@@ -23,7 +23,7 @@ tags:
 ---
 # Description
 
-As an action, Mantically bind a number of creatures equal to expended Mantic Charges. An attack on one damages the other(s) for half that damage. The spell ends if you don't focus on it during your turn.
+As an action, Mantically bind a number of creatures equal to expended [[Mantic]] Charges. An attack on one damages the other(s) for half that damage. The spell ends if you don't focus on it during your turn.
 
 # Antimantic Inverse #todo
 

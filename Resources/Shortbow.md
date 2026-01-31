@@ -25,5 +25,5 @@ tier:
 # Description #todo
 
 shortbow - 1d6 piercing
-intuition to hit
+[[intuition]] to hit
 [[finesse]] for damage

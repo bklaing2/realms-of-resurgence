@@ -7,7 +7,7 @@ tags:
   - sai-yoxis
 ---
 # Comments
-`I'm thinking we can have 1 or 2 or 3 non-horror monsters based on each race - B`
+`I'm thinking we can have 1 or 2 or 3 non-horror monsters based on each [[Character Creation|race]] - B`
 
 # Passive #todo 
 ```dataview

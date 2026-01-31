@@ -24,7 +24,7 @@ tags:
 ---
 # Description
 
-As an action, roll to control a horror you can see within 60ft. On a success, you gain control of the horror and can give it a command on your turn. At the end of your turn, roll to check if you keep control of the horror. Additional Mantic Charges used to cast this spell increase the difficulty check for the Horror to regain control.
+As an action, roll to control a horror you can see within 60ft. On a success, you gain control of the horror and can give it a command on your turn. At the end of your turn, roll to check if you keep control of the horror. Additional [[Mantic]] Charges used to cast this spell increase the difficulty check for the Horror to regain control.
 
 # Radiation Fail Outcome
 

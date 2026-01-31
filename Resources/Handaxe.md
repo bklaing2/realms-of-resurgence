@@ -26,5 +26,5 @@ tier:
 # Description #todo
 
 handaxe - 1d6 slashing (light, thrown 30/120)
-intuition to hit
+[[intuition]] to hit
 [[fortitude]] for damage

@@ -25,5 +25,5 @@ tier:
 # Description #todo
 
 shortsword - 1d8 slashing
-intelligence to hit
+[[intelligence]] to hit
 [[finesse]] for damage

@@ -18,7 +18,7 @@ Found on [[Sai Yoxis IV]]
 
 ## Passive
 
-- **Natural Camouflage:** As an action, lizard-folk can change their skin color slightly to blend in with their surroundings. If one has done this, they receive a + equal to their level to Stealth checks. #brainstorm 
+- **Natural Camouflage:** As an action, lizard-folk can change their skin color slightly to blend in with their surroundings. If one has done this, they receive a + equal to their level to [[Subterfuge|Stealth]] checks. #brainstorm 
 
 ## Active
 

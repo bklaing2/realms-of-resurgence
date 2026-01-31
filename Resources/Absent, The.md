@@ -9,7 +9,7 @@ body size: medium
 **HP**: 25  
 **Speed**: 25 ft (hover)
 **[[Fortitude]]**: +3  
-**Mantic**: +4  
+**[[Mantic]]**: +4  
 
 **Passives**:  
 **Fear aura:** Creatures within 15 ft of The Absent must make a [[Fortitude]] saving throw DC 13 at the start of their turn. Failure will cause the creature to be scared of The Absent for 1 minute (disadvantage with it in sight and must move full movement **towards** The Absent) can reroll saving throw at the start of subsequent turns. On a success, cannot be affected by another Absent's aura for a full day.
@@ -21,7 +21,7 @@ body size: medium
 ## Shortword:
 +3 to hit  
 5 ft range  
-2d6 + 4 mantic damage
+2d6 + 4 [[mantic]] damage
 
 # Proximity Radical Fail Outcome
 When a PC within 25 ft rolls a radiation failure, The Absent can teleport to their marked creature (if no creature is marked, then they may teleport to their paired [[Attending, The]]), and then can immediately make one free Shortsword attack.

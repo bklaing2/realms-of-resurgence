@@ -9,7 +9,7 @@ body size: medium
 **HP**: 22 (or whatever was left +14)
 **Speed**: 35 ft  
 **[[Fortitude]]**: +4  
-**Mantic**: +3  
+**[[Mantic]]**: +3  
 
 **Passives**:  None
 

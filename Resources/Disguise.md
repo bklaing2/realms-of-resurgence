@@ -1,16 +1,17 @@
 ---
-id: Rune - Disguise
-aliases:
-tags:
-  - sai-yoxis
-description: Creatures within the circle get a minor enhancement of your choice
-name: Disguise
-parent: "[[Runic Circles]]"
-tier: 1
-type: rune
-inscription time: 1 minute
+type: "[[Runic Circles|rune]]"
+description: Draw a glyph to alter the appearance on someone/thing
+attributes:
+  - "[[Finesse]]"
 mantic charge minimum: 1
+components:
+inscription time: 1 minute
+duration:
+tags:
+  - needs/components
+  - needs/antimantic-inverse
 ---
+# Description
 
 Draw a glyph to alter the appearance on someone/thing
 

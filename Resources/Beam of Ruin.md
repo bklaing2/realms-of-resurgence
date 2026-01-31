@@ -24,11 +24,11 @@ tags:
 ---
 # Description
 
-As an action, beam a line of Mantic energy directly into a creature you can see within 30ft, dealing [[Mantic Damage]] + 20 damage to the creature.
+As an action, beam a line of [[Mantic]] energy directly into a creature you can see within 30ft, dealing [[Mantic Damage]] + 20 damage to the creature.
 
 # Antimantic Inverse
 
-As an action, beam a line of Mantic energy directly into a creature you can see within 30ft, healing the creature for 6D6.
+As an action, beam a line of [[Mantic]] energy directly into a creature you can see within 30ft, healing the creature for 6D6.
 
 # Radiation Fail Outcome
 

@@ -26,6 +26,6 @@ tier:
 # Description #todo
 
 javelin - 1d6 piercing (thrown 30/120)
-intelligence to hit
+[[intelligence]] to hit
 [[fortitude]] for damage
 >>>>>>> origin/main

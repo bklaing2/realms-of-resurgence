@@ -11,10 +11,10 @@ body size: large
 **[[Fortitude]]**: +5  
 **[[Finesse]]:** +9
 **Mantic**: +10  
-**Intelligence:** +8
-**Intuition:** +10
+**[[Intelligence]]:** +8
+**[[Intuition]]:** +10
 **Perception**: +7
-**Insight:** +10
+**[[Insight]]:** +10
 
 **Passives**:  
 **Barkstep**: In a 10 ft radius around Vael'ok, roots and vines grow up and move constantly, making it difficult terrain and causing damage to anyone entering it for the first time or starting their turn there. Creatures entering or starting their turn within the range must make a DC 14 [[Fortitude]] check or take 2d8 + 8 mantic damage and half damage on a success.

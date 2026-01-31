@@ -11,13 +11,13 @@ body size: gargantuan
 **[[Fortitude]]**: +8  
 **[[Finesse]]:** +6
 **Mantic**: +12  
-**Intelligence:** +10
-**Intuition:** +8
+**[[Intelligence]]:** +10
+**[[Intuition]]:** +8
 **Perception**: +8
-**Insight:** +9
+**[[Insight]]:** +9
 
 **Passives**:  
-**Travel the Bone Road**: Every creature that starts their turn within 20 ft of Rogalth must make an Intuition saving throw DC 13. Failures pop out of material existence and are forced to walk the Bone Road for the entire round, when they return they take 2d6 + 6 mantic damage and appear exactly where they were at the start of the round. The Bone Road is a road of suffering and torture and the creature must walk it and see all that has been done to people who have been previously killed by Rogalth. Successes do not walk the Bone Road, or take damage.
+**Travel the Bone Road**: Every creature that starts their turn within 20 ft of Rogalth must make an [[Intuition]] saving throw DC 13. Failures pop out of material existence and are forced to walk the Bone Road for the entire round, when they return they take 2d6 + 6 mantic damage and appear exactly where they were at the start of the round. The Bone Road is a road of suffering and torture and the creature must walk it and see all that has been done to people who have been previously killed by Rogalth. Successes do not walk the Bone Road, or take damage.
 
 **Actions**:  
 **Multiattack**: (3) Rogalth makes 3 attacks (2 greatstaff attacks and 1 mantic grab attack) each turn.

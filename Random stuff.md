@@ -9,19 +9,20 @@ Maybe the name something to do with wander? Some potential there?
 
 # Testing stuff
 
-| ***[[Fortitude]]*** |          [[Fighter]]           |   [[Brawler]]   |       *Support?*       |     [[Mage]]     |
-| :-------------: | :----------------------------: | :-------------: | :--------------------: | :--------------: |
-|    Athletics    |         ***[[Finesse]]***          |    [[Scout]]    |      [[Engineer]]      |    [[Druid]]     |
-|  Intimidation   | Subterfuge?(Stealth/Deception) | ***Intuition*** |       *Support?*       | [[Spiritwalker]] |
-|   Persuasion    |        Tinker/Medicine         |  Investigation  |   ***Intelligence***   |    [[Scribe]]    |
-|  [[Constitution]]   | Legerdemain? (Sleight of Hand) |     Insight     | Lore? (Arcana/History) |   ***Mantic***   |
+| ***[[Fortitude]]*** |                            [[Fighter]]                            |     [[Brawler]]     |                *Support?*                |     [[Mage]]     |
+| :-----------------: | :---------------------------------------------------------------: | :-----------------: | :--------------------------------------: | :--------------: |
+|    [[Athletics]]    |                         ***[[Finesse]]***                         |      [[Scout]]      |               [[Engineer]]               |    [[Druid]]     |
+|  [[Intimidation]]   | [[Subterfuge]]?([[Subterfuge\|Stealth]]/[[Subterfuge\|Deception]] | ***[[Intuition]]*** |                *Support?*                | [[Spiritwalker]] |
+|   [[Persuasion]]    |                  [[Tinker]]/[[Tinker\|Medicine]]                  |  [[Investigation]]  |          ***[[Intelligence]]***          |    [[Scribe]]    |
+|  [[Constitution]]   |        [[Legerdemain]]? ([[Legerdemain\|Sleight of Hand]])        |     [[Insight]]     | [[Lore]]? ([[Lore\|Arcana]]/[[History]]) | ***[[Mantic]]*** |
+|                     |                                                                   |                     |                                          |                  |
 
 ## Base attributes
 [[fortitude]]
 [[finesse]]
-intuition
-intelligence
-mantic
+[[intuition]]
+[[intelligence]]
+[[mantic]]
 
 | *Primary*    | *Secondary*                  | *Tertiary*                               | *Quaternary*                                       | *Quinary*                                                   |
 | ------------ | ---------------------------- | ---------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------- |
@@ -58,16 +59,16 @@ Each character starts with a capacity of 1 death saving throw failure, and need 
 
 Scars can potentially give a plus to the mantic score
 
-# Augment increase intrinsic mantic charge capacity
+# Augment increase intrinsic [[mantic charge]] capacity
 
-# Casting spells using external mantic charges
+# Casting spells using external [[Mantic Charge|mantic charges]]
 
-If (your intrinsic mantic ability score OR the number of mantic charges you use) is less than half of the required mantic charges needed for the intended action, then you have to make a roll for it or the (antimantic inverse OR radical fail outcome) occurs even outside of the wastes
+If (your intrinsic mantic ability score OR the number of [[Mantic Charge|mantic charges]] you use) is less than half of the required [[Mantic Charge|mantic charges]] needed for the intended action, then you have to make a roll for it or the (antimantic inverse OR radical fail outcome) occurs even outside of the wastes
 
 
-# Mantic abilities all use mantic charges
+# Mantic abilities all use [[Mantic Charge|mantic charges]]
 
-Consolidate abilities that use Mantic energy (fighter empowered charges, spell slots, runic charge slots) under the umbrella term of "Mantic Charge". Everything will be called a Mantic Charge, and anything that consumes a Mantic Charge can be powered by anything else that produces a Mantic Charge. Therefore, a Fighter can pump three Mantic Charges into a Mage to allow them to cast a tier 3 Spell on their turn
+Consolidate abilities that use Mantic energy (fighter empowered charges, spell slots, runic charge slots) under the umbrella term of "[[Mantic Charge]]". Everything will be called a [[Mantic Charge]], and anything that consumes a [[Mantic Charge]] can be powered by anything else that produces a [[Mantic Charge]]. Therefore, a Fighter can pump three [[Mantic Charge|Mantic Charges]] into a Mage to allow them to cast a tier 3 Spell on their turn
 
 An enemy where you have to roll X or lower to hit - it would be harder to hit the higher level you are
 
@@ -119,7 +120,7 @@ rotating faster
 # Brainstorm
 ## Abilities
 - Once per long rest, can remove a radiation die from the roll
-- Every race/class has a roleplay and exploration ability
+- Every [[Character Creation|race]]/[[Character Creation|class]] has a roleplay and exploration ability
 - Exploration ability
 
 ## Using furomancy in the wastes

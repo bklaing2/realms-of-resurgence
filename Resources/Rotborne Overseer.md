@@ -10,7 +10,7 @@ body size: medium
 **Speed**: 30 ft  
 **[[Fortitude]]**: +4  
 **Mantic**: +3
-**Intelligence:** +3
+**[[Intelligence]]:** +3
 
 **Passives**:  
 **Battlefield Command**: Gives other Rotborne within 60 ft confidence and oversight during battle - other Rotborn thus do an extra 1d4 damage on any attack when they are within range of Overseer

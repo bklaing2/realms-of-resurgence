@@ -25,5 +25,5 @@ tier:
 # Description #todo
 
 gauntlet - 1d6 bludgeoning
-intuition to hit
+[[intuition]] to hit
 [[fortitude]] for damage

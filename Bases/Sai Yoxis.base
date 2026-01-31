@@ -148,31 +148,6 @@ views:
       formula.Needs Name: 150
       formula.NameLink: 352
   - type: table
-    name: Runes
-    filters:
-      or:
-        - type == "rune"
-        - type == link("Runic Circles", "rune")
-    order:
-      - file.name
-      - description
-      - inscription time
-      - mantic charge minimum
-    sort:
-      - property: mantic charge minimum
-        direction: ASC
-      - property: inscription time
-        direction: ASC
-      - property: formula.Mantic Tier
-        direction: ASC
-      - property: property.tier
-        direction: ASC
-    columnSize:
-      file.name: 124
-      note.description: 487
-      note.inscription time: 134
-      note.mantic charge minimum: 83
-  - type: table
     name: Spells
     filters:
       or:
@@ -203,6 +178,29 @@ views:
       note.casting time: 132
       note.target: 207
       note.range: 60
+  - type: table
+    name: Runes
+    filters:
+      or:
+        - type == "rune"
+        - type == link("Runic Circles", "rune")
+    groupBy:
+      property: formula.order
+      direction: ASC
+    order:
+      - file.name
+      - attributes
+      - description
+      - inscription time
+    sort:
+      - property: formula.sort by attributes
+        direction: ASC
+    summaries:
+      file.name: Count
+    columnSize:
+      file.name: 138
+      note.attributes: 459
+      note.inscription time: 134
   - type: table
     name: Items
     filters:
@@ -271,33 +269,12 @@ views:
     columnSize:
       file.name: 426
   - type: table
-    name: Spells 2
+    name: Attributes
     filters:
-      or:
-        - type == "rune"
-        - type == link("Runic Circles", "rune")
-    groupBy:
-      property: formula.order
-      direction: ASC
+      and:
+        - type == link("Attributes", "attribute")
     order:
       - file.name
-      - attributes
-      - quick action
-      - reaction
-      - requires focus
-      - inscription time
-      - target
-      - range
-      - duration
-    sort:
-      - property: formula.sort by attributes
-        direction: ASC
-    summaries:
-      file.name: Count
-    columnSize:
-      file.name: 192
-      note.attributes: 87
-      note.quick action: 88
-      note.requires focus: 101
-      note.target: 207
-      note.range: 60
+      - type
+      - order
+    sort: []

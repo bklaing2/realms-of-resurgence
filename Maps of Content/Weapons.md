@@ -15,7 +15,7 @@ tags:
 
 *simple melee weapons*
 
-[[Club]] - 1d4 bludgeoning (intuition/[[finesse]])
+[[Club]] - 1d4 bludgeoning ([[intuition]]/[[finesse]])
 [[Dagger]] - 1d4 piercing ([[finesse]], light, thrown 20/60)
 [[Greatclub]] - 1d8 bludgeoning (two-handed)
 [[Handaxe]] - 1d6 slashing (light, thrown 30/120)

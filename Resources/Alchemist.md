@@ -18,7 +18,7 @@ Variation of [[Engineer]] found on [[Sai Yoxis IV]]
 
 ## Potion Brewing #needs/name #todo
 
-Gain the ability to brew a number of [[Potions#Potions|potions]] according to their class table per rest (short and long). Each of these [[Potions]] goes inert after 8 hours and is therefore unusable.
+Gain the ability to brew a number of [[Potions#Potions|potions]] according to their [[Character Creation|class]] table per rest (short and long). Each of these [[Potions]] goes inert after 8 hours and is therefore unusable.
 aIngredients will need to be obtained from the environment and shops.
 
 ## ![[Engineer#Ability 2 needs/name todo]]

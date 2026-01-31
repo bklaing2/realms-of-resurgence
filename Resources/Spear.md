@@ -23,7 +23,7 @@ tier:
 ---
 # Description #todo
 
-intelligence to hit
+[[intelligence]] to hit
 [[finesse]] to damage
 10 ft range
 1d6 piercing damage

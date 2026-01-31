@@ -5,7 +5,7 @@ tags:
   - sai-yoxis
 name: Spiritwalker
 parent: "[[Classes]]"
-type: class
+type: "[[Character Creation#Choose a Class|class]]"
 description:
 subclass-i: "[[NeoSpiritwalker]]"
 subclass-ii: "[[DuoSpiritwalker]]"
@@ -14,7 +14,7 @@ subclass-iv: "[[FuroSpiritwalker]]"
 hit points: d4
 ---
 
-# Class Abilities
+# [[Character Creation|Class]] Abilities
 
 ## Passive: ??? #needs/name #todo
 

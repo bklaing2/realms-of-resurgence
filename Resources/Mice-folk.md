@@ -21,7 +21,7 @@ I'm picturing these guys to be like swashbucklers with cutlasses, think puss-n-b
 
 ## Passive
 
-- **What dat nose do:** Advantage on Intuition checks that involve smell. #brainstorm  
+- **What dat nose do:** Advantage on [[Intuition]] checks that involve smell. #brainstorm  
 
 ## Active
 
@@ -29,7 +29,7 @@ I'm picturing these guys to be like swashbucklers with cutlasses, think puss-n-b
 
 ## Skill Proficiency
 
-- bonus to stealth and agility checks
+- bonus to [[Subterfuge|stealth]] and agility checks
 
 Burrowing - can dig xft times level
 

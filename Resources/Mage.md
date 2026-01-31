@@ -5,7 +5,7 @@ tags:
   - sai-yoxis
 name: Mage
 parent: "[[Classes]]"
-type: class
+type: "[[Character Creation#Choose a Class|class]]"
 description: The arcanists
 subclass-i: "[[Neomancer]]"
 subclass-ii: "[[Duomancer]]"
@@ -13,7 +13,7 @@ subclass-iii: "[[Ethermancer]]"
 subclass-iv: "[[Furomancer]]"
 hit points: d4
 ---
-# Class Abilities
+# [[Character Creation|Class]] Abilities
 
 ## Passive: #needs/name 
 
@@ -21,7 +21,7 @@ Add 1 to your [[Mantic]] Ability score when leveling up. #james-check
 
 ## Passive: Mantic Refreshment
 
-Once per long rest, during a short or long rest, can restore 1d4 mantic charges.
+Once per long rest, during a short or long rest, can restore 1d4 [[Mantic Charge|mantic charges]].
 
 ## Mage Novice
 

@@ -13,7 +13,7 @@ body size: medium
 **Perception**: +2
 
 **Passives**:  
-**Mage slayer:** If a creature expends a mantic charge within 15ft of this a Dreadmarshal, it may take a reaction to move to that creature and make an attack against them, after the mantic charge is used, but before the creature ends their turn.
+**Mage slayer:** If a creature expends a [[mantic charge]] within 15ft of this a Dreadmarshal, it may take a reaction to move to that creature and make an attack against them, after the [[mantic charge]] is used, but before the creature ends their turn.
 
 **Actions**:
 # Attacks:
@@ -26,4 +26,4 @@ body size: medium
 
 # Proximity Radical Fail Outcome:
 
-When a PC within 15 ft rolls a radiation failure, the cultist sucks up some of the mantic energy and on their next hit, expends their 2 mantic charges into their attack, dealing an extra 3d6 damage to the attack. If a second Radical Fail occurs, they gain back these charges, but cannot expend them until the 3rd radical fail, should one occur.
+When a PC within 15 ft rolls a radiation failure, the cultist sucks up some of the mantic energy and on their next hit, expends their 2 [[Mantic Charge|mantic charges]] into their attack, dealing an extra 3d6 damage to the attack. If a second Radical Fail occurs, they gain back these charges, but cannot expend them until the 3rd radical fail, should one occur.

@@ -3,7 +3,7 @@
 # Big Picture
 
 - [ ] At least 5 classes complete through level 4
-  - [ ] Practice leveling up through level 4 with each class
+  - [ ] Practice leveling up through level 4 with each [[Character Creation|class]]
 
 - [x] Enemies/monsters
   - [x] Non horror enemies
@@ -183,3 +183,6 @@
 - other [[Ancestries]] stuff, but will work more
 
 **Bryceson**
+
+Look how cool thi
+![[Pasted image 20260131000806.png]]

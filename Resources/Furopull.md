@@ -25,7 +25,7 @@ tags:
 
 As a quick action, grab the tethers of Mantic energy and pull a creature that is within 15ft of you 5ft towards you. They are knocked off balance until their next turn, and attacks against them have advantage.
 
-If you use this as a reaction when the creature is about to be hit with an attack, the damage they receive is reduced by the number of Mantic Charges expended.
+If you use this as a reaction when the creature is about to be hit with an attack, the damage they receive is reduced by the number of [[Mantic Charge|Mantic Charges]] expended.
 
 # Antimantic Inverse #todo
 

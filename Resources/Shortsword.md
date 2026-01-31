@@ -25,5 +25,5 @@ tier:
 # Description #todo
 
 shortsword - 1d6 slashing (light)
-intuition to hit
+[[intuition]] to hit
 [[finesse]] for damage

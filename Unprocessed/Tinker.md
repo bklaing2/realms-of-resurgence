@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Medicine
 type: "[[Attributes|attribute]]"
-order: primary
+order: secondary
 ---

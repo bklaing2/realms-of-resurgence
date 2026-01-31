@@ -36,4 +36,4 @@ As an action, bind 2 creatures. An attack on one damages half damage to the othe
 As an action, target a creature within 30ft. The creature takes a d6+3 of damage. It then jumps to another creature within 15ft of it. On a successful hit it damages that creature and jumps to another in range that hasn't been hit by the spell this turn.
 
 # Proximity Radical Fail Outcome:
-When a PC within 10 ft rolls a radiation failure, the cultist sucks up some of the mantic energy and heals 1d4 HP, and gains a mantic charge back.
+When a PC within 10 ft rolls a radiation failure, the cultist sucks up some of the mantic energy and heals 1d4 HP, and gains a [[mantic charge]] back.

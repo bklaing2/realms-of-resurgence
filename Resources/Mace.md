@@ -1,17 +1,14 @@
 ---
-name: Sickle
-aliases:
 description:
-parent: "[[Maps of Content/Weapons|Weapons]]"
 type: item
 item type: equipment
-equipment type: weapon
+equipment type: "[[Weapons|weapon]]"
 equippable slots:
   - primary hand
   - off hand
 weapon type:
-hit ability: intelligence
-damage ability: fortitude
+hit ability: "[[Intelligence]]"
+damage ability: "[[Fortitude]]"
 range: 5ft
 damage: 1d6 bludgeoning
 tags:

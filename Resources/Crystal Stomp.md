@@ -23,9 +23,9 @@ tags:
 ---
 # Description
 
-As an action stomp. Mantic crystals emerge out of the ground at a point you can see within a range of 30ft. These crystals may take two forms:
+As an action stomp. [[Mantic]] crystals emerge out of the ground at a point you can see within a range of 30ft. These crystals may take two forms:
 1. Many smaller and sharper crystals spread out over 15ft, damaging any creatures in the area when cast for [[Mantic Damage]] damage and making it difficult terrain.
-2. A few larger crystals centered around a creature, damaging it for half the [[Mantic Damage]] but also forming a cage around it, restraining the creature. The creature must make an athletics saving throw in order to escape the cage.
+2. A few larger crystals centered around a creature, damaging it for half the [[Mantic Damage]] but also forming a cage around it, restraining the creature. The creature must make an [[athletics]] saving throw in order to escape the cage.
 
 The spell ends and the crystals disappear if you don't focus on it that turn.
 

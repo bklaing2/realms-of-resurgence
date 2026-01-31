@@ -7,7 +7,7 @@ tags:
 description: Main power is shapeshifting
 name: Druid
 parent: "[[Classes]]"
-type: class
+type: "[[Character Creation#Choose a Class|class]]"
 subclass-i: "[[NeoDruid]]"
 subclass-ii: "[[DuoDruid]]"
 subclass-iii: "[[EtherDruid]]"
@@ -15,7 +15,7 @@ subclass-iv: "[[Mutant]]"
 hit points: d6
 ---
 
-# Class Abilities
+# [[Character Creation|Class]] Abilities
 
 ## Passive: Druid Speak #needs/name
 

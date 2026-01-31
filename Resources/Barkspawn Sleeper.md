@@ -9,11 +9,11 @@ body size: huge
 **HP**: 38  
 **Speed**: 25 ft  
 **[[Fortitude]]**: +8  
-**Mantic**: +5  
+**[[Mantic]]**: +5  
 **Perception**: +2
 
 **Passives**:  
-**Forest rest**: When not moving, blends in with the trees and landscape around them to look just like very tall trees. **Advantage** on stealth and very hard to see when not looking.
+**Forest rest**: When not moving, blends in with the trees and landscape around them to look just like very tall trees. **Advantage** on [[Subterfuge|stealth]] and very hard to see when not looking.
 
 **Actions**:  
 # Attacks:

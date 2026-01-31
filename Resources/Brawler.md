@@ -6,7 +6,7 @@ tags:
 description: The tank of the group
 name: Brawler
 parent: "[[Classes]]"
-type: class
+type: "[[Character Creation#Choose a Class|class]]"
 subclass-i: "[[NeoBrawler]]"
 subclass-ii: "[[DuoBrawler]]"
 subclass-iii: "[[EtherBrawler]]"
@@ -14,7 +14,7 @@ subclass-iv: "[[Maniac]]"
 hit points: d8
 ---
 
-# Class Abilities
+# [[Character Creation|Class]] Abilities
 
 ## Passive: Fortified
 
@@ -22,7 +22,7 @@ Add your [[Fortitude]] when rolling hp while leveling up
 
 ## Passive: Intimidate
 
-After a succeeding on an intimidation check against a creature, the creature is optionally frightened for 1 round
+After a succeeding on an [[intimidation]] check against a creature, the creature is optionally frightened for 1 round
 At level 5 it lasts 2 rounds
 
 ## Frenzy

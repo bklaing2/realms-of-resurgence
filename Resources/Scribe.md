@@ -5,7 +5,7 @@ tags:
   - sai-yoxis
 name: Scribe
 parent: "[[Classes]]"
-type: class
+type: "[[Character Creation#Choose a Class|class]]"
 description: Mystic knowledge keepers
 subclass-i: "[[Lorekeeper]]"
 subclass-ii: "[[Glyphbinder]]"
@@ -14,11 +14,11 @@ subclass-iv: "[[Runecarver]]"
 hit points: d6
 ---
 
-# Class Abilities
+# [[Character Creation|Class]] Abilities
 
 ## Passive: Mantic Restoration #needs/name 
 
-During any rest, can roll to restore 1d6 mantic charges
+During any rest, can roll to restore 1d6 [[Mantic Charge|mantic charges]]
 
 ## Inscription #needs/name #todo
 

@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 8539647
       }
+    },
+    {
+      "query": "[\"type\":attribute]",
+      "color": {
+        "a": 1,
+        "rgb": 4944247
+      }
+    },
+    {
+      "query": "[\"type\":creature]",
+      "color": {
+        "a": 1,
+        "rgb": 14052956
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +81,6 @@
   "repelStrength": 10.9688581314879,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.43896032872682605,
+  "scale": 0.43896032872682533,
   "close": true
 }

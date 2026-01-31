@@ -1,6 +1,10 @@
 ---
 id: Character Creation
-aliases: []
+aliases:
+  - Ancestry
+  - Race
+  - Class
+  - Subclass
 tags:
   - sai-yoxis
 name: Character Creation
@@ -23,15 +27,15 @@ Every class has a variation found on each planet in the [[Sai Yoxis System]].
 
 # Attributes
 
-Characters in this system have 5 attributes - 2 physical, 2 mental, and 1 mantic.
+Characters in this system have 5 [[Attributes]] - 2 physical, 2 mental, and 1 mantic.
 
-| *Attribute*                        | *Examples*                                  |
-| :--------------------------------- | ------------------------------------------- |
-| **[[Fortitude]]**                  | *Strength,*                                 |
-| **[[Finesse]]**                    | *Sneaking, lockpicking*                     |
-| **Intelligence** (*"Book Smarts")* | *History, perception*                       |
-| **Intuition** *("Street Smarts")*  | *Charisma, wisdom*                          |
-| **Mantic**                         | *Spellcasting, resisting mantic influences* |
+| *Attribute*                            | *Examples*                                  |
+| :------------------------------------- | ------------------------------------------- |
+| **[[Fortitude]]**                      | *Strength,*                                 |
+| **[[Finesse]]**                        | *Sneaking, lockpicking*                     |
+| **[[Intelligence]]** (*"Book Smarts")* | *[[Lore|History]], perception*                       |
+| **[[Intuition]]** *("Street Smarts")*      | *Charisma, wisdom*                          |
+| **[[Mantic]]**                             | *Spellcasting, resisting mantic influences* |
 
 ## Roll for Base Attribute Value
 
@@ -59,7 +63,7 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 > - [x] Investigation (Int)
 > - [x] Medicine (Wis)
 > - [ ] Nature (Int)
-> - [x] Perception (Wis) (Intuition)
+> - [x] Perception (Wis) ([[Intuition]])
 > - [ ] Performance (Cha)
 > - [x] Persuasion (Cha)
 > - [ ] Religion (Int)
@@ -71,7 +75,7 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 
 | ***Fortitude*** | Athletics     | Forging            | Intimidation    | Constitution |
 | --------------- | ------------- | ------------------ | --------------- | ------------ |
-| Acrobatics      | ***[[Finesse]]*** | Tinkering          | Stealth         | Illusion     |
+| Acrobatics      | ***Finesse*** | Tinkering          | Stealth         | Illusion     |
 | Survival        | Medicine      | ***Intelligence*** | Investigation   | History?     |
 | Persuasion      | Deception     | Insight            | ***Intuition*** | Animism      |
 | Channeling      | Inscription   | Arcana             | Summoning       | ***Mantic*** |
@@ -79,7 +83,7 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 
 | ***Fortitude*** | Athletics     | Constitution | Intimidation    | Forging / Crafting?   |
 | --------------- | ------------- | ------------ | --------------- | --------------------- |
-| Acrobatics      | ***[[Finesse]]*** | Illusion     | Stealth         | Tinkering / Crafting? |
+| Acrobatics      | ***Finesse*** | Illusion     | Stealth         | Tinkering / Crafting? |
 | Channeling      | Inscription   | ***Mantic*** | Summoning       | Arcana                |
 | Persuasion      | Deception     | Animism      | ***Intuition*** | Investigation         |
 | Survival        | Medicine      | History      | Insight         | ***Intelligence***    |
@@ -88,19 +92,19 @@ These are called skills in D&D. Instead of being based on one attribute though, 
 
 | ***Fortitude***       | Deception?               | Constitution ([[Mage]]) | Intimidation                 | Forging / Crafting?   |
 | --------------------- | ------------------------ | ----------------------- | ---------------------------- | --------------------- |
-| Athletics             | ***[[Finesse]]***            | Illusion ([[Scribe]])   | Stealth                      | Tinkering / Crafting? |
+| Athletics             | ***Finesse***            | Illusion ([[Scribe]])   | Stealth                      | Tinkering / Crafting? |
 | Channeling ([[Mage]]) | Inscription ([[Scribe]]) | ***Mantic***            | Summoning ([[Spiritwalker]]) | Arcana                |
 | Persuasion            | Acrobatics               | Animism                 | ***Intuition***              | Investigation         |
 | Survival              | Medicine                 | History                 | Insight                      | ***Intelligence***    |
 
 ### Table V4
 
-| ***[[Fortitude]]*** |             [[Fighter]]             |     [[Brawler]]     |       *Support?*       |     [[Mage]]     |
-| :-----------------: | :---------------------------------: | :-----------------: | :--------------------: | :--------------: |
-|    [[Athletics]]    |          ***[[Finesse]]***          |      [[Scout]]      |      [[Engineer]]      |    [[Druid]]     |
-|  [[Intimidation]]   | [[Subterfuge]]? (Stealth/Deception) | ***[[Intuition]]*** |       *Support?*       | [[Spiritwalker]] |
-|   [[Persuasion]]    |         [[Tinker/Medicine]]         |  [[Investigation]]  | ***[[Intelligence]]*** |    [[Scribe]]    |
-|  [[Constitution]]   | [[Legerdemain]]? (Sleight of Hand)  |     [[Insight]]     | Lore? (Arcana/History) | ***[[Mantic]]*** |
+| ***[[Fortitude]]*** |                       [[Fighter]]                       |     [[Brawler]]     |                   *Support?*                   |     [[Mage]]     |
+| :-----------------: | :-----------------------------------------------------: | :-----------------: | :--------------------------------------------: | :--------------: |
+|    [[Athletics]]    |                    ***[[Finesse]]***                    |      [[Scout]]      |                  [[Engineer]]                  |    [[Druid]]     |
+|  [[Intimidation]]   | [[Subterfuge]]? ([[Stealth]]/[[Subterfuge\|Deception]]) | ***[[Intuition]]*** |                   *Support?*                   | [[Spiritwalker]] |
+|   [[Persuasion]]    |             [[Tinker]]/[[Tinker\|Medicine]]             |  [[Investigation]]  |             ***[[Intelligence]]***             |    [[Scribe]]    |
+|  [[Constitution]]   |   [[Legerdemain]]? ([[Legerdemain\|Sleight of Hand]]    |     [[Insight]]     | [[Lore]]? ([[Lore\|Arcana]]/[[Lore\|History]]) |    [[Mantic]]    |
 
 
 

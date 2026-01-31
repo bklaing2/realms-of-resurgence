@@ -2,16 +2,15 @@
 name: Sickle
 aliases:
 description:
-parent: "[[Maps of Content/Weapons|Weapons]]"
 type: item
 item type: equipment
-equipment type: weapon
+equipment type: "[[Weapons|weapon]]"
 equippable slots:
   - primary hand
   - off hand
 weapon type:
-hit ability: intuition
-damage ability: finesse
+hit ability: "[[Intuition]]"
+damage ability: "[[Finesse]]"
 range: 5ft
 damage: 1d4 slashing
 tags:

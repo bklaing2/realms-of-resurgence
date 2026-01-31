@@ -5,7 +5,7 @@ tags:
   - sai-yoxis
 name: Scout
 parent: "[[Classes]]"
-type: class
+type: "[[Character Creation#Choose a Class|class]]"
 description: Rouge + ranger
 subclass-i: "[[NeoHunter]]"
 subclass-ii: "[[DuoHunter]]"
@@ -18,6 +18,7 @@ hit points: d6
 
 ## Passive: Stealth
 
+Advantage on [[Subterfuge]] checks
 Less detectable by creatures
 A level 5, hunters are unaffected by nonmagical difficult terrain
 
