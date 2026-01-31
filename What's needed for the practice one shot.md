@@ -184,5 +184,5 @@
 
 **Bryceson**
 
-Look how cool thi
+Look how cool this is lol
 ![[Pasted image 20260131000806.png]]
