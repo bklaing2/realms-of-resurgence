@@ -11,13 +11,13 @@ type: moc
 
 ## Calculating to Hit
 
-Roll a d20 and add the related attribute for the [[Weapons|weapon]] (likely the finesse or fortitude)
+Roll a d20 and add the related attribute for the [[Weapons|weapon]] (likely the [[finesse]] or [[fortitude]])
 
 ## Calculating Damage Given on a Hit
 
-Weapon damage + Related weapon attribute (finesse or fortitude)
+Weapon damage + Related weapon attribute ([[finesse]] or [[fortitude]])
 
-#brainstorm The to hit and damage numbers will each have an associated attribute. To hit will have a mental attribute, and damage will have a physical attribute. For example, a bow may use intelligence for the to hit number (cause aiming is hard) and damage will use fortitude (how strong you are to pull it back farther). Additionally, if you're using a weapon in your offhand, don't include the to hit attribute score when calculating to hit
+#brainstorm The to hit and damage numbers will each have an associated attribute. To hit will have a mental attribute, and damage will have a physical attribute. For example, a bow may use intelligence for the to hit number (cause aiming is hard) and damage will use [[fortitude]] (how strong you are to pull it back farther). Additionally, if you're using a weapon in your offhand, don't include the to hit attribute score when calculating to hit
 
 
 
@@ -27,18 +27,18 @@ There are three basic types of [[Maps of Content/Armor|armor]],
 
 ## Equipping Armor
 
-| Type   | Required Attributes         | Base AC | Mitigation | Damage Threshold (2\*mitigation) | Damage Slots |
-| ------ | --------------------------- | ------- | ---------- | -------------------------------- | ------------ |
-| Light  | +2 Finesse                  | 8       | 4          | 8                                | 6            |
-| Medium | +1 Finesse and +1 Fortitude | 6       | 6          | 12                               | 4            |
-| Heavy  | +2 Fortitude                | 4       | 8          | 16                               | 2            |
+| Type   | Required Attributes                 | Base AC | Mitigation | Damage Threshold (2\*mitigation) | Damage Slots |
+| ------ | ----------------------------------- | ------- | ---------- | -------------------------------- | ------------ |
+| Light  | +2 [[Finesse]]                      | 8       | 4          | 8                                | 6            |
+| Medium | +1 [[Finesse]] and +1 [[Fortitude]] | 6       | 6          | 12                               | 4            |
+| Heavy  | +2 [[Fortitude]]                    | 4       | 8          | 16                               | 2            |
 #brainstorm What if you rolled a die for mitigating damage on each hit? Higher tiers you roll multiple die. Then the Mitigation becomes a Mitigation die
 
 #brainstorm if you do not have the required attributes to wear the armor, you can still wear it and gain the AC benefit, but not be able to mitigate any damage. You still mark damage slots based on thresholds in case you become able to mitigate, it still may be broken.
 
 ## Calculating AC
 
-Finesse + Intuition + Base AC of Armor
+[[Finesse]] + Intuition + Base AC of Armor
 
 ## Calculating Damage Received on a Hit
 
@@ -64,7 +64,7 @@ If you have the right materials and enough money, you can upgrade your armor or 
 
 # Initiative
 
-Roll a d20 and add your finesse modifier. If in [[The Wastes]], roll the Radiation Die. On a [[The Wastes#D20 < Radiation Die (Radical Failure)]], you automatically go at the end of initiative. On a [[The Wastes#D20 = Radiation Die (Radical Success)]], you can choose where you go in initiative order after it has been set for everyone else.
+Roll a d20 and add your [[finesse]] modifier. If in [[The Wastes]], roll the Radiation Die. On a [[The Wastes#D20 < Radiation Die (Radical Failure)]], you automatically go at the end of initiative. On a [[The Wastes#D20 = Radiation Die (Radical Success)]], you can choose where you go in initiative order after it has been set for everyone else.
 
 ## Rolling as a Group
 

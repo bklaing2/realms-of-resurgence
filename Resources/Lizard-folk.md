@@ -22,7 +22,7 @@ Found on [[Sai Yoxis IV]]
 
 ## Active
 
-- **Regrowth:** Once per long rest, lizard-folk can heal two extra hit dice of HP during a short rest. #brainstorm 
+- **Regrowth:** Once per long rest, lizard-folk can heal ~~two~~ extra hit dice of HP during a short rest. #brainstorm 
 
 ## Skill Proficiency
 

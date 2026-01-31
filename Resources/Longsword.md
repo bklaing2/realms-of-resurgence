@@ -26,4 +26,4 @@ tier:
 
 shortsword - 1d8 slashing
 intelligence to hit
-finesse for damage
+[[finesse]] for damage

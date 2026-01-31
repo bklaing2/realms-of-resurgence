@@ -25,6 +25,6 @@ tier:
 ---
 # Description #todo
 
-dagger - 1d4 piercing (finesse, light, thrown 20/60)
+dagger - 1d4 piercing ([[finesse]], light, thrown 20/60)
 intuition to hit
-finesse for damage
+[[finesse]] for damage

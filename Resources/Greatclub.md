@@ -27,4 +27,4 @@ tier:
 
 greatclub - 1d8 bludgeoning (two-handed)
 intelligence to hit
-fortitude for damage
+[[fortitude]] for damage

@@ -26,4 +26,4 @@ tier:
 
 gauntlet - 1d6 bludgeoning
 intuition to hit
-fortitude for damage
+[[fortitude]] for damage

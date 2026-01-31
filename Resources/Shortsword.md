@@ -26,4 +26,4 @@ tier:
 
 shortsword - 1d6 slashing (light)
 intuition to hit
-finesse for damage
+[[finesse]] for damage

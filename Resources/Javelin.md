@@ -27,5 +27,5 @@ tier:
 
 javelin - 1d6 piercing (thrown 30/120)
 intelligence to hit
-fortitude for damage
+[[fortitude]] for damage
 >>>>>>> origin/main

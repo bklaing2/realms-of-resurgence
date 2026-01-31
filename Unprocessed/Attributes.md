@@ -4,6 +4,13 @@ cssclasses:
   - table-w-full
 ---
 
+| ***[[Fortitude]]*** |             [[Fighter]]             |     [[Brawler]]     |       *Support?*       |     [[Mage]]     |
+| :-----------------: | :---------------------------------: | :-----------------: | :--------------------: | :--------------: |
+|    [[Athletics]]    |          ***[[Finesse]]***          |      [[Scout]]      |      [[Engineer]]      |    [[Druid]]     |
+|  [[Intimidation]]   | [[Subterfuge]]? (Stealth/Deception) | ***[[Intuition]]*** |       *Support?*       | [[Spiritwalker]] |
+|   [[Persuasion]]    |         [[Tinker/Medicine]]         |  [[Investigation]]  | ***[[Intelligence]]*** |    [[Scribe]]    |
+|  [[Constitution]]   | [[Legerdemain]]? (Sleight of Hand)  |     [[Insight]]     | Lore? (Arcana/History) | ***[[Mantic]]*** |
+
 
 |                           | ***[[Fortitude]]***  | ***[[Finesse]]*** | ***[[Intuition]]*** | ***[[Intelligence]]*** | ***[[Mantic]]***                    |
 | ------------------------- | -------------------- | ----------------- | ------------------- | ---------------------- | ----------------------------------- |

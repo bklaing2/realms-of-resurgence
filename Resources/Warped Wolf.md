@@ -15,7 +15,7 @@ body size: medium
 **AC**: 15
 **HP**: 12
 **Speed**: 45 ft
-**Fortitude**: +6
+**[[Fortitude]]**: +6
 **Mantic**: +3
 **Perception**: +5
 
@@ -39,7 +39,7 @@ body size: medium
 +9 to hit
 10 ft range
 4d6 + 3 mantic damage
-Target must make a DC 13 Fortitude saving throw or be restrained, and the wolf cannot make another mantacle attack while a PC is restrained in this way.
+Target must make a DC 13 [[Fortitude]] saving throw or be restrained, and the wolf cannot make another mantacle attack while a PC is restrained in this way.
 
 # Proximity Radical Fail Outcome
 

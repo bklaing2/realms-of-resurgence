@@ -8,7 +8,7 @@ body size: small
 **AC**: 10  
 **HP**: 8  
 **Speed**: 35 ft  (flying)
-**Finesse**: +3  
+**[[Finesse]]**: +3  
 **Mantic**: +1
 
 **Passives**:  
@@ -17,12 +17,12 @@ body size: small
 **Actions**:  
 # Attacks:
 ## Bile Spit:
-5 ft radius AOE, every creature inside must make a finesse saving throw or take the damage. Half damage on a success. 
+5 ft radius AOE, every creature inside must make a [[finesse]] saving throw or take the damage. Half damage on a success. 
 20 ft range  
 1d6 + 3 poison damage
 
 # Proximity Radical Fail Outcome
-When a PC within 35 ft rolls a radiation failure, the Rotborne Spawn immediately flies towards the PC who radically failed and attaches to their face. That PC is now blind (disadvantage on attacks and others have advantage to hit) and take 9 points of poison damage at the top of each turn. The creature must make a contested Fortitude check against the Spawn (who has a +0) as an action on their turn to remove the Spawn from their face.
+When a PC within 35 ft rolls a radiation failure, the Rotborne Spawn immediately flies towards the PC who radically failed and attaches to their face. That PC is now blind (disadvantage on attacks and others have advantage to hit) and take 9 points of poison damage at the top of each turn. The creature must make a contested [[Fortitude]] check against the Spawn (who has a +0) as an action on their turn to remove the Spawn from their face.
 
 
 ## Description

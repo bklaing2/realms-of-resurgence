@@ -8,7 +8,7 @@ body size: medium
 **AC**: 10  
 **HP**: 15  
 **Speed**: 25 ft  
-**Fortitude**: +3  
+**[[Fortitude]]**: +3  
 **Mantic**: +1  
 
 **Passives**:  None

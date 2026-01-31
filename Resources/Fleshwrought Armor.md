@@ -17,7 +17,7 @@ body size: medium
 **AC**: 17
 **HP**: 9  
 **Speed**: 35 ft  
-**Finesse**: +5
+**[[Finesse]]**: +5
 **Mantic**: +4
 **Perception**: +2
 
@@ -36,7 +36,7 @@ Mantic energy is redirected into a nearby (within 60 ft) Fleshwrought Armor that
 **AC**: 13
 **HP**: 5  
 **Speed**: 20 ft  
-**Finesse**: +2
+**[[Finesse]]**: +2
 **Mantic**: +5
 
 **Passives**:  

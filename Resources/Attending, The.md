@@ -8,7 +8,7 @@ body size: small
 **AC**: 12  
 **HP**: 15 
 **Speed**: 40 ft  (fly)
-**Finesse**: +3  
+**[[Finesse]]**: +3  
 **Mantic**: +4  
 **Perception**: +4
 

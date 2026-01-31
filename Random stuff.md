@@ -9,16 +9,16 @@ Maybe the name something to do with wander? Some potential there?
 
 # Testing stuff
 
-| ***Fortitude*** |          [[Fighter]]           |   [[Brawler]]   |       *Support?*       |     [[Mage]]     |
+| ***[[Fortitude]]*** |          [[Fighter]]           |   [[Brawler]]   |       *Support?*       |     [[Mage]]     |
 | :-------------: | :----------------------------: | :-------------: | :--------------------: | :--------------: |
-|    Athletics    |         ***Finesse***          |    [[Scout]]    |      [[Engineer]]      |    [[Druid]]     |
+|    Athletics    |         ***[[Finesse]]***          |    [[Scout]]    |      [[Engineer]]      |    [[Druid]]     |
 |  Intimidation   | Subterfuge?(Stealth/Deception) | ***Intuition*** |       *Support?*       | [[Spiritwalker]] |
 |   Persuasion    |        Tinker/Medicine         |  Investigation  |   ***Intelligence***   |    [[Scribe]]    |
-|  Constitution   | Legerdemain? (Sleight of Hand) |     Insight     | Lore? (Arcana/History) |   ***Mantic***   |
+|  [[Constitution]]   | Legerdemain? (Sleight of Hand) |     Insight     | Lore? (Arcana/History) |   ***Mantic***   |
 
 ## Base attributes
-fortitude
-finesse
+[[fortitude]]
+[[finesse]]
 intuition
 intelligence
 mantic

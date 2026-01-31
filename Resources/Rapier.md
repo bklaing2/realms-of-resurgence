@@ -26,4 +26,4 @@ tier:
 
 rapier - 1d8 piercing
 intuition to hit
-finesse for damage
+[[finesse]] for damage

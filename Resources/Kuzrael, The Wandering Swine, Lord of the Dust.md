@@ -8,8 +8,8 @@ body size: colossal
 **AC**: 14  
 **HP**: 120  
 **Speed**: 25 ft  
-**Fortitude**: +10  
-**Finesse:** +4
+**[[Fortitude]]**: +10  
+**[[Finesse]]:** +4
 **Mantic**: +10  
 **Intelligence:** +9
 **Intuition:** +7
@@ -28,15 +28,15 @@ body size: colossal
 ## Putrid Breath:  
 20 ft cone
 3d8 + 8 poison damage
-Fortitude saving throw DC 15. failure - full damage and poisoned (half movement and disadvantage on ability checks). success - half damage and not poisoned
+[[Fortitude]] saving throw DC 15. failure - full damage and poisoned (half movement and disadvantage on ability checks). success - half damage and not poisoned
 ## Tusk sweep:
 *Recharge on a 5-6*   
 30x10 ft line in front of Kuzrael 
 2d12 + 10 slashing damage
-Finesse saving throw DC 17. failure - full damage and be knocked 15 ft away and prone. success - half damage and only knocked prone
+[[Finesse]] saving throw DC 17. failure - full damage and be knocked 15 ft away and prone. success - half damage and only knocked prone
 ## Legendary Actions (3 per round):
 **Trample**: 
-dash forward and any creature in its way makes a Finesse check DC 13  
+dash forward and any creature in its way makes a [[Finesse]] check DC 13  
 2d6 + 4  bludgeoning damage
 failure: full damage and knocked prone  
 success: half damage and just knocked 5 ft out of the way

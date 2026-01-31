@@ -8,11 +8,11 @@ body size: medium
 **AC**: 11  
 **HP**: 24  
 **Speed**: 40 ft  
-**Fortitude**: +6  
+**[[Fortitude]]**: +6  
 **Mantic**: +2
 
 **Passives**:  
-**Rot Stench:** Creatures within 10 ft of a Rotborne Feral must make a Fortitude saving throw DC 12 at the top of each turn or be poisoned for 1 minute (poison condition means creatures take 1d4 damage at the top of each of their turns). Once a creature succeeds a saving throw, they are immune to that particular Feral's stench for a day, but will still roll a saving throw if they are near other Feral's.
+**Rot Stench:** Creatures within 10 ft of a Rotborne Feral must make a [[Fortitude]] saving throw DC 12 at the top of each turn or be poisoned for 1 minute (poison condition means creatures take 1d4 damage at the top of each of their turns). Once a creature succeeds a saving throw, they are immune to that particular Feral's stench for a day, but will still roll a saving throw if they are near other Feral's.
 
 **Battlefield Soldier:** If within 60 ft of a Rotborne Overseer, deals an extra 1d4 damage on every attack.
 

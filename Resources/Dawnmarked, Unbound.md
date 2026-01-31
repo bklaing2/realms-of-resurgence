@@ -8,8 +8,8 @@ body size: large
 **AC**: 16  
 **HP**: 80  
 **Speed**: 40 ft  
-**Fortitude**: +9  
-**Finesse:** +7
+**[[Fortitude]]**: +9  
+**[[Finesse]]:** +7
 **Mantic**: +6  
 **Intelligence:** +6
 **Intuition:** +3
@@ -30,7 +30,7 @@ body size: large
 +9 to hit
 5 ft range
 1d8 + 9 piercing damage
-creature hit makes a DC 15 Fortitude saving throw or is pushed 15 ft back and prone, if they succeed, they can choose how far back they move (if any) and are not knocked prone.
+creature hit makes a DC 15 [[Fortitude]] saving throw or is pushed 15 ft back and prone, if they succeed, they can choose how far back they move (if any) and are not knocked prone.
 ## Runecarver:
 Can use an action to draw [[Runic Circles]] on a surface or on another creature. Has 6 mantic charges per day to pump into runes. If the Dawnmarked is aware and has time, they will prepare by augmenting themselves, choosing to haste themselves, or add an extra 1d6 of damage to their attacks. They will also stalk waste travelers and lay traps for them using runes and other designed traps.
 

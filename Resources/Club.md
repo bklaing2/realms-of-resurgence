@@ -25,6 +25,6 @@ tier:
 ---
 # Description #todo
 
-club - 1d4 bludgeoning (finesse, light)
+club - 1d4 bludgeoning ([[finesse]], light)
 intelligence to hit
-fortitude for damage
+[[fortitude]] for damage

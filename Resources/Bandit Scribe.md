@@ -7,7 +7,7 @@ body size: medium
 **AC**: 7  
 **HP**: 8  
 **Speed**: 30 ft  
-**Finesse**: +1  
+**[[Finesse]]**: +1  
 **Mantic**: +2  
 **Perception**: +3
 

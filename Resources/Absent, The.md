@@ -8,11 +8,11 @@ body size: medium
 **AC**: 13  
 **HP**: 25  
 **Speed**: 25 ft (hover)
-**Fortitude**: +3  
+**[[Fortitude]]**: +3  
 **Mantic**: +4  
 
 **Passives**:  
-**Fear aura:** Creatures within 15 ft of The Absent must make a Fortitude saving throw DC 13 at the start of their turn. Failure will cause the creature to be scared of The Absent for 1 minute (disadvantage with it in sight and must move full movement **towards** The Absent) can reroll saving throw at the start of subsequent turns. On a success, cannot be affected by another Absent's aura for a full day.
+**Fear aura:** Creatures within 15 ft of The Absent must make a [[Fortitude]] saving throw DC 13 at the start of their turn. Failure will cause the creature to be scared of The Absent for 1 minute (disadvantage with it in sight and must move full movement **towards** The Absent) can reroll saving throw at the start of subsequent turns. On a success, cannot be affected by another Absent's aura for a full day.
 
 **Actions**:
 **Multiattack**: (2) The Absent makes 2 (shortsword) attacks each turn.

@@ -11,12 +11,12 @@ tags:
 ---
 `We will split these up into their own notes`
 
-#brainstorm What if, instead, of having bludgeoning, slashing, etc, the damage is based on fortitude/finesse, so the brawler takes half damage from attacks based in fortitude and such
+#brainstorm What if, instead, of having bludgeoning, slashing, etc, the damage is based on [[fortitude]]/[[finesse]], so the brawler takes half damage from attacks based in [[fortitude]] and such
 
 *simple melee weapons*
 
-[[Club]] - 1d4 bludgeoning (intuition/finesse)
-[[Dagger]] - 1d4 piercing (finesse, light, thrown 20/60)
+[[Club]] - 1d4 bludgeoning (intuition/[[finesse]])
+[[Dagger]] - 1d4 piercing ([[finesse]], light, thrown 20/60)
 [[Greatclub]] - 1d8 bludgeoning (two-handed)
 [[Handaxe]] - 1d6 slashing (light, thrown 30/120)
 [[Javelin]] - 1d6 piercing (thrown 30/120)

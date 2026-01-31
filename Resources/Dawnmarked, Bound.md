@@ -8,8 +8,8 @@ body size: large
 **AC**: 17  
 **HP**: 65  
 **Speed**: 35 ft  
-**Fortitude**: +8  
-**Finesse:** +6
+**[[Fortitude]]**: +8  
+**[[Finesse]]:** +6
 **Mantic**: +3  
 **Intelligence:** +4
 **Intuition:** +4

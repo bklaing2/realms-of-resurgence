@@ -8,8 +8,8 @@ body size: huge
 **AC**: 15  
 **HP**: 50  
 **Speed**: 35 ft  
-**Fortitude**: +10
-**Finesse:** +7
+**[[Fortitude]]**: +10
+**[[Finesse]]:** +7
 **Intelligence:** +4
 **Mantic**: +7  
 **Perception**: +5
@@ -29,7 +29,7 @@ body size: huge
 +10 to hit
 40 ft range
 3d8 + 7 piercing damage
-PCs make a DC 16 Finesse saving throw or become pinned and restrained  by the spike.
+PCs make a DC 16 [[Finesse]] saving throw or become pinned and restrained  by the spike.
 # Proximity Radical Fail Outcome
 When a PC within 40 ft rolls a radiation failure, the Barkspawn Tyrant becomes enraged and now has 2 separate turns in the initiative order every round, moving with mantic speed and power.
 

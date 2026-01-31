@@ -18,7 +18,7 @@ hit points: d8
 
 ## Passive: Fortified
 
-Add your Fortitude when rolling hp while leveling up
+Add your [[Fortitude]] when rolling hp while leveling up
 
 ## Passive: Intimidate
 

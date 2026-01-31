@@ -26,4 +26,4 @@ tier:
 
 shortbow - 1d6 piercing
 intuition to hit
-finesse for damage
+[[finesse]] for damage

@@ -26,4 +26,4 @@ tier:
 
 Longbow - 1d8 piercing
 intuition to hit
-fortitude for damage
+[[fortitude]] for damage
