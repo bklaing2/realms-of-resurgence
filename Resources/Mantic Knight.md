@@ -6,7 +6,7 @@ body size: medium
 ---
 [[The Wastes]] 
 **AC**: 15  
-**HP**: 30  
+**HP**: 40  
 **Speed**: 30 ft  
 **[[Finesse]]**: +4  
 **Mantic**: +4  
