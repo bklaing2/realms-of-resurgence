@@ -5,7 +5,7 @@ description: Teleport a creature within 60ft
 attributes:
   - "[[Intuition]]"
   - "[[Mantic]]"
-mantic charge minimum: 0
+mantic charge minimum: 3
 quick action: false
 reaction: false
 requires focus: false

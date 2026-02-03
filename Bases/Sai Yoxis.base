@@ -165,12 +165,13 @@ views:
       - target
       - range
       - duration
+      - mantic charge minimum
     sort:
       - property: formula.sort by attributes
         direction: ASC
     summaries: {}
     columnSize:
-      file.name: 118
+      file.name: 183
       note.attributes: 246
       note.quick action: 88
       note.requires focus: 101
@@ -199,7 +200,7 @@ views:
     columnSize:
       file.name: 138
       note.attributes: 459
-      note.inscription time: 134
+      note.description: 186
   - type: table
     name: Items
     filters:
