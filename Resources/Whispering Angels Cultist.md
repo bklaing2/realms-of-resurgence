@@ -9,6 +9,7 @@ body size: medium
 **HP**: 8  
 **Speed**: 30 ft  
 **[[Fortitude]]**: +2  
+**[[Finesse]]:** +1
 **Mantic**: +1  
 **Perception**: +2
 
