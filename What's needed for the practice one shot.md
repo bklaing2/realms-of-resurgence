@@ -25,9 +25,15 @@
   - [x] Weapons for each player
 - [ ] Cool items to find
   - [ ] A good range
+  - [ ] a couple magic weapons
+  - [ ] a few magic items
 
 - [ ] Flesh out the wastes a bit more
   - [x] Get a good wastes table
+  - [ ] locations
+  - [ ] lore
+  - [ ] realms of [[Lords of the Wastes]] and how they differ
+	  - [ ] realm mechanics and "actions"
 
 - [x] Resting
   - [x] Outside the wastes
