@@ -23,3 +23,4 @@ Basic arrow
 
 # Tier Three
 Piercing arrow
+Teleport arrow
