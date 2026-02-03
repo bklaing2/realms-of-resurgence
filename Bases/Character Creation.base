@@ -12,7 +12,7 @@ views:
     name: Classes
     filters:
       and:
-        - type == "class"
+        - type == link("Character Creation#Choose a Class", "class")
     order:
       - file.name
     sort: []
