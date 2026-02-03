@@ -27,7 +27,7 @@ None
 **Crystal Stomp**
 As an action stomp. Mantic crystal emerge out of the ground at a point you can see within a range of 30ft. These crystals may take two forms.
 1. They can be many smaller and sharper crystals spread out over 15ft, damaging any creatures in the area for 3d6 and making it difficult terrain.
-2. They can be fewer larger crystals centered on a creature, damaging it for 2d6 but also forming a cage around it, **restraining** the creature. The creature can use an Action to make an athletics saving throw at the start of their next turn to escape.
+2. They can be fewer larger crystals centered on a creature, damaging it for 2d6 but also forming a cage around it, **restraining** the creature. The creature can use an Action to make an athletics saving throw at the start of their next turn to escape DC 12.
 The crystals disappear if you don't spend your bonus action focusing on it.
 
 **Bind**
