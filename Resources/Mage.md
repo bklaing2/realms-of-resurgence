@@ -17,7 +17,7 @@ hit points: d4
 
 ## Passive: #needs/name 
 
-Add 1 to your [[Mantic]] Ability score when leveling up. #james-check
+Add 1 to your [[Mantic]] Ability score when leveling up to even levels.
 
 ## Passive: Mantic Refreshment
 
