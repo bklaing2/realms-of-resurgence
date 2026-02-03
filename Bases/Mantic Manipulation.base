@@ -15,7 +15,10 @@ views:
     name: Mantic Spells
     filters:
       and:
-        - type == "spell"
+        - type == link("Neomantic Spells", "spell")
     groupBy:
       property: formula.Mantic Tier
       direction: ASC
+    sort:
+      - property: file.name
+        direction: ASC
