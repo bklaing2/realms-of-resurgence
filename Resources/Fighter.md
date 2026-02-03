@@ -18,7 +18,7 @@ hit points: d8
 
 ## Passive: Fight or Flight
 
-Once per short rest, can make an attack or dash (without provoking opp attack) as a bonus action
+Once per short rest, can make an attack or dash (without provoking opp attack) as a quick action
 At level five you may use this twice per short rest
 
 ## Antimantic Attack
