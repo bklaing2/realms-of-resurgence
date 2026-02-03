@@ -33,7 +33,7 @@ The crystals disappear if you don't spend your bonus action focusing on it.
 **Bind**
 As an action, bind 2 creatures. An attack on one damages half damage to the other. The binding disappears if you don't spend your bonus action focusing on it, or after 1 minute.
 
-**Relay**
+**Chain**
 As an action, target a creature within 30ft. The creature takes a d6+3 of damage. It then jumps to another creature within 15ft of it. On a successful hit it damages that creature and jumps to another in range that hasn't been hit by the spell this turn.
 
 # Proximity Radical Fail Outcome:
