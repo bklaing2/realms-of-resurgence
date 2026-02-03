@@ -204,3 +204,6 @@ Look how cool this is
 - Radical fails made the rune activate right at the end
 - Running from the [[Mantic Knight]]
 - Got lost in the wastes for 5 days
+
+- Thoughts
+	- Radical failing adds another level of storytelling. Like when the [[Scout]] was outside the window and failed the [[Insight]] roll, that led to the [[Whispering Angels]] starting their ritual
