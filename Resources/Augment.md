@@ -13,7 +13,7 @@ tags:
 ---
 # Description
 
-As an action, inscribe a circle on the surface. Upon activation, choose an attribute to augment. Creatures within the circle receive an additional 1d4 + [[Scribe]] level to that attribute while the circle is active.
+As an action, inscribe a circle on the surface. Upon activation, choose an attribute to augment. Creatures within the circle receive an additional number of mantic charges used + [[Scribe]] level (damage is just mantic charge number) to that attribute while the circle is active.
 Duration: about an hour
 
 You can choose from the following attributes:
