@@ -45,6 +45,8 @@ There are three basic types of [[Maps of Content/Armor|armor]],
 Subtract the armor mitigation from the damage. If it falls below zero you take no damage. If it falls above the armor's damage threshold, you take damage like normal and mark off an armor damage slot. 
 #brainstorm  can also make it on a critical hit against you mark off a damage slot
 
+#brainstorm order of events: mitigation > other reduction (e.g. [[Brawler]] mania)
+
 ### On a Critical Hit
 
 Roll and add max potential dice damage to it
