@@ -202,4 +202,5 @@ Look how cool this is
 - snuck in as they were starting that ritual
 - Fought, it went well. Again [[Entangle]] was super useful
 - Radical fails made the rune activate right at the end
-- Running from the [[Mantic Knight]]?
+- Running from the [[Mantic Knight]]
+- Got lost in the wastes for 5 days
