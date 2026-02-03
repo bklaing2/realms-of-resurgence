@@ -27,3 +27,5 @@ Some spells require focus to maintain. This means that if you do not spend your 
 
 
 #brainstorm mantic check: DC 10 + `number of expended mantic charges used on the spell` [[Constitution]] check. Used if focusing on a spell and you take more than your armor's damage threshold, or if designated in the spell.
+
+#brainstorm Spells that have an associated [[MA]]
