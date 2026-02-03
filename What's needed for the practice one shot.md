@@ -42,6 +42,7 @@
 - [x] Character sheet
 	- [ ] Officially printed sheet
 	- [ ] cheat sheet for players
+	- [ ] "level up at a glance" table (at least through level 5 or so) for the classes we'll be playing
 
 - [x] potions
 - [ ] arrows, at least some tier 1 arrows
