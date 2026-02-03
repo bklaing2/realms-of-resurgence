@@ -9,8 +9,8 @@
   - [x] Non horror enemies
   - [x] Horrors
 
-- [ ] Verify that combat is finished
-  - [ ] Four combats
+- [x] Verify that combat is finished
+  - [x] Four combats
     - [x] with a few bandits (normal guys)
       - [x] then level up to level one
     - [x] with people
@@ -19,8 +19,8 @@
       - [x] will be a bit longer
       - [x] low waste radiation
     - [ ] with 'boss' horror
-      - [ ] will be a proper battle
-      - [ ] high waste radiation
+      - [x] will be a proper battle
+      - [x] high waste radiation
 
   - [x] Weapons for each player
 - [ ] Cool items to find
