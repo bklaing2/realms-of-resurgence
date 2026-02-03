@@ -195,3 +195,11 @@
 
 Look how cool this is
 ![[Pasted image 20260131000806.png]]
+
+**03-02-2026: Playtesting level 3 - the final encounter?**
+- Scouted out the destination
+- [[Scribe]] prepared a lot of stuff
+- snuck in as they were starting that ritual
+- Fought, it went well. Again [[Entangle]] was super useful
+- Radical fails made the rune activate right at the end
+- Running from the [[Mantic Knight]]?
