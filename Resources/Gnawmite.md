@@ -6,7 +6,7 @@ body size: tiny
 ---
 [[The Wastes]]
 **AC**: 14  
-**HP**: 12 
+**HP**: 10 
 **Speed**: 45 ft
 **[[Finesse]]**: +4  
 **Mantic**: +2  
