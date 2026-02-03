@@ -24,3 +24,6 @@ In order to cast a cantrip you must expend any components the cantrip requires. 
 You must know a spell in order to cast it. In order to cast a spell you must expend a spell slot and any components the spell requires. When leveling up you may exchange one spell for any other of the same tier.
 
 Some spells require focus to maintain. This means that if you do not spend your bonus action on your turn focusing on the spell, the spell comes to an end.
+
+
+#brainstorm mantic check: DC 10 + `number of expended mantic charges used on the spell` [[Constitution]] check. Used if focusing on a spell and you take more than your armor's damage threshold, or if designated in the spell.
