@@ -25,6 +25,8 @@ tags:
 
 As an action, Mantically bind a number of creatures equal to expended [[Mantic]] Charges. An attack on one damages the other(s) for half that damage. The spell ends if you don't focus on it during your turn.
 
+When an entangled creature is killed, you must roll a [[Constitution]] check (DC 10 + expended [[Mantic]] charges). If the check fails, the spell ends. If the check radically fails, the [[Mage]] becomes entangled as well.
+
 # Antimantic Inverse #todo
 
 
