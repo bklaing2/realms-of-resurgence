@@ -7,6 +7,7 @@ action: true
 duration: instantaneous
 brewing time: 4 hours
 ---
+[[Potions]] [[Consumables]] 
 Heals drinker for 4d4+4 HP
 quick action to drink one yourself
 action to feed it to someone else

@@ -7,6 +7,7 @@ action: true
 duration: 1 hour
 brewing time: 15 minutes
 ---
+[[Potions]] [[Consumables]] 
 drinker can triple their jump distance when getting a running start
 drinker can double their jump height when making a standing jump
 

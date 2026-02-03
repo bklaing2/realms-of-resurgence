@@ -7,6 +7,7 @@ action: true
 duration: 1 minute
 brewing time: 2 hours
 ---
+[[Potions]] [[Consumables]] 
 drinker adds 20 ft to their movement
 may make an additional weapon attack per round as a quick action
 

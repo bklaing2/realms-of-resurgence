@@ -7,6 +7,7 @@ action: true
 duration: 8 hours
 brewing time: 15 minutes
 ---
+[[Potions]] [[Consumables]] 
 can re-roll a single d20 roll and choose which roll to use
 
 quick action to drink one yourself
