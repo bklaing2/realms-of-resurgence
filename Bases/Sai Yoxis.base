@@ -91,7 +91,6 @@ views:
       - roleplay-ability
       - exploration-ability
       - combat-ability
-      - hp-die
     sort:
       - property: combat-ability
         direction: ASC
