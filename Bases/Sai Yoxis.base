@@ -198,9 +198,10 @@ views:
     summaries:
       file.name: Count
     columnSize:
-      file.name: 138
-      note.attributes: 459
-      note.description: 186
+      file.name: 165
+      note.attributes: 319
+      note.description: 573
+      note.inscription time: 134
   - type: table
     name: Items
     filters:
