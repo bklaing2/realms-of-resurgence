@@ -1,5 +1,5 @@
 ---
-type: "[[Class|class]]"
+type: "[[Class]]"
 subclass of: "[[Druid]]"
 subclass number: "[[Sai Yoxis IV|IV]]"
 description:

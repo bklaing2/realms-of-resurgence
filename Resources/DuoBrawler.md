@@ -1,5 +1,5 @@
 ---
-type: "[[Class|class]]"
+type: "[[Class]]"
 subclass of: "[[Brawler]]"
 subclass number: "[[Sai Yoxis II|II]]"
 description:

@@ -1,5 +1,5 @@
 ---
-type: "[[Class|class]]"
+type: "[[Class]]"
 description: Main power is shapeshifting
 hit points: d6
 passive abilities:

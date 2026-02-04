@@ -1,5 +1,5 @@
 ---
-type: "[[Class|class]]"
+type: "[[Class]]"
 subclass of: "[[Scribe]]"
 subclass number: "[[Sai Yoxis I|I]]"
 description:

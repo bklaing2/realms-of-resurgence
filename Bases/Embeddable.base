@@ -16,7 +16,7 @@ properties:
     displayName: passives
 views:
   - type: table
-    name: Classes
+    name: Ancestries
     filters:
       and:
         - type == link("Class", "class")
@@ -30,10 +30,24 @@ views:
       file.name: 82
       note.hit points: 43
   - type: table
+    name: Classes
+    filters:
+      and:
+        - type == link("Class")
+        - note["subclass of"].isEmpty()
+    order:
+      - file.name
+      - hit points
+      - passive abilities
+      - abilities
+    columnSize:
+      file.name: 82
+      note.hit points: 43
+  - type: table
     name: Subclasses
     filters:
       and:
-        - type == link("Class", "class")
+        - type == link("Class")
         - '!note["subclass of"].isEmpty()'
     groupBy:
       property: subclass of
@@ -53,7 +67,7 @@ views:
     name: Classes and Subclasses
     filters:
       and:
-        - type == link("Class", "class")
+        - type == link("Class")
         - note["subclass of"].isEmpty()
     order:
       - file.name

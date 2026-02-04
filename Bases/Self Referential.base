@@ -43,7 +43,7 @@ views:
     name: Subclasses
     filters:
       and:
-        - type == link("Class", "class")
+        - type == link("Class")
         - '!note["subclass of"].isEmpty()'
     groupBy:
       property: subclass of

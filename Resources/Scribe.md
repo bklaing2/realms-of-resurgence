@@ -1,5 +1,5 @@
 ---
-type: "[[Class|class]]"
+type: "[[Class]]"
 description: Mystic knowledge keepers
 hit points: d6
 passive abilities:

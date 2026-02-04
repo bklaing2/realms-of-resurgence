@@ -1,5 +1,5 @@
 ---
-type: "[[Class|class]]"
+type: "[[Class]]"
 description: The tank of the group
 hit points: d8
 passive abilities:

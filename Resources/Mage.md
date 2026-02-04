@@ -1,5 +1,5 @@
 ---
-type: "[[Class|class]]"
+type: "[[Class]]"
 description: The arcanists
 hit points: d4
 passive abilities:

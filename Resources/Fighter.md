@@ -1,5 +1,5 @@
 ---
-type: "[[Class|class]]"
+type: "[[Class]]"
 description: The damage dealers
 hit points: d8
 passive abilities:
