@@ -1,12 +1,12 @@
 ---
-type: "[[Unprocessed/Class|class]]"
-class: "[[Fighter]]"
-class number: "[[Sai Yoxis III|III]]"
+type: "[[Class|class]]"
+subclass of: "[[Fighter]]"
+subclass number: "[[Sai Yoxis III|III]]"
 description:
 passive abilities:
 abilities:
-  - "[[Fighter - Subclass III - Ability 1]]"
-  - "[[Fighter - Subclass III - Ability 2]]"
+  - "[[Fighter III - Ability 1]]"
+  - "[[Fighter III - Ability 2]]"
 tags:
   - needs/name
 ---

@@ -1,5 +1,5 @@
 ---
-type: "[[Unprocessed/Class|class]]"
+type: "[[Class|class]]"
 description: The tinkerers
 hit points: d6
 passive abilities:

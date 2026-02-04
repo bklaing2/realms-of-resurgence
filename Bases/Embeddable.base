@@ -1,0 +1,65 @@
+formulas:
+  subclasses: |
+    file.backlinks
+    .filter(file(value).properties["subclass of"] == file)
+    .map(file(value).properties["subclass number"] + ":" + value)
+    .sort()
+    .map(link(value.split(":")[1]))
+  subclass I: formula.subclasses[0]
+  subclass II: formula.subclasses[1]
+  subclass III: formula.subclasses[2]
+  subclass IV: formula.subclasses[3]
+properties:
+  formula.subclasses:
+    displayName: subclasses
+  note.passive abilities:
+    displayName: passives
+views:
+  - type: table
+    name: Classes
+    filters:
+      and:
+        - type == link("Class", "class")
+        - note["subclass of"].isEmpty()
+    order:
+      - file.name
+      - hit points
+      - passive abilities
+      - abilities
+    columnSize:
+      file.name: 82
+      note.hit points: 43
+  - type: table
+    name: Subclasses
+    filters:
+      and:
+        - type == link("Class", "class")
+        - '!note["subclass of"].isEmpty()'
+    groupBy:
+      property: subclass of
+      direction: ASC
+    order:
+      - file.name
+      - passive abilities
+      - abilities
+    sort:
+      - property: subclass number
+        direction: ASC
+    columnSize:
+      file.name: 95
+      note.passive abilities: 166
+    indentProperties: false
+  - type: table
+    name: Classes and Subclasses
+    filters:
+      and:
+        - type == link("Class", "class")
+        - note["subclass of"].isEmpty()
+    order:
+      - file.name
+      - formula.subclass I
+      - formula.subclass II
+      - formula.subclass III
+      - formula.subclass IV
+    columnSize:
+      file.name: 117

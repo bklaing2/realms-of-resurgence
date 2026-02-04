@@ -49,7 +49,7 @@ Some races/backgrounds give bonus to Physical or Mental attributes. These can be
 
 ## Calculate Second Order Attributes #brainstorm #needs/name
 
-Each [[Second Order Attribute]] is associated with two [[First Order Attributes]]^[![[Attributes#Second Order Attributes Matrix]]]. Its modifier can be calculated by taking the higher of the two [[First Order Attributes]]. 
+Each [[Second Order Attributes]] is associated with two [[First Order Attributes]]^[![[Attributes#Second Order Attributes Matrix]]]. Its modifier can be calculated by taking the higher of the two [[First Order Attributes]]. 
 
 # Health
 

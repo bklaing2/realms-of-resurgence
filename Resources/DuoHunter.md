@@ -1,12 +1,12 @@
 ---
-type: "[[Unprocessed/Class|class]]"
-class: "[[Scout]]"
-class number: "[[Sai Yoxis II|II]]"
+type: "[[Class|class]]"
+subclass of: "[[Scout]]"
+subclass number: "[[Sai Yoxis II|II]]"
 description:
 passive abilities:
 abilities:
-  - "[[Scout - Subclass II - Ability 1]]"
-  - "[[Scout - Subclass II - Ability 2]]"
+  - "[[Scout II - Ability 1]]"
+  - "[[Scout II - Ability 2]]"
 tags:
   - needs/name
 ---

@@ -11,13 +11,13 @@ type: moc
 
 ## Calculating to Hit
 
-Roll a d20 and add the related attribute for the [[Weapons|weapon]] (likely the [[finesse]] or [[fortitude]])
+Roll a d20 and add the related attribute for the [[Weapons|weapon]] (likely the [[Finesse]] or [[Fortitude]])
 
 ## Calculating Damage Given on a Hit
 
-Weapon damage + Related weapon attribute ([[finesse]] or [[fortitude]])
+Weapon damage + Related weapon attribute ([[Finesse]] or [[Fortitude]])
 
-#brainstorm The to hit and damage numbers will each have an associated attribute. To hit will have a mental attribute, and damage will have a physical attribute. For example, a bow may use [[intelligence]] for the to hit number (cause aiming is hard) and damage will use [[fortitude]] (how strong you are to pull it back farther). Additionally, if you're using a weapon in your offhand, don't include the to hit attribute score when calculating to hit
+#brainstorm The to hit and damage numbers will each have an associated attribute. To hit will have a mental attribute, and damage will have a physical attribute. For example, a bow may use [[Intelligence]] for the to hit number (cause aiming is hard) and damage will use [[Fortitude]] (how strong you are to pull it back farther). Additionally, if you're using a weapon in your offhand, don't include the to hit attribute score when calculating to hit
 
 #brainstorm Should opp attacks just be if you started the turn in their range?
 
@@ -68,7 +68,7 @@ If you have the right materials and enough money, you can upgrade your armor or 
 
 # Initiative
 
-Roll a d20 and add your [[finesse]] modifier. If in [[The Wastes]], roll the Radiation Die. On a [[The Wastes#D20 < Radiation Die (Radical Failure)]], you automatically go at the end of initiative. On a [[The Wastes#D20 = Radiation Die (Radical Success)]], you can choose where you go in initiative order after it has been set for everyone else.
+Roll a d20 and add your [[Finesse]] modifier. If in [[The Wastes]], roll the Radiation Die. On a [[The Wastes#D20 < Radiation Die (Radical Failure)]], you automatically go at the end of initiative. On a [[The Wastes#D20 = Radiation Die (Radical Success)]], you can choose where you go in initiative order after it has been set for everyone else.
 
 ## Rolling as a Group
 

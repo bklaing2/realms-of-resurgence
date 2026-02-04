@@ -21,7 +21,7 @@ body size: medium
 ## Shortword:
 +3 to hit  
 5 ft range  
-2d6 + 4 [[mantic]] damage
+2d6 + 4 [[Mantic]] damage
 
 # Proximity Radical Fail Outcome
 When a PC within 25 ft rolls a radiation failure, The Absent can teleport to their marked creature (if no creature is marked, then they may teleport to their paired [[Attending, The]]), and then can immediately make one free Shortsword attack.

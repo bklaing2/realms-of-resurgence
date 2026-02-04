@@ -1,7 +1,7 @@
 ---
-type: "[[Unprocessed/Class|class]]"
-class: "[[Druid]]"
-class number: "[[Sai Yoxis IV|IV]]"
+type: "[[Class|class]]"
+subclass of: "[[Druid]]"
+subclass number: "[[Sai Yoxis IV|IV]]"
 description:
 passive abilities:
 abilities:

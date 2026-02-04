@@ -18,11 +18,11 @@ Maybe the name something to do with wander? Some potential there?
 |                     |                                                                   |                     |                                          |                  |
 
 ## Base attributes
-[[fortitude]]
-[[finesse]]
-[[intuition]]
-[[intelligence]]
-[[mantic]]
+[[Fortitude]]
+[[Finesse]]
+[[Intuition]]
+[[Intelligence]]
+[[Mantic]]
 
 | *Primary*    | *Secondary*                  | *Tertiary*                               | *Quaternary*                                       | *Quinary*                                                   |
 | ------------ | ---------------------------- | ---------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------- |
@@ -59,7 +59,7 @@ Each character starts with a capacity of 1 death saving throw failure, and need 
 
 Scars can potentially give a plus to the mantic score
 
-# Augment increase intrinsic [[mantic charge]] capacity
+# Augment increase intrinsic [[Mantic Charge]] capacity
 
 # Casting spells using external [[Mantic Charge|mantic charges]]
 

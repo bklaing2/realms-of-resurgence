@@ -1,0 +1,1 @@
+Add 1 to your [[Mantic]] Ability score when leveling up to even levels.

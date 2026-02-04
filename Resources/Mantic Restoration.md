@@ -1,0 +1,1 @@
+During any rest, can roll to restore 1d6 [[Mantic Charge|Mantic Charges]]

@@ -24,7 +24,7 @@ tier:
 # Description #todo
 
 Mantic Wand - 1d6 mantic
-[[intuition]] to hit
+[[Intuition]] to hit
 mantic for damage
 
 creature wielding this can choose to spend [[Mantic Charge|mantic charges]] of their own to increase the damage

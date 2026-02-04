@@ -23,10 +23,10 @@ tier:
 ---
 # Description #todo
 
-Battlemage Wand - 1d8 [[mantic]]
-[[intelligence]] to hit
-[[mantic]] for damage
+Battlemage Wand - 1d8 [[Mantic]]
+[[Intelligence]] to hit
+[[Mantic]] for damage
 
 much shorter range for up close and personal fighting
 
-creature wielding this can choose to spend [[mantic]] charges of their own to increase the damage (the d8 replaces the first d6 of the [[mantic]] charges, but after that it increases normally with d6s)
+creature wielding this can choose to spend [[Mantic]] charges of their own to increase the damage (the d8 replaces the first d6 of the [[Mantic]] charges, but after that it increases normally with d6s)

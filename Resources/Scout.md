@@ -1,9 +1,9 @@
 ---
-type: "[[Unprocessed/Class|class]]"
+type: "[[Class|class]]"
 description: Rouge + ranger
 hit points: d6
 passive abilities:
-  - "[[Stealth]]"
+  - "[[Stealthy]]"
 abilities:
   - "[[Hide]]"
   - "[[Hunter's Mark]]"

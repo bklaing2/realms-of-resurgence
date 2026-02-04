@@ -1,7 +1,7 @@
 ---
-type: "[[Unprocessed/Class|class]]"
-class: "[[Brawler]]"
-class number: "[[Sai Yoxis IV|IV]]"
+type: "[[Class|class]]"
+subclass of: "[[Brawler]]"
+subclass number: "[[Sai Yoxis IV|IV]]"
 description:
 passive abilities:
   - "[[Intimidate]]"

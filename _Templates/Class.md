@@ -1,5 +1,5 @@
 ---
-type: "[[Unprocessed/Class|class]]"
+type: "[[Class|class]]"
 description: <%* const name = await tp.system.prompt("Class Name") %>
 hit points:
 passive abilities:

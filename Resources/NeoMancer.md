@@ -1,25 +1,13 @@
 ---
-id: sai-yoxis-class-7.1
-aliases: []
+type: "[[Class|class]]"
+subclass of: "[[Mage]]"
+subclass number: "[[Sai Yoxis I|I]]"
+description:
+passive abilities:
+abilities:
+  - "[[Mage I - Ability 1]]"
+  - "[[Mage I - Ability 2]]"
 tags:
-  - sai-yoxis/i
-name: Neomancer
-parent: "[[Mage]]"
-type: subclass
+  - needs/name
 ---
-
-Variation of [[Mage]] found on [[Sai Yoxis I]]
-
-# Abilities
-
-## ![[Mage#Passive ??? needs/name todo]]
-
-## ![[Mage#Mage Novice needs/name]]
-
-## Ability 1 #todo
-
-## ![[Mage#Mage Master needs/name]]
-
-## Ability 2 #todo
-
-# ![[Mage#Spellcasting]]
+![[Self Referential.base#Subclass]]

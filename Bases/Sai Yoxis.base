@@ -105,8 +105,9 @@ views:
     filters:
       or:
         - type == link("Character Creation#Choose a Class", "class")
-        - type == link("Unprocessed/Class", "class") && note["class number"].isEmpty()
+        - type == link("Class", "class") && note["class number"].isEmpty()
     order:
+      - type
       - file.name
       - description
       - hit points
@@ -130,6 +131,7 @@ views:
       or:
         - type == link("Class", "class")
         - type == link("Character Creation#Choose a Subclass", "class")
+        - type == link("Unprocessed/Class", "class")
     order:
       - file.name
       - description

@@ -1,0 +1,1 @@
+Once per long rest, during a short or long rest, can restore 1d4 [[Mantic Charge|mantic charges]].

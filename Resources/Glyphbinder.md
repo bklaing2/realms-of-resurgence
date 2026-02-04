@@ -1,23 +1,13 @@
 ---
-id: sai-yoxis-class-6.2
-aliases: []
+type: "[[Class|class]]"
+subclass of: "[[Scribe]]"
+subclass number: "[[Sai Yoxis II|II]]"
+description:
+passive abilities:
+abilities:
+  - "[[Scribe II - Ability 1]]"
+  - "[[Scribe II - Ability 2]]"
 tags:
-  - sai-yoxis/ii
-name: Glyphbinder
-parent: "[[Scribe]]"
-type: subclass
+  - needs/name
 ---
-
-Variation of [[Scribe]] found on [[Sai Yoxis II]]
-
-# Abilities
-
-## ![[Scribe#Passive needs/name todo]]
-
-## ![[Scribe#Inscription needs/name todo]]
-
-## Ability 1 #todo
-
-## ![[Scribe#Ability 2 needs/name todo]]
-
-## Ability 2 #todo
+![[Self Referential.base#Subclass]]

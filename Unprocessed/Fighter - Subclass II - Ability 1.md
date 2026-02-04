@@ -1,1 +1,0 @@
-When performing an [[Antimantic Attack]] choose to heal 1d6 instead of storing a [[Fighter#Mantic Charges|Mantic Charge]]

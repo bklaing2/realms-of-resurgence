@@ -1,0 +1,1 @@
+#brainstorm As an action, choose to sever the Mantic Connection of an active Glyph. Push the Mantic Energy from that rune into the attacker, doing 1d6 per Glyph Tier and pushing the attacker back 5ft per Glyph Tier if the are large or smaller. This can also be done as a reaction when attacked.

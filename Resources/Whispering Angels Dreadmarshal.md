@@ -14,7 +14,7 @@ body size: medium
 **Perception**: +2
 
 **Passives**:  
-**Mage slayer:** If a creature expends a [[mantic charge]] within 15ft of this a Dreadmarshal, it may take a reaction to move to that creature and make an attack against them, after the [[mantic charge]] is used, but before the creature ends their turn.
+**Mage slayer:** If a creature expends a [[Mantic Charge]] within 15ft of this a Dreadmarshal, it may take a reaction to move to that creature and make an attack against them, after the [[Mantic Charge]] is used, but before the creature ends their turn.
 
 **Actions**:
 # Attacks:

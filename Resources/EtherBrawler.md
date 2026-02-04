@@ -1,12 +1,12 @@
 ---
-type: "[[Unprocessed/Class|class]]"
-class: "[[Brawler]]"
-class number: "[[Sai Yoxis III|III]]"
+type: "[[Class|class]]"
+subclass of: "[[Brawler]]"
+subclass number: "[[Sai Yoxis III|III]]"
 description:
 passive abilities:
 abilities:
-  - "[[Brawler - Subclass III - Ability 1]]"
-  - "[[Brawler - Subclass III - Ability 2]]"
+  - "[[Brawler III - Ability 1]]"
+  - "[[Brawler III - Ability 2]]"
 tags:
   - needs/name
 ---

@@ -1,10 +1,10 @@
 ---
-type: "[[Unprocessed/Class|class]]"
-class: "[[Engineer]]"
-class number: "[[Sai Yoxis IV|IV]]"
+type: "[[Class|class]]"
+subclass of: "[[Engineer]]"
+subclass number: "[[Sai Yoxis IV|IV]]"
 description:
 passive abilities:
-  - "[[Engineer - Subclass IV - Passive 1]]"
+  - "[[Engineer IV - Passive 1]]"
 abilities:
   - "[[Potion Brewing]]"
   - "[[Unstable Mixture Concocting]]"

@@ -24,4 +24,4 @@ body size: medium
 Can use their action to carve a [[Runic Circles]] from the Rune's list, using the same number of actions and [[Mantic]] Charges as shown on the list.
 
 # Proximity Radical Fail Outcome
-When a PC within 10 ft rolls a radiation failure, the Bandit Scribe's already drawn [[Runic Circles]] automatically power up +1 [[mantic]] charge, or they are powered if they just need one more action.
+When a PC within 10 ft rolls a radiation failure, the Bandit Scribe's already drawn [[Runic Circles]] automatically power up +1 [[Mantic]] charge, or they are powered if they just need one more action.

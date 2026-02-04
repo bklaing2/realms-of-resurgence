@@ -17,7 +17,7 @@ body size: small
 **Actions**:  
 # Attacks:
 ## Bile Spit:
-5 ft radius AOE, every creature inside must make a [[finesse]] saving throw or take the damage. Half damage on a success. 
+5 ft radius AOE, every creature inside must make a [[Finesse]] saving throw or take the damage. Half damage on a success. 
 20 ft range  
 1d6 + 3 poison damage
 

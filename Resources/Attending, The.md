@@ -21,7 +21,7 @@ body size: small
 ## Eyebeam:
 +4 to hit  
 40 ft range  
-1d8 + 4 [[mantic]] damage
+1d8 + 4 [[Mantic]] damage
 
 **Mark:**
 As an action, The Attending can Mark a creature. This creature now becomes the chosen target of its paired [[Absent, The]] and gives them Advantage on that target when they are within sight of The Attending. The Attending must use its Quick Action on subsequent turns to focus on Mark and must make [[Mantic]] saving throws each time it is hit with a DC of the damage taken to maintain focus.

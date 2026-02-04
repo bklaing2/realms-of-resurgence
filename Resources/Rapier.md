@@ -25,5 +25,5 @@ tier:
 # Description #todo
 
 rapier - 1d8 piercing
-[[intuition]] to hit
-[[finesse]] for damage
+[[Intuition]] to hit
+[[Finesse]] for damage

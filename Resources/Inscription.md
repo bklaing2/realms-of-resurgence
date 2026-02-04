@@ -1,0 +1,1 @@
+Gain the ability to inscribe [[Mantic Manipulation#Runic Circles|Runic Circles]]

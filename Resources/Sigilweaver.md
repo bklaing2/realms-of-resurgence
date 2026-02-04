@@ -1,4 +1,18 @@
 ---
+type: "[[Class|class]]"
+subclass of: "[[Scribe]]"
+subclass number: "[[Sai Yoxis III|III]]"
+description:
+passive abilities:
+abilities:
+  - "[[Scribe III - Ability 1]]"
+  - "[[Scribe III - Ability 2]]"
+tags:
+  - needs/name
+---
+![[Self Referential.base#Subclass]]
+
+---
 id: sai-yoxis-class-6.3
 aliases: []
 tags:
@@ -7,17 +21,3 @@ name: Sigilweaver
 parent: "[[Scribe]]"
 type: subclass
 ---
-
-Variation of [[Scribe]] found on [[Sai Yoxis III]]
-
-# Abilities
-
-## ![[Scribe#Passive needs/name todo]]
-
-## ![[Scribe#Inscription needs/name todo]]
-
-## Ability 1 #todo
-
-## ![[Scribe#Ability 2 needs/name todo]]
-
-## Ability 2 #todo

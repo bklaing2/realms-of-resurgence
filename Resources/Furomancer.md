@@ -1,32 +1,16 @@
 ---
-id: sai-yoxis-class-7.4
-aliases: []
+type: "[[Class|class]]"
+subclass of: "[[Mage]]"
+subclass number: "[[Sai Yoxis IV|IV]]"
+description:
+passive abilities:
+abilities:
+  - "[[Mage IV - Ability 1]]"
+  - "[[Mage IV - Ability 2]]"
 tags:
-  - sai-yoxis/iv
-name: Furomancer
-parent: "[[Mage]]"
-type: subclass
+  - needs/name
 ---
-
-Variation of [[Mage]] found on [[Sai Yoxis IV]]
-
-# Abilities
-
-## ![[Mage#Passive ??? needs/name todo]]
-
-## ![[Mage#Mage Novice needs/name]]
-
-## Furomancy
-
-Can cast 2nd order spells
-
-## ![[Mage#Mage Master needs/name]]
-
-## Furomantic Master
-
-Can cast 4th order spells
-
-# ![[Mage#Spellcasting]]
+![[Self Referential.base#Subclass]]
 
 ## Casting Spells Within [[The Wastes]]
 

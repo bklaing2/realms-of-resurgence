@@ -33,7 +33,7 @@ If the outcome of the d20 is greater than the outcome of the Radiation Die, the 
 If the outcome of the d20 matches the outcome of the Radiation Die, the action automatically succeeds.
 `Should this be a crit or normal success?` #todo
 
-Get a [[mantic charge]] back
+Get a [[Mantic Charge]] back
 
 If you were rolling a death saving throw, automatically come back up, and get a turn
 

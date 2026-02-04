@@ -1,5 +1,5 @@
 ---
-class number:
+subclass number:
 passive abilities:
 abilities:
 ---

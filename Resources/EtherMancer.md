@@ -1,25 +1,13 @@
 ---
-id: sai-yoxis-class-7.3
-aliases: []
+type: "[[Class|class]]"
+subclass of: "[[Mage]]"
+subclass number: "[[Sai Yoxis III|III]]"
+description:
+passive abilities:
+abilities:
+  - "[[Mage III - Ability 1]]"
+  - "[[Mage III - Ability 2]]"
 tags:
-  - sai-yoxis/iii
-name: Ethermancer
-parent: "[[Mage]]"
-type: subclass
+  - needs/name
 ---
-
-Variation of [[Mage]] found on [[Sai Yoxis III]]
-
-# Abilities
-
-## ![[Mage#Passive ??? needs/name todo]]
-
-## ![[Mage#Mage Novice needs/name]]
-
-## Ability 1 #todo
-
-## ![[Mage#Mage Master needs/name]]
-
-## Ability 2 #todo
-
-# ![[Mage#Spellcasting]]
+![[Self Referential.base#Subclass]]
