@@ -49,62 +49,17 @@ Some races/backgrounds give bonus to Physical or Mental attributes. These can be
 
 ## Calculate specific attributes #brainstorm #needs/name
 
+Calculate second-order attributes
 These are called skills in D&D. Instead of being based on one attribute though, I think we can make them based on a combination.
-
-> [!help]- D&D Skills
-> - [ ] Acrobatics (Dex)
-> - [ ] Animal Handling (Wis)
-> - [x] Arcana (Int)
-> - [x] Athletics (Str)
-> - [x] Deception (Cha)
-> - [x] History (Int)
-> - [x] Insight (Wis)
-> - [x] Intimidation (Cha)
-> - [x] Investigation (Int)
-> - [x] Medicine (Wis)
-> - [ ] Nature (Int)
-> - [x] Perception (Wis) ([[Intuition]])
-> - [ ] Performance (Cha)
-> - [x] Persuasion (Cha)
-> - [ ] Religion (Int)
-> - [x] Sleight of Hand (Dex)
-> - [x] Stealth (Dex)
-> - [x] Survival (Wis)
-
-### Table V1
-
-| ***Fortitude*** | Athletics     | Forging            | Intimidation    | Constitution |
-| --------------- | ------------- | ------------------ | --------------- | ------------ |
-| Acrobatics      | ***Finesse*** | Tinkering          | Stealth         | Illusion     |
-| Survival        | Medicine      | ***Intelligence*** | Investigation   | History?     |
-| Persuasion      | Deception     | Insight            | ***Intuition*** | Animism      |
-| Channeling      | Inscription   | Arcana             | Summoning       | ***Mantic*** |
-### Table V2
-
-| ***Fortitude*** | Athletics     | Constitution | Intimidation    | Forging / Crafting?   |
-| --------------- | ------------- | ------------ | --------------- | --------------------- |
-| Acrobatics      | ***Finesse*** | Illusion     | Stealth         | Tinkering / Crafting? |
-| Channeling      | Inscription   | ***Mantic*** | Summoning       | Arcana                |
-| Persuasion      | Deception     | Animism      | ***Intuition*** | Investigation         |
-| Survival        | Medicine      | History      | Insight         | ***Intelligence***    |
-
-### Table V3
-
-| ***Fortitude***       | Deception?               | Constitution ([[Mage]]) | Intimidation                 | Forging / Crafting?   |
-| --------------------- | ------------------------ | ----------------------- | ---------------------------- | --------------------- |
-| Athletics             | ***Finesse***            | Illusion ([[Scribe]])   | Stealth                      | Tinkering / Crafting? |
-| Channeling ([[Mage]]) | Inscription ([[Scribe]]) | ***Mantic***            | Summoning ([[Spiritwalker]]) | Arcana                |
-| Persuasion            | Acrobatics               | Animism                 | ***Intuition***              | Investigation         |
-| Survival              | Medicine                 | History                 | Insight                      | ***Intelligence***    |
 
 ### Table V4
 
-| ***[[Fortitude]]*** |                       [[Fighter]]                       |     [[Brawler]]     |                   *Support?*                   |     [[Mage]]     |
-| :-----------------: | :-----------------------------------------------------: | :-----------------: | :--------------------------------------------: | :--------------: |
-|    [[Athletics]]    |                    ***[[Finesse]]***                    |      [[Scout]]      |                  [[Engineer]]                  |    [[Druid]]     |
-|  [[Intimidation]]   | [[Subterfuge]]? ([[Stealth]]/[[Subterfuge\|Deception]]) | ***[[Intuition]]*** |                   *Support?*                   | [[Spiritwalker]] |
-|   [[Persuasion]]    |             [[Tinker]]/[[Tinker\|Medicine]]             |  [[Investigation]]  |             ***[[Intelligence]]***             |    [[Scribe]]    |
-|  [[Constitution]]   |   [[Legerdemain]]? ([[Legerdemain\|Sleight of Hand]]    |     [[Insight]]     | [[Lore]]? ([[Lore\|Arcana]]/[[Lore\|History]]) |    [[Mantic]]    |
+| ***[[Fortitude]]*** |                    [[Fighter]]                     |     [[Brawler]]     |                   *Support?*                   |     [[Mage]]     |
+| :-----------------: | :------------------------------------------------: | :-----------------: | :--------------------------------------------: | :--------------: |
+|    [[Athletics]]    |                 ***[[Finesse]]***                  |      [[Scout]]      |                  [[Engineer]]                  |    [[Druid]]     |
+|  [[Intimidation]]   |                   [[Subterfuge]]                   | ***[[Intuition]]*** |                   *Support?*                   | [[Spiritwalker]] |
+|   [[Persuasion]]    |          [[Tinker]]/[[Tinker\|Medicine]]           |  [[Investigation]]  |             ***[[Intelligence]]***             |    [[Scribe]]    |
+|  [[Constitution]]   | [[Legerdemain]]? ([[Legerdemain\|Sleight of Hand]] |     [[Insight]]     | [[Lore]]? ([[Lore\|Arcana]]/[[Lore\|History]]) |    [[Mantic]]    |
 
 
 
