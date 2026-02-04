@@ -1,0 +1,2 @@
+Gain the ability to create [[Potions|Unstable Mixtures]] from the potions they have brewed in past rests during combat to impact the world and creatures around them. As an action, an Alchemist can toss a reagent into a made potion to create something harmful and then throw the mixture at another creature - causing whatever effects that mixture has.
+Reagents will need to be obtained from the environment and shops.

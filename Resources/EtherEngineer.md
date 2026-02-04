@@ -1,24 +1,14 @@
 ---
-id: sai-yoxis-class-4.3
-aliases: []
+type: "[[Unprocessed/Class|class]]"
+class: "[[Engineer]]"
+class number: "[[Sai Yoxis III|III]]"
+description:
+passive abilities:
+  - "[[Engineer - Subclass III - Passive 1]]"
+abilities:
+  - "[[Engineer - Subclass III - Ability 1]]"
+  - "[[Engineer - Subclass III - Ability 2]]"
 tags:
-  - sai-yoxis/iii
   - needs/name
-name: EtherEngineer
-parent: "[[Engineer]]"
-type: subclass
 ---
-
-Variation of [[Engineer]] found on [[Sai Yoxis III]]
-
-# Abilities
-
-## ![[Engineer#Passive ??? needs/name todo]]
-
-## ![[Engineer#Ability 1 needs/name todo]]
-
-## Ability 1 #todo
-
-## ![[Engineer#Ability 2 needs/name todo]]
-
-## Ability 2 #todo
+![[Self Referential.base#Subclass]]

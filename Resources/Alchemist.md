@@ -1,33 +1,18 @@
 ---
-id: sai-yoxis-class-4.4
-aliases: []
+type: "[[Unprocessed/Class|class]]"
+class: "[[Engineer]]"
+class number: "[[Sai Yoxis IV|IV]]"
+description:
+passive abilities:
+  - "[[Engineer - Subclass IV - Passive 1]]"
+abilities:
+  - "[[Potion Brewing]]"
+  - "[[Unstable Mixture Concocting]]"
 tags:
-  - sai-yoxis/iv
-name: Alchemist
-parent: "[[Engineer]]"
-type: "[[Character Creation#Choose a Subclass|class]]"
-subclass: IV
+  - needs/name
 ---
-
-Variation of [[Engineer]] found on [[Sai Yoxis IV]]
-
-# Abilities
-
-## ![[Engineer#Passive ??? needs/name todo]]
-
-## ![[Engineer#Ability 1 needs/name todo]]
-
-## Potion Brewing #needs/name #todo
-
-Gain the ability to brew a number of [[Potions#Potions|potions]] according to their [[Character Creation|class]] table per rest (short and long). Each of these [[Potions]] goes inert after 8 hours and is therefore unusable.
-aIngredients will need to be obtained from the environment and shops.
-
-## ![[Engineer#Ability 2 needs/name todo]]
-
-## Unstable Mixtures #needs/name #todo
-
-Gain the ability to create unstable concoctions from the potions they have brewed in past rests during combat to impact the world and creatures around them. As an action, an Alchemist can toss a reagent into a made potion to create something harmful and then throw the mixture at another creature - causing whatever effects that mixture has.
-Reagents will need to be obtained from the environment and shops.
+![[Self Referential.base#Subclass]]
+[[Unstable Mixture Concocting]]
 
 # Other
 

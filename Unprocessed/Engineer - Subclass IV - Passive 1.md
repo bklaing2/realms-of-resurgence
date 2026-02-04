@@ -1,0 +1,1 @@
+Can use [[Alchemist]] crafting tables
