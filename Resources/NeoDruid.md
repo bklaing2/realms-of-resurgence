@@ -1,24 +1,13 @@
 ---
-id: sai-yoxis-class-5.1
-aliases: []
+type: "[[Unprocessed/Class|class]]"
+class: "[[Druid]]"
+class number: "[[Sai Yoxis I|I]]"
+description:
+passive abilities:
+abilities:
+  - "[[Druid - Subclass I - Ability 1]]"
+  - "[[Druid - Subclass I - Ability 2]]"
 tags:
-  - sai-yoxis/i
   - needs/name
-name: NeoDruid
-parent: "[[Druid]]"
-type: subclass
 ---
-
-Variation of [[Druid]] found on [[Sai Yoxis I]]
-
-# Abilities
-
-## ![[Druid#Passive Druid Speak needs/name]]
-
-## ![[Druid#Ability 1 needs/name todo]]
-
-## Ability 1 #todo
-
-## ![[Druid#Ability 2 needs/name todo]]
-
-## Ability 2 #todo
+![[Self Referential.base#Subclass]]

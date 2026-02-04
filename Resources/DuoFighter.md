@@ -1,28 +1,13 @@
 ---
-id: sai-yoxis-class-2.2
-aliases: []
+type: "[[Unprocessed/Class|class]]"
+class: "[[Fighter]]"
+class number: "[[Sai Yoxis II|II]]"
+description:
+passive abilities:
+abilities:
+  - "[[Fighter - Subclass II - Ability 1]]"
+  - "[[Fighter - Subclass II - Ability 2]]"
 tags:
-  - sai-yoxis/ii
   - needs/name
-name: DuoFighter
-parent: "[[Fighter]]"
-type: subclass
 ---
-
-Variation of [[Fighter]] found on [[Sai Yoxis II]]
-
-# Abilities
-
-## ![[Fighter#Passive Fight or Flight]]
-
-## ![[Fighter#Antimantic Attack]]
-
-## Ability 1 #needs/name
-
-When performing an [[Fighter#Antimantic Attack]] choose to heal 1d6 instead of storing a [[Fighter#Mantic Charges|Mantic Charge]]
-
-## ![[Fighter#Mantic Attack needs/tuning|Fighter]]
-
-## Ability 2 #todo
-
-# ![[Fighter#Mantic Charges]]
+![[Self Referential.base#Subclass]]

@@ -1,24 +1,13 @@
 ---
-id: sai-yoxis-class-5.3
-aliases: []
+type: "[[Unprocessed/Class|class]]"
+class: "[[Druid]]"
+class number: "[[Sai Yoxis III|III]]"
+description:
+passive abilities:
+abilities:
+  - "[[Druid - Subclass III - Ability 1]]"
+  - "[[Druid - Subclass III - Ability 2]]"
 tags:
-  - sai-yoxis/iii
   - needs/name
-name: EtherDruid
-parent: "[[Druid]]"
-type: subclass
 ---
-
-Variation of [[Druid]] found on [[Sai Yoxis III]]
-
-# Abilities
-
-## ![[Druid#Passive Druid Speak needs/name]]
-
-## ![[Druid#Ability 1 needs/name todo]]
-
-## Ability 1 #todo
-
-## ![[Druid#Ability 2 needs/name todo]]
-
-## Ability 2 #todo
+![[Self Referential.base#Subclass]]

@@ -4,7 +4,6 @@ description: The tank of the group
 hit points: d8
 passive abilities:
   - "[[Fortified]]"
-  - "[[Intimidate]]"
 abilities:
   - "[[Frenzy]]"
   - "[[Brawler - Ability 2]]"

@@ -1,4 +1,18 @@
 ---
+type: "[[Unprocessed/Class|class]]"
+class: "[[Druid]]"
+class number: "[[Sai Yoxis I|I]]"
+description:
+passive abilities:
+abilities:
+  - "[[Druid - Subclass I - Ability 1]]"
+  - "[[Druid - Subclass I - Ability 2]]"
+tags:
+  - needs/name
+---
+![[Self Referential.base#Subclass]]
+
+---
 id: sai-yoxis-class-4.1
 aliases: []
 tags:

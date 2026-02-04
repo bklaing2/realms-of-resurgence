@@ -1,27 +1,14 @@
 ---
-id: sai-yoxis-class-5
-aliases: []
-tags:
-  - sai-yoxis
-  - needs/name
+type: "[[Unprocessed/Class|class]]"
 description: Main power is shapeshifting
-name: Druid
-parent: "[[Classes]]"
-type: "[[Character Creation#Choose a Class|class]]"
-subclass-i: "[[NeoDruid]]"
-subclass-ii: "[[DuoDruid]]"
-subclass-iii: "[[EtherDruid]]"
-subclass-iv: "[[Mutant]]"
 hit points: d6
+passive abilities:
+  - "[[Druid Speak]]"
+abilities:
+  - "[[Druid - Ability 1]]"
+  - "[[Druid - Ability 2]]"
+tags:
+  - needs/name
 ---
-
-# [[Character Creation|Class]] Abilities
-
-## Passive: Druid Speak #needs/name
-
-Speak with known creatures within 120ft
-At level 5 the range increases 200ft
-
-## Ability 1 #needs/name #todo
-
-## Ability 2 #needs/name #todo
+![[Self Referential.base#Class]]
+![[Self Referential.base#Subclasses]]

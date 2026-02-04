@@ -1,0 +1,1 @@
+Mutation can be performed twice per short rest, and gain access to level 1-4 non-flying low-sentience horror. You also no longer have to roll the radiation die when mutated.

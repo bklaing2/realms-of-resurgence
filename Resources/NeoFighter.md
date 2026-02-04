@@ -1,26 +1,13 @@
 ---
-id: sai-yoxis-class-2.1
-aliases: []
+type: "[[Unprocessed/Class|class]]"
+class: "[[Fighter]]"
+class number: "[[Sai Yoxis I|I]]"
+description:
+passive abilities:
+abilities:
+  - "[[Fighter - Subclass I - Ability 1]]"
+  - "[[Fighter - Subclass I - Ability 2]]"
 tags:
-  - sai-yoxis/i
   - needs/name
-name: NeoFighter
-parent: "[[Fighter]]"
-type: subclass
 ---
-
-Variation of [[Fighter]] found on [[Sai Yoxis I]]
-
-# Abilities
-
-## ![[Fighter#Passive Fight or Flight]]
-
-## ![[Fighter#Antimantic Attack]]
-
-## Ability 1 #todo
-
-## ![[Fighter#Mantic Attack needs/tuning|Fighter]]
-
-## Ability 2 #todo
-
-# ![[Fighter#Mantic Charges]]
+![[Self Referential.base#Subclass]]
