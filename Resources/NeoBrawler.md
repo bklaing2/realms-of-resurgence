@@ -1,24 +1,14 @@
 ---
-id: sai-yoxis-class-3.1
-aliases: []
+type: "[[Unprocessed/Class|class]]"
+class: "[[Brawler]]"
+class number: "[[Sai Yoxis I|I]]"
+description:
+passive abilities:
+  - "[[Brawler - Subclass I - Passive 1]]"
+abilities:
+  - "[[Brawler - Subclass I - Ability 1]]"
+  - "[[Brawler - Subclass I - Ability 2]]"
 tags:
-  - sai-yoxis/i
   - needs/name
-name: NeoBrawler
-parent: "[[Brawler]]"
-type: subclass
 ---
-
-Variation of [[Brawler]] found on [[Sai Yoxis I]]
-
-# Abilities
-
-## ![[Brawler#Passive Intimidate]]
-
-## ![[Brawler#Frenzy]]
-
-## Ability 1 #todo
-
-## ![[Brawler#Ability 2 needs/name todo]]
-
-## Ability 2 #todo
+![[Self Referential.base#Subclass]]

@@ -1,13 +1,10 @@
 ---
 type: "[[Unprocessed/Class|class]]"
-class: "[[Brawler]]"
-class number: "[[Sai Yoxis IV|IV]]"
+class:
+class number:
 description:
 passive abilities:
-  - "[[Intimidate]]"
 abilities:
-  - "[[Mania]]"
-  - "[[Furomania]]"
 tags:
   - needs/name
 ---

@@ -1,0 +1,98 @@
+filters:
+  or:
+    - file == this.file
+    - file.hasLink(this.file)
+    - this.file.hasLink(file)
+formulas:
+  subclasses: |-
+    [
+    formula["subclass I"],
+    formula["subclass II"],
+    formula["subclass III"],
+    formula["subclass IV"]
+    ]
+  subclass I: |-
+    file.backlinks.filter(
+    file(value).properties.class == this.file && file(value).properties["class number"] == link("[[Sai Yoxis I]]")
+    )[0]
+  subclass II: |-
+    file.backlinks.filter(
+    file(value).properties.class == this.file && file(value).properties["class number"] == link("[[Sai Yoxis II]]")
+    )[0]
+  subclass III: |-
+    file.backlinks.filter(
+    file(value).properties.class == this.file && file(value).properties["class number"] == link("[[Sai Yoxis III]]")
+    )[0]
+  subclass IV: |-
+    file.backlinks.filter(
+    file(value).properties.class == this.file && file(value).properties["class number"] == link("[[Sai Yoxis IV]]")
+    )[0]
+  class: class.asFile().properties
+  type: if(class.isEmpty(), link("[[Class]]"), "Subclass")
+  class link: this.file.properties.class
+  temp: link("[[Class]]")
+properties:
+  formula.subclasses:
+    displayName: subclasses
+  note.passive abilities:
+    displayName: passives
+views:
+  - type: table
+    name: Class
+    filters:
+      and:
+        - file == this.file
+    order:
+      - hit points
+      - passive abilities
+      - abilities
+    sort:
+      - property: hit points
+        direction: ASC
+    columnSize:
+      note.hit points: 134
+      note.passive abilities: 200
+      note.abilities: 276
+  - type: table
+    name: Subclasses
+    filters:
+      and:
+        - file.properties.class == this.file
+    order:
+      - file.name
+      - passive abilities
+      - abilities
+    sort:
+      - property: class number
+        direction: ASC
+    columnSize:
+      file.name: 127
+      note.passive abilities: 218
+    cardSize: 800
+    indentProperties: false
+    imageAspectRatio: 1.1
+    separator: " | "
+    markers: none
+  - type: table
+    name: Subclass
+    filters:
+      or:
+        - file == this.file
+        - file == this.file.properties.class
+    groupBy:
+      property: formula.class link
+      direction: ASC
+    order:
+      - formula.type
+      - class number
+      - passive abilities
+      - abilities
+    sort:
+      - property: formula.type
+        direction: ASC
+    summaries:
+      formula.class link: Empty
+    columnSize:
+      formula.type: 61
+      note.class number: 56
+      note.passive abilities: 230

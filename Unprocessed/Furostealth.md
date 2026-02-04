@@ -1,0 +1,1 @@
+Less detectable by low-power low-sentient horrors.

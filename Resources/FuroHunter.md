@@ -1,32 +1,14 @@
 ---
-id: sai-yoxis-class-1.4
-aliases:
+type: "[[Unprocessed/Class|class]]"
+class: "[[Scout]]"
+class number: "[[Sai Yoxis IV|IV]]"
+description:
+passive abilities:
+  - "[[Furostealth]]"
+abilities:
+  - "[[Sneak Attack]]"
+  - "[[Scout - Subclass IV - Ability 2]]"
 tags:
-  - sai-yoxis/iv
   - needs/name
-name: Hunter
-parent: "[[Scout]]"
-type: subclass
 ---
-
-Variation of [[Scout]] found on [[Sai Yoxis IV]]
-
-# Abilities
-
-## ![[Scout#Passive Stealth]]
-
-## Passive: Furostealth
-
-Less detectable by low-power low-sentient horrors.
-
-## ![[Scout#Hide]]
-
-## Sneak Attack
-
-When you have advantage on an attack, add 3d6 to your damage roll once per turn. Can craft [[Arrows#Tier Two|tier two arrows]].
-
-## ![[Scout#Hunter's Mark]]
-
-## Sneak Attack Upgrade #needs/name
-
-When performing a [[#Sneak Attack]], add 5d6 instead of 3d6. Can craft [[Arrows#Tier Three|tier three arrows]].
+![[Self Referential.base#Subclass]]

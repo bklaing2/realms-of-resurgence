@@ -1,0 +1,1 @@
+When in Frenzy, gain the ability to make a second attack for your attack action.

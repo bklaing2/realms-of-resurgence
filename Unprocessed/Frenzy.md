@@ -1,0 +1,2 @@
+Bonus action to enter a Frenzy.
+Take half damage from bludgeoning, slashing, and piercing damage while in a Frenzy. Add extra damage equal to the Frenzy Damage found on the level table. Frenzy lasts 1 minute.

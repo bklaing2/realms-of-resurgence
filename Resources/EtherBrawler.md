@@ -1,24 +1,14 @@
 ---
-id: sai-yoxis-class-3.3
-aliases:
+type: "[[Unprocessed/Class|class]]"
+class: "[[Brawler]]"
+class number: "[[Sai Yoxis III|III]]"
+description:
+passive abilities:
+  - "[[Brawler - Subclass III - Passive 1]]"
+abilities:
+  - "[[Brawler - Subclass III - Ability 1]]"
+  - "[[Brawler - Subclass III - Ability 2]]"
 tags:
-  - sai-yoxis/iii
   - needs/name
-name: EtherBrawler
-parent: "[[Brawler]]"
-type: subclass
 ---
-
-Variation of [[Brawler]] found on [[Sai Yoxis III]]
-
-# Abilities
-
-## ![[Brawler#Passive Intimidate]]
-
-## ![[Brawler#Frenzy]]
-
-## Ability 1 #todo
-
-## ![[Brawler#Ability 2 needs/name todo]]
-
-## Ability 2 #todo
+![[Self Referential.base#Subclass]]

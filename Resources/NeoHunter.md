@@ -1,24 +1,14 @@
 ---
-id: sai-yoxis-class-1.1
-aliases: []
+type: "[[Unprocessed/Class|class]]"
+class: "[[Scout]]"
+class number: "[[Sai Yoxis I|I]]"
+description:
+passive abilities:
+  - "[[Scout - Subclass I - Passive 1]]"
+abilities:
+  - "[[Scout - Subclass I - Ability 1]]"
+  - "[[Scout - Subclass I - Ability 2]]"
 tags:
-  - sai-yoxis/i
   - needs/name
-name: NeoHunter
-parent: "[[Scout]]"
-type: subclass
 ---
-
-Variation of [[Scout]] found on [[Sai Yoxis I]]
-
-# Abilities
-
-## ![[Scout#Passive Stealth]]
-
-## ![[Scout#Hide]]
-
-## Ability 1 #todo
-
-## ![[Scout#Hunter's Mark]]
-
-## Ability 2 #todo
+![[Self Referential.base#Subclass]]

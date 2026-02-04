@@ -1,12 +1,9 @@
 ---
 type: "[[Unprocessed/Class|class]]"
-description: The damage dealers
-hit points: d8
+description:
+hit points:
 passive abilities:
-  - "[[Fight or Flight]]"
 abilities:
-  - "[[Antimantic Attack]]"
-  - "[[Mantic Attack]]"
 tags:
   - needs/name
 ---

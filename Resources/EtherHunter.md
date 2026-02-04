@@ -1,23 +1,14 @@
 ---
-id: sai-yoxis-class-1.3
-aliases:
+type: "[[Unprocessed/Class|class]]"
+class: "[[Scout]]"
+class number: "[[Sai Yoxis III|III]]"
+description:
+passive abilities:
+  - "[[Scout - Subclass III - Passive 1]]"
+abilities:
+  - "[[Scout - Subclass III - Ability 1]]"
+  - "[[Scout - Subclass III - Ability 2]]"
 tags:
-  - sai-yoxis
-name: EtherHunter
-parent: "[[Scout]]"
-type: subclass
+  - needs/name
 ---
-
-Variation of [[Scout]] found on [[Sai Yoxis III]]
-
-# Abilities
-
-## ![[Scout#Passive Stealth]]
-
-## ![[Scout#Hide]]
-
-## Ability 1 #todo
-
-## ![[Scout#Hunter's Mark]]
-
-## Ability 2 #todo
+![[Self Referential.base#Subclass]]

@@ -19,6 +19,8 @@ Weapon damage + Related weapon attribute ([[finesse]] or [[fortitude]])
 
 #brainstorm The to hit and damage numbers will each have an associated attribute. To hit will have a mental attribute, and damage will have a physical attribute. For example, a bow may use [[intelligence]] for the to hit number (cause aiming is hard) and damage will use [[fortitude]] (how strong you are to pull it back farther). Additionally, if you're using a weapon in your offhand, don't include the to hit attribute score when calculating to hit
 
+#brainstorm Should opp attacks just be if you started the turn in their range?
+
 
 
 # Armor

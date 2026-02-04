@@ -1,0 +1,1 @@
+Use one or more [[Mantic Charge|Mantic Charges]] to empower an attack. Adds [[Mantic Damage]] to the attack, and increases the range up to 5 feet per Mantic Charge. You may choose to knock the enemy back.

@@ -103,8 +103,9 @@ views:
   - type: table
     name: Classes
     filters:
-      and:
+      or:
         - type == link("Character Creation#Choose a Class", "class")
+        - type == link("Unprocessed/Class", "class") && note["class number"].isEmpty()
     order:
       - file.name
       - description
@@ -127,8 +128,8 @@ views:
     name: Classes + Subclasses
     filters:
       or:
-        - type == "class"
-        - type == "subclass"
+        - type == link("Class", "class")
+        - type == link("Character Creation#Choose a Subclass", "class")
     order:
       - file.name
       - description

@@ -1,6 +1,7 @@
 ---
 id: Sai Yoxis IV
-aliases: []
+aliases:
+  - IV
 tags:
   - needs/improvement
   - todo
