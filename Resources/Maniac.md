@@ -6,9 +6,14 @@ tags:
 name: Maniac
 parent: "[[Brawler]]"
 type: subclass
+passive abilities:
+  - "[[Intimidate]]"
 ---
 
 Variation of [[Brawler]] found on [[Sai Yoxis IV]]
+
+## Passive: [[Intimidate]]
+
 
 # Abilities
 

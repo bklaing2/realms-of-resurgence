@@ -21,6 +21,8 @@
     "quick action": "checkbox",
     "reaction": "checkbox",
     "casting time": "multitext",
-    "target": "multitext"
+    "target": "multitext",
+    "passive abilities": "multitext",
+    "abilities": "multitext"
   }
 }

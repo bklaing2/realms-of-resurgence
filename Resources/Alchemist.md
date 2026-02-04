@@ -5,7 +5,8 @@ tags:
   - sai-yoxis/iv
 name: Alchemist
 parent: "[[Engineer]]"
-type: subclass
+type: "[[Character Creation#Choose a Subclass|class]]"
+subclass: IV
 ---
 
 Variation of [[Engineer]] found on [[Sai Yoxis IV]]

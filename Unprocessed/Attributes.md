@@ -7,22 +7,17 @@ cssclasses:
   - table-w-full
   - w-full
 ---
-# First order attributes
+# Second Order Attributes Matrix
 
-- [[Fortitude]]
-- [[Finesse]]
-- [[Intuition]]
-- [[Intelligence]]
-- [[Mantic]]
+| ***[[Fortitude]]*** |           [[Fighter]]           |     [[Brawler]]     |       *Support?*       |     [[Mage]]     |
+| :-----------------: | :-----------------------------: | :-----------------: | :--------------------: | :--------------: |
+|    [[Athletics]]    |        ***[[Finesse]]***        |      [[Scout]]      |      [[Engineer]]      |    [[Druid]]     |
+|  [[Intimidation]]   |         [[Subterfuge]]          | ***[[Intuition]]*** |       *Support?*       | [[Spiritwalker]] |
+|   [[Persuasion]]    | [[Tinker]]/[[Tinker\|Medicine]] |  [[Investigation]]  | ***[[Intelligence]]*** |    [[Scribe]]    |
+|  [[Constitution]]   |         [[Legerdemain]]         |     [[Insight]]     |        [[Lore]]        | ***[[Mantic]]*** |
 
-# Second order attributes
+# Other
 
-| ***[[Fortitude]]*** |                       [[Fighter]]                       |     [[Brawler]]     |                   *Support?*                   |     [[Mage]]      |
-| :-----------------: | :-----------------------------------------------------: | :-----------------: | :--------------------------------------------: | :---------------: |
-|    [[Athletics]]    |                    ***[[Finesse]]***                    |      [[Scout]]      |                  [[Engineer]]                  |     [[Druid]]     |
-|  [[Intimidation]]   | [[Subterfuge]]? ([[Stealth]]/[[Subterfuge\|Deception]]) | ***[[Intuition]]*** |                   *Support?*                   | [[Spiritwalker]]  |
-|   [[Persuasion]]    |             [[Tinker]]/[[Tinker\|Medicine]]             |  [[Investigation]]  |             ***[[Intelligence]]***             |    [[Scribe]]     |
-|  [[Constitution]]   |   [[Legerdemain]]? ([[Legerdemain\|Sleight of Hand]])   |     [[Insight]]     | [[Lore]]? ([[Lore\|Arcana]]/[[Lore\|History]]) | ****[[Mantic]]*** |
 
 |                           | ***[[Fortitude]]***  | ***[[Finesse]]*** | ***[[Intuition]]*** | ***[[Intelligence]]*** | ***[[Mantic]]***                    |
 | ------------------------- | -------------------- | ----------------- | ------------------- | ---------------------- | ----------------------------------- |

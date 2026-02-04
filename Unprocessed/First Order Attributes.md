@@ -1,0 +1,5 @@
+- [[Fortitude]]
+- [[Finesse]]
+- [[Intuition]]
+- [[Intelligence]]
+- [[Mantic]]

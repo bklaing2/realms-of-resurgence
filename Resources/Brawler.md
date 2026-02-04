@@ -12,18 +12,32 @@ subclass-ii: "[[DuoBrawler]]"
 subclass-iii: "[[EtherBrawler]]"
 subclass-iv: "[[Maniac]]"
 hit points: d8
+passive abilities:
+  - "[[Fortified]]"
+  - "[[Intimidate]]"
+abilities:
 ---
+![[Embeddable.base]]
 
-# [[Character Creation|Class]] Abilities
+# Level Unlock Table
 
-## Passive: Fortified
+|     | Passive       | Ability |     |     |     |
+| --- | ------------- | ------- | --- | --- | --- |
+| 0   |               |         |     |     |     |
+| 1   | [[Fortified]] |         |     |     |     |
+| 2   |               |         |     |     |     |
+| 3   |               |         |     |     |     |
+| 4   |               |         |     |     |     |
+| 5   |               |         |     |     |     |
+| 6   |               |         |     |     |     |
+| 7   |               |         |     |     |     |
+| 8   |               |         |     |     |     |
+| 9   |               |         |     |     |     |
+| 10  |               |         |     |     |     |
 
-Add your [[Fortitude]] when rolling hp while leveling up
+# Passive Abilities
 
-## Passive: Intimidate
-
-After a succeeding on an [[intimidation]] check against a creature, the creature is optionally frightened for 1 round
-At level 5 it lasts 2 rounds
+- [[Fortified]]
 
 ## Frenzy
 

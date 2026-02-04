@@ -47,21 +47,9 @@ Take 2d4, assign one to be positive and the to be negative. Roll and add these 6
 
 Some races/backgrounds give bonus to Physical or Mental attributes. These can be distributed between the attributes in the specified category, up to a maximum of 3 for any attribute.
 
-## Calculate specific attributes #brainstorm #needs/name
+## Calculate Second Order Attributes #brainstorm #needs/name
 
-Calculate second-order attributes
-These are called skills in D&D. Instead of being based on one attribute though, I think we can make them based on a combination.
-
-### Table V4
-
-| ***[[Fortitude]]*** |                    [[Fighter]]                     |     [[Brawler]]     |                   *Support?*                   |     [[Mage]]     |
-| :-----------------: | :------------------------------------------------: | :-----------------: | :--------------------------------------------: | :--------------: |
-|    [[Athletics]]    |                 ***[[Finesse]]***                  |      [[Scout]]      |                  [[Engineer]]                  |    [[Druid]]     |
-|  [[Intimidation]]   |                   [[Subterfuge]]                   | ***[[Intuition]]*** |                   *Support?*                   | [[Spiritwalker]] |
-|   [[Persuasion]]    |          [[Tinker]]/[[Tinker\|Medicine]]           |  [[Investigation]]  |             ***[[Intelligence]]***             |    [[Scribe]]    |
-|  [[Constitution]]   | [[Legerdemain]]? ([[Legerdemain\|Sleight of Hand]] |     [[Insight]]     | [[Lore]]? ([[Lore\|Arcana]]/[[Lore\|History]]) |    [[Mantic]]    |
-
-
+Each [[Second Order Attribute]] is associated with two [[First Order Attributes]]^[![[Attributes#Second Order Attributes Matrix]]]. Its modifier can be calculated by taking the higher of the two [[First Order Attributes]]. 
 
 # Health
 
