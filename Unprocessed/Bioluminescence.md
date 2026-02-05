@@ -1,0 +1,1 @@
+can glow at x intensity times level for level minutes

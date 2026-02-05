@@ -1,0 +1,1 @@
+Assisted Jump - can jump up to xft times your level

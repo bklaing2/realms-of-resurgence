@@ -1,0 +1,1 @@
+Good sense of smell/hearing. Advantage on [[Intuition]] checks that involve smell.

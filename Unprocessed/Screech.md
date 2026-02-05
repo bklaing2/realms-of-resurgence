@@ -1,0 +1,1 @@
+15 ft cone in which a bird-folk may screech and any creatures within that range must make a DC 8 + level [[Constitution]] saving throw or become stunned until the end of the bird-folk's next turn. Stunned creatures cannot move, automatically fails [[Fortitude]] and [[Finesse]] saving throws, and attack rolls against them have advantage. #brainstorm 

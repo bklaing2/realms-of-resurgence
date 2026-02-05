@@ -1,0 +1,1 @@
+Once per long rest, when a Roach-folk is about to take damage, they can roll a d20 + level and if it exceeds the damage they are about to take, they instead take no damage. If it is below the damage about to be taken, they instead take the damage like normal. #brainstorm 

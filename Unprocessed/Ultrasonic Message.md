@@ -1,0 +1,1 @@
+Send other creatures a message of 15 words or less if they are within 100 ft of range and have no barriers between them more than 5 ft wide. 

@@ -1,0 +1,1 @@
+Can grow/shrink for x minutes times their level

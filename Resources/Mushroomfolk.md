@@ -1,17 +1,16 @@
 ---
-id: Fungrils
-aliases: []
+type: "[[Creature]]"
+creature type: "[[Ancestry]]"
+description:
+passive abilities:
+  - "[[Mushroomfolk - Passive 1]]"
+roleplay ability: "[[Spores]]"
+exploration ability: "[[Bioluminescence]]"
+combat ability: "[[Mushroomfolk - Combat]]"
 tags:
-  - sai-yoxis/iv/the-cataclysm
-  - sai-yoxis/iv/post-cataclysm
-name: Fungrils
-parent: "[[Ancestries]]"
-type: ancestry
-passive-ability:
-roleplay-ability: spores - once a long rest can change the ancestry that you have a bonus to "charisma" checks to
-exploration-ability: Bioluminescence - can glow at x intensity times level for level minutes
-combat-ability: spores - 5ft radius, make a save or take poison damage
+  - needs/name
 ---
+![[Self Referential.base#Ancestry]]
 
 Found on [[Sai Yoxis IV]]
 [Google Doc](https://docs.google.com/document/d/100Y20rvhw8RZMD__Q8Ycmkf6tvbaa6LLS8oWhrVLL00/edit?tab=t.0)

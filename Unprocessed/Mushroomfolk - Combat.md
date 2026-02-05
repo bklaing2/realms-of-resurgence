@@ -1,0 +1,1 @@
+5ft radius, make a save or take poison damage

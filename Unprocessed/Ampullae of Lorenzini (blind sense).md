@@ -1,0 +1,1 @@
+sense living things that are up to 10ft away

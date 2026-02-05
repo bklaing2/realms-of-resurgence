@@ -17,7 +17,7 @@ properties:
   note.type:
     displayName: class
 views:
-  - type: table
+  - type: cards
     name: Ancestries
     filters:
       and:
@@ -31,7 +31,8 @@ views:
     sort: []
     columnSize:
       file.name: 82
-  - type: table
+    cardSize: 270
+  - type: cards
     name: Classes
     filters:
       and:
@@ -44,7 +45,8 @@ views:
     columnSize:
       file.name: 82
       note.hit points: 43
-  - type: table
+    cardSize: 290
+  - type: cards
     name: Subclasses
     filters:
       and:
@@ -63,7 +65,8 @@ views:
       file.name: 95
       note.passive abilities: 166
     indentProperties: false
-  - type: table
+    cardSize: 280
+  - type: cards
     name: Classes and Subclasses
     filters:
       and:
@@ -79,3 +82,4 @@ views:
       formula.subclass I: 118
       formula.subclass II: 140
       formula.subclass III: 178
+    cardSize: 150
