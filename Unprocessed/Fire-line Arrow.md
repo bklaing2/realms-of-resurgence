@@ -3,15 +3,15 @@ type: item
 item type: arrow
 consumable: true
 action: true
-duration: instantaneous
-tinker time: 2.5 hours
+duration: 1 minute
+tinker time: 1 hour
 throwable: true
-range: 30 ft
+range: 20 ft
 element: fire
-damage:
+damage: 3d6
 ---
-This arrow can be shot at something and it trails a thin, but strong cord/cable behind it, allowing the shooter to either climb what it was shot at, or pull that thing or creature towards it with a [[Fortitude]] check. If shot at a creature, that creature takes the normal damage that the bow would do.
+As this arrow is shot, it drops a trail of oil (or something else flammable) behind it in a 20 ft line and then lights the line on fire when the oil has run out, cause a line of flames behind it.
 
-The cord/cable has a length of 30 ft, but that also can change depending on [[Components]] and [[Tinker]] time.
+Any creature that walks through the fire line or starts there turn "in" it makes a [[Finesse]] saving throw, DC 10 + the shooters [[Finesse]] or [[Tinker]] modifier #brainstorm #todo, failures take 3d6 fire damage and successes take half damage.
 
-*There are a ton of ways this could be used and it can be left up to the imagination of the GM and players to find more ways it can be used.* 
+If a creature is hit with the arrow, it takes normal arrow damage and then is one end of the fire line and would be within the fire.
