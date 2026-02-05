@@ -5,7 +5,7 @@ description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
 type: item
 item type: equipment
-equipment type: weapon
+equipment type: "[[Weapons|weapon]]"
 equippable slots:
   - primary hand
   - off hand
@@ -14,7 +14,6 @@ hit ability: intelligence
 damage ability: finesse
 range: 20/60 feet
 damage: 1d4 slashing
-
 tags:
 price:
 weight:

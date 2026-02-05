@@ -5,7 +5,7 @@ description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
 type: item
 item type: equipment
-equipment type: weapon
+equipment type: "[[Weapons|weapon]]"
 equippable slots:
   - primary hand
   - off hand
@@ -19,7 +19,6 @@ price:
 weight:
 size:
 consumable: false
-
 throwable: true
 tier:
 ---

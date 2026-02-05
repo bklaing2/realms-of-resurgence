@@ -17,6 +17,7 @@ views:
       direction: ASC
     order:
       - file.name
+      - throwable
     columnSize:
       file.name: 218
   - type: table
