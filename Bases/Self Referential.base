@@ -51,7 +51,7 @@ views:
       - property: hit points
         direction: ASC
     columnSize:
-      note.hit points: 61
+      note.hit points: 74
       note.passive abilities: 237
   - type: table
     name: Subclasses

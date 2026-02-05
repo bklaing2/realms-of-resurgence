@@ -1,1 +1,1 @@
-advantage if attacked from the air
+advantage if attacking from the air
