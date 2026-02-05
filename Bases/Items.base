@@ -56,4 +56,6 @@ views:
     name: Arrows
     filters:
       and:
-        - file.hasTag("arrow")
+        - note["item type"] == "arrow"
+    order:
+      - file.name
