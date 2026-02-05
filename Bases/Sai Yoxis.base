@@ -234,9 +234,11 @@ views:
       - subtype
       - power/intelligence
       - body size
-    sort: []
+    sort:
+      - property: subtype
+        direction: ASC
     columnSize:
-      file.name: 217
+      file.name: 331
       note.subtype: 132
   - type: table
     name: Sai Yoxis I
