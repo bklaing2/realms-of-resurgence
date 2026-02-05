@@ -12,7 +12,7 @@ Maybe the name something to do with wander? Some potential there?
 | ***[[Fortitude]]*** |                            [[Fighter]]                            |     [[Brawler]]     |                *Support?*                |     [[Mage]]     |
 | :-----------------: | :---------------------------------------------------------------: | :-----------------: | :--------------------------------------: | :--------------: |
 |    [[Athletics]]    |                         ***[[Finesse]]***                         |      [[Scout]]      |               [[Engineer]]               |    [[Druid]]     |
-|  [[Intimidation]]   | [[Subterfuge]]?([[Subterfuge\|Stealth]]/[[Subterfuge\|Deception]] | ***[[Intuition]]*** |                *Support?*                | [[Spiritwalker]] |
+|  [[Intimidation]]   | [[Subterfuge]]?([[Subterfuge\|Stealth]]/[[Subterfuge\|Deception]] | ***[[Intuition]]*** |                *Support?*                | [[Shaman]] |
 |   [[Persuasion]]    |                  [[Tinker]]/[[Tinker\|Medicine]]                  |  [[Investigation]]  |          ***[[Intelligence]]***          |    [[Scribe]]    |
 |  [[Constitution]]   |        [[Legerdemain]]? ([[Legerdemain\|Sleight of Hand]])        |     [[Insight]]     | [[Lore]]? ([[Lore\|Arcana]]/[[History]]) | ***[[Mantic]]*** |
 |                     |                                                                   |                     |                                          |                  |

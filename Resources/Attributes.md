@@ -12,7 +12,7 @@ cssclasses:
 | ***[[Fortitude]]*** |           [[Fighter]]           |     [[Brawler]]     |       *Support?*       |     [[Mage]]     |
 | :-----------------: | :-----------------------------: | :-----------------: | :--------------------: | :--------------: |
 |    [[Athletics]]    |        ***[[Finesse]]***        |      [[Scout]]      |      [[Engineer]]      |    [[Druid]]     |
-|  [[Intimidation]]   |         [[Subterfuge]]          | ***[[Intuition]]*** |       *Support?*       | [[Spiritwalker]] |
+|  [[Intimidation]]   |         [[Subterfuge]]          | ***[[Intuition]]*** |       *Support?*       | [[Shaman]] |
 |   [[Persuasion]]    | [[Tinker]]/[[Tinker\|Medicine]] |  [[Investigation]]  | ***[[Intelligence]]*** |    [[Scribe]]    |
 |  [[Constitution]]   |         [[Legerdemain]]         |     [[Insight]]     |        [[Lore]]        | ***[[Mantic]]*** |
 

@@ -1,5 +1,5 @@
 ---
-type: "[[Spiritwalker]]"
+type: "[[Shaman]]"
 subclass number: "[[Sai Yoxis I|I]]"
 description:
 passive abilities:
