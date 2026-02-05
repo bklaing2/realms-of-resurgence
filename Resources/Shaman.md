@@ -14,5 +14,4 @@ tags:
 ![[Self Referential.base#Subclasses]]
 
 # Brainstorm #brainstorm
-
 Model it after the clockwork soul or the bladesinger
