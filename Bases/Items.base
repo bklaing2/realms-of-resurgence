@@ -18,6 +18,7 @@ views:
     order:
       - file.name
       - throwable
+    sort: []
     columnSize:
       file.name: 218
   - type: table
