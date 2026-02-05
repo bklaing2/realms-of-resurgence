@@ -1,15 +1,15 @@
 ---
-name:
+name: Awakened Viscera
 type: creature
 subtype: horror
 parent: "[[Creatures]]"
-ac: 15
-hp: 12
-speed: "45"
-to hit: "6"
+ac: 10
+hp: 20
+speed: "25"
+to hit: "5"
 mantic score: 3
 power/intelligence: low/low
-body size: medium
+body size: any
 ---
 [[The Wastes]]
 **AC**: 10
