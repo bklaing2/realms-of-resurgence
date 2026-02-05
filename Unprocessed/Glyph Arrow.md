@@ -9,6 +9,7 @@ throwable: true
 range: 100 ft
 element:
 damage:
+radius: 2.5 ft
 ---
 Similar to the [[Glyph Ring]], but in arrow form.
 

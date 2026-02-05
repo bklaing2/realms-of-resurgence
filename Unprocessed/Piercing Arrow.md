@@ -9,6 +9,7 @@ throwable: false
 range: 160/500 ft
 element:
 damage:
+radius: 2.5 ft
 ---
 This arrow travels as a line and damages every creature along that line for 20 ft after the arrow hits (and travels through) the first creature in the line.
 

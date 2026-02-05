@@ -61,5 +61,7 @@ views:
       - file.name
       - damage
       - element
+      - range
+      - radius
       - duration
       - tinker time

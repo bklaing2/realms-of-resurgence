@@ -9,6 +9,7 @@ throwable: true
 range: 30 ft
 element:
 damage:
+radius: 2.5 ft
 ---
 This arrow can be shot at something and it trails a thin, but strong cord/cable behind it, allowing the shooter to either climb what it was shot at, or pull that thing or creature towards it with a [[Fortitude]] check. If shot at a creature, that creature takes the normal damage that the bow would do.
 

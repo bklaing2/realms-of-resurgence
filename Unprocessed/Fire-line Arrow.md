@@ -9,6 +9,7 @@ throwable: true
 range: 20 ft
 element: fire
 damage: 3d6
+radius: 2.5 ft
 ---
 As this arrow is shot, it drops a trail of oil (or something else flammable) behind it in a 20 ft line and then lights the line on fire when the oil has run out, cause a line of flames behind it.
 
