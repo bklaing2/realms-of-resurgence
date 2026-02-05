@@ -210,6 +210,9 @@ views:
     filters:
       and:
         - type == "item"
+    groupBy:
+      property: equipment type
+      direction: ASC
     order:
       - file.name
       - item type
