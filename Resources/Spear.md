@@ -5,7 +5,7 @@ description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
 type: item
 item type: equipment
-equipment type: "[[Weapons|weapon]]"
+equipment type: weapon
 equippable slots:
   - primary hand
   - off hand
@@ -20,6 +20,7 @@ weight:
 size:
 consumable: false
 tier:
+throwable: true
 ---
 # Description #todo
 

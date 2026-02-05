@@ -5,7 +5,7 @@ description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
 type: item
 item type: equipment
-equipment type: "[[Weapons|weapon]]"
+equipment type: weapon
 equippable slots:
   - primary hand
 weapon type: wand

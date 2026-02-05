@@ -5,11 +5,11 @@ description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
 type: item
 item type: equipment
-equipment type: "[[Weapons|weapon]]"
+equipment type: weapon
 equippable slots:
   - primary hand
   - off hand
-weapon type:
+weapon type: bow
 hit ability: intuition
 damage ability: fortitude
 range: 160/500 ft
