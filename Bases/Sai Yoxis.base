@@ -282,3 +282,6 @@ views:
       - type
       - order
     sort: []
+    columnSize:
+      file.name: 269
+      note.type: 172
