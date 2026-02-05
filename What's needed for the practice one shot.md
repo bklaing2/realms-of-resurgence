@@ -48,7 +48,6 @@
 	- [x] potions
 	- [ ] arrows, at least some tier 1 arrows
 	- [ ] rune components
-
 # First step
 
 - Do a little complete improv mini adventure with the two of us following the above outline
@@ -56,7 +55,6 @@
   - Pause
   - Address it
   - Continue where we left off
-
 # Log
 ## 07-01-2026: practice mini adventure - level 2
 
@@ -68,7 +66,6 @@
 		- [[Scout]]
 		- [[Fighter]]
 		- [[Mage]]
-
 - Did a short combat against a group of [[Whispering Angels Cultist]]
 	- They attacked the [[Standing]] of the village as they were trying to protect against Horrors attacking the village
 	- The group of players attacked the cultists to protect their friend in the Standing
@@ -76,14 +73,12 @@
 	- The mage was almost felled in one hit
 - After the combat, a few [[The Gathering Bright|Gathering Bright]] told the group to follow them
 	- We will level up to to level one next time
-
 ## 15-01-2026: Finalizing character sheet, weapons, and starting practice mini adventure - level 1
 
 - The party was summoned to the Gathering Bright.
 - They have been tasked with finding a Whispering Angels outpost, about three days trek in the [[The Wastes|Wastes]]
 - They have been given 10 days of rations and 3 torches each, 2 potions of health, maps of the region where they're going, other general info of the wastes
 - They exited through the gates, and are officially in the Wastes for the first time in their lives
-
 ## 19-01-2026: continuing practice mini adventure - level 1
 
 - Fought wolves
@@ -96,7 +91,6 @@
 - It killed the scout. Scribe and Mage are unconscious
 - We will start from rolling initiative again
 - And need to roll on the Waste Table in [[The Wastes]]
-
 ## 22-01-2026: James working in school
 
 - added [[Warhammer]]
@@ -104,7 +98,6 @@
 - added some properties to some things in [[Items.base]]
 - added an actual waste table to [[The Wastes|Wastes]] (**PLEASE READ** numbers 9 and 11 and let me know if you like them and if they fit in the table)
 - added [[Wastewalker]]
-
 ## 23-01-2026: James in Starbucks and at home
 
 - [[Mantic Wand]]
