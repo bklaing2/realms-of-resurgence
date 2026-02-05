@@ -4,7 +4,7 @@ item type: arrow
 consumable: true
 action: true
 duration: instantaneous
-tinker time: 3 hours
+tinker time: 1.5 hours
 throwable: false
 range: 160/500 ft
 element:
