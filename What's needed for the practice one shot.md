@@ -47,7 +47,7 @@
 - [ ] consumables
 	- [x] potions
 	- [ ] arrows, at least some tier 1 arrows
-	- [ ] rune components
+	- [ ] components
 # First step
 
 - Do a little complete improv mini adventure with the two of us following the above outline
