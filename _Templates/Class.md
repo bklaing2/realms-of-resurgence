@@ -10,6 +10,5 @@ abilities:
 tags:
   - needs/name
 ---
-<%* await tp.file.rename(name) -%>
 ![[Self Referential.base#Class]]
 ![[Self Referential.base#Subclasses]]

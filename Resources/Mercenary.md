@@ -1,6 +1,5 @@
 ---
-type: "[[Class]]"
-subclass of: "[[Fighter]]"
+type: "[[Fighter]]"
 subclass number: "[[Sai Yoxis IV|IV]]"
 description:
 passive abilities:

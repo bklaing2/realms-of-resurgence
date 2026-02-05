@@ -1,6 +1,5 @@
 ---
-type: "[[Class]]"
-subclass of: "[[Scribe]]"
+type: "[[Scribe]]"
 subclass number: "[[Sai Yoxis II|II]]"
 description:
 passive abilities:

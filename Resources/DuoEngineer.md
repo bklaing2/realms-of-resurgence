@@ -1,6 +1,5 @@
 ---
-type: "[[Class]]"
-subclass of: "[[Engineer]]"
+type: "[[Engineer]]"
 subclass number: "[[Sai Yoxis II|II]]"
 description:
 passive abilities:

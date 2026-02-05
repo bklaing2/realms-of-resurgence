@@ -1,8 +1,3 @@
-filters:
-  or:
-    - file.hasLink(this.file)
-    - this.file.hasLink(file)
-    - file == this.file
 formulas:
   subclasses: |
     file.backlinks
@@ -14,16 +9,35 @@ formulas:
   subclass II: formula.subclasses[1]
   subclass III: formula.subclasses[2]
   subclass IV: formula.subclasses[3]
-  class: class.asFile().properties
-  temp: link("[[Class]]")
-  base class: this.file.properties["subclass of"]
-  class number: if(note["subclass of"].isEmpty(), "", note["subclass number"])
+  base class: this.file.properties.type
+  subclass number: if(type == link("Class"), "0", note["subclass number"])
 properties:
   formula.subclasses:
     displayName: subclasses
   note.passive abilities:
     displayName: passives
+  note.type:
+    displayName: type
 views:
+  - type: cards
+    name: Ancestry
+    filters:
+      and:
+        - file == this.file
+    order:
+      - file.name
+      - passive abilities
+      - roleplay ability
+      - exploration ability
+      - combat ability
+    sort:
+      - property: hit points
+        direction: ASC
+    columnSize:
+      note.hit points: 61
+      note.passive abilities: 237
+    indentProperties: true
+    cardSize: 800
   - type: table
     name: Class
     filters:
@@ -42,11 +56,10 @@ views:
   - type: table
     name: Subclasses
     filters:
-      and:
-        - type == link("Class")
-        - '!note["subclass of"].isEmpty()'
+      or:
+        - type == this.file
     groupBy:
-      property: subclass of
+      property: type
       direction: ASC
     order:
       - file.name
@@ -63,22 +76,20 @@ views:
     name: Subclass
     filters:
       or:
-        - file == this.file
-        - file == this.file.properties["subclass of"]
+        - this.file == file
+        - this.file.properties.type == file
     groupBy:
       property: formula.base class
       direction: ASC
     order:
-      - formula.class number
+      - file.name
       - passive abilities
       - abilities
     sort:
-      - property: formula.class number
-        direction: ASC
-      - property: formula.type
+      - property: formula.subclass number
         direction: ASC
     summaries:
       formula.class link: Empty
     columnSize:
-      formula.type: 75
-      note.passive abilities: 139
+      file.name: 142
+      note.passive abilities: 167

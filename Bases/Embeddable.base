@@ -1,7 +1,7 @@
 formulas:
   subclasses: |
     file.backlinks
-    .filter(file(value).properties["subclass of"] == file)
+    .filter(file(value).properties.type == file)
     .map(file(value).properties["subclass number"] + ":" + value)
     .sort()
     .map(link(value.split(":")[1]))
@@ -14,27 +14,28 @@ properties:
     displayName: subclasses
   note.passive abilities:
     displayName: passives
+  note.type:
+    displayName: class
 views:
   - type: table
     name: Ancestries
     filters:
       and:
-        - type == link("Class", "class")
-        - note["subclass of"].isEmpty()
+        - note["creature type"] == link("Ancestry")
     order:
       - file.name
-      - hit points
       - passive abilities
-      - abilities
+      - roleplay ability
+      - exploration ability
+      - combat ability
+    sort: []
     columnSize:
       file.name: 82
-      note.hit points: 43
   - type: table
     name: Classes
     filters:
       and:
         - type == link("Class")
-        - note["subclass of"].isEmpty()
     order:
       - file.name
       - hit points
@@ -47,10 +48,9 @@ views:
     name: Subclasses
     filters:
       and:
-        - type == link("Class")
-        - '!note["subclass of"].isEmpty()'
+        - link("Class") == link(type).asFile().properties.type
     groupBy:
-      property: subclass of
+      property: type
       direction: ASC
     order:
       - file.name
@@ -68,7 +68,6 @@ views:
     filters:
       and:
         - type == link("Class")
-        - note["subclass of"].isEmpty()
     order:
       - file.name
       - formula.subclass I
@@ -77,3 +76,6 @@ views:
       - formula.subclass IV
     columnSize:
       file.name: 117
+      formula.subclass I: 118
+      formula.subclass II: 140
+      formula.subclass III: 178

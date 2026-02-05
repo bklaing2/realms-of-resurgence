@@ -1,6 +1,5 @@
 ---
-type: "[[Class]]"
-subclass of: "[[Druid]]"
+type: "[[Druid]]"
 subclass number: "[[Sai Yoxis II|II]]"
 description:
 passive abilities:
