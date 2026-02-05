@@ -10,7 +10,7 @@ body size: large
 **Speed**: 35 ft  
 **[[Fortitude]]**: +5  
 **[[Finesse]]:** +9
-**Mantic**: +10  
+**[[Mantic]]**: +10  
 **[[Intelligence]]:** +8
 **[[Intuition]]:** +10
 **Perception**: +7

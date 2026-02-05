@@ -9,7 +9,7 @@ body size: tiny
 **HP**: 10 
 **Speed**: 45 ft
 **[[Finesse]]**: +4  
-**Mantic**: +2  
+**[[Mantic]]**: +2  
 **Perception**: +2
 
 **Passives**:  

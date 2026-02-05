@@ -19,9 +19,9 @@ body size: any
 **[[Finesse]]**: +1
 **[[Intelligence]]**: +1
 **[[Intuition]]**: +3
-**Mantic**: +3
+**[[Mantic]]**: +3
 **Perception**: +4
-**Stealth**: +4
+**[[Subterfuge|Stealth]]**: +4
 
 **Actions**
 **Multiattack** (2) the slime can make two slam attacks per turn.

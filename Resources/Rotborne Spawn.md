@@ -9,7 +9,7 @@ body size: small
 **HP**: 8  
 **Speed**: 35 ft  (flying)
 **[[Finesse]]**: +3  
-**Mantic**: +1
+**[[Mantic]]**: +1
 
 **Passives**:  
 **Battlefield Soldier:** If within 60 ft of a Rotborne Overseer, deals an extra 1d4 damage on every attack.

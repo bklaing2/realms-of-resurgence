@@ -18,7 +18,7 @@ body size: medium
 **HP**: 9  
 **Speed**: 35 ft  
 **[[Finesse]]**: +5
-**Mantic**: +4
+**[[Mantic]]**: +4
 **Perception**: +2
 
 **Passives**:  

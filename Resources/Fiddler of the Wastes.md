@@ -12,9 +12,9 @@ body size: large
 **[[Finesse]]**: +7
 **[[Intelligence]]**: +6
 **[[Intuition]]**: +4
-**Mantic**: +6
+**[[Mantic]]**: +6
 **Perception**: +6
-**Stealth**: +7
+**[[Subterfuge]]**: +7
 
 **Actions**
 **Multiattack** (3) A Fiddler can make two bow rapier attacks (or bow-bow attacks or one of each) and play their fiddle per turn.

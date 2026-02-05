@@ -10,7 +10,7 @@ body size: gargantuan
 **Speed**: 45 ft  
 **[[Fortitude]]**: +8  
 **[[Finesse]]:** +6
-**Mantic**: +12  
+**[[Mantic]]**: +12  
 **[[Intelligence]]:** +10
 **[[Intuition]]:** +8
 **Perception**: +8

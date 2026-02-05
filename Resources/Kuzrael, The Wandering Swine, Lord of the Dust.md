@@ -10,7 +10,7 @@ body size: colossal
 **Speed**: 25 ft  
 **[[Fortitude]]**: +10  
 **[[Finesse]]:** +4
-**Mantic**: +10  
+**[[Mantic]]**: +10  
 **[[Intelligence]]:** +9
 **[[Intuition]]:** +7
 **Perception**: +4

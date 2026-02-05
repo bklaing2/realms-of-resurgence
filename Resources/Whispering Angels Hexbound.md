@@ -10,7 +10,7 @@ body size: medium
 **Speed**: 30 ft  
 **[[Fortitude]]:** -1
 **[[Finesse]]**: +2  
-**Mantic**: +4  
+**[[Mantic]]**: +4  
 **Perception**: +2
 
 **Passives**:  
