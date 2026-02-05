@@ -15,6 +15,6 @@ tags:
 
 When casting spells while in the Wastes the [[The Wastes#Furomantical Radiation|Furomantical Radiation]] acts as a spellcasting focus, allowing spells to be cast without their required components. However, make a Radiation Roll whenever casting a spell.
 
-On a [[The Wastes#D20 = Radiation Die (Success due to Radiation)|Radical Success]], gain back an expended spell slot.
+On a [[The Wastes#D20 = Radiation Die (Success due to Radiation)|Radical Success]], gain back an expended mantic charge.
 
 If a [[The Wastes#D20 < Radiation Die (Fail due to Radiation)|Radical Failure]] causes the spell to fail, the outcome will go haywire according to the spell's description.
