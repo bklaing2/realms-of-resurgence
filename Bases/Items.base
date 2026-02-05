@@ -52,3 +52,8 @@ views:
     sort: []
     columnSize:
       file.name: 265
+  - type: table
+    name: Arrows
+    filters:
+      and:
+        - file.hasTag("arrow")
