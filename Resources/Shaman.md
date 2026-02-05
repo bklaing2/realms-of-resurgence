@@ -3,10 +3,10 @@ type: "[[Class]]"
 description:
 hit points: d4
 passive abilities:
-  - "[[Spiritwalker - Passive 1]]"
+  - "[[Shaman - Passive 1]]"
 abilities:
-  - "[[Spiritwalker - Ability 1]]"
-  - "[[Spiritwalker - Ability 2]]"
+  - "[[Shaman - Ability 1]]"
+  - "[[Shaman - Ability 2]]"
 tags:
   - needs/name
 ---
