@@ -34,6 +34,6 @@ body size: medium
 *recharges on a 4-6*
 the slime can jump forwards up to 15 ft and engulf a creature that is at least one size smaller than it
 creatures within are restrained and cannot breathe and take 1d4 + 3 manic damage at the start of each of their turns. the slime can hold up to 3 creatures at one time, if a 4th were to be engulfed, roll a die to decide who gets forced out.
-# Proximity radiation fail
+# Proximity Radiation Fail
 when a PC rolls a radiation fail within 15 ft of a slime, it immediately gets a +10 to its HP and then divides in two (splitting its HP between the two slimes) these two slimes being smaller than the original and now only being able to hold 2 creatures at one time from engulf.
 slimes can continue to split until they can no longer hold even one creature (so twice more for this example, though a larger and more dangerous slime could split more times)
