@@ -42,7 +42,7 @@
 
 - [x] Character sheet
 	- [ ] Officially printed sheet
-	- [ ] cheat sheet for players
+	- [ ] [[Cheat Sheet]] for players
 	- [ ] "level up at a glance" table (at least through level 5 or so) for the classes we'll be playing
 
 - [x] consumables
@@ -206,3 +206,8 @@ Look how cool this is
 - 15 [[Arrows]] in [[Items.base]] view
 - 25 [[Components]] and where they come from for us to start working with
 	- along with rarities in [[Items.base]] -> [[Components]] view
+
+**06-02-2026**
+- [[Waste Environments]]
+- More [[Components]]
+- 

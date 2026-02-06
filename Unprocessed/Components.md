@@ -30,3 +30,6 @@ Rarity is on a scale of 1-5, 1 being incredibly rare or hard to retrieve and 5 b
 - **Stone Ivy** - ivy that only grows on old, worked stone.
 - **Horn Shards** - shards of the horn from a ENTER HORNED HORROR HERE #todo 
 - **Night Stone** - a stone taken from [[The Wastes]] during the middle of the night.
+- **Bloodmarsh Vial** - a vial of dark red liquid from a Blood Marsh.
+- **Willowflame Essence** - the soul of a Willowflame found within a Willowflame Tundra in [[The Wastes]].
+- 
