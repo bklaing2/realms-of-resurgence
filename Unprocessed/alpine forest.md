@@ -1,6 +1,6 @@
 ---
 type: environment
-subtype: named
+subtype: unnamed
 commonality: "2"
 danger: "1"
 size: "4"

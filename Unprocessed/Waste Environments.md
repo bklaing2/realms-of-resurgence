@@ -7,7 +7,7 @@ Environments are broken down into Named and unnamed subtypes - Named are going t
 - rocky plains
 - swamp
 - Bone Swamp
-- Wasted Forest
+- Gloomweald
 - Ash Beach
 - coastline
 - cliffside
