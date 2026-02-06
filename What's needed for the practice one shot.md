@@ -46,7 +46,7 @@
 
 - [ ] consumables
 	- [x] potions
-	- [ ] arrows, at least some tier 1 arrows
+	- [x] arrows
 	- [ ] components
 # First step
 
@@ -202,5 +202,5 @@ Look how cool this is
 	- Radical failing adds another level of storytelling. Like when the [[Scout]] was outside the window and failed the [[Insight]] roll, that led to the [[Whispering Angels]] starting their ritual
 
 **05-02-2026**
-- [[Arrows]] in [[Items.base]] 
+- 15 [[Arrows]] in [[Items.base]] 
 - 
