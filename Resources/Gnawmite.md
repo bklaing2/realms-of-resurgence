@@ -4,7 +4,7 @@ subtype: horror
 power/intelligence: low/low
 body size: tiny
 ---
-[[The Wastes]]
+[[The Wastes]], [[Components]]
 **AC**: 14  
 **HP**: 10 
 **Speed**: 45 ft

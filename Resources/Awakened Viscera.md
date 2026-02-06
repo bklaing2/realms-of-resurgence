@@ -11,7 +11,7 @@ mantic score: 3
 power/intelligence: low/low
 body size: any
 ---
-[[The Wastes]]
+[[The Wastes]], [[Components]]
 **AC**: 10
 **HP**: 20
 **Speed**: 25 ft

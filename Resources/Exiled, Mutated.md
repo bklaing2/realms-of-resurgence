@@ -4,7 +4,7 @@ subtype: horror
 power/intelligence: low/low
 body size: medium
 ---
-[[The Wastes|Wastes]], previously an [[Exiled]]
+[[The Wastes|Wastes]], previously an [[Exiled]] from a [[Settlement]], [[Components]]
 **AC**: 10  
 **HP**: 22 (or whatever was left +14)
 **Speed**: 35 ft  
