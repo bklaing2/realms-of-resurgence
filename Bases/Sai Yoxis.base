@@ -303,3 +303,6 @@ views:
       - commonality
       - danger
       - size
+    sort:
+      - property: commonality
+        direction: ASC
