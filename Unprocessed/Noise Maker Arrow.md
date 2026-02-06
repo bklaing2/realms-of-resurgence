@@ -11,6 +11,7 @@ radius:
 element:
 damage:
 ---
+[[Arrows]]
 When this arrow lands or hits something, it lets out a loud sound meant to distract, bait, and/or anything else it can be used for.
 
 The weight of the [[Components]] used to create this arrow cause it to have a reduced range.

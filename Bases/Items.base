@@ -65,3 +65,8 @@ views:
       - radius
       - duration
       - tinker time
+  - type: table
+    name: Components
+    filters:
+      and:
+        - note["item type"] == "component"

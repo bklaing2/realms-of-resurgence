@@ -11,6 +11,7 @@ element:
 damage:
 radius: 2.5 ft
 ---
+[[Arrows]]
 Similar to the [[Glyph Ring]], but in arrow form.
 
 Must be made with the help of a [[Scribe]].

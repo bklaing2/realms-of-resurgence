@@ -11,6 +11,7 @@ element:
 damage:
 radius: 2.5 ft
 ---
+[[Arrows]]
 This arrow travels as a line and damages every creature along that line for 20 ft after the arrow hits (and travels through) the first creature in the line.
 
 The first creature struck takes the normal damage from whatever bow shot the arrow, plus 1d6 damage. That 1d6 is then done to each creature in the line for 20 ft.
