@@ -31,4 +31,4 @@ Environments are broken down into Named and unnamed subtypes - Named are going t
 - islands
 - crypt
 - Coast of Exiles - cliffside coastline with cages full of (mostly) dead [[Exiled]] and [[Exiled, Mutated]], put there as punishment or as an offering?
-- 
+- Bubbling Swamp
