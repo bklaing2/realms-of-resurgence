@@ -7,7 +7,7 @@
     "components": "multitext",
     "price": "number",
     "weight": "number",
-    "size": "number",
+    "size": "text",
     "consumable": "checkbox",
     "armor class": "number",
     "damage mitigation": "number",

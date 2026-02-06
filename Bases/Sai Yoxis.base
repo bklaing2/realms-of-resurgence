@@ -290,3 +290,8 @@ views:
     columnSize:
       file.name: 269
       note.type: 172
+  - type: table
+    name: Waste Environments
+    filters:
+      and:
+        - type == "environment"

@@ -1,4 +1,5 @@
 This is a list of Environments that can be found in [[The Wastes]] and a small description of each.
+Environments are broken down into Named and unnamed subtypes - Named are going to be harder to find and normally be full of dangers and other interesting things (rated on a 1-12 with 1 being common and 12 being extremely rare, danger being rated on a scale of 1-5 with 1 being normal Waste danger and 5 being extreme danger, and size being rated on a scale of 1-5, with 1 being very small (less than a mile) and 5 being large (sometimes close to 100 miles or more).
 
 - rolling hills
 - alpine forest
@@ -29,4 +30,5 @@ This is a list of Environments that can be found in [[The Wastes]] and a small d
 - lost cities
 - islands
 - crypt
+- Coast of Exiles - cliffside coastline with cages full of (mostly) dead [[Exiled]] and [[Exiled, Mutated]], put there as punishment or as an offering?
 - 
