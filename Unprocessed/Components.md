@@ -20,4 +20,5 @@ These components can be found throughout [[The Wastes]] and within some [[Settle
 - **Sootglass Shard** - a shard of glass made from soot rather than sand, the glass has a smoky-dark color to it and can be found in [[Settlement]]s.
 - **Draaken Scales** - scales left over by the ancient Draaken, all have slight mantic power within them on their own and can be found around the world.
 - **Frostgem Flecks** - small pieces of frostgem (an ice-blue crystal that "grow" from the floor of ice cold caverns).
-- **Sigil-Carved Iron Spikes** - 
+- **Rune-Carved Iron Spikes** - cold iron spikes that have runes and glyphs carved into them
+- 
