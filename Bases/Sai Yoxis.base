@@ -295,3 +295,11 @@ views:
     filters:
       and:
         - type == "environment"
+    groupBy:
+      property: subtype
+      direction: DESC
+    order:
+      - file.name
+      - commonality
+      - danger
+      - size
