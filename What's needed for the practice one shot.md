@@ -30,8 +30,8 @@
 
 - [ ] Flesh out the wastes a bit more
   - [x] Get a good wastes table
-  - [ ] locations
-  - [ ] environments
+  - [x] locations
+  - [x] environments
   - [ ] lore
   - [ ] realms of [[Lords of the Wastes]] and how they differ
 	  - [ ] realm mechanics and "actions"
