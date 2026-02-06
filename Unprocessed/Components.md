@@ -23,4 +23,8 @@ These components can be found throughout [[The Wastes]] and within some [[Settle
 - **Rune-Carved Iron Spikes** - cold iron spikes that have runes and glyphs carved into them
 - **Obsidian Salt** - salt made of shavings of obsidian.
 - **Water of the Deep** - a vial of water from the deepest part of a river.
-- 
+- **Starise-Bloom Petal** - a petal from the Starise-Bloom flower that only blooms in places closest to the star (mountains and such) for the first hour of a day.
+- **Storm-soaked Soil** - a vial of soil collected during a storm.
+- **Stone Ivy** - only grows on old, worked stone.
+- **Horn Shards** - shards of the horn from a ENTER HORNED HORROR HERE #todo 
+- **Night Stone** - a stone taken from [[The Wastes]] during the middle of the night.

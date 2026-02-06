@@ -203,4 +203,4 @@ Look how cool this is
 
 **05-02-2026**
 - 15 [[Arrows]] in [[Items.base]] 
-- 
+- 25 [[Components]] and where they come from for us to start working with
