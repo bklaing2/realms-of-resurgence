@@ -18,3 +18,7 @@ I'm picturing these guys to be like swashbucklers with cutlasses, think puss-n-b
 
 
 bonus to [[Subterfuge|stealth]] and agility checks #brainstorm #james-check
+
+![[IMG_0969.jpg]]
+![[IMG_0970.jpg]]
+![[IMG_0971.jpg]]
