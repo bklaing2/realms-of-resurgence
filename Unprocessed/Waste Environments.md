@@ -21,7 +21,7 @@ Environments are broken down into Named and unnamed subtypes - Named are going t
 - [[crash site]]
 - [[Obelisk]]
 - [[Plaguelands]]
-- Rotfields - home of the [[Rotborne Overseer]], [[Rotborne Feral]], and [[Rotborne Spawn]]
+- [[Rotfields]] - home of the [[Rotborne Overseer]], [[Rotborne Feral]], and [[Rotborne Spawn]]
 - Hissing Sea
 - caverns
 - Root Woods
