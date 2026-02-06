@@ -23,7 +23,7 @@ Rarity is on a scale of 1-5, 1 being incredibly rare or hard to retrieve and 5 b
 - [[Draaken Scales]] - scales left over by the ancient Draaken, all have slight mantic power within them on their own and can be found around the world.
 - [[Frostgem Flecks]] - small pieces of frostgem (an ice-blue crystal that "grow" from the floor of ice cold caverns).
 - [[Rune-Carved Iron Spikes]] - cold iron spikes that have runes and glyphs carved into them.
-- [[Obsidian Salt]] - salt made of shavings of obsidian.
+- [[Obsidian Salt]] - salt made of shavings of obsidian, common in an [[Obsidian Desert]], but rare elsewhere.
 - [[Water of the Deep]] - a vial of water from the deepest part of a river.
 - [[Starise-Bloom Petal]] - a petal from the Starise-Bloom flower that only blooms in places closest to the star (mountains and such) for the first hour of a day.
 - [[Storm-soaked Soil]] - a vial of soil collected during a storm.
