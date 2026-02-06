@@ -5,6 +5,7 @@ commonality: "3"
 danger: "2"
 size: "3"
 ---
-Beaches found along parts of the coast where what should be sand is actually tons and tons of ash and fine [[Sootglass Shard]]s. The waves constantly, but slowly, wash against the shore.
+[[Waste Environments]]
+Beaches found along parts of the coast with some sand, but mostly stone and rock. The waves constantly, but slowly, wash against the shore. Strange spire-like stone columns found up and down the coastline.
 
 ![[IMG_0981 1.jpg]]
