@@ -23,10 +23,10 @@ Environments are broken down into Named and unnamed subtypes - Named are going t
 - [[Plaguelands]]
 - [[Rotfields]] - home of the [[Rotborne Overseer]], [[Rotborne Feral]], and [[Rotborne Spawn]]
 - [[Hissing Sea]]
-- caverns
-- Root Woods
-- estuaries
-- Shadowgale
+- [[caverns]]
+- [[Root Woods]]
+- [[estuaries]]
+- [[Shadowgale]]
 - lost cities
 - islands
 - crypt
