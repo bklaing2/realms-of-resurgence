@@ -16,4 +16,8 @@ These components can be found throughout [[The Wastes]] and within some [[Settle
 - **Barkspawn Head** - the head of either a [[Barkspawn Runner]], [[Barkspawn Sleeper]], or [[Barkspawn Tyrant]], with varying levels of power from each; respectively.
 - **Wastewalker Essence** - a vial of mantic essence from a [[Wastewalker]].
 - **Gnawmite Stinger** - the stinger from a [[Gnawmite]].
-- 
+- **Wolf Tooth** - canine tooth from a [[Warped Wolf]].
+- **Sootglass Shard** - a shard of glass made from soot rather than sand, the glass has a smoky-dark color to it and can be found in [[Settlement]]s.
+- **Draaken Scales** - scales left over by the ancient Draaken, all have slight mantic power within them on their own and can be found around the world.
+- **Frostgem Flecks** - small pieces of frostgem (an ice-blue crystal that "grow" from the floor of ice cold caverns).
+- **Sigil-Carved Iron Spikes** - 
