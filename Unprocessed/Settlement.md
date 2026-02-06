@@ -1,3 +1,5 @@
 Small villages to medium sized "cities" where the non-horrors live. Scattered through the [[The Wastes|Wastes]] and ruled by [[The Gathering Bright]]. Protected by The [[Standing]] and connected by The [[Blood of the Wastes|Blood of the Wastes]] and The [[Mysts]].
 
 Built on top of burial sites of dead Lords of the Waste, ancient fallen deities, and other powerful artifacts, the power of these things is enough to keep out most horrors of the [[The Wastes|Wastes]]. Only powerful and highly intelligent will risk attacking a Settlement, normally in order to take the power buried beneath it for themselves, or weaker horrors may attack if they are desperate, called, or sent. (Sometimes the [[Whispering Angels]] may call horrors to a Settlement for their own schemes).
+(Below is an example of a very large settlement, same vibe and look, but normally much smaller)
+![[IMG_0993.jpg]]
