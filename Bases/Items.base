@@ -70,3 +70,8 @@ views:
     filters:
       and:
         - note["item type"] == "component"
+    groupBy:
+      property: rarity
+      direction: DESC
+    order:
+      - file.name
