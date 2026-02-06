@@ -21,4 +21,5 @@ These components can be found throughout [[The Wastes]] and within some [[Settle
 - **Draaken Scales** - scales left over by the ancient Draaken, all have slight mantic power within them on their own and can be found around the world.
 - **Frostgem Flecks** - small pieces of frostgem (an ice-blue crystal that "grow" from the floor of ice cold caverns).
 - **Rune-Carved Iron Spikes** - cold iron spikes that have runes and glyphs carved into them
+- **Obsidian Salt** - salt made of shavings of obsidian.
 - 
