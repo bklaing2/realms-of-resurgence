@@ -17,4 +17,16 @@ This is a list of Environments that can be found in [[The Wastes]] and a small d
 - desert
 - tundra
 - Willowflame Tundra
+- crash site
+- Obelisk
+- Plaguelands
+- Rotfields - home of the [[Rotborne Overseer]], [[Rotborne Feral]], and [[Rotborne Spawn]]
+- Hissing Sea
+- caverns
+- Root Woods
+- estuaries
+- Shadowgale
+- lost cities
+- islands
+- crypt
 - 
