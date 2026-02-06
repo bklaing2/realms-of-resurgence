@@ -44,10 +44,10 @@
 	- [ ] cheat sheet for players
 	- [ ] "level up at a glance" table (at least through level 5 or so) for the classes we'll be playing
 
-- [ ] consumables
+- [x] consumables
 	- [x] potions
 	- [x] arrows
-	- [ ] components
+	- [x] components
 # First step
 
 - Do a little complete improv mini adventure with the two of us following the above outline
@@ -202,5 +202,6 @@ Look how cool this is
 	- Radical failing adds another level of storytelling. Like when the [[Scout]] was outside the window and failed the [[Insight]] roll, that led to the [[Whispering Angels]] starting their ritual
 
 **05-02-2026**
-- 15 [[Arrows]] in [[Items.base]] 
+- 15 [[Arrows]] in [[Items.base]] view
 - 25 [[Components]] and where they come from for us to start working with
+	- along with rarities in [[Items.base]] -> [[Components]] view
