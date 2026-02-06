@@ -211,4 +211,4 @@ Look how cool this is
 - [[Waste Environments]]
 - More [[Components]]
 - [[Waste Environments]] view in [[Sai Yoxis.base]] sorted by named, unnamed, commonality, danger, and size
-- 
+- now with photos!
