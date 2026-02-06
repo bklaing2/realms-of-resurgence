@@ -22,7 +22,7 @@ Environments are broken down into Named and unnamed subtypes - Named are going t
 - [[Obelisk]]
 - [[Plaguelands]]
 - [[Rotfields]] - home of the [[Rotborne Overseer]], [[Rotborne Feral]], and [[Rotborne Spawn]]
-- Hissing Sea
+- [[Hissing Sea]]
 - caverns
 - Root Woods
 - estuaries
