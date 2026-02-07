@@ -2,7 +2,7 @@
 name: <%* const equipment = await tp.user.property(tp).equipment() %><% equipment.name %>
 aliases:
 description:
-parent: "[[Maps of Content/Equipment|Equipment]]"
+parent: "[[Resources/Equipment|Equipment]]"
 type: item
 item type: equipment
 equipment type: <% equipment.type %>

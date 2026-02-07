@@ -3,11 +3,11 @@ name: Handaxe
 aliases:
 description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
-type: item
-item type: equipment
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: weapon
 equippable slots:
-  - primary hand
+  - "[[Primary Hand]]"
 weapon type: wand
 hit ability: intuition
 damage ability: mantic

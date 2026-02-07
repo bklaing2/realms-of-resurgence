@@ -1,10 +1,8 @@
 ---
-name: Items
 aliases:
-parent: "[[Sai Yoxis]]"
-type: moc
-tags:
-  - todo
+  - Items
+  - item
+  - items
 ---
 Each item will have three attributes: Price, Weight, and Size.
 
@@ -12,4 +10,4 @@ Things like backpacks will only have a certain amount of space, meaning they can
 
 A player can only carry a backpack (+ the armor they're wearing yada yada) according to their Fortidude attribute.
 
-![[Items.base|no-toolbar]]
+![[Embeddable.base#Items|no-toolbar]]

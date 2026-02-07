@@ -1,6 +1,6 @@
 ---
-type: item
-item type: equipment
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: tool
 consumable: true
 ---

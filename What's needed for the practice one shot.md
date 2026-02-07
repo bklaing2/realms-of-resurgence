@@ -136,7 +136,7 @@
 
 - We will roleplay the long rest
 - Level up to level two
-- added [[Potions]] and [[Unstable Mixture of Chaos]] and others to the [[Items.base]]
+- added [[Resources/Potion]] and [[Unstable Mixture of Chaos]] and others to the [[Items.base]]
 
 - Found 2 [[Armor Repair Kit]] and some weapons. 2 [[Potion of Healing, Regular]], 1 vial of bubbling, fizzing, clear liquid. 1 amulet.
 - Crossed the river
@@ -175,7 +175,7 @@
 - [[Bandit Scribe]] and [[Bandit Bruiser]]
 - [[Gnawmite]]
 - [[Vael'ok, The Prime Verdant, Lord of the Barkspawn]]
-- [[Components]]
+- [[Component]]
 
 **30-01-2026**
 **James**
@@ -203,12 +203,12 @@ Look how cool this is
 	- Radical failing adds another level of storytelling. Like when the [[Scout]] was outside the window and failed the [[Insight]] roll, that led to the [[Whispering Angels]] starting their ritual
 
 **05-02-2026**
-- 15 [[Arrows]] in [[Items.base]] view
-- 25 [[Components]] and where they come from for us to start working with
-	- along with rarities in [[Items.base]] -> [[Components]] view
+- 15 [[Arrow]] in [[Items.base]] view
+- 25 [[Component]] and where they come from for us to start working with
+	- along with rarities in [[Items.base]] -> [[Component]] view
 
 **06-02-2026**
 - 33 [[Waste Environments]]
-- More [[Components]] (27)
+- More [[Component]] (27)
 - [[Waste Environments]] view in [[Sai Yoxis.base]] sorted by named, unnamed, commonality, danger, and size
 - now with photos!

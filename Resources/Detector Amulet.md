@@ -2,12 +2,12 @@
 name: Detector Amulet
 aliases:
 description:
-parent: "[[Necklaces]]"
-type: item
-item type: equipment
+parent: "[[Necklace]]"
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: necklace
 equippable slots:
-  - necklace
+  - "[[Necklace]]"
 tags:
 price:
 weight:

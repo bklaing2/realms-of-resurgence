@@ -1,6 +1,6 @@
 ---
-type: item
-item type: arrow
+type: "[[Item]]"
+item type: "[[Arrow]]"
 consumable: true
 action: true
 duration: when activated
@@ -11,7 +11,7 @@ element:
 damage:
 radius: 2.5 ft
 ---
-[[Arrows]]
+[[Arrow]]
 Similar to the [[Glyph Ring]], but in arrow form.
 
 Must be made with the help of a [[Scribe]].
@@ -20,4 +20,4 @@ Must still be activated by a [[Scribe]].
 
 Can be shot at a creature to apply a rune to their body, as well at an object or other to apply a rune to it. If a creature is shot by this arrow, they take the normal damage of whatever bow is used to shoot the arrow.
 
-Range on this arrow is less, because of the weight of the runic circle and [[Components]] used on the tip of the arrow. All [[Components]] needed for the desired rune must also be included in the creation of this arrow.
+Range on this arrow is less, because of the weight of the runic circle and [[Component]] used on the tip of the arrow. All [[Component]] needed for the desired rune must also be included in the creation of this arrow.

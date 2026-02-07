@@ -1,10 +1,10 @@
 ---
-type: item
-item type: component
+type: "[[Item]]"
+item type: "[[Component]]"
 consumable: true
 rarity: "2"
 ---
-[[Components]]
+[[Component]]
 a vial of mantic essence from a [[Wastewalker]] from [[The Wastes]].
 
 Used in:

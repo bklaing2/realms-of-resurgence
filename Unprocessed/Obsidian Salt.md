@@ -1,11 +1,11 @@
 ---
-type: item
-item type: component
+type: "[[Item]]"
+item type: "[[Component]]"
 consumable: true
 rarity: "5"
 "used in:":
 ---
-[[Components]]
+[[Component]]
 salt made of shavings of obsidian.
 
 Used in:

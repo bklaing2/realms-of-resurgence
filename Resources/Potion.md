@@ -1,10 +1,3 @@
----
-name: Potions
-aliases:
-parent: "[[Consumables]]"
-type: moc
-tags:
----
 `We will split these up into their own notes`
 
 # Potions

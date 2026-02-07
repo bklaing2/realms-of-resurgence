@@ -1,7 +1,7 @@
 ---
 name: Gloves
 aliases:
-parent: "[[Maps of Content/Equipment|Equipment]]"
+parent: "[[Resources/Equipment|Equipment]]"
 type: moc
 tags:
   - todo

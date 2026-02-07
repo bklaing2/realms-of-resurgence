@@ -1,10 +1,10 @@
 ---
-type: item
-item type: component
+type: "[[Item]]"
+item type: "[[Component]]"
 consumable: true
 rarity: "5"
 ---
-[[Components]]
+[[Component]]
 a vial of soil collected during a storm.
 
 Used in:

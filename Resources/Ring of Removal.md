@@ -2,12 +2,12 @@
 name: Ring of Removal
 aliases:
 description:
-parent: "[[Rings]]"
-type: item
-item type: equipment
+parent: "[[Ring]]"
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: ring
 equippable slots:
-  - ring
+  - "[[Ring]]"
 tags:
 price:
 weight:

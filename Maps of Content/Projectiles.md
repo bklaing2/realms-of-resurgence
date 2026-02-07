@@ -1,8 +1,5 @@
 ---
-name: Projectiles
-aliases:
-parent: "[[Maps of Content/Item]]"
-type: moc
+type: "[[Item]]"
 tags:
   - todo
 ---

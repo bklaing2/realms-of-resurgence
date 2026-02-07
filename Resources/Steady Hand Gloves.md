@@ -3,11 +3,11 @@ name: Steady Hand Gloves
 aliases:
 description:
 parent: "[[Gloves]]"
-type: item
-item type: equipment
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: gloves
 equippable slots:
-  - gloves
+  - "[[Gloves]]"
 tags:
 price:
 weight:

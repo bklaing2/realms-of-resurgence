@@ -3,11 +3,11 @@ name: Swift Boots
 aliases:
 description:
 parent: "[[Boots]]"
-type: item
-item type: equipment
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: boots
 equippable slots:
-  - boots
+  - "[[Boots]]"
 tags:
 price:
 weight:

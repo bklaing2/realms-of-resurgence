@@ -1,11 +1,11 @@
 ---
 description:
-type: item
-item type: equipment
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: weapon
 equippable slots:
-  - primary hand
-  - off hand
+  - "[[Primary Hand]]"
+  - "[[Off Hand]]"
 weapon type: melee
 hit ability: "[[Intelligence]]"
 damage ability: "[[Fortitude]]"

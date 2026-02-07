@@ -1,13 +1,13 @@
 ---
-type: item
-item type: potion
+type: "[[Item]]"
+item type: "[[Potion]]"
 consumable: true
 quick action: true
 action: true
 duration: 1 hour
 brewing time: 2 hours
 ---
-[[Potions]] [[Consumables]] 
+[[Resources/Potion]] [[Consumables]] 
 drinker can breathe underwater for the duration, as well as talk and cast spells underwater
 
 quick action to drink one yourself

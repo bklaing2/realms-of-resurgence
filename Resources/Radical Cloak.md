@@ -2,9 +2,9 @@
 name: Radical Cloak
 aliases:
 description:
-parent: "[[Maps of Content/Equipment|Equipment]]"
-type: item
-item type: equipment
+parent: "[[Resources/Equipment|Equipment]]"
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: cloak
 equippable slots:
 tags:

@@ -1,13 +1,13 @@
 ---
-type: item
+type: "[[Item]]"
 name: Balance Boots
 aliases:
 description:
 parent: "[[Boots]]"
-item type: equipment
+item type: "[[Equipment]]"
 equipment type: boots
 equippable slots:
-  - feet
+  - "[[Boots]]"
 tags:
 price:
 weight:

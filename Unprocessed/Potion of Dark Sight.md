@@ -1,6 +1,6 @@
 ---
-type: item
-item type: potion
+type: "[[Item]]"
+item type: "[[Potion]]"
 consumable: true
 quick action: true
 action: true

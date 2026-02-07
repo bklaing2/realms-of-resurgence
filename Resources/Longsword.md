@@ -3,12 +3,12 @@ name: Handaxe
 aliases:
 description:
 parent: "[[Maps of Content/Weapons|Weapons]]"
-type: item
-item type: equipment
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: weapon
 equippable slots:
-  - primary hand
-  - off hand
+  - "[[Primary Hand]]"
+  - "[[Off Hand]]"
 weapon type: sword
 hit ability: intelligence
 damage ability: fortitude

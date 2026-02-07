@@ -2,13 +2,13 @@
 name: Ring Amulet Locating Pair
 aliases:
 description:
-parent: "[[Maps of Content/Equipment|Equipment]]"
-type: item
-item type: equipment
+parent: "[[Resources/Equipment|Equipment]]"
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: paired
 equippable slots:
-  - ring
-  - necklace
+  - "[[Ring]]"
+  - "[[Necklace]]"
 tags:
 price:
 weight:

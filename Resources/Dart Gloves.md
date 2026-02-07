@@ -1,13 +1,13 @@
 ---
-type: item
+type: "[[Item]]"
 name: Dart Gloves
 aliases:
 description:
 parent: "[[Gloves]]"
-item type: equipment
+item type: "[[Equipment]]"
 equipment type: gloves
 equippable slots:
-  - gloves
+  - "[[Gloves]]"
 tags:
 price:
 weight:

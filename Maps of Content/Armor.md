@@ -2,7 +2,7 @@
 name: Armor
 aliases:
   - armor
-parent: "[[Maps of Content/Equipment|Equipment]]"
+parent: "[[Resources/Equipment|Equipment]]"
 type: moc
 tags:
 ---

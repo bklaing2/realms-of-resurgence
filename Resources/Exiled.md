@@ -4,7 +4,7 @@ subtype: humanoid
 power/intelligence: low/low
 body size: medium
 ---
-[[The Wastes]], [[Settlement]], [[Components]]
+[[The Wastes]], [[Settlement]], [[Component]]
 **AC**: 10  
 **HP**: 15  
 **Speed**: 25 ft  

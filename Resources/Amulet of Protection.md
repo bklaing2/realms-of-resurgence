@@ -1,13 +1,13 @@
 ---
-type: item
+type: "[[Item]]"
 name: Amulet of Protection
 aliases:
 description:
-parent: "[[Necklaces]]"
-item type: equipment
+parent: "[[Necklace]]"
+item type: "[[Equipment]]"
 equipment type: necklace
 equippable slots:
-  - necklace
+  - "[[Necklace]]"
 tags:
 price:
 weight:

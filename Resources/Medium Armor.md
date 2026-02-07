@@ -3,20 +3,20 @@ name: Medium Armor
 aliases:
 description:
 parent: "[[Maps of Content/Armor|Armor]]"
-type: item
-item type: equipment
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: armor
 equippable slots:
-  - armor
+  - "[[Armor]]"
 armor type: medium
 armor class: 6
 damage mitigation: 6
 damage threshold: 12
 damage slots: 4
 tags:
-price: 
-weight: 
-size: 
+price:
+weight:
+size:
 consumable: false
 tier:
 ---

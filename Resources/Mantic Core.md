@@ -2,8 +2,8 @@
 name: Mantic Store
 aliases:
 description:
-parent: "[[Maps of Content/Item]]"
-type: item
+parent: "[[Resources/Item]]"
+type: "[[Item]]"
 item type:
 tags:
 price:

@@ -2,12 +2,12 @@
 name: Potion Belt
 aliases:
 description:
-parent: "[[Maps of Content/Equipment|Equipment]]"
-type: item
-item type: equipment
+parent: "[[Resources/Equipment|Equipment]]"
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: belt
 equippable slots:
-  - belt
+  - "[[Belt]]"
 tags:
 price:
 weight:
@@ -17,6 +17,6 @@ tier:
 ---
 # Description #todo
 
-Holds [[Potions]]
+Holds [[Resources/Potion]]
 
 Allows the wearer to take a potion as a bonus action. Can store 2 potions

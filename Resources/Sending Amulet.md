@@ -2,12 +2,12 @@
 name: Sending Amulet
 aliases:
 description:
-parent: "[[Necklaces]]"
-type: item
-item type: equipment
+parent: "[[Necklace]]"
+type: "[[Item]]"
+item type: "[[Equipment]]"
 equipment type: paired
 equippable slots:
-  - necklace
+  - "[[Necklace]]"
 tags:
 price:
 weight:

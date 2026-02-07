@@ -2,7 +2,7 @@
 name: <%* const potion = await tp.user.property(tp).potion() %><% potion.name %>
 aliases:
 description:
-parent: "[[Maps of Content/Potions|Potions]]"
+parent: "[[Resources/Potion|Potion]]"
 type: item
 item type: potion
 potion type: <% potion.type %>

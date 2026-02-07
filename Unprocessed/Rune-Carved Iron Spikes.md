@@ -1,10 +1,10 @@
 ---
-type: item
-item type: component
+type: "[[Item]]"
+item type: "[[Component]]"
 consumable: true
 rarity: "5"
 ---
-[[Components]]
+[[Component]]
 cold iron spikes that have runes and glyphs carved into them.
 
 Used in:
