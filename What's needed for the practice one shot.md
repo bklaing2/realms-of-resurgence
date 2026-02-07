@@ -153,7 +153,7 @@
 - Added [[Bandit Captain]] and **body size** property to [[Creatures]]
 - Added our FIRST LORD OF THE WASTE [[Rogalth, The Dread Visage, Lord of the Bone Road]]
 **Bryceson**
-- Working on [[Neomantic Spells|spell]]s. Fun fun :). It's late but I'm not tired enough to sleep :-|
+- Working on [[Resources/Spell|spell]]s. Fun fun :). It's late but I'm not tired enough to sleep :-|
 	- *(how late were you up jajaja)*
 	- Well, I got in bed around 2:30. Fell asleep around 5. Should have just kept working on this, or read lolol
 

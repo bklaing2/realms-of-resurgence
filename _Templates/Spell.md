@@ -1,5 +1,5 @@
 ---
-type: "[[Neomantic Spells|spell]]"
+type: "[[Resources/Spell|spell]]"
 name:
 description:
 attributes:

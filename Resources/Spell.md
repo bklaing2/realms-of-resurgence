@@ -3,7 +3,6 @@ parent: "[[Mantic Manipulation]]"
 type: moc
 name: Neomantic Spells
 aliases:
-  - Spells
   - Spell
   - spells
   - spell
@@ -13,11 +12,7 @@ tags:
 
 > [!important]- Neomantic Spells
 >
-> ![[Mantic Manipulation.base#Mantic Spells|no-toolbar]]
-
-# Cantrips
-
-In order to cast a cantrip you must expend any components the cantrip requires. When leveling up you may exchange one cantrip for any other.
+> ![[Embeddable.base#Spells|no-toolbar]]
 
 # Spells
 

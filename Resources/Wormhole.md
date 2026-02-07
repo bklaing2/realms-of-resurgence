@@ -6,9 +6,9 @@ tags:
   - sai-yoxis
 description: Create a wormhole between two points
 name: Wormhole
-parent: "[[Runic Circles]]"
+parent: "[[Resources/Rune]]"
 tier: 3
-type: rune
+type: "[[Rune]]"
 inscription time: 8 actions (4 per glyph)
 mantic charge minimum: 4
 ---

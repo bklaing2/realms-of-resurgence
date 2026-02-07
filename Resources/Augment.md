@@ -1,5 +1,5 @@
 ---
-type: "[[Runic Circles|rune]]"
+type: "[[Rune]]"
 description: Creatures within the circle get a minor enhancement of your choice
 attributes:
   - "[[Mantic]]"

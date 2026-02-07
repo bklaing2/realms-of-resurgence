@@ -1,5 +1,5 @@
 ---
-type: "[[Neomantic Spells|spell]]"
+type: "[[Spell]]"
 name:
 description: Tether yourself to an object or surface
 attributes:

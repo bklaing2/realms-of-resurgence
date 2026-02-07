@@ -6,9 +6,9 @@ tags:
   - needs/name
 description: If a creature steps on this it explodes
 name: Trap
-parent: "[[Runic Circles]]"
+parent: "[[Resources/Rune]]"
 tier: 1
-type: rune
+type: "[[Rune]]"
 inscription time: 4 actions
 mantic charge minimum: 2
 ---

@@ -9,7 +9,7 @@ Long ago, [[Scribe|Scribes]] discovered a way to influence Neomancy. By inscribi
 
 > [!note]- Runic Circles
 >
-> ![[Mantic Manipulation.base#Runic Circles|no-toolbar]]
+> ![[Embeddable.base#Runes|no-toolbar]]
 
 > [!question]- Ways the runes actually work #brainstorm
 > 

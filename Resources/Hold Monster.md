@@ -6,9 +6,9 @@ tags:
   - sai-yoxis
 description: Creatures within are held
 name: Hold Monster
-parent: "[[Runic Circles]]"
+parent: "[[Resources/Rune]]"
 tier: 2
-type: rune
+type: "[[Rune]]"
 inscription time: 5 actions
 mantic charge minimum: 3
 ---

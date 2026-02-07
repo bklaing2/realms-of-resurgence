@@ -14,16 +14,16 @@ type: moc
 
 # Choose an Ancestry
 
-![[Character Creation.base#Ancestries|no-toolbar]]
+![[Embeddable.base#Ancestries|no-toolbar]]
 
 # Choose a Class
 
-![[Character Creation.base#Classes|no-toolbar]]
+![[Embeddable.base#Classes|no-toolbar]]
 # Choose a Subclass
 
 Every class has a variation found on each planet in the [[Sai Yoxis System]].
 
-![[Character Creation.base#Subclasses|no-toolbar]]
+![[Embeddable.base#Subclasses|no-toolbar]]
 
 # Attributes
 

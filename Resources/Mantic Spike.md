@@ -1,5 +1,5 @@
 ---
-type: "[[Neomantic Spells|spell]]"
+type: "[[Spell]]"
 name:
 description: Create a temporary solid spike of Mantic energy
 attributes:

@@ -1,5 +1,5 @@
 ---
-type: "[[Neomantic Spells|spell]]"
+type: "[[Spell]]"
 name:
 description: Bounce energy through creatures, damaging them
 attributes:

@@ -1,5 +1,5 @@
 ---
-type: "[[Runic Circles|rune]]"
+type: "[[Rune]]"
 description: Draw a glyph to alter the appearance on someone/thing
 attributes:
   - "[[Finesse]]"

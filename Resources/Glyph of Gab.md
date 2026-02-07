@@ -1,5 +1,5 @@
 ---
-type: "[[Runic Circles|rune]]"
+type: "[[Rune]]"
 description: Inscribe the glyph on an object. While held, you have advantage on Charisma/Persuasion checks
 attributes:
   - "[[Fortitude]]"

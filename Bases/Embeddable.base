@@ -9,13 +9,28 @@ formulas:
   subclass II: formula.subclasses[1]
   subclass III: formula.subclasses[2]
   subclass IV: formula.subclasses[3]
+  order: attributes.length
+  attributes id: |-
+    number(attributes
+    .map(value.toString().lower())
+    .map(
+    if(value.contains("fortitude"), 1,
+    if(value.contains("finesse"), 2, 
+    if(value.contains("intuition"), 3, 
+    if(value.contains("intelligence"), 4,
+    if(value.contains("mantic"), 5,
+    ""
+    ))))))
+    .join(""))
+summaries:
+  Count: values.filter(!value.isType("null")).length
 properties:
   formula.subclasses:
     displayName: subclasses
   note.passive abilities:
     displayName: passives
   note.type:
-    displayName: class
+    displayName: type
 views:
   - type: cards
     name: Ancestries
@@ -83,3 +98,57 @@ views:
       formula.subclass II: 140
       formula.subclass III: 178
     cardSize: 150
+  - type: table
+    name: Spells
+    filters:
+      and:
+        - type == link("Spell")
+    groupBy:
+      property: formula.order
+      direction: ASC
+    order:
+      - file.name
+      - attributes
+      - quick action
+      - reaction
+      - requires focus
+      - casting time
+      - range
+      - target
+      - duration
+      - damage
+    sort:
+      - property: formula.attributes id
+        direction: ASC
+    summaries:
+      file.name: Count
+    columnSize:
+      file.name: 134
+      note.attributes: 179
+      note.casting time: 123
+      note.range: 73
+      note.duration: 196
+      note.type: 233
+  - type: table
+    name: Runes
+    filters:
+      or:
+        - type == link("Resources/Rune", "rune")
+    groupBy:
+      property: formula.order
+      direction: ASC
+    order:
+      - file.name
+      - attributes
+      - inscription time
+      - duration
+      - type
+    sort:
+      - property: formula.attributes id
+        direction: ASC
+    summaries:
+      file.name: Count
+    columnSize:
+      file.name: 134
+      note.attributes: 443
+      note.inscription time: 152

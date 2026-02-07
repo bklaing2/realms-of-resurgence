@@ -1,5 +1,5 @@
 ---
-type: "[[Neomantic Spells|spell]]"
+type: "[[Spell]]"
 name:
 description: Take control of a Horror
 attributes:

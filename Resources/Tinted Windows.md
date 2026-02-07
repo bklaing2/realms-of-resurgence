@@ -6,9 +6,9 @@ tags:
   - sai-yoxis
 description: Light inside the circle cannot be seen by anyone outside
 name: Tinted Windows
-parent: "[[Runic Circles]]"
+parent: "[[Resources/Rune]]"
 tier: 2
-type: rune
+type: "[[Rune]]"
 inscription time: 1 minute
 mantic charge minimum: 2
 ---

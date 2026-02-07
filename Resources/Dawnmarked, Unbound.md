@@ -32,7 +32,7 @@ body size: large
 1d8 + 9 piercing damage
 creature hit makes a DC 15 [[Fortitude]] saving throw or is pushed 15 ft back and prone, if they succeed, they can choose how far back they move (if any) and are not knocked prone.
 ## Runecarver:
-Can use an action to draw [[Runic Circles]] on a surface or on another creature. Has 6 [[Mantic]] charges per day to pump into runes. If the Dawnmarked is aware and has time, they will prepare by augmenting themselves, choosing to haste themselves, or add an extra 1d6 of damage to their attacks. They will also stalk waste travelers and lay traps for them using runes and other designed traps.
+Can use an action to draw [[Resources/Rune]] on a surface or on another creature. Has 6 [[Mantic]] charges per day to pump into runes. If the Dawnmarked is aware and has time, they will prepare by augmenting themselves, choosing to haste themselves, or add an extra 1d6 of damage to their attacks. They will also stalk waste travelers and lay traps for them using runes and other designed traps.
 
 # Proximity Radical Fail Outcome
 When a PC within 20 ft rolls a radiation failure, the Unbound Dawnmarked can suck in the [[Mantic]] energy, which allows it to regain 2 [[Mantic]] charges and gain more control over [[Mantic]] energy. On their next turn, they can use an action to slow time around them. This allows them to take 1d4 turns all at once before they all resolve at the end of the last rolled turn (roll of the d4). The time bubble moves with the Unbound Dawnmarked and allows him to make attacks, carve runes, set traps, and have conversations with anyone within the bubble.

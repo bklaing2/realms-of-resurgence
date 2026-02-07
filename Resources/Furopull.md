@@ -1,5 +1,5 @@
 ---
-type: "[[Neomantic Spells|spell]]"
+type: "[[Spell]]"
 name:
 description: Yank a creature 5ft towards you, potentially away from an attack
 attributes:

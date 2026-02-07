@@ -1,5 +1,5 @@
 ---
-type: "[[Runic Circles|rune]]"
+type: "[[Rune]]"
 description:
 attributes:
 mantic charge minimum: 0

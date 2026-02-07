@@ -1,5 +1,5 @@
 ---
-type: rune
+type: "[[Rune]]"
 name: Hole
 aliases:
 tags:
@@ -9,6 +9,6 @@ inscription time: 1 minute
 range: 60 feet
 duration: 5 minutes
 components:
-parent: "[[Runic Circles]]"
+parent: "[[Resources/Rune]]"
 mantic charge minimum: 2
 ---

@@ -1,5 +1,5 @@
 ---
-type: "[[Runic Circles|rune]]"
+type: "[[Rune]]"
 name:
 description:
 attributes:

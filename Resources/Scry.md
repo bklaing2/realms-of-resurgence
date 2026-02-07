@@ -6,9 +6,9 @@ tags:
   - needs/name
 description: Creatures within the circle get a minor enhancement of your choice
 name: Scry
-parent: "[[Runic Circles]]"
+parent: "[[Resources/Rune]]"
 tier: 1
-type: rune
+type: "[[Rune]]"
 inscription time: 4 actions (2 per glyph)
 mantic charge minimum: 2
 ---

@@ -1,5 +1,5 @@
 ---
-type: "[[Runic Circles|rune]]"
+type: "[[Rune]]"
 description: You always know where this rune is
 attributes:
   - "[[Intelligence]]"

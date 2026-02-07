@@ -153,8 +153,7 @@ views:
     name: Spells
     filters:
       or:
-        - type == "spell"
-        - type == link("Neomantic Spells", "spell")
+        - type == link("Spell")
     groupBy:
       property: formula.order
       direction: ASC

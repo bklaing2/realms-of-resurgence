@@ -1,5 +1,5 @@
 ---
-type: "[[Neomantic Spells|spell]]"
+type: "[[Spell]]"
 name: Project
 description: Project a Mantic facsimile of your hands within 60 feet
 attributes:

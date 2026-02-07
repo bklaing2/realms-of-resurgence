@@ -5,9 +5,9 @@ tags:
   - sai-yoxis/iv
 description: Creatures within are protected from a specific element
 name: Protection
-parent: "[[Runic Circles]]"
+parent: "[[Resources/Rune]]"
 tier: 2
-type: rune
+type: "[[Rune]]"
 inscription time: 1 minute
 mantic charge minimum: 3
 ---

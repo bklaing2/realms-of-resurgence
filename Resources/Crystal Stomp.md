@@ -1,5 +1,5 @@
 ---
-type: "[[Neomantic Spells|spell]]"
+type: "[[Spell]]"
 name:
 description: Summon Mantic crystals from the ground, forming either widespread shards or a cage around a target
 attributes:

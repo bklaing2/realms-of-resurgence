@@ -31,7 +31,7 @@ body size: large
 5 ft range  
 2d6 + 6 bludgeoning damage
 ## Runecarver:
-Can use an action to draw [[Runic Circles]] on a surface or on another creature. Has 3 [[Mantic]] charges per day to pump into runes. If the Dawnmarked is aware and has time, they will prepare by augmenting themselves or each other, choosing to haste each other, or add an extra 1d6 of damage to their attacks. Or uses [[Protection]] on a member of the [[The Gathering Bright|Gathering Bright]] leading clergy.
+Can use an action to draw [[Resources/Rune]] on a surface or on another creature. Has 3 [[Mantic]] charges per day to pump into runes. If the Dawnmarked is aware and has time, they will prepare by augmenting themselves or each other, choosing to haste each other, or add an extra 1d6 of damage to their attacks. Or uses [[Protection]] on a member of the [[The Gathering Bright|Gathering Bright]] leading clergy.
 
 # Proximity Radical Fail Outcome
 When a PC within 15 ft rolls a radiation failure, the Bound Dawnmarked can suck in the [[Mantic]] energy, which allows it to regain a [[Mantic]] charge and power up their gauntlet and convert it to the Light. This makes their next gauntlet attack do an extra 1d8 damage and knock the attacked creature prone (no saving throw roll).
