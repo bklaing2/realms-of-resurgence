@@ -2,6 +2,6 @@
 aliases:
   - Arcana
   - History
-type: "[[Attributes|attribute]]"
+type: "[[Attribute]]"
 order: secondary
 ---

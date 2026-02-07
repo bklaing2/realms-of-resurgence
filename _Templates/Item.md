@@ -2,8 +2,8 @@
 name: <%* const item = await tp.user.property(tp).item() %><% item.name %>
 aliases:
 description:
-parent: "[[Items]]"
-type: item
+parent: "[[Maps of Content/Item]]"
+type:
 item type:
 tags:
 price: <% item.price %>

@@ -1,7 +1,7 @@
 ---
 name: Consumables
 aliases:
-parent: "[[Items]]"
+parent: "[[Maps of Content/Item]]"
 type: moc
 tags:
 ---

@@ -4,7 +4,11 @@ summaries:
   Quaternary: values.filter(value.length == 4).length
   Quinary: values.filter(value.length == 5).length
   Tertiary: values.filter(value.length == 3).length
-  Unique: values.unique().length
+  Unique: |-
+    values
+    .map(value.toString())
+    .unique()
+    .length
   Empty: values.filter(value.isType("null")).length
   Orders: |-
     values
@@ -70,12 +74,17 @@ properties:
 views:
   - type: table
     name: All
+    filters:
+      and:
+        - "!type.isEmpty()"
     order:
       - file.name
-      - passive-ability
-      - roleplay-ability
-      - exploration-ability
-    sort: []
+      - type
+    sort:
+      - property: type
+        direction: ASC
+    summaries:
+      type: Secondary
     columnSize:
       file.name: 194
       note.passive-ability: 434

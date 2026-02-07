@@ -27,7 +27,7 @@ Every class has a variation found on each planet in the [[Sai Yoxis System]].
 
 # Attributes
 
-Characters in this system have 5 [[Attributes]] - 2 physical, 2 mental, and 1 mantic.
+Characters in this system have 5 [[Attribute]] - 2 physical, 2 mental, and 1 mantic.
 
 | *Attribute*                            | *Examples*                                  |
 | :------------------------------------- | ------------------------------------------- |
@@ -49,7 +49,7 @@ Some races/backgrounds give bonus to Physical or Mental attributes. These can be
 
 ## Calculate Second Order Attributes #brainstorm #needs/name
 
-Each [[Second Order Attributes]] is associated with two [[First Order Attributes]]^[![[Attributes#Second Order Attributes Matrix]]]. Its modifier can be calculated by taking the higher of the two [[First Order Attributes]]. 
+Each [[Second Order Attributes]] is associated with two [[First Order Attributes]]^[![[Attribute#Second Order Attributes Matrix]]]. Its modifier can be calculated by taking the higher of the two [[First Order Attributes]]. 
 
 # Health
 

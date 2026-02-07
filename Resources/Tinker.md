@@ -1,6 +1,6 @@
 ---
 aliases:
   - Medicine
-type: "[[Attributes|attribute]]"
+type: "[[Attribute]]"
 order: secondary
 ---

@@ -1,5 +1,6 @@
 ---
-type: "[[Scout]]"
+type: "[[Class]]"
+class type: "[[Scout]]"
 subclass number: "[[Sai Yoxis IV|IV]]"
 description:
 passive abilities:

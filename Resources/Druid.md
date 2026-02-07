@@ -9,6 +9,7 @@ abilities:
   - "[[Druid - Ability 2]]"
 tags:
   - needs/name
+class type:
 ---
 ![[Self Referential.base#Class]]
 ![[Self Referential.base#Subclasses]]

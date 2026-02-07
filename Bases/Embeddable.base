@@ -1,3 +1,5 @@
+summaries:
+  Count: values.filter(!value.isType("null")).length
 formulas:
   subclasses: |
     file.backlinks
@@ -22,8 +24,6 @@ formulas:
     ""
     ))))))
     .join(""))
-summaries:
-  Count: values.filter(!value.isType("null")).length
 properties:
   formula.subclasses:
     displayName: subclasses
@@ -52,6 +52,7 @@ views:
     filters:
       and:
         - type == link("Class")
+        - note["class type"].isEmpty()
     order:
       - file.name
       - hit points
@@ -65,9 +66,10 @@ views:
     name: Subclasses
     filters:
       and:
-        - link("Class") == link(type).asFile().properties.type
+        - type == link("Class")
+        - '!note["class type"].isEmpty()'
     groupBy:
-      property: type
+      property: class type
       direction: ASC
     order:
       - file.name
@@ -152,3 +154,12 @@ views:
       file.name: 134
       note.attributes: 443
       note.inscription time: 152
+  - type: table
+    name: Items
+    filters:
+      or:
+        - type == "item"
+        - type == link("Item")
+    order:
+      - file.name
+      - type

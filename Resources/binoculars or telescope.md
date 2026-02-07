@@ -2,7 +2,7 @@
 name: binoculars or telescope
 aliases:
 description:
-parent: "[[Items]]"
+parent: "[[Maps of Content/Item]]"
 type: item
 item type:
 tags:

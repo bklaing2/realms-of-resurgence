@@ -1,6 +1,6 @@
 ---
 aliases:
   - Sleight of Hand
-type: "[[Attributes|attribute]]"
+type: "[[Attribute]]"
 order: secondary
 ---

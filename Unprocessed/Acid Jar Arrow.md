@@ -1,5 +1,5 @@
 ---
-type: item
+type: "[[Item]]"
 item type: arrow
 consumable: true
 action: true

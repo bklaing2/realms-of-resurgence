@@ -1,7 +1,5 @@
 ---
 type: moc
-aliases:
-  - attribute
 cssclasses:
   - table-w-pane
   - table-w-full

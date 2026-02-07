@@ -9,8 +9,8 @@ formulas:
   subclass II: formula.subclasses[1]
   subclass III: formula.subclasses[2]
   subclass IV: formula.subclasses[3]
-  base class: this.file.properties.type
-  subclass number: if(type == link("Class"), "0", note["subclass number"])
+  base class: this.file.properties["class type"]
+  subclass number: if(note["subclass number"].isEmpty(), "0", note["subclass number"])
 properties:
   formula.subclasses:
     displayName: subclasses
@@ -77,7 +77,7 @@ views:
     filters:
       or:
         - this.file == file
-        - this.file.properties.type == file
+        - this.file.properties["class type"] == file
     groupBy:
       property: formula.base class
       direction: ASC

@@ -1,5 +1,6 @@
 ---
-type: "[[Mage]]"
+type: "[[Class]]"
+class type: "[[Mage]]"
 subclass number: "[[Sai Yoxis II|II]]"
 description:
 passive abilities:

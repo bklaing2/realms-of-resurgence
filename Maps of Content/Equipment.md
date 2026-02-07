@@ -1,7 +1,7 @@
 ---
 name: Equipment
 aliases:
-parent: "[[Items]]"
+parent: "[[Maps of Content/Item]]"
 type: moc
 tags:
   - todo

@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "[\"type\":subclass]",
+      "query": "[\"class type\":]",
       "color": {
         "a": 1,
-        "rgb": 6149805
+        "rgb": 6215341
       }
     },
     {
@@ -88,6 +88,6 @@
   "repelStrength": 10.9688581314879,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3060744991181983,
+  "scale": 0.38340310412362705,
   "close": true
 }

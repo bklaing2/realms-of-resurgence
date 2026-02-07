@@ -1,5 +1,6 @@
 ---
-type: "[[Brawler]]"
+type: "[[Class]]"
+class type: "[[Brawler]]"
 subclass number: "[[Sai Yoxis II|II]]"
 description:
 passive abilities:

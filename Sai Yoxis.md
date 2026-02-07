@@ -22,7 +22,7 @@ Sai Yoxis is... #todo
 - [[Character Creation]]
 - [[Mantic Manipulation]]
 - [[Creatures]]
-- [[Items]]
+- [[Maps of Content/Item]]
 - [[Combat]]
 
 

@@ -2,6 +2,6 @@
 aliases:
   - Stealth
   - Deception
-type: "[[Attributes|attribute]]"
+type: "[[Attribute]]"
 order: secondary
 ---
