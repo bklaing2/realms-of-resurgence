@@ -1,29 +1,20 @@
 ---
-name: Handaxe
-aliases:
-description:
-parent: "[[Maps of Content/Weapons|Weapons]]"
 type: "[[Item]]"
 item type: "[[Equipment]]"
-equipment type: weapon
 equippable slots:
   - "[[Primary Hand]]"
-weapon type: wand
-hit ability: intuition
-damage ability: mantic
+hit attribute: "[[Intelligence]]"
+damage attribute: "[[Mantic]]"
 range: 5/10 ft
-damage: 1d8 mantic
-tags:
+damage: 1d8
+damage type: "[[Mantic (Damage)]]"
 price:
 weight:
 size:
-consumable: false
-throwable: false
-tier:
 ---
 # Description #todo
 
-Battlemage Wand - 1d8 [[Mantic]]
+Battlemage [[Wand]] - 1d8 [[Mantic]]
 [[Intelligence]] to hit
 [[Mantic]] for damage
 

@@ -1,21 +1,14 @@
 ---
-name: Glyph Ring
-aliases:
-description:
-parent: "[[Ring]]"
 type: "[[Item]]"
 item type: "[[Equipment]]"
-equipment type: ring
 equippable slots:
   - "[[Ring]]"
-tags:
 price:
 weight:
 size:
-consumable: false
-tier:
 ---
 # Description #todo
+
 Throw down the ring and it draws out a previously stored glyph
 If a scribe uses a long rest to analyze the ring, they can learn the glyph stored within, but this also uses up the charge.
 

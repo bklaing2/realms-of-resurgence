@@ -1,3 +1,9 @@
+---
+aliases:
+  - Potions
+  - potion
+  - potions
+---
 `We will split these up into their own notes`
 
 # Potions

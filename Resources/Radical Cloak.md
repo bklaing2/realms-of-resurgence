@@ -1,18 +1,11 @@
 ---
-name: Radical Cloak
-aliases:
-description:
-parent: "[[Resources/Equipment|Equipment]]"
 type: "[[Item]]"
 item type: "[[Equipment]]"
-equipment type: cloak
 equippable slots:
-tags:
+  - "[[Cloak]]"
 price:
 weight:
 size:
-consumable: false
-tier:
 ---
 # Description #todo
 

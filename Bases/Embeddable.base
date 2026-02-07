@@ -162,12 +162,14 @@ views:
         - type == link("Item")
     order:
       - file.name
+      - item type
       - equipment type
       - equippable slots
+      - consumable
     sort:
-      - property: equippable slots
-        direction: ASC
       - property: equipment type
+        direction: DESC
+      - property: equippable slots
         direction: ASC
       - property: item type
         direction: ASC

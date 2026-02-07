@@ -1,15 +1,8 @@
 ---
-name: <%* const item = await tp.user.property(tp).item() %><% item.name %>
-aliases:
-description:
-parent: "[[Item]]"
-type:
+type: "[[Item|Item]]"
 item type:
-tags:
-price: <% item.price %>
-weight: <% item.weight %>
-size: <% item.size %>
-consumable:
-tier:
+price:
+weight:
+size:
 ---
 # Description #todo

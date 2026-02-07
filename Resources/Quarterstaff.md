@@ -1,20 +1,15 @@
 ---
-description:
 type: "[[Item]]"
 item type: "[[Equipment]]"
-equipment type: weapon
 equippable slots:
   - "[[Primary Hand]]"
-weapon type: melee
-hit ability: "[[Intelligence]]"
-damage ability: "[[Fortitude]]"
-range: 10ft
-damage: 1d6 bludgeoning
-tags:
+hit attribute: "[[Intelligence]]"
+damage attribute: "[[Fortitude]]"
+range: 10 ft
+damage: 1d6
+damage type: "[[Bludgeoning]]"
 price:
 weight:
 size:
-consumable: false
-tier:
 ---
 # Description #todo

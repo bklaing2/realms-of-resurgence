@@ -1,26 +1,17 @@
 ---
-name: Handaxe
-aliases:
-description:
-parent: "[[Maps of Content/Weapons|Weapons]]"
 type: "[[Item]]"
 item type: "[[Equipment]]"
-equipment type: weapon
 equippable slots:
   - "[[Primary Hand]]"
   - "[[Off Hand]]"
-weapon type:
-hit ability: intuition
-damage ability: fortitude
+hit attribute: "[[Intuition]]"
+damage attribute: "[[Fortitude]]"
 range: 5 ft
-damage: 1d6 bludgeoning
-tags:
+damage: 1d6
+damage type: "[[Bludgeoning]]"
 price:
 weight:
 size:
-consumable: false
-throwable: true
-tier:
 ---
 # Description #todo
 

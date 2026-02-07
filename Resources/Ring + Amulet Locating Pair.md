@@ -3,10 +3,11 @@ type: "[[Item]]"
 item type: "[[Equipment]]"
 equippable slots:
   - "[[Ring]]"
+  - "[[Necklace]]"
 price:
 weight:
 size:
 ---
 # Description #todo
 
-If you try to take this ring off, your finger comes off too, but you can still control it and reattach it
+The Amulet glows when pointed in the direction of the ring. It only works if the ring is being worn

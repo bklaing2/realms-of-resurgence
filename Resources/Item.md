@@ -10,4 +10,4 @@ Things like backpacks will only have a certain amount of space, meaning they can
 
 A player can only carry a backpack (+ the armor they're wearing yada yada) according to their Fortidude attribute.
 
-![[Embeddable.base#Items|no-toolbar]]
+![[Embeddable.base#Items]]

@@ -1,3 +1,9 @@
+---
+aliases:
+  - Arrows
+  - arrow
+  - arrows
+---
 # Description #todo
 `We will split these up into their own notes`
 

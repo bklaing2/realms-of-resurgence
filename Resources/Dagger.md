@@ -1,26 +1,18 @@
 ---
-name: Dagger
-aliases:
-description:
-parent: "[[Maps of Content/Weapons|Weapons]]"
 type: "[[Item]]"
 item type: "[[Equipment]]"
-equipment type: weapon
 equippable slots:
   - "[[Primary Hand]]"
   - "[[Off Hand]]"
-weapon type:
-hit ability: intelligence
-damage ability: finesse
-range: 20/60 feet
-damage: 1d4 slashing
-tags:
+throwable: true
+hit attribute: "[[Intelligence]]"
+damage attribute: "[[Finesse]]"
+range: 20/60 ft
+damage: 1d4
+damage type: "[[Slashing]]"
 price:
 weight:
 size:
-consumable: false
-throwable: true
-tier:
 ---
 # Description #todo
 

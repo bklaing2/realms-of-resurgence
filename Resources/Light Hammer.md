@@ -1,23 +1,17 @@
 ---
-aliases:
-description:
 type: "[[Item]]"
 item type: "[[Equipment]]"
-equipment type: weapon
 equippable slots:
   - "[[Primary Hand]]"
   - "[[Off Hand]]"
-weapon type: hammer
-hit ability: "[[Intuition]]"
-damage ability: "[[Fortitude]]"
-range: 5ft / 20ft
-damage: 1d4 bludgeoning
-tags:
+throwable: true
+hit attribute: "[[Intuition]]"
+damage attribute: "[[Fortitude]]"
+range: 5/20 ft
+damage: 1d4
+damage type: "[[Bludgeoning]]"
 price:
 weight:
 size:
-consumable: false
-throwable: true
-tier:
 ---
 # Description #todo

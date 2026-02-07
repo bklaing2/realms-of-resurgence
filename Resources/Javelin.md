@@ -1,30 +1,21 @@
 ---
-name: Javelin
-aliases:
-description:
-parent: "[[Maps of Content/Weapons|Weapons]]"
 type: "[[Item]]"
 item type: "[[Equipment]]"
-equipment type: weapon
 equippable slots:
   - "[[Primary Hand]]"
   - "[[Off Hand]]"
-weapon type:
-hit ability: intelligence
-damage ability: fortitude
-range: 10ft / 30ft
-damage: 1d6 piercing
-tags:
+throwable: true
+hit attribute: "[[Intelligence]]"
+damage attribute: "[[Fortitude]]"
+range: 10/30 ft
+damage: 1d6
+damage type: "[[Piercing]]"
 price:
 weight:
 size:
-consumable: false
-throwable: true
-tier:
 ---
 # Description #todo
 
 javelin - 1d6 piercing (thrown 30/120)
 [[Intelligence]] to hit
 [[Fortitude]] for damage
->>>>>>> origin/main

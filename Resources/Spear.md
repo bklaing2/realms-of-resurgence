@@ -1,26 +1,17 @@
 ---
-name: Spear
-aliases:
-description:
-parent: "[[Maps of Content/Weapons|Weapons]]"
 type: "[[Item]]"
 item type: "[[Equipment]]"
-equipment type: weapon
 equippable slots:
   - "[[Primary Hand]]"
   - "[[Off Hand]]"
-weapon type:
-hit ability: intelligence
-damage ability: finesse
-range: 10ft
-damage: 1d6 piercing
-tags:
+hit attribute: "[[Intelligence]]"
+damage attribute: "[[Finesse]]"
+range: 10 ft
+damage: 1d6
+damage type: "[[Piercing]]"
 price:
 weight:
 size:
-consumable: false
-tier:
-throwable: true
 ---
 # Description #todo
 

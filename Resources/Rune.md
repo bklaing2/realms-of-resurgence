@@ -1,8 +1,9 @@
 ---
-type: moc
-parent: "[[Mantic Manipulation]]"
-name: Runic Circles
 aliases:
+  - Runes
+  - rune
+  - runes
+parent: "[[Mantic Manipulation]]"
 tags:
 ---
 Long ago, [[Scribe|Scribes]] discovered a way to influence Neomancy. By inscribing very precise patterns onto a surface and directing Mantic energy into it, various magical effects can be produced depending on the design of the runes and components used.

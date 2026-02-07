@@ -1,26 +1,17 @@
 ---
-name: Handaxe
-aliases:
-description:
-parent: "[[Maps of Content/Weapons|Weapons]]"
 type: "[[Item]]"
 item type: "[[Equipment]]"
-equipment type: weapon
 equippable slots:
   - "[[Primary Hand]]"
   - "[[Off Hand]]"
-weapon type: bow
-hit ability: intuition
-damage ability: finesse
+hit attribute: "[[Intelligence]]"
+damage attribute: "[[Finesse]]"
 range: 80/300 ft
-damage: 1d6 piercing
-tags:
+damage: 1d6
+damage type: "[[Piercing]]"
 price:
 weight:
 size:
-consumable: false
-throwable: true
-tier:
 ---
 # Description #todo
 

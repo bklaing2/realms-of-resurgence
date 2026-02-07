@@ -1,6 +1,0 @@
----
-aliases:
-  - Rings
-  - ring
-  - rings
----
