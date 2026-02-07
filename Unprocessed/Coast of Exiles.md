@@ -6,5 +6,6 @@ danger: "3"
 size: "2"
 ---
 [[Waste Environments]]
-Ancient crypts scattered throughout the Wastes. The bodies and treasure of heroes and deities long past, along with horrors and other guardians seeking the treasure or the power hidden below.
+Cliffside coastline with cages full of (mostly) dead [[Exiled]] and [[Exiled, Mutated]], put there as punishment or as an offering?
 
+![[IMG_0995.jpg]]

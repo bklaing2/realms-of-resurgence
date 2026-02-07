@@ -208,7 +208,7 @@ Look how cool this is
 	- along with rarities in [[Items.base]] -> [[Components]] view
 
 **06-02-2026**
-- [[Waste Environments]]
-- More [[Components]]
+- 33 [[Waste Environments]]
+- More [[Components]] (27)
 - [[Waste Environments]] view in [[Sai Yoxis.base]] sorted by named, unnamed, commonality, danger, and size
 - now with photos!
