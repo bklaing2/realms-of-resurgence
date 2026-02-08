@@ -2,12 +2,12 @@
 type: "[[Item]]"
 item type: "[[Potion]]"
 consumable: true
-quick action: true
-action: true
+brewing time: 1 hour
+components:
+inert after:
 duration: 5 minutes
-brewing time: 1 hours
 ---
-[[Resources/Potion]] [[Consumables]] 
+[[Potion]] [[Consumables]] 
 Choose one elemental damage that the drinker takes half damage for 5 minutes
 quick action to drink one yourself
 action to feed it to someone else

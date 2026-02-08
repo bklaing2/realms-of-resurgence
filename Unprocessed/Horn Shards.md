@@ -3,9 +3,12 @@ type: "[[Item]]"
 item type: "[[Component]]"
 consumable: true
 rarity: "2"
+price:
+weight:
+size:
 ---
 [[Component]]
-shards of the horn from a ENTER HORNED HORROR HERE from [[The Wastes]]. #todo 
+shards of the horn from a [[ENTER HORNED HORROR HERE]] from [[The Wastes]]. #todo 
 
 Used in:
 - 

@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: 1 round
-tinker time: 3.5 hours
 throwable: true
+tinker time: 3.5 hours
 range: 160/500 ft
-radius:
-element:
-damage:
+damage: 1d6
+damage type:
+area of effect:
+duration: 1 round
+price:
+weight:
+size:
 ---
 [[Arrow]]
 When a creature is shot by this arrow, they must make a [[Fortitude]] saving throw, DC 10 + [[Tinker]] modifier, or they become stunned until the end of the shooters next turn.

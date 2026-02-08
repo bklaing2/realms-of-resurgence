@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: 30 minutes
-tinker time: 1 hour
 throwable: true
+tinker time: 1 hour
 range: 100 ft
-radius: 30 ft
-element: fire
 damage: 1d6
+damage type: "[[Fire]]"
+area of effect: 30 ft radius
+duration: 30 minutes
+price:
+weight:
+size:
 ---
 [[Arrow]]
 When this arrow is fired at a wall or other object, it attaches and begins to act as a torch for the next 30 minutes. It may be put out and relit like a normal torch and provides dim light in a radius of 30 ft.

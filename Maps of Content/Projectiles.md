@@ -1,5 +1,0 @@
----
-type: "[[Item]]"
-tags:
-  - todo
----

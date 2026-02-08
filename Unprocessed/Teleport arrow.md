@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: instantaneous
-tinker time: 6 hours
 throwable: true
+tinker time: 6 hours
 range: 160/500 ft
-element:
 damage:
-radius: "2.5"
+damage type:
+area of effect: 2.5 ft radius
+duration: instantaneous
+price:
+weight:
+size:
 ---
 [[Arrow]]
 Wherever this arrow lands, the creature who shot it instantly appears touching the arrow in its new location.

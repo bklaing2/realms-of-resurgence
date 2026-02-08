@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: instantaneous
-tinker time: 2 hours
 throwable: false
+tinker time: 2 hours
 range: 60/100 ft
-radius:
-element:
 damage: 1d6
+damage type:
+area of effect: 15 ft radius
+duration: instantaneous
+price:
+weight:
+size:
 ---
 [[Arrow]]
 When this arrow is fired at a creature, it splits into a second arrow right before it hits the creature it was fired at. The shooter makes a second roll to hit (using all the normal numbers) against another creature within 15 ft of the first targeted creature as the split arrow races toward that creature as well.

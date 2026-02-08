@@ -1,16 +1,9 @@
 ---
-name: Waste Watchers
-aliases:
-description:
-parent: "[[Resources/Item]]"
 type: "[[Item]]"
 item type:
-tags:
 price:
 weight:
 size:
-consumable:
-tier:
 ---
 # Description #todo
 

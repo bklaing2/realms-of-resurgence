@@ -2,10 +2,10 @@
 type: "[[Item]]"
 item type: "[[Potion]]"
 consumable: true
-quick action: true
-action: true
-duration: instantaneous
 brewing time: 2 hours
+components:
+inert after:
+duration: instantaneous
 ---
 Heals drinker for 2d4+2 HP
 quick action to drink one yourself

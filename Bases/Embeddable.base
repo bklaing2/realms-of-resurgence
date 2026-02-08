@@ -160,10 +160,12 @@ views:
     filters:
       or:
         - type == link("Item")
+    groupBy:
+      property: item type
+      direction: ASC
     order:
       - file.name
       - item type
-      - equipment type
       - equippable slots
       - consumable
     sort:
@@ -174,8 +176,7 @@ views:
       - property: item type
         direction: ASC
     summaries:
-      item type: Unique
       equipment type: Unique
-      equippable slots: Unique
     columnSize:
       file.name: 173
+      note.item type: 118

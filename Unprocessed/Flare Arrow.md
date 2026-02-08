@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: 2 rounds
-tinker time: 15 minutes
 throwable: true
-range: 120ft
-radius: 5 ft
-element:
+tinker time: 15 minutes
+range: 120 ft
 damage:
+damage type:
+area of effect: 5 ft radius
+duration: 2 rounds
+price:
+weight:
+size:
 ---
 [[Arrow]]
 When this arrow is shot, a bright light and smoke emits from it, causing the area around it to be lit up brightly.

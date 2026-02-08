@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: 1 minute
-tinker time: 2 hours
 throwable: true
+tinker time: 2 hours
 range: 50 ft
-element: acid
 damage: 2d10
-radius: 15 ft
+damage type: "[[Acid]]"
+area of effect: 15 ft radius
+duration: 1 minute
+price:
+weight:
+size:
 ---
 [[Arrow]]
 Wherever this arrow lands, an explosion of acid spreads out in a 15 ft radius, dousing the area of the circle with acidic liquid. Any creature within the radius immediately makes a [[Finesse]] saving throw, DC 10 + the shooter's [[Finesse]] or [[Tinker]] modifier #brainstorm #todo , or takes 2d10 acid damage. (Successes take no damage) Creatures ending their turns within the radius must remake the saving throw roll.

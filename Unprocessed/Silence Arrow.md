@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: 1 minute
-tinker time: 30 minutes
 throwable: true
+tinker time: 30 minutes
 range: 160/500 ft
-radius: 30 ft
-element:
-damage:
+damage: 2d10
+damage type: "[[Acid]]"
+area of effect: 30 ft radius
+duration: 1 minute
+price:
+weight:
+size:
 ---
 [[Arrow]]
 Wherever this arrow lands, in a radius of 30 ft, no sound can emit from the radius. Any creatures within the radius are unable to make noise or hear noise from outside the radius (or inside of course).

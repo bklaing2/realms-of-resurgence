@@ -2,10 +2,10 @@
 type: "[[Item]]"
 item type: "[[Potion]]"
 consumable: true
-quick action: true
-action: true
-duration: 8 hours
 brewing time: 30 minutes
+components:
+inert after:
+duration: 4 hours
 ---
 drinker can see further and in full darkness, even in the [[The Wastes|Wastes]]
 [[Furomancy]] essence has a slight glow

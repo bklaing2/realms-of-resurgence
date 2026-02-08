@@ -1,16 +1,10 @@
 ---
-name: Mantic Store
-aliases:
-description:
-parent: "[[Resources/Item]]"
 type: "[[Item]]"
 item type:
-tags:
+consumable: true
 price:
 weight:
 size:
-consumable: false
-tier:
 ---
 # Description #todo
 

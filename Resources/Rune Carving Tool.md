@@ -1,5 +1,5 @@
 ---
-type: "[[Item|Item]]"
+type: "[[Item]]"
 item type: "[[Equipment]]"
 equippable slots:
   - "[[Primary Hand]]"

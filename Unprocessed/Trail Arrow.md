@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: 5 hours
-tinker time: 1 hour
 throwable: true
-range: 120ft
-radius:
-element:
+tinker time: 1 hour
+range: 120 ft
 damage:
+damage type:
+area of effect:
+duration: 6 hours
+price:
+weight:
+size:
 ---
 [[Arrow]]
 When this arrow is shot, it sticks in whatever it was shot at and every 10 minutes drops a little bit of the [[Component]] used to create the arrow. Thus allowing others to follow the trail left by whatever was shot by this arrow (and other interesting things most likely).

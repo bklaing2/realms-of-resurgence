@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: instantaneous
-tinker time: 1.5 hours
 throwable: false
+tinker time: 2 hours
 range: 160/500 ft
-element:
-damage:
-radius: 2.5 ft
+damage: 2d10
+damage type: "[[Acid]]"
+area of effect: 2.5 ft radius
+duration: instantaneous
+price:
+weight:
+size:
 ---
 [[Arrow]]
 This arrow travels as a line and damages every creature along that line for 20 ft after the arrow hits (and travels through) the first creature in the line.

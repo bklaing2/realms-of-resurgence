@@ -2,12 +2,12 @@
 type: "[[Item]]"
 item type: "[[Potion]]"
 consumable: true
-quick action: true
-action: true
-duration: 1 hour
 brewing time: 2 hours, 4 hours, 6 hours
+components:
+inert after:
+duration: 1 hour
 ---
-[[Resources/Potion]] [[Consumables]]
+[[Potion]] [[Consumables]]
 drinker can disguise themselves in various ways:
 **Level 1:** Disguise self - changes what you look like, but not what you feel like
 **Level 2:** Alter self - change your actual physical self and gain the abilities of that new form

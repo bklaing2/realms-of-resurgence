@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: 1 minute
-tinker time: 1 hour
 throwable: true
+tinker time: 1 hour
 range: 20 ft
-element: fire
 damage: 3d6
-radius: 2.5 ft
+damage type: "[[Fire]]"
+area of effect: 2.5 ft radius
+duration: 1 minute
+price:
+weight:
+size:
 ---
 [[Arrow]]
 As this arrow is shot, it drops a trail of oil (or something else flammable) behind it in a 20 ft line and then lights the line on fire when the oil has run out, cause a line of flames behind it.

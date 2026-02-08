@@ -84,7 +84,7 @@ views:
       - property: type
         direction: ASC
     summaries:
-      type: Secondary
+      type: Unique
     columnSize:
       file.name: 194
       note.passive-ability: 434

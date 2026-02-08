@@ -1,21 +1,23 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: when activated
-tinker time: 2 hours
 throwable: true
+tinker time: 2 hours per Rune Order
 range: 100 ft
-element:
 damage:
-radius: 2.5 ft
+damage type:
+area of effect: 15 ft radius
+duration: when activated
+price:
+weight:
+size:
 ---
 [[Arrow]]
 Similar to the [[Glyph Ring]], but in arrow form.
 
 Must be made with the help of a [[Scribe]].
-[[Tinker]] time increases 2 hours for each order of [[Resources/Rune]] higher than 1.
+[[Tinker]] time increases 2 hours for each order of [[Rune]] higher than 1.
 Must still be activated by a [[Scribe]].
 
 Can be shot at a creature to apply a rune to their body, as well at an object or other to apply a rune to it. If a creature is shot by this arrow, they take the normal damage of whatever bow is used to shoot the arrow.

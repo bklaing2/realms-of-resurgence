@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: 1 hour
-tinker time: 2 hours
 throwable: true
+tinker time: 2 hours
 range: 80/300 ft
-radius:
-element:
 damage:
+damage type:
+area of effect: 15 ft radius
+duration: 1 hour
+price:
+weight:
+size:
 ---
 [[Arrow]]
 When a creature is shot by this arrow, the shooter rolls 4d6 + [[Tinker]] modifier and if the number rolled equals or exceeds the remaining HP of the creature who is shot, they instantly fall prone and asleep for the duration. If a sleeping creature takes any damage, they are awakened; the same goes for if another creature uses an Action to awake them.

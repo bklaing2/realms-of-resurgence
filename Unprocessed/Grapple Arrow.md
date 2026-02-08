@@ -1,15 +1,17 @@
 ---
 type: "[[Item]]"
-item type: "[[Arrow]]"
+item type: "[[Projectile]]"
 consumable: true
-action: true
-duration: instantaneous
-tinker time: 1.5 hours
 throwable: true
+tinker time: 2 hours
 range: 30 ft
-element:
 damage:
-radius: 2.5 ft
+damage type:
+area of effect: 2.5 ft radius
+duration: instantaneous
+price:
+weight:
+size:
 ---
 [[Arrow]]
 This arrow can be shot at something and it trails a thin, but strong cord/cable behind it, allowing the shooter to either climb what it was shot at, or pull that thing or creature towards it with a [[Fortitude]] check. If shot at a creature, that creature takes the normal damage that the bow would do.

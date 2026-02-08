@@ -3,7 +3,9 @@ type: "[[Item]]"
 item type: "[[Component]]"
 consumable: true
 rarity: "5"
-"used in:":
+price:
+weight:
+size:
 ---
 [[Component]]
 salt made of shavings of obsidian.

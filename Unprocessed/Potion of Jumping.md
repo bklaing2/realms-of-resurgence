@@ -2,12 +2,12 @@
 type: "[[Item]]"
 item type: "[[Potion]]"
 consumable: true
-quick action: true
-action: true
-duration: 1 hour
 brewing time: 15 minutes
+components:
+inert after:
+duration: 1 hour
 ---
-[[Resources/Potion]] [[Consumables]] 
+[[Potion]] [[Consumables]] 
 drinker can triple their jump distance when getting a running start
 drinker can double their jump height when making a standing jump
 
