@@ -1,5 +1,5 @@
 ---
-type: "[[Item]]"
+type: "[[Item (Template)]]"
 item type:
 price:
 weight:

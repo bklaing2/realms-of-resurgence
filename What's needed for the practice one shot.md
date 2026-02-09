@@ -33,7 +33,7 @@
   - [x] locations
   - [x] environments
   - [ ] lore
-  - [ ] realms of [[Lords of the Wastes]] and how they differ
+  - [ ] realms of [[Lord of the Wastes]] and how they differ
 	  - [ ] realm mechanics and "actions"
 
 - [x] Resting
@@ -106,11 +106,11 @@
 - [[Armor Repair Kit]]
 - [[Advanced Armor Repair Kit]]
 - [[Resting]]
-- [[Absent, The]] and [[Attending, The]]
+- [[The Absent]] and [[The Attending]]
 - [[Rotborne Overseer]], [[Rotborne Feral]], and [[Rotborne Spawn]]
 - added power/intelligence property to [[Creatures]]
-- [[Exiled]] and [[Exiled, Mutated]]
-- [[Dawnmarked, Bound]] and [[Dawnmarked, Unbound]]
+- [[Exiled]] and [[Exiled (Mutated)]]
+- [[Dawnmarked (Bound)]] and [[Dawnmarked (Unbound)]]
 - Added something **JUICY** at the bottom of [[The Gathering Bright|Gathering Bright]] - *let me know what you think*
 - Added photos to most of the [[Creatures]], [[The Gathering Bright|Gathering Bright]], and [[Whispering Angels]]
 
@@ -160,12 +160,12 @@
 **28-01-2026**
 
 **James**
-- added [[Lords of the Wastes]] page
+- added [[Lord of the Wastes]] page
 - updated [[Rogalth, The Dread Visage, Lord of the Bone Road]]'s page
 - added #2, [[Kuzrael, The Wandering Swine, Lord of the Dust]]
 
 **Playtesting:**
-- killed the two [[Absent, The]]s and [[Attending, The]]s in the [[Reliquary]] of the abandoned [[Settlement]]
+- killed the two [[The Absent]]s and [[The Attending]]s in the [[Reliquary]] of the abandoned [[Settlement]]
 - long rested and leveled up to level 3!
 - reached day 3 in the [[The Wastes|Wastes]], now use a d8 for radiation dice
 - rolled a 4 on the Waste table for the next rest
@@ -203,7 +203,7 @@ Look how cool this is
 	- Radical failing adds another level of storytelling. Like when the [[Scout]] was outside the window and failed the [[Insight]] roll, that led to the [[Whispering Angels]] starting their ritual
 
 **05-02-2026**
-- 15 [[Arrow]] in [[Items.base]] view
+- 15 [[Resources/Arrow]] in [[Items.base]] view
 - 25 [[Component]] and where they come from for us to start working with
 	- along with rarities in [[Items.base]] -> [[Component]] view
 
@@ -212,3 +212,13 @@ Look how cool this is
 - More [[Component]] (27)
 - [[Waste Environments]] view in [[Sai Yoxis.base]] sorted by named, unnamed, commonality, danger, and size
 - now with photos!
+
+**06/7/8-02-2026**
+- Lots of organizing.
+- The best way that I've found for keeping the creature abilities visible on a creature's note is by (*gasp*)... keeping them in the note lol
+	- Now, each ability/action is a `# Heading` instead of simply bolded
+	- This allows it to be linked in the properties (like [[#Log]]) and visible in the bases. It's not quite perfect, but it's good enough for now.
+
+> [!tip]+
+> If you want to rename a creature's ability (or any heading that is likely linked to for that matter), be sure to right click on the heading and rename it, otherwise it won't auto-update the links to it
+

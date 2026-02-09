@@ -1,6 +1,6 @@
 ---
 type: "[[Item]]"
-item type: "[[Projectile]]"
+item type: "[[Unprocessed/Arrow]]"
 consumable: true
 throwable: true
 tinker time: 30 minutes
@@ -13,7 +13,7 @@ price:
 weight:
 size:
 ---
-[[Arrow]]
+[[Resources/Arrow]]
 Wherever this arrow lands, in a radius of 30 ft, no sound can emit from the radius. Any creatures within the radius are unable to make noise or hear noise from outside the radius (or inside of course).
 
 Thus, no spell or ability needing vocal [[Component]] is unable to be used within the radius of this arrow.

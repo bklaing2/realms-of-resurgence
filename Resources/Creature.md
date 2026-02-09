@@ -1,27 +1,12 @@
 ---
-type: moc
-parent: "[[Sai Yoxis]]"
-name: Creatures
 aliases:
-tags:
-  - sai-yoxis
+  - Creatures
+  - creature
+  - creatures
 ---
-# Comments
-`I'm thinking we can have 1 or 2 or 3 non-horror monsters based on each [[Character Creation|race]] - B`
+![[Embeddable.base#Creatures]]
 
-# Passive #todo 
-```dataview
-LIST
-FROM [[]]
-WHERE type = "creature" AND hostility = "passive"
-SORT file.name
-```
-# Hostile #todo
-
-
-# Horrors of [[The Wastes]]
-
-Description... #todo
+#brainstorm we can have 1 or 2 or 3 non-horror monsters based on each [[Ancestry]]
 
 ## Low-Sentience Low-Power #needs/name 
 
@@ -40,13 +25,6 @@ these will stalk just anywhere and are basically searching for food. they sense 
 > 2 forms - one grazing and "harmless" and one for hunting
 takes a whole turn (or whatever) to change into their hunting form
 allows for surprise attacks
-> 
-```dataview
-LIST
-FROM [[]]
-WHERE type = "creature" AND tier = 0
-SORT file.name
-```
 
 ## Low-Sentience High-Power #needs/name 
 
@@ -65,7 +43,6 @@ SORT file.name
 > takes a whole turn (or whatever) to change into their hunting form
 > allows for surprise attacks
 
-
 ## High-Sentience High-Power #needs/name 
 
 > [!INFO]- About
@@ -79,7 +56,6 @@ SORT file.name
 > - an army of well equipped and planned soldiers could maybe kill one of these some of the time
 > - veteran travelers will not enter into the territories of the more powerful of these horrors, especially depending on how long their group has been out in [[The Wastes]] (the longer out there, the more enticing they are).
 > - some legendary travelers have stories told about how they have negotiated with one of these horrors or tricked them or played one against the other, but these stories have been mostly lost to time.
-
 
 ## Rulers of The Wastes #needs/name 
 

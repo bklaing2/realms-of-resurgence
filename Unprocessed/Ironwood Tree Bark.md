@@ -8,7 +8,7 @@ weight:
 size:
 ---
 [[Component]]
-Stronger than normal tree found in [[The Wastes]] identified by its extra tall height and silver sheen to the bark.
+Stronger than normal tree found in [[The Wastes]] identified by its extra tall height and silver sheen to the bark. Also can be harvested off the [[Barkspawn Tyrant]] when killed.
 
 Used in:
 - 

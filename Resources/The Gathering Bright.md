@@ -27,7 +27,7 @@ Their holy buildings are called [[Reliquary]], in which are built on top of and 
 - ***The Ones that Remember*** (general name for the GB)
 - ***The Deep Learned*** or just ***The Learned*** (for a name that they call themselves within the GB)
 - **Dawnmarked** (those created for the protection and furthering of the GB)
-- **Wardens of the Light** (only in larger [[Settlement]]s, when protection or things are needed, but [[Dawnmarked, Bound]] are not available or would be overkill. Regular waste-dwellers that work for the GB, not part of the clergy technically)
+- **Wardens of the Light** (only in larger [[Settlement]]s, when protection or things are needed, but [[Dawnmarked (Bound)]] are not available or would be overkill. Regular waste-dwellers that work for the GB, not part of the clergy technically)
 
 ![[IMG_0853.jpeg]]
 ![[IMG_0855.jpg]]

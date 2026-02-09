@@ -1,39 +1,51 @@
 ---
-name: Awakened Viscera
-type: creature
-subtype: horror
-parent: "[[Creatures]]"
-ac: 10
-hp: 20
-speed: "25"
+aliases:
+  - Slime
+  - slime
+type: "[[Creature]]"
+creature type: "[[Horror]]"
+power level: "[[Low]]"
+sentience level: "[[Low]]"
+creature size: any
+fortitude: 5
+finesse: 1
+intuition: 3
+intelligence: 1
+mantic: 3
+hit points: 20
+speed: 25 ft
+armor class: 10
 to hit: "5"
-mantic score: 3
-power/intelligence: low/low
-body size: any
+passive abilities:
+actions:
+  - "[[#Multiattack]]"
+  - "[[#Slam]]"
+  - "[[#Engulf]]"
+proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
+image:
 ---
 [[The Wastes]], [[Component]]
-**AC**: 10
-**HP**: 20
-**Speed**: 25 ft
-**[[Fortitude]]**: +5
-**[[Finesse]]**: +1
-**[[Intelligence]]**: +1
-**[[Intuition]]**: +3
-**[[Mantic]]**: +3
+
 **Perception**: +4
 **[[Subterfuge|Stealth]]**: +4
 
-**Actions**
-**Multiattack** (2) the slime can make two slam attacks per turn.
-# Attacks:
-## Slam
+# Multiattack
+
+The Awakened Viscera can make two [[#Slam]] attacks per turn.
+
+# Slam
+
 +5 to hit
 5 ft range
-2d6 + 3 mantic damage
-## Engulf:
+2d6 + 3 [[Mantic (Damage)]]) damage
+# Engulf
+
 *recharges on a 4-6*
-the slime can jump forwards up to 15 ft and engulf a creature that is at least one size smaller than it
-creatures within are restrained and cannot breathe and take 1d4 + 3 manic damage at the start of each of their turns. the slime can hold up to 3 creatures at one time, if a 4th were to be engulfed, roll a die to decide who gets forced out.
-# Proximity Radiation Fail
-when a PC rolls a radiation fail within 15 ft of a slime, it immediately gets a +10 to its HP and then divides in two (splitting its HP between the two slimes) these two slimes being smaller than the original and now only being able to hold 2 creatures at one time from engulf.
+The Awakened Viscera can jump forwards up to 15 ft and engulf a [[Creature]] that is at least one size smaller than it.
+
+Creatures within are restrained, cannot breathe, and take 1d4 + 3 [[Mantic (Damage)]] damage at the start of each of their turns. The slime can hold up to 3 creatures at one time; if a fourth creature is to be engulfed, roll 1d4 to decide who gets forced out.
+
+# Proximity Radical Fail Outcome
+
+When a PC rolls a [[Radical Fail]] within 15 ft of an Awakened Viscera, it immediately gets a +10 to its HP and then divides in two (splitting its HP between the two slimes) these two slimes being smaller than the original and now only being able to hold 2 creatures at one time from engulf.
 slimes can continue to split until they can no longer hold even one creature (so twice more for this example, though a larger and more dangerous slime could split more times)

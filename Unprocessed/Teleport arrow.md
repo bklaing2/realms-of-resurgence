@@ -1,6 +1,6 @@
 ---
 type: "[[Item]]"
-item type: "[[Projectile]]"
+item type: "[[Unprocessed/Arrow]]"
 consumable: true
 throwable: true
 tinker time: 6 hours
@@ -13,7 +13,7 @@ price:
 weight:
 size:
 ---
-[[Arrow]]
+[[Resources/Arrow]]
 Wherever this arrow lands, the creature who shot it instantly appears touching the arrow in its new location.
 
 If a creature is shot by this arrow, they take the normal damage of whatever bow is used to shoot the arrow.

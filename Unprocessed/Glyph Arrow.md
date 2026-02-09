@@ -1,6 +1,6 @@
 ---
 type: "[[Item]]"
-item type: "[[Projectile]]"
+item type: "[[Unprocessed/Arrow]]"
 consumable: true
 throwable: true
 tinker time: 2 hours per Rune Order
@@ -13,7 +13,7 @@ price:
 weight:
 size:
 ---
-[[Arrow]]
+[[Resources/Arrow]]
 Similar to the [[Glyph Ring]], but in arrow form.
 
 Must be made with the help of a [[Scribe]].

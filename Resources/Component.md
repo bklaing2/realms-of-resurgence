@@ -1,3 +1,6 @@
+---
+parent: "[[Item]]"
+---
 Components needed for the drawing of [[Resources/Rune]], (maybe) the casting of [[Resources/Spell|Spells]], and the summoning of spirts (by the [[Shaman]]).
 
 These components can be found throughout [[The Wastes]] and within some [[Settlement]]s, especially larger ones may have markets where some of the more common components can be purchased.
@@ -10,10 +13,10 @@ Rarity is on a scale of 1-5, 1 being incredibly rare or hard to retrieve and 5 b
 - [[Ashroot]] - a purple tuber that can only be found growing where fires have raged or lava bubbles up from under ground.
 - [[Corpse-thorn berry]] - the small white berries from a bush that only grows around graves and the dead.
 - [[Rotwillow Grass]] - a short, orange bladed grass that grows in [[The Wastes]].
-- [[Bones of the Exiled]] - bones taken from the slain bodies of an [[Exiled]] or [[Exiled, Mutated]]
+- [[Bones of the Exiled]] - bones taken from the slain bodies of an [[Exiled]] or [[Exiled (Mutated)]]
 - [[Blood-soaked Chalk]] - chalk that has soaked up blood within the past week.
 - [[Phalanx Bone]] - the finger bone of a humanoid.
-- [[Attending Eye]] - the eye of one of [[Attending, The]] from [[The Wastes]].
+- [[Attending Eye]] - the eye of one of [[The Attending]] from [[The Wastes]].
 - [[Handful of Awakened Viscera]] - a handful of [[Awakened Viscera]] from [[The Wastes]].
 - [[Barkspawn Head]] - the head of either a [[Barkspawn Runner]], [[Barkspawn Sleeper]], or [[Barkspawn Tyrant]] from [[The Wastes]], with varying levels of power from each; respectively.
 - [[Wastewalker Essence]] - a vial of mantic essence from a [[Wastewalker]] from [[The Wastes]].

@@ -1,21 +1,27 @@
 ---
-type: creature
-subtype: humanoid
-power/intelligence: low/low
-body size: medium
+type: "[[Creature]]"
+creature type: "[[Humanoid]]"
+power level: "[[Low]]"
+sentience level: "[[Low]]"
+creature size: "[[Medium]]"
+fortitude: 2
+finesse:
+intuition:
+intelligence:
+mantic:
+hit points: 4
+speed: 30 ft
+armor class: 8
+to hit:
+passive abilities:
+actions:
+  - "[[#Shortsword]]"
+image:
 ---
-**AC**: 8  
-**HP**: 4  
-**Speed**: 30 ft  
-**[[Fortitude]]**: +2  
-**[[Mantic]]**: +0  
 **Perception**: +2
 
-**Passives**:  None
+# Shortsword
 
-**Actions**: 
-# Attacks:
-## Shortsword:
 +2 to hit  
 5 ft range  
-1d6 + 0 slashing damage
+1d6 + 0 [[Slashing]] damage

@@ -8,7 +8,7 @@ weight:
 size:
 ---
 [[Component]]
-the eye of one of [[Attending, The]] from [[The Wastes]].
+the eye of one of [[The Attending]] from [[The Wastes]].
 
 Used in:
 - 

@@ -3,6 +3,7 @@ aliases:
   - Potions
   - potion
   - potions
+parent: "[[Item]]"
 ---
 `We will split these up into their own notes`
 

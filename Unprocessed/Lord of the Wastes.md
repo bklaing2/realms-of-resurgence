@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lords of the Wastes
+---
 [[The Wastes]]
 the high [[Intelligence]], high powered horrors are often known and called gods by the common folk. they aren’t gods (at least most of them aren’t at that level) but they seem like it to the common person.  
 they might take goats or other offerings to a nearby hill in the wastes for the “hill god” to be appeased.  

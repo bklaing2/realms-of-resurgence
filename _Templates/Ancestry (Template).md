@@ -1,6 +1,6 @@
 ---
-type: "[[Creature]]"
-creature type: "[[Ancestry]]"
+type: "[[Resources/Creature]]"
+creature type: "[[Ancestry (Template)]]"
 description: <%* const name = await tp.system.prompt("Ancestry Name") %>
 passive abilities:
   - "[[<% name %> - Passive 1]]"

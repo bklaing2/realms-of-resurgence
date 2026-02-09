@@ -180,3 +180,24 @@ views:
     columnSize:
       file.name: 173
       note.item type: 118
+  - type: cards
+    name: Creatures
+    filters:
+      and:
+        - type == link("Creature")
+    groupBy:
+      property: creature type
+      direction: ASC
+    order:
+      - file.name
+      - sentience level
+      - power level
+      - creature size
+    sort: []
+    columnSize:
+      file.name: 154
+      note.passive abilities: 151
+      note.actions: 358
+    cardSize: 160
+    image: note.image
+    imageAspectRatio: 0.6

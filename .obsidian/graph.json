@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:Bases  ",
+  "collapse-filter": false,
+  "search": "-path:Bases",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -78,8 +78,8 @@
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1.87179930795848,
   "lineSizeMultiplier": 1.00709342560554,

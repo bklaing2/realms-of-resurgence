@@ -1,6 +1,6 @@
 ---
 type: "[[Item]]"
-item type: "[[Projectile]]"
+item type: "[[Unprocessed/Arrow]]"
 consumable: true
 throwable: true
 tinker time: 3.5 hours
@@ -13,7 +13,7 @@ price:
 weight:
 size:
 ---
-[[Arrow]]
+[[Resources/Arrow]]
 When a creature is shot by this arrow, they must make a [[Fortitude]] saving throw, DC 10 + [[Tinker]] modifier, or they become stunned until the end of the shooters next turn.
 
 Stunned creatures are incapacitated and cannot move, automatically fail [[Fortitude]] and [[Finesse]] checks and saving throws, and attacks have advantage on them.

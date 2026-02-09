@@ -1,22 +1,27 @@
 ---
-type: creature
-subtype: humanoid
-power/intelligence: low/low
-body size: medium
+type: "[[Creature]]"
+creature type: "[[Humanoid]]"
+power level: "[[Low]]"
+sentience level: "[[Low]]"
+creature size: "[[Medium]]"
+fortitude: 3
+finesse:
+intuition:
+intelligence:
+mantic:
+hit points: 10
+speed: 25 ft
+armor class: 9
+to hit:
+passive abilities:
+actions:
+  - "[[#Greatclub]]"
+image:
 ---
-**AC**: 9  
-**HP**: 10  
-**Speed**: 25 ft  
-**[[Fortitude]]**: +3  
-**[[Mantic]]**: +0  
 **Perception**: +1
-**[[Intimidation]]:** +2
 
-**Passives**:  None
+# Greatclub
 
-**Actions**: 
-# Attacks:
-## Greatclub:
-+3 to hit  
-5 ft range  
-2d6 + 3 bludgeoning damage
++3 to hit
+5 ft range
+2d6 + 3 [[Bludgeoning]] damage

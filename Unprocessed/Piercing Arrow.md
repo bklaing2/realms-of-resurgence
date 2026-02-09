@@ -1,6 +1,6 @@
 ---
 type: "[[Item]]"
-item type: "[[Projectile]]"
+item type: "[[Unprocessed/Arrow]]"
 consumable: true
 throwable: false
 tinker time: 2 hours
@@ -13,7 +13,7 @@ price:
 weight:
 size:
 ---
-[[Arrow]]
+[[Resources/Arrow]]
 This arrow travels as a line and damages every creature along that line for 20 ft after the arrow hits (and travels through) the first creature in the line.
 
 The first creature struck takes the normal damage from whatever bow shot the arrow, plus 1d6 damage. That 1d6 is then done to each creature in the line for 20 ft.

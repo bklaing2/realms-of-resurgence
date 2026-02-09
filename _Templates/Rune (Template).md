@@ -1,5 +1,5 @@
 ---
-type: "[[Rune]]"
+type: "[[Rune (Template)]]"
 description:
 attributes:
 mantic charge minimum: 0

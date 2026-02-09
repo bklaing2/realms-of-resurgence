@@ -1,6 +1,6 @@
 ---
 type: "[[Item]]"
-item type: "[[Projectile]]"
+item type: "[[Unprocessed/Arrow]]"
 consumable: true
 throwable: true
 tinker time: 1 hour
@@ -13,7 +13,7 @@ price:
 weight:
 size:
 ---
-[[Arrow]]
+[[Resources/Arrow]]
 When this arrow is fired at a wall or other object, it attaches and begins to act as a torch for the next 30 minutes. It may be put out and relit like a normal torch and provides dim light in a radius of 30 ft.
 
 The weight of the [[Component]] used to create this arrow cause it to have a reduced range.

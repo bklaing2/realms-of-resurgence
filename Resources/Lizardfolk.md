@@ -1,6 +1,6 @@
 ---
 type: "[[Creature]]"
-creature type: "[[Resources/Ancestry]]"
+creature type: "[[Ancestry]]"
 description:
 passive abilities:
   - "[[Lizardfolk - Passive 1]]"

@@ -57,7 +57,7 @@ views:
     name: Subclasses
     filters:
       or:
-        - type == this.file
+        - note["class type"] == this.file
     groupBy:
       property: type
       direction: ASC

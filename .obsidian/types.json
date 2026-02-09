@@ -23,6 +23,17 @@
     "casting time": "multitext",
     "target": "multitext",
     "passive abilities": "multitext",
-    "abilities": "multitext"
+    "abilities": "multitext",
+    "hit points": "number",
+    "fortitude": "number",
+    "finesse": "number",
+    "intuition": "number",
+    "intelligence": "number",
+    "mantic": "number",
+    "actions": "multitext",
+    "attacks": "multitext",
+    "reactions": "multitext",
+    "passive": "checkbox",
+    "legendary actions": "multitext"
   }
 }

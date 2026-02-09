@@ -52,5 +52,19 @@
   "minimal-advanced@@cursor": "default",
   "minimal-style@@ui2@@light": "#DDD79F40",
   "minimal-style@@bg3@@light": "#FFFFFF5E",
-  "minimal-style@@ui3@@light": "#00000033"
+  "minimal-style@@ui3@@light": "#00000033",
+  "minimal-style@@heading-spacing": "2.75rem",
+  "minimal-style@@p-spacing": ".75rem",
+  "minimal-style@@h1-font": "Homenaje",
+  "minimal-style@@h1-style": "normal",
+  "minimal-style@@h1-size": "1.5em",
+  "minimal-style@@h1-weight": 600,
+  "minimal-style@@h1-variant": "normal",
+  "minimal-style@@h1-color@@light": "#686868",
+  "minimal-style@@h2-weight": 900,
+  "minimal-style@@h2-font": "Homenaje",
+  "minimal-style@@h2-size": "1.4em",
+  "minimal-style@@h2-color@@light": "#8C8C8C",
+  "minimal-style@@h2-variant": "small-caps",
+  "minimal-style@@h2-style": "italic"
 }

@@ -19,7 +19,7 @@
 - hit dice also refresh
 - all armor is able to be repaired **without** the use of [[Armor Repair Kit]]s
 - allow the players to level up
-- players can work on projects during rests like [[Resources/Rune]], Spells, [[Resources/Potion]], [[Arrow]], and pretty much anything else PCs can think of
+- players can work on projects during rests like [[Resources/Rune]], Spells, [[Resources/Potion]], [[Resources/Arrow]], and pretty much anything else PCs can think of
 - [[Mantic Charge|mantic charges]] fully refresh and any extras that were being held should go away (though, they most likely already overclocked and blew up in a PCs face) even if they were in a magical item
 - many magical items refresh
 
