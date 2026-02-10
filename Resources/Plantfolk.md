@@ -3,9 +3,9 @@ type: "[[Creature]]"
 creature type: "[[Ancestry]]"
 description:
 passive abilities:
-  - "[[Plantfolk - Passive 1]]"
-roleplay ability: "[[Plantfolk - Roleplay]]"
-exploration ability: "[[Plantfolk - Exploration]]"
+  - "[[Rooted]]"
+roleplay ability: "[[Leaf Image]]"
+exploration ability: "[[Accelerated Growth]]"
 combat ability: "[[Thorns]]"
 tags:
   - needs/name

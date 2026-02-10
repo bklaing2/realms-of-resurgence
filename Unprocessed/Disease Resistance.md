@@ -1,0 +1,1 @@
+Advantage on rolls for [[Poisoned (Condition)]] and [[Weakened (Condition)]]

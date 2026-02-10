@@ -1,1 +1,0 @@
-don't need to eat if they're in the sun for X amount of time

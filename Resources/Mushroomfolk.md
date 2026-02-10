@@ -3,7 +3,7 @@ type: "[[Creature]]"
 creature type: "[[Ancestry]]"
 description:
 passive abilities:
-  - "[[Mushroomfolk - Passive 1]]"
+  - "[[Decomposers]]"
 roleplay ability: "[[Spores]]"
 exploration ability: "[[Bioluminescence]]"
 combat ability: "[[Ballistospheres]]"
@@ -11,6 +11,10 @@ tags:
   - needs/name
 ---
 ![[Self Referential.base#Ancestry]]
+
+#brainstorm Psychedelics?
+#brainstorm Once a short rest, as a reaction, can force a [[Creature]] that has just been slain to make one more action before officially dying.
+
 
 Found on [[Sai Yoxis IV]]
 [Google Doc](https://docs.google.com/document/d/100Y20rvhw8RZMD__Q8Ycmkf6tvbaa6LLS8oWhrVLL00/edit?tab=t.0)

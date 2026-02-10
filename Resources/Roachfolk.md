@@ -3,10 +3,10 @@ type: "[[Creature]]"
 creature type: "[[Ancestry]]"
 description:
 passive abilities:
-  - "[[Roachfolk - Passive 1]]"
+  - "[[Disease Resistance]]"
 roleplay ability: "[[Unsettling Presence]]"
-exploration ability: "[[Roachfolk - Exploration]]"
-combat ability: "[[Roachfolk - Combat]]"
+exploration ability: "[[Big Jump]]"
+combat ability: "[[My Head Fell Off!]]"
 tags:
   - needs/name
 ---

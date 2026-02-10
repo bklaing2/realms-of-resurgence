@@ -3,10 +3,10 @@ type: "[[Creature]]"
 creature type: "[[Ancestry]]"
 description:
 passive abilities:
-  - "[[Slugfolk - Passive 1]]"
-roleplay ability: "[[Slugfolk - Roleplay]]"
-exploration ability: "[[Slugfolk - Exploration]]"
-combat ability: "[[Slugfolk - Combat]]"
+  - "[[Squishy]]"
+roleplay ability: "[[Slug Drug]]"
+exploration ability: "[[Climb]]"
+combat ability: "[[Slime Trap]]"
 tags:
   - needs/name
 ---

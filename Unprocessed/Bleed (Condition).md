@@ -1,0 +1,1 @@
+Each turn, take 1d4 damage

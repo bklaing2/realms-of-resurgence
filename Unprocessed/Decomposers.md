@@ -1,0 +1,1 @@
+Can eat anything recently deceased instead of rations with no ill effects

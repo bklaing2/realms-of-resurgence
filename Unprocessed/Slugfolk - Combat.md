@@ -1,1 +1,0 @@
-slime trap - can leave a slippery/sticky slime trail

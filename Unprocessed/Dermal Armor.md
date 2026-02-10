@@ -1,0 +1,1 @@
+Once a short rest, as a reaction, can increase the armor mitigation by your level

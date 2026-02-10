@@ -1,1 +1,0 @@
-slug drug - saving through if someone ingests your slime, otherwise they become inebriated

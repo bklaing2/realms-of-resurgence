@@ -4,10 +4,9 @@ creature type: "[[Ancestry]]"
 description:
 passive abilities:
   - "[[Ampullae of Lorenzini (blind sense)]]"
-  - "[[Dermal armor]]"
-roleplay ability: "[[Sharkfolk - Roleplay]]"
+roleplay ability: "[[Insightful]]"
 exploration ability: "[[Sharkfolk - Exploration]]"
-combat ability: "[[Sharkfolk - Combat]]"
+combat ability: "[[Dermal Armor]]"
 tags:
   - needs/name
 ---

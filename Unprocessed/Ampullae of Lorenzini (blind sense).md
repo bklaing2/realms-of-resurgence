@@ -1,1 +1,1 @@
-sense living things that are up to 10ft away
+sense living things that are up to 20ft away

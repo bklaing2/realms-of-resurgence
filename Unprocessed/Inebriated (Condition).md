@@ -1,0 +1,1 @@
+[[Persuasion]] and [[Intimidation]] have advantage against the [[Creature]]

@@ -1,0 +1,1 @@
+Once a short rest, can impose the [[Fear (Condition)]] on a creature
