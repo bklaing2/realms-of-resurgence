@@ -1,1 +1,0 @@
-Once per short rest, discharge a cloud spores in a 5ft radius. Any creature within must make DC 8 + Level [[Constitution]] check or become [[Poisoned (Condition)]] for 1 minute.
