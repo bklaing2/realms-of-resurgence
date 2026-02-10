@@ -89,7 +89,7 @@ roll on this after every short or long rest - dm rolls the dice that the players
 > | **_8_**     | one or more high power-low intelligence horrors comes within range of the party’s camp |
 > | **_9_**     | the entire next day, the dwarf star is not visible within the Wastes, perception and navigation rolls are made with disadvantage |
 > | **_10_**     | one high power-high intelligence comes within range of the party’s camp |
-> | **_11_**     | everyone's number of [[Mantic Charge|mantic charges]] are doubled, but horrors also double their mantic score and thus double their extra added damage. (if an attack did 2d6+5 damage, it now does 2d6+10 damage) |
+> | **_11_**     | everyone's number of mantic charges are doubled, but horrors also double their mantic score and thus double their extra added damage. (if an attack did 2d6+5 damage, it now does 2d6+10 damage) |
 > | **_12_**     | the party falls under the sight and attention of one of the lords of the waste |
 
 # Old Stuff
