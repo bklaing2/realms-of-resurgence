@@ -222,3 +222,9 @@ Look how cool this is
 > [!tip]+
 > If you want to rename a creature's ability (or any heading that is likely linked to for that matter), be sure to right click on the heading and rename it, otherwise it won't auto-update the links to it
 
+**10-02-2026**
+- Finished [[Ancestry]] abilities
+- Worked on [[Class]] abilities
+- #todo Flesh out [[Condition]] and [[Damage Types]]
+	- [[Fear (Condition)]], [[Bleed (Condition)]], [[Poisoned (Condition)]], [[Weakened (Condition)]], [[Inebriated (Condition)]], [[Restrained (Condition)]]
+	- [[Mantic (Damage)]], [[Poison (Damage)]], [[Slashing]], [[Bludgeoning]], [[Piercing]], [[Fire]], [[Acid]]
