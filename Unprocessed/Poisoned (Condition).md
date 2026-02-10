@@ -1,0 +1,1 @@
+[[Creature|Creatures]] take 1d4 damage every round

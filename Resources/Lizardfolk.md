@@ -3,10 +3,10 @@ type: "[[Creature]]"
 creature type: "[[Ancestry]]"
 description:
 passive abilities:
-  - "[[Lizardfolk - Passive 1]]"
-roleplay ability: "[[Lizardfolk - Roleplay]]"
-exploration ability: "[[Lizardfolk - Exploration]]"
-combat ability: "[[Lizardfolk - Combat]]"
+  - "[[Chameleon]]"
+roleplay ability: "[[Molt]]"
+exploration ability: "[[Accelerated Healing]]"
+combat ability: "[[Autohaemorrhaging]]"
 tags:
   - needs/name
 ---

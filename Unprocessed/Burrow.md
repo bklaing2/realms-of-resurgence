@@ -1,1 +1,1 @@
-can dig xft times level
+can dig 5 ft times level

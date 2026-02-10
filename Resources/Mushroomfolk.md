@@ -6,7 +6,7 @@ passive abilities:
   - "[[Mushroomfolk - Passive 1]]"
 roleplay ability: "[[Spores]]"
 exploration ability: "[[Bioluminescence]]"
-combat ability: "[[Mushroomfolk - Combat]]"
+combat ability: "[[Catapulate]]"
 tags:
   - needs/name
 ---

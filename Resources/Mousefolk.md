@@ -6,7 +6,8 @@ passive abilities:
   - "[[Whisking]]"
 roleplay ability: "[[Ultrasonic Message]]"
 exploration ability: "[[Burrow]]"
-combat ability: "[[Incisors?]]"
+combat ability: "[[Incisors]]"
+image: "[[IMG_0971.jpg]]"
 tags:
   - needs/name
 ---

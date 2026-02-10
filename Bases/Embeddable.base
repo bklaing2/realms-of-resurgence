@@ -48,6 +48,7 @@ views:
     columnSize:
       file.name: 82
     cardSize: 270
+    image: note.image
   - type: cards
     name: Classes
     filters:

@@ -1,0 +1,1 @@
+As a quick action, bite a [[Creature ]] with your incisors. It deals 1d4 + [[Fortitude]] damage. That creature must roll a DC 8 + your level [[Constitution]] check, or become [[Weakened (Condition)]] for a minute. They can reroll the check at the start of their turn.

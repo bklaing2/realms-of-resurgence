@@ -1,0 +1,1 @@
+Roll attacks with disadvantage. Reduce movement speed by 10 ft

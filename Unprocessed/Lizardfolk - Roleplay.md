@@ -1,1 +1,0 @@
-They can molt their skin once a long rest to make essentially a minor illusion of yourself for an hour

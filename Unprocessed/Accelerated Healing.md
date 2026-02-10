@@ -1,0 +1,1 @@
+Once a short rest, can take the max Healing from a hit-die instead of rolling it

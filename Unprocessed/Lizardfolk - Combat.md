@@ -1,1 +1,0 @@
-Once per long rest, lizard-folk can heal ~~two~~ extra hit dice of HP during a short rest. #brainstorm 

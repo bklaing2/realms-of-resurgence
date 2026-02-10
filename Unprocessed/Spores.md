@@ -1,1 +1,1 @@
-once a long rest can change the ancestry that you have a bonus to "charisma" checks to
+once a long rest can change the ancestry that you have a bonus to [[Persuasion]] checks to

@@ -1,1 +1,0 @@
-Can heal some hp over a short rest (since lizards can regrow their tails)

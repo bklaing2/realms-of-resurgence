@@ -4,8 +4,8 @@ creature type: "[[Ancestry]]"
 description:
 passive abilities:
   - "[[Slow Falling]]"
-roleplay ability: "[[Birdfolk - Passive 1]]"
-exploration ability: "[[Birdfolk - Exploration]]"
+roleplay ability: "[[Mimic]]"
+exploration ability: "[[Fly]]"
 combat ability: "[[Screech]]"
 tags:
   - needs/name
