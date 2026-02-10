@@ -26,7 +26,15 @@ formulas:
     ))))))
     .join(""))
   abilities: |-
-    [note["passive abilities"], note["actions"], reactions, note["legendary actions"]]
+    [
+    note["passive abilities"],
+    note["roleplay ability"],
+    note["exploration ability"],
+    note["combat ability"],
+    actions,
+    reactions,
+    note["legendary actions"]
+    ]
     .flat()
     .filter(!value.isEmpty())
     .map(value.toString().slice(2, -2))
