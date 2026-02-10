@@ -15,7 +15,7 @@ properties:
   formula.subclasses:
     displayName: subclasses
   note.passive abilities:
-    displayName: passives
+    displayName: passive abilities
   note.type:
     displayName: type
 views:

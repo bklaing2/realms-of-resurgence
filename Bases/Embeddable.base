@@ -25,11 +25,20 @@ formulas:
     ""
     ))))))
     .join(""))
+  abilities: |-
+    [note["passive abilities"], note["actions"], reactions, note["legendary actions"]]
+    .flat()
+    .filter(!value.isEmpty())
+    .map(value.toString().slice(2, -2))
+
+    .map(if(value.startsWith("#"),
+    link(file.name + value, value.slice(1)),
+    link(value)))
 properties:
   formula.subclasses:
     displayName: subclasses
   note.passive abilities:
-    displayName: passives
+    displayName: passive abilities
   note.type:
     displayName: type
 views:
@@ -60,6 +69,7 @@ views:
       - hit points
       - passive abilities
       - abilities
+      - formula.TEMP TEST
     columnSize:
       file.name: 82
       note.hit points: 43
@@ -195,11 +205,12 @@ views:
       - sentience level
       - power level
       - creature size
+      - formula.abilities
     sort: []
     columnSize:
       file.name: 154
       note.passive abilities: 151
       note.actions: 358
-    cardSize: 160
+    cardSize: 270
     image: note.image
-    imageAspectRatio: 0.6
+    imageAspectRatio: 1.1
