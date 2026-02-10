@@ -177,6 +177,7 @@ views:
         direction: ASC
     summaries:
       equipment type: Unique
+      file.name: Count
     columnSize:
       file.name: 173
       note.item type: 118
