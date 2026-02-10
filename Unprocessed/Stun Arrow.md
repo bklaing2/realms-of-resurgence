@@ -1,6 +1,6 @@
 ---
 type: "[[Item]]"
-item type: "[[Unprocessed/Arrow]]"
+item type: "[[Arrow]]"
 consumable: true
 throwable: true
 tinker time: 3.5 hours
