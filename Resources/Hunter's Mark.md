@@ -1,2 +1,3 @@
-As a bonus action, mark a creature. Every attack against the creature gains advantage. When the creature dies the mark can be moved to another creature with a subsequent bonus action.
+As a bonus action, mark a creature. Every attack against the creature gains advantage.
+
 Can craft [[Resources/Arrow#Tier Two|tier two arrows]].
