@@ -70,6 +70,7 @@ views:
       and:
         - type == link("Class")
         - '!note["class type"].isEmpty()'
+        - note["subclass number"] == link("Sai Yoxis IV", "IV")
     groupBy:
       property: class type
       direction: ASC

@@ -1,2 +1,7 @@
 Drain a bit of [[Mantic]] energy from a creature on a successful hit. This will weaken the creature (adds some extra damage). The magic is stored as a [[#Mantic Charges|Mantic Charge]], and can be used later.
 You may use the stored [[Mantic]] Charge to increase movement or as a reaction to get an attack of opportunity to move with them or keep them there.
+
+#todo What can you do with mantic charges?
+- opportunity attack
+- tripping attack
+- pushing attack

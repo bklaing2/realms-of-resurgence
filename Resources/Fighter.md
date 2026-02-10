@@ -3,7 +3,7 @@ type: "[[Class]]"
 description: The damage dealers
 hit points: d8
 passive abilities:
-  - "[[Fight or Flight]]"
+  - "[[Flank]]"
 abilities:
   - "[[Antimantic Attack]]"
   - "[[Mantic Attack]]"
@@ -12,3 +12,5 @@ tags:
 ---
 ![[Self Referential.base#Class]]
 ![[Self Referential.base#Subclasses]]
+
+See also: [[Fight or Flight]]
