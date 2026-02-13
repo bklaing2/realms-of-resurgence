@@ -20,7 +20,7 @@ actions:
   - "[[#Longsword]]"
   - "[[#Mantic Punch]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image: "[[IMG_0842.jpg]]"
+image: IMG_0843.jpg
 ---
 [[The Wastes]]
 

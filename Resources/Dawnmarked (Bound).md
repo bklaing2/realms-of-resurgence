@@ -21,7 +21,7 @@ actions:
   - "[[#Gauntlet]]"
   - "[[#Runecarver]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image:
+image: IMG_0847 1.jpg
 ---
 [[The Wastes]], [[The Gathering Bright]]
 

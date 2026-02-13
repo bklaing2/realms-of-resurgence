@@ -16,7 +16,7 @@ passive abilities:
   - "[[#Rot Stench]]"
 actions:
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image: "[[IMG_0841.jpg]]"
+image: IMG_0854.jpg
 ---
 [[The Wastes]]
 
@@ -53,3 +53,4 @@ When a PC within 20 ft rolls a [[Radical Fail]], the Rotborne Feral goes absolut
 Rotborne wander [[The Wastes]] searching for things to kill, eat, and scavenge. They live in small tents made of flesh in small camps of 2-8 Overseers and their entourages. Can be traded with occasionally, but often times will attack if they feel like they have the upper hand and the opposing people have something they want (or they are hungry).
 
 ![[IMG_0841.jpg]]
+![[IMG_0854.jpg]]

@@ -19,7 +19,7 @@ actions:
   - "[[#Slam]]"
   - "[[#Kick]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image:
+image: IMG_0815.jpg
 ---
 [[The Wastes]], [[Component]]
   

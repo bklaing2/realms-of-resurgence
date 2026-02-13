@@ -19,7 +19,7 @@ actions:
   - "[[#Stomp]]"
   - "[[#Blight Blast]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image:
+image: IMG_0845.jpg
 ---
 [[The Wastes]], [[Component]]
 

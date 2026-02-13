@@ -19,7 +19,7 @@ actions:
   - "[[#Stomp]]"
   - "[[#Blight Blast]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image:
+image: IMG_0794.jpg
 ---
 ***Great Horror***
 
