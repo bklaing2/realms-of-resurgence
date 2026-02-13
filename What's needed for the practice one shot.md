@@ -228,3 +228,6 @@ Look how cool this is
 - #todo Flesh out [[Condition]] and [[Damage Types]]
 	- [[Fear (Condition)]], [[Bleed (Condition)]], [[Poisoned (Condition)]], [[Weakened (Condition)]], [[Inebriated (Condition)]], [[Restrained (Condition)]]
 	- [[Mantic (Damage)]], [[Poison (Damage)]], [[Slashing]], [[Bludgeoning]], [[Piercing]], [[Fire]], [[Acid]]
+
+**13-02-2026**
+- A *secret* for james :)
