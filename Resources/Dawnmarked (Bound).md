@@ -21,7 +21,7 @@ actions:
   - "[[#Gauntlet]]"
   - "[[#Runecarver]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image: IMG_0847 1.jpg
+image: IMG_0847(1).jpg
 ---
 [[The Wastes]], [[The Gathering Bright]]
 
@@ -58,4 +58,4 @@ When a PC within 15 ft rolls a [[Radical Fail]], the Bound Dawnmarked can suck i
 
 Dawnmarked are [[The Gathering Bright]]'s most powerful "creations". Exposed to [[Mantic]] energy from [[The Wastes]] and their "Light" at the same time, after years of training in a secret location, they become something not quite human. Mostly sent out into the Wastes to research, hunt, and recover artifacts, they can be found roaming the Wastes in pairs, or guarding very important clergy and their most sacred **Reliquaries**.
 
-![[IMG_0847 1.jpg]]
+![[IMG_0847(1).jpg]]
