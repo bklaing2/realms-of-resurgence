@@ -16,7 +16,7 @@ to hit:
 passive abilities:
 actions:
   - "[[#Greatclub]]"
-image:
+image: IMG_1101.jpg
 ---
 **Perception**: +1
 
@@ -25,3 +25,5 @@ image:
 +3 to hit
 5 ft range
 2d6 + 3 [[Bludgeoning]] damage
+
+![[IMG_1101.jpg]]

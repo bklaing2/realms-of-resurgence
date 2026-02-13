@@ -17,7 +17,7 @@ passive abilities:
 actions:
   - "[[#Warhammer]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image:
+image: image.jpg
 ---
 [[Whispering Angels]]
 
@@ -34,3 +34,5 @@ If a [[Creature]] expends a [[Mantic Charge]] within 15ft of the Dreadmarshal, i
 # Proximity Radical Fail Outcome
 
 When a PC within 15 ft rolls a [[Radical Fail]], the cultist sucks up some of the mantic energy and on their next hit, expends their 2 [[Mantic Charge|Mantic Charges]] into their attack, dealing an extra 3d6 damage to the attack. If a second Radical Fail occurs, they gain back these charges, but cannot expend them until the 3rd radical fail, should one occur, and so on.
+
+![[image.jpg]]

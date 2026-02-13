@@ -21,7 +21,7 @@ actions:
   - "[[#Multiattack]]"
   - "[[#Longsword]]"
   - "[[#Dagger]]"
-image:
+image: IMG_1102.jpg
 ---
 **Perception**: +2
 
@@ -49,3 +49,5 @@ Bandit Captain makes 2 attacks ([[#Longsword]] and [[#Dagger]]).
 +3 to hit
 5 ft range (30/60 ft for thrown)
 1d4 + 3 [[Piercing]] damage
+
+![[IMG_1102.jpg]]

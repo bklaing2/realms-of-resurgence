@@ -16,7 +16,7 @@ to hit:
 passive abilities:
 actions:
   - "[[#Shortsword]]"
-image:
+image: IMG_1100.jpg
 ---
 **Perception**: +2
 
@@ -25,3 +25,5 @@ image:
 +2 to hit  
 5 ft range  
 1d6 + 0 [[Slashing]] damage
+
+![[IMG_1100.jpg]]

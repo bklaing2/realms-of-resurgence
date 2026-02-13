@@ -16,7 +16,7 @@ passive abilities:
 actions:
   - "[[#Dagger]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image:
+image: IMG_1099.jpg
 ---
 [[Whispering Angels]]
 
@@ -29,3 +29,5 @@ image:
 # Proximity Radical Fail Outcome
 
 When a PC within 10 ft rolls a [[Radical Fail]], the cultist sucks up some of the mantic energy and heals 1d4 HP.
+
+![[IMG_1099.jpg]]

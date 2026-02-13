@@ -19,7 +19,7 @@ actions:
   - "[[#Dagger]]"
   - "[[#Carve Rune]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image:
+image: IMG_1103.jpg
 ---
 **Perception**: +3
 
@@ -40,3 +40,5 @@ Can use their action to carve a [[Rune]] from the Rune's list, using the same nu
 # Proximity Radical Fail Outcome
 
 When a PC within 10 ft rolls a radiation failure, the Bandit Scribe's already drawn [[Resources/Rune]] automatically power up +1 [[Mantic]] charge, or they are powered if they just need one more action.
+
+![[IMG_1103.jpg]]
