@@ -1,12 +1,12 @@
 ---
 type: "[[Class (Template)]]"
-description: <%* const name = await tp.system.prompt("Class Name") %>
+description: 
 hit points:
 passive abilities:
-  - "[[<% name %> - Passive 1]]"
+  - "[[null - Passive 1]]"
 abilities:
-  - "[[<% name %> - Ability 1]]"
-  - "[[<% name %> - Ability 2]]"
+  - "[[null - Ability 1]]"
+  - "[[null - Ability 2]]"
 tags:
   - needs/name
 ---

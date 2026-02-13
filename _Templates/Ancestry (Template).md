@@ -1,12 +1,12 @@
 ---
 type: "[[Resources/Creature]]"
 creature type: "[[Ancestry (Template)]]"
-description: <%* const name = await tp.system.prompt("Ancestry Name") %>
+description: 
 passive abilities:
-  - "[[<% name %> - Passive 1]]"
-roleplay ability: "[[<% name %> - Roleplay]]"
-exploration ability: "[[<% name %> - Exploration]]"
-combat ability: "[[<% name %> - Combat]]"
+  - "[[null - Passive 1]]"
+roleplay ability: "[[null - Roleplay]]"
+exploration ability: "[[null - Exploration]]"
+combat ability: "[[null - Combat]]"
 tags:
   - needs/name
 ---
