@@ -9,6 +9,7 @@ exploration ability: "[[Bioluminescence]]"
 combat ability: "[[Ballistospheres]]"
 tags:
   - needs/name
+image: image6 (1).jpeg
 ---
 ![[Self Referential.base#Ancestry]]
 
@@ -33,7 +34,7 @@ Bioluminescence - can glow at x intensity times level for level minutes
 
 spores - 5ft radius, make a save or take poison damage
 
-![[Screen Shot 2025-03-06 at 3.59.35 PM.png]]
-
-![[Screen Shot 2025-03-06 at 3.59.06 PM.png]]
-
+![[image6 (1).jpeg]]
+![[image5.jpeg]]
+![[image4.jpeg]]
+![[image3.jpeg]]

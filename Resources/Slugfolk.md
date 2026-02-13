@@ -9,6 +9,7 @@ exploration ability: "[[Climb]]"
 combat ability: "[[Slime Trap]]"
 tags:
   - needs/name
+image: image1 (1).jpeg
 ---
 ![[Self Referential.base#Ancestry]]
 
@@ -28,3 +29,6 @@ Found on [[Sai Yoxis IV]]
 ## Skill Proficiency
 
 slug drug - saving through if someone ingests your slime, otherwise they become inebriated
+
+![[image1 (1).jpeg]]
+![[image2 1.jpeg]]
