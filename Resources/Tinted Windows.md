@@ -3,7 +3,6 @@ id: Rune - Tinted Windows
 aliases: []
 tags:
   - needs/name
-  - sai-yoxis
 description: Light inside the circle cannot be seen by anyone outside
 name: Tinted Windows
 parent: "[[Resources/Rune]]"

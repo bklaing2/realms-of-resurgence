@@ -1,8 +1,6 @@
 ---
 id: Character Creation
 aliases: []
-tags:
-  - sai-yoxis
 name: Character Creation
 parent: "[[Sai Yoxis]]"
 type: moc

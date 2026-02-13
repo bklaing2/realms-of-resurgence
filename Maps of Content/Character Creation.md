@@ -5,8 +5,6 @@ aliases:
   - Race
   - Class
   - Subclass
-tags:
-  - sai-yoxis
 name: Character Creation
 parent: "[[Sai Yoxis]]"
 type: moc

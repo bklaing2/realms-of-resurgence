@@ -2,7 +2,6 @@
 id: Mantic Manipulation
 aliases: []
 tags:
-  - sai-yoxis
 parent: "[[Sai Yoxis]]"
 type: moc
 ---

@@ -4,7 +4,6 @@ aliases:
   - Sai Yoxis
 tags:
   - in-progress
-  - sai-yoxis
 type: place
 subtype: solar system
 ---

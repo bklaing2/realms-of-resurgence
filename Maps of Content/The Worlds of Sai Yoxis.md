@@ -2,7 +2,6 @@
 id: The Worlds of Sai Yoxis
 aliases: []
 tags:
-  - sai-yoxis
 ---
 
 # The Sai Yoxis System

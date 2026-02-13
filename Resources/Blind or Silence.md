@@ -3,7 +3,6 @@ id: Rune - Blind or Silence
 aliases: []
 tags:
   - needs/name
-  - sai-yoxis
 description: Creatures within are blinded or silenced
 name: Blind or Silence
 parent: "[[Resources/Rune]]"
