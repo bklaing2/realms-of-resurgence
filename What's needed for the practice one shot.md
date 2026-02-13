@@ -1,4 +1,4 @@
-# About 2 WEEKS TO GET THIS READY!!
+# 2 WEEKS TO GET THIS READY!!
 
 # Big Picture
 
