@@ -4,6 +4,7 @@ subtype: unnamed
 commonality: "2"
 danger: "3"
 size: "3"
+image: IMG_0975.jpg
 ---
 [[Waste Environments]]
 Found all across the continent and in almost every environment. Caverns can be large or small, inhabited or uninhabited, or anything in between. What could be a safe place to spend the night, can very quickly turn into a death sentence.

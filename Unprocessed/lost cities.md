@@ -4,6 +4,7 @@ subtype: unnamed
 commonality: "4"
 danger: "2.5"
 size: "2"
+image: IMG_0977.jpg
 ---
 [[Waste Environments]]
 Cities and [[Settlement]]s that have been lost to the Wastes. Always full of horrors, treasure, and mystery.
