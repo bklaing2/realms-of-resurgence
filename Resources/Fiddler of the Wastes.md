@@ -20,7 +20,7 @@ actions:
   - "[[#Bow-bow]]"
   - "[[#Play the Song]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image:
+image: IMG_1107.jpg
 ---
 ***Great Horror***
 
@@ -49,3 +49,5 @@ Per turn, a Fiddler can make two [[#Bow-rapier]] and/or [[#Bow-bow]] attacks, an
 # Proximity Radiation Fail
 
 When a PC rolls a radiation fail within 15 ft of the fiddler, the tune changes on the fiddle and everyone who is currently charmed is instantly stunned until the end of the fiddler's next turn. Stunned creatures cannot move and melee attacks are auto critical hits on them.
+
+![[IMG_1107.jpg]]
