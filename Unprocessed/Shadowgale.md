@@ -4,6 +4,7 @@ subtype: named
 commonality: "11"
 danger: "4"
 size: "2"
+image: IMG_0978.jpg
 ---
 [[Waste Environments]]
 Dark and shadow-covered, the Shadowgale is a very unique environment filled with dead trees, ancient dilapidated buildings, and collapsing spires and towers; oftentimes connected by small canals and streams.
