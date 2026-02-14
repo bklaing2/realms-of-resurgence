@@ -236,4 +236,4 @@ Look how cool this is
 - [[Ancestry]] photos
 - [[Creature]] photos too
 - [[Cheat Sheet]] outline
-- 
+- [[Waste Environments]] main image

@@ -38,3 +38,8 @@ Honestly, just most things from that combat page probably
 # Resting
 Times and how long it takes, what can be done. things from [[Resting]]
 In the Wastes things are different, maybe say there is a table, but don't explain more than that
+
+# Vocabulary
+What vocab is *specific* to our game?
+- we've already covered the radiation fails and crits
+- 
