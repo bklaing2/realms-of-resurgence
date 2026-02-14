@@ -4,6 +4,7 @@ subtype: named
 commonality: "7"
 danger: "4"
 size: "3"
+image: IMG_0965.jpg
 ---
 [[Waste Environments]]
 Eerie and mantic-filled forests of dead trees and gnarled roots and twisting paths found in The Wastes. Filled with dangerous horrors and the spirits of ancient times.

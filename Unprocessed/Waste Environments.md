@@ -33,4 +33,4 @@ Environments are broken down into Named and unnamed subtypes - Named are going t
 - [[Coast of Exiles]] - cliffside coastline with cages full of (mostly) dead [[Exiled]] and [[Exiled (Mutated)]], put there as punishment or as an offering?
 - [[Bubbling Mire]]
 - [[Blightreach]] - spiders and webs
-- [[They Who Show the Way]]
+- [[Those Who Show the Way]]
