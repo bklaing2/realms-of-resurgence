@@ -4,6 +4,7 @@ subtype: unnamed
 commonality: "4"
 danger: "3"
 size: "3.5"
+image: IMG_0997.jpg
 ---
 [[Waste Environments]]
 Basically a cold desert up further in the elevation. Ice and snow are common. [[Frostgem Flecks]] can be found within caverns and caves here sometimes.
