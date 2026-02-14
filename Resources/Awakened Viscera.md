@@ -22,7 +22,7 @@ actions:
   - "[[#Slam]]"
   - "[[#Engulf]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image:
+image: IMG_1105.jpg
 ---
 [[The Wastes]], [[Component]]
 
@@ -49,3 +49,5 @@ Creatures within are restrained, cannot breathe, and take 1d4 + 3 [[Mantic (Dama
 
 When a PC rolls a [[Radical Fail]] within 15 ft of an Awakened Viscera, it immediately gets a +10 to its HP and then divides in two (splitting its HP between the two slimes) these two slimes being smaller than the original and now only being able to hold 2 creatures at one time from engulf.
 slimes can continue to split until they can no longer hold even one creature (so twice more for this example, though a larger and more dangerous slime could split more times)
+
+![[IMG_1105.jpg]]

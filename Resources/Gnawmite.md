@@ -18,7 +18,7 @@ passive abilities:
 actions:
   - "[[#Needle Shot]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image:
+image: IMG_1104.jpg
 ---
 [[The Wastes]], [[Component]]
 
@@ -37,3 +37,5 @@ Double speed while burrowing through the ground.
 # Proximity Radical Fail Outcome
 
 When a PC within 40 ft rolls a [[Radical Fail]], the Gnawmite immediately turns and rushes towards the PC that radically failed and dive bombs them, from the ground. PC makes a [[Finesse]] check, DC 14, or take 2d6 + 2 damage. Successes take half damage. If more than 1 Gnawmite is within the 40 ft range, roll a d4 and that is how many "dive bomb" the PC.
+
+![[IMG_1104.jpg]]
