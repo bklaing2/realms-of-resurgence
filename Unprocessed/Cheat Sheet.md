@@ -42,4 +42,7 @@ In the Wastes things are different, maybe say there is a table, but don't explai
 # Vocabulary
 What vocab is *specific* to our game?
 - we've already covered the radiation fails and crits
-- 
+- proximity radiation fails
+- mitigation
+- damage thresholds
+- (might be it tbh)
