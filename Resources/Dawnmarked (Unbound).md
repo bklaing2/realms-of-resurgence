@@ -1,6 +1,6 @@
 ---
 type: "[[Creature]]"
-creature type: "[[Humanoid]]"
+creature type: "[[Horror]]"
 power level: "[[High]]"
 sentience level: "[[High]]"
 creature size: "[[Large]]"

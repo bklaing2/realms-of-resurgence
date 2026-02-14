@@ -28,7 +28,7 @@ Honestly, just most things from that combat page probably
 - anything else different from dnd
 
 # Wastes
-*but not much because this will be revealed when they enter the Wastes*
+*but not much because this will be revealed when they enter the Wastes and we want it to be a secret*
 - **radiation dice**
 	- when in the Wastes, depending on how long you've been there, you roll an extra dice along with your d20
 	- you add it to your d20 roll
