@@ -20,7 +20,7 @@ actions:
   - "[[#Mark]]"
   - "[[#Eyebeam]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image: "[[IMG_0840.jpg]]"
+image: _Attachements/IMG_0840.jpg
 ---
 [[The Wastes]], [[Component]]
 
@@ -44,4 +44,5 @@ When a PC within 25 ft rolls a [[Radical Fail]], The Attending can swap places w
 
 If a PC rolls a radiation failure within 25 ft of both this Attending AND its paired [[The Absent|Absent]], they instead teleport to each other and fuse, combining HP and taking The Absent's AC and other physical stats, but now no longer has to roll focus checks after hits and can use [[The Absent#Multiattack]] AND the Attending's [[#Eyebeam]] each turn.
 
+![[_Attachements/IMG_0840.jpg]]
 ![[IMG_0840 1.jpg]]
