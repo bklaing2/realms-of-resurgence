@@ -54,16 +54,14 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
-      }),
-      Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
-        keepBackground: false,
-      }),
+      // Plugin.CreatedModifiedDate(),
+      // Plugin.SyntaxHighlighting({
+      //   theme: {
+      //     light: "github-light",
+      //     dark: "github-dark",
+      //   },
+      //   keepBackground: false,
+      // }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
