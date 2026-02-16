@@ -1,5 +1,4 @@
 export { FrontMatter } from "./frontmatter"
-export { FrontMatterLinks } from "./frontmatterLinks"
 export { GitHubFlavoredMarkdown } from "./gfm"
 export { Citations } from "./citations"
 export { CreatedModifiedDate } from "./lastmod"
