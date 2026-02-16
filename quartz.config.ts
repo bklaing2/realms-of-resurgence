@@ -54,6 +54,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      Plugin.FrontMatterLinks({ markdownLinkResolution: "shortest" }),
       // Plugin.CreatedModifiedDate(),
       // Plugin.SyntaxHighlighting({
       //   theme: {
