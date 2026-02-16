@@ -41,7 +41,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
         () => {
           return (tree: Root, file) => {
             const curSlug = simplifySlug(file.data.slug!)
-            const outgoing: Set<SimpleSlug> = new Set()
+            const outgoing: Set<SimpleSlug> = new Set(file.data.links || [])
 
             const transformOptions: TransformOptions = {
               strategy: opts.markdownLinkResolution,
