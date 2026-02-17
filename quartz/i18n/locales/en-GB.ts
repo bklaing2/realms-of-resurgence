@@ -21,6 +21,10 @@ export default {
       example: "Example",
       quote: "Quote",
     },
+    properties: {
+      title: "Properties",
+      noPropertiesFound: "No properties found",
+    },
     backlinks: {
       title: "Backlinks",
       noBacklinksFound: "No backlinks found",

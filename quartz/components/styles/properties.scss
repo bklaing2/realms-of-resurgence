@@ -1,0 +1,66 @@
+@use "../../styles/variables.scss" as *;
+
+.properties {
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+  min-height: 1.4rem;
+  flex: 0 0.5 auto;
+
+  &:has(button.props-header.collapsed) {
+    flex: 0 1 1.4rem;
+  }
+}
+
+button.props-header {
+  background-color: transparent;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  padding: 0;
+  color: var(--dark);
+  display: flex;
+  align-items: center;
+
+  & h3 {
+    font-size: 1rem;
+    display: inline-block;
+    margin: 0;
+  }
+
+  & .fold {
+    margin-left: 0.5rem;
+    transition: transform 0.3s ease;
+    opacity: 0.8;
+  }
+
+  &.collapsed .fold {
+    transform: rotateZ(-90deg);
+  }
+}
+
+ul.props-content.overflow {
+  list-style: none;
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, max-content);
+  grid-auto-rows: min-content;
+  margin: 0.5rem 0;
+  padding: 0 0 2rem 0;
+  max-height: calc(100% - 2rem);
+  overscroll-behavior: contain;
+  list-style: none;
+
+  &>li {
+    display: contents;
+
+    &>span {
+      display: block;
+      font-weight: bold;
+    }
+
+    &>.span-full {
+      grid-column: 1 / -1;
+    }
+  }
+}
