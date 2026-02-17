@@ -9,11 +9,13 @@ import OverflowListFactory from "./OverflowList"
 import { concatenateResources } from "../util/resources"
 
 interface PropertiesOptions {
+  hideWhenEmpty: boolean
   hideEmptyProperties: boolean
 }
 
 const defaultOptions: PropertiesOptions = {
-  hideEmptyProperties: false
+  hideWhenEmpty: true,
+  hideEmptyProperties: true
 }
 
 let numProps = 0
@@ -62,6 +64,7 @@ export default ((opts?: Partial<PropertiesOptions>) => {
         >
           {properties.length > 0 ? (
             properties
+              .filter(([_, v]) => !options.hideEmptyProperties || !!v)
               .map(([key, value]) => (
                 <li>
                   <span class={!!value ? "" : "span-full"}>{key}</span>
