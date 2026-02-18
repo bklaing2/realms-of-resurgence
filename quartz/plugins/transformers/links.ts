@@ -17,8 +17,7 @@ import path from "path"
 import { visit } from "unist-util-visit"
 import isAbsoluteUrl from "is-absolute-url"
 import { Root } from "hast"
-
-const WIKILINK_REGEX = /\[\[.*?\]\]/
+import { isWikilink } from "../../util/misc"
 
 interface Options {
   delimiters: string | [string, string]
@@ -69,7 +68,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
             }
 
             for (let link of Object.values(data).flat()) {
-              if (typeof link !== 'string' || !WIKILINK_REGEX.test(link)) continue
+              if (!isWikilink(link)) continue
 
               link = link.substring(2, link.length - 2)
               link = transformLink(file.data.slug!, link, transformOptions)
