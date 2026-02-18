@@ -43,8 +43,8 @@ ul.props-content.overflow {
   list-style: none;
   position: relative;
   display: grid;
-  grid-template-columns: repeat(2, max-content);
-  grid-auto-rows: min-content;
+  grid-template-columns: min-content 1fr;
+  gap: 1em;
   margin: 0.5rem 0;
   padding: 0 0 2rem 0;
   max-height: calc(100% - 2rem);
@@ -53,9 +53,15 @@ ul.props-content.overflow {
 
   &>li {
     display: contents;
+    line-height: 1em;
 
-    &>span {
-      display: block;
+    &>.key {
+      font-weight: lighter;
+      font-size: 0.9em;
+      opacity: 0.7;
+    }
+
+    &>.value {
       font-weight: bold;
     }
 

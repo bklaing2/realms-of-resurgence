@@ -70,8 +70,8 @@ export default ((opts?: Partial<PropertiesOptions>) => {
               .filter(([k]) => !options.ignoreProperties.includes(k))
               .map(([key, value]) => (
                 <li>
-                  <span class={!!value ? "" : "span-full"}>{key}</span>
-                  {value}
+                  <span class="key">{key}</span>
+                  {!!value && <span class="value">{value}</span>}
                 </li>
               ))
           ) : (
