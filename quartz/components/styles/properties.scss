@@ -44,7 +44,8 @@ ul.props-content.overflow {
   position: relative;
   display: grid;
   grid-template-columns: min-content 1fr;
-  gap: 1em;
+  row-gap: 0.5em;
+  column-gap: 1em;
   margin: 0.5rem 0;
   padding: 0 0 2rem 0;
   max-height: calc(100% - 2rem);
@@ -61,9 +62,16 @@ ul.props-content.overflow {
       opacity: 0.7;
     }
 
-    &>.value {
-      font-weight: bold;
+    &>.values {
+      display: flex;
+      flex-wrap: wrap;
+      column-gap: 0.25em;
+
+      &>.value {
+        font-weight: bold;
+      }
     }
+
 
     &>.span-full {
       grid-column: 1 / -1;

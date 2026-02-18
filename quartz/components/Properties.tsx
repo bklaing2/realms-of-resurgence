@@ -7,17 +7,21 @@ import script from "./scripts/properties.inline"
 import { i18n } from "../i18n"
 import OverflowListFactory from "./OverflowList"
 import { concatenateResources } from "../util/resources"
+import { isWikilink } from "../util/misc"
+import { FullSlug, simplifySlug, splitAnchor, stripSlashes, transformLink, TransformOptions } from "../util/path"
 
 interface PropertiesOptions {
   hideWhenEmpty: boolean
   ignoreProperties: string[]
   hideEmptyProperties: boolean
+  markdownLinkResolution: TransformOptions["strategy"]
 }
 
 const defaultOptions: PropertiesOptions = {
   hideWhenEmpty: true,
   ignoreProperties: [],
-  hideEmptyProperties: true
+  hideEmptyProperties: true,
+  markdownLinkResolution: "absolute",
 }
 
 let numProps = 0
@@ -28,12 +32,19 @@ export default ((opts?: Partial<PropertiesOptions>) => {
     fileData,
     displayClass,
     cfg,
+    ctx,
   }: QuartzComponentProps) => {
     if (!fileData.frontmatter) return null
 
     const properties = Object.entries(fileData.frontmatter)
 
     if (options.hideWhenEmpty && properties.length == 0) return null
+
+    const transformOptions: TransformOptions = {
+      strategy: options.markdownLinkResolution,
+      allSlugs: ctx.allSlugs,
+    }
+    const curSlug = simplifySlug(fileData.slug!)
 
     const id = `props-${numProps++}`
     return (
@@ -68,18 +79,43 @@ export default ((opts?: Partial<PropertiesOptions>) => {
             properties
               .filter(([_, v]) => !options.hideEmptyProperties || !!v)
               .filter(([k]) => !options.ignoreProperties.includes(k))
-              .map(([key, value]) => (
-                <li>
+              .map(([key, value]) => {
+                return <li>
                   <span class="key">{key}</span>
-                  {!!value && <span class="value">{value}</span>}
+                  <Value value={value} />
                 </li>
-              ))
+              })
           ) : (
             <li>{i18n(cfg.locale).components.properties.noPropertiesFound}</li>
           )}
         </OverflowList>
       </div>
     )
+
+    function Value(props: { value: unknown }) {
+      if (!props.value) return null
+
+      const value = [props.value].flat()
+
+      return <div class="values">
+        {value.map(v => {
+          if (!isWikilink(v)) return <span class="value">{v}</span>
+
+          let link = v.substring(2, v.length - 2)
+          if (link.startsWith("#"))
+            return <a href={"#" + link.split("|")[1]} class="value internal">{link.split("|")[1]}</a>
+
+          link = transformLink(fileData.slug!, link, transformOptions)
+          const url = new URL(link, "https://base.com/" + stripSlashes(curSlug, true))
+          const canonicalDest = url.pathname
+          let [destCanonical, _destAnchor] = splitAnchor(canonicalDest)
+          if (destCanonical.endsWith("/")) destCanonical += "index"
+
+          const full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
+          return <a href={"/" + full} class="value internal" data-slug={full}>{v.substring(2, v.length - 2)}</a>
+        })}
+      </div>
+    }
   }
 
   Properties.css = style
