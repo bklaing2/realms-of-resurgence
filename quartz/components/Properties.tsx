@@ -103,7 +103,7 @@ export default ((opts?: Partial<PropertiesOptions>) => {
 
           let link = v.substring(2, v.length - 2)
           if (link.startsWith("#"))
-            return <a href={"#" + link.split("|")[1]} class="value internal">{link.split("|")[1]}</a>
+            return <a href={link.split("|")[0]} class="value internal">{link.split("|")[1]}</a>
 
           link = transformLink(fileData.slug!, link, transformOptions)
           const url = new URL(link, "https://base.com/" + stripSlashes(curSlug, true))
