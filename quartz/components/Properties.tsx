@@ -10,11 +10,13 @@ import { concatenateResources } from "../util/resources"
 
 interface PropertiesOptions {
   hideWhenEmpty: boolean
+  ignoreProperties: string[]
   hideEmptyProperties: boolean
 }
 
 const defaultOptions: PropertiesOptions = {
   hideWhenEmpty: true,
+  ignoreProperties: [],
   hideEmptyProperties: true
 }
 
@@ -65,6 +67,7 @@ export default ((opts?: Partial<PropertiesOptions>) => {
           {properties.length > 0 ? (
             properties
               .filter(([_, v]) => !options.hideEmptyProperties || !!v)
+              .filter(([k]) => !options.ignoreProperties.includes(k))
               .map(([key, value]) => (
                 <li>
                   <span class={!!value ? "" : "span-full"}>{key}</span>

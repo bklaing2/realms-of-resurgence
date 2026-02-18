@@ -40,7 +40,9 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Properties(),
+    Component.Properties({
+      ignoreProperties: ['title', 'aliases', 'tags', 'image', 'socialImage']
+    }),
     Component.Backlinks(),
   ],
 }
