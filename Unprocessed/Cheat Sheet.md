@@ -12,17 +12,18 @@ Additionally, if you're using a weapon in your offhand, you can attack with your
 Only specific classes and creatures are able to make **opportunity attacks**, otherwise creatures may move about the battlefield as they wish.
 
 ## Armor
-| Type   | Required Attributes                 | Base AC | Mitigation | Damage Threshold  | Damage Slots |
+| Type   | Required Attributes                 | Base AC | Mitigation | Damage Threshold | Damage Slots |
 | ------ | ----------------------------------- | ------- | ---------- | ---------------- | ------------ |
-| Light  | +2 [[Finesse]]                      | 8       | 4          |                   | 6            |
-| Medium | +1 [[Finesse]] and +1 [[Fortitude]] | 6       | 6          |                   | 4            |
-| Heavy  | +2 [[Fortitude]]                    | 4       | 8                              | 2            |
+| Light  | +2 [[Finesse]]                      | 8       | 4          | 8                | 6            |
+| Medium | +1 [[Finesse]] and +1 [[Fortitude]] | 6       | 6          | 12               | 4            |
+| Heavy  | +2 [[Fortitude]]                    | 4       | 8          | 16               | 2            |
 
 If you do not have the required attributes to wear armor, you can still gain the AC benefit, but not be able to mitigate any damage. You continue to mark damage slots based on thresholds in case you become able to mitigate, it may be broken.
 ## AC
 [[Finesse]] + [[Intuition]] + Base AC of Armor
 ## Calculating Damage Received on a Hit
 Subtract the armor mitigation number from the damage received. If it falls below zero you take no damage. If it falls above the armor's damage threshold, you take that damage and mark off an armor damage slot. Once your armor is out of damage slots, it can no longer mitigate damage, but still grants you its AC score. These can be repaired during rests.
+**Example:** You get hit for 
 ## Initiative
 d20 + your [[Finesse]] modifier
 If in [[The Wastes]], roll the Radiation Die as well. On a Radical Failure, you automatically go at the end of initiative. On a Radical Success, you can choose where you go in initiative order after it has been set for everyone else.
