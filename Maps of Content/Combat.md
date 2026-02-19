@@ -72,6 +72,7 @@ If you have the right materials and enough money, you can upgrade your armor or 
 # Initiative
 
 Roll a d20 and add your [[Finesse]] modifier. If in [[The Wastes]], roll the Radiation Die. On a [[The Wastes#D20 < Radiation Die (Radical Failure)]], you automatically go at the end of initiative. On a [[The Wastes#D20 = Radiation Die (Radical Success)]], you can choose where you go in initiative order after it has been set for everyone else.
+#brainstorm On a Radical Critical, you get a bonus action during your first turn.
 
 ## Rolling as a Group
 
@@ -79,7 +80,7 @@ Players can choose to roll initiative as a group. Each player rolls as normal, a
 
 ## Initiative Blocks
 
-Allies that are grouped in the initiative order don't need to strictly follow the initiative order. A player at the end of the group can choose to do their action at the beginning, an a player at the start can wait to move until their ally has attacked, or a player can even take their whole turn at a different time within that block.
+Allies that are grouped in the initiative order don't need to strictly follow the initiative order. A player at the end of the group can choose to do their action at the beginning, and a player at the start can wait to move until their ally has attacked, or a player can even take their whole turn at a different time within that block.
 
 ## Waiting
 
