@@ -4,10 +4,9 @@ Roll a d20 and add the related **attribute** for the [[Weapons|weapon]] (likely 
 ## Calculating Damage Given on a Hit
 Weapon damage + Related weapon **attribute** ([[Finesse]] or [[Fortitude]])
 **Critical hits:** normal rolled damage + max damage possible for rolled dice + related weapon attribute
-
-For example, a bow may use [[Intelligence]] for the to hit number (cause aiming is hard) and damage will use [[Fortitude]] (how strong you are to pull it back farther).
+For example, a bow may use [[Intelligence]] for the **to hit** number (cause aiming is hard) and **damage** will use [[Fortitude]] (how strong you are to pull it back).
 ## Offhand Attacks
-Additionally, if you're using a weapon in your offhand, you can attack with your quick action, but you don't include the to hit attribute score when calculating to hit.
+Additionally, if you're using a weapon in your **offhand**, you can attack with your **quick action**, but you don't include the to hit attribute score when calculating to hit.
 
 Only specific classes and creatures are able to make **opportunity attacks**, otherwise creatures may move about the battlefield as they wish.
 
