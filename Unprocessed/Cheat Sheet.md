@@ -25,7 +25,7 @@ If you do not have the required attributes to wear armor, you can still gain the
 Subtract the armor mitigation number from the damage received. If it falls below zero you take no damage. If it falls above the armor's damage threshold, you take that damage and mark off an armor damage slot. Once your armor is out of damage slots, it can no longer mitigate damage, but still grants you its AC score. These can be repaired during rests.
 ## Initiative
 d20 + your [[Finesse]] modifier
-If in [[The Wastes]], roll the Radiation Die as well. On a Radical Failure, you automatically go at the end of initiative. On a Radical Success, you can choose where you go in initiative order after it has been set for everyone else. On a Radical Critical, you get a bonus action during your first turn.
+If in [[The Wastes]], roll the Radiation Die as well. On a Radical Failure, you automatically go at the end of initiative. On a Radical Success, you can choose where you go in initiative order after it has been set for everyone else.
 
 You may choose to roll as a group, where the group of players gets added into the Initiative together at the position of the lowest roll in the group.
 
@@ -51,6 +51,9 @@ Each class and subclass also come with their own abilities upon level up. These 
 # Wastes
 *but not much because this will be revealed when they enter the Wastes and we want it to be a secret*
 ## Radiation Dice
+When you have been in the Wastes, you will roll an extra dice along with **any** d20 roll and add it to your roll along with the attributes being added to the roll.
+**Radical**
+
 - **radiation dice**
 	- when in the Wastes, depending on how long you've been there, you roll an extra dice along with your d20
 	- you add it to your d20 roll
