@@ -9,7 +9,6 @@ For example, a bow may use [[Intelligence]] for the **to hit** number (cause aim
 Additionally, if you're using a weapon in your **offhand**, you can attack with your **quick action**, but you don't include the to hit attribute score when calculating to hit.
 
 Only specific classes and creatures are able to make **opportunity attacks**, otherwise creatures may move about the battlefield as they wish.
-
 ## Armor
 | Type   | Required Attributes                 | Base AC | Mitigation | Damage Threshold | Damage Slots |
 | ------ | ----------------------------------- | ------- | ---------- | ---------------- | ------------ |
@@ -21,8 +20,9 @@ If you do **not** have the required attributes to wear armor, you can still gain
 ## AC
 [[Finesse]] + [[Intuition]] + Base AC of Armor
 ## Calculating Damage Received on a Hit
-Subtract the **armor mitigation number** from the damage received. If it falls below zero you take no damage. If it falls above the **armor's damage threshold**, you take that damage and mark off an **armor damage slot**. Once your armor is out of damage slots, it can no longer mitigate damage, but still grants you its AC score. These can be repaired during rests.
-**Example:** You get hit for 
+Subtract the **armor mitigation number** from the damage received. If it falls below zero you take no damage. If it falls above the **armor's damage threshold** (before the mitigation), you take the mitigated damage and mark off an **armor damage slot**. Once your armor is out of damage slots, it can no longer mitigate damage, but still grants you its AC score. These can be **repaired** during rests.
+**Example:** You are wearing **Medium** armor, your **Finesse** is a +2 and your **Intuition** is a +1. Your AC is a 9. If you get hit for 10 points of damage, you mitigate 6 of that and only take 4 points of damage to your HP.
+If you get hit for14 points of damage, you mark off a damage slot (because it is over your armor's damage threshold) and then mitigate 6 points of it and therefore take 8 points of damage.
 ## Initiative
 d20 + your [[Finesse]] modifier
 If in [[The Wastes]], roll the Radiation Die as well. On a Radical Failure, you automatically go at the end of initiative. On a Radical Success, you can choose where you go in initiative order after it has been set for everyone else.
