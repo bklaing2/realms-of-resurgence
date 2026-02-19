@@ -1,4 +1,4 @@
-# 2 WEEKS TO GET THIS READY!!
+# 1+ WEEKS TO GET THIS READY!!
 
 # Big Picture
 
@@ -42,7 +42,7 @@
 
 - [x] Character sheet
 	- [ ] Officially printed sheet
-	- [ ] [[Cheat Sheet]] for players
+	- [x] [[Cheat Sheet]] for players
 	- [ ] "level up at a glance" table (at least through level 5 or so) for the classes we'll be playing
 
 - [x] consumables
@@ -238,3 +238,6 @@ Look how cool this is
 - [[Creature]] photos too
 - [[Cheat Sheet]] outline
 - [[Waste Environments]] main images
+
+**19-02-2026**
+- [[Cheat Sheet]] done!
