@@ -1,10 +1,10 @@
 # Attributes
 | ***Attribute***                             | ***Examples***                            |     |
 | :------------------------------------------ | ----------------------------------------- | --- |
-| **Fortitude** (*"Strength & Constitution"*) | toughness, resilience                     |     |
-| **Finesse** (*"Dexterity & Stealth"*)       | Sneaking, lockpicking                     |     |
-| **Intelligence** (*"Book Smarts")*          | Lore, History, perception                 |     |
-| **Intuition** *("Street Smarts")*           | Charisma, wisdom                          |     |
+| **Fortitude** (*"Strength & Constitution"*) | toughness, resilience, Athletics          |     |
+| **Finesse** (*"Dexterity & Stealth"*)       | Subterfuge, Tinker                        |     |
+| **Intelligence** (*"Book Smarts")*          | Lore, Investigation                       |     |
+| **Intuition** *("Street Smarts")*           | Insight, perception, charisma             |     |
 | **Mantic**                                  | Spellcasting, resisting mantic influences |     |
 # Combat
 ## Calculating to Hit
