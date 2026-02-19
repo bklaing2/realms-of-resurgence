@@ -33,34 +33,24 @@ Allies that are grouped in the initiative order (rolled numbers next to each oth
 
 You also have the option to wait, changing your place in initiative order. This sacrifices your turn in the current round, but you are placed anywhere in initiative that you choose starting the next round.
 
-
-
-
-
-
-
-
-
-
+During your turn, you may take an **Action** (attack, spell, rune, item, or other big action that the GM deems an action), **Quick Action** (offhand attack, focusing on spell, some spells, drinking potion, or other action that the GM deems small enough to be a quick action), and **Movement** (found on your character sheet) which can be taken all at once or broken up.
 
 # Abilities
-- A list of what kind of abilities they will probably have access to
-	- passives from [[Ancestry]], [[Class]], and [[Character Creation|Subclass]]
-	- the types of actives they have the chance of unlocking and a short description of what they could be
-		- **roleplay** - helps in RP and settings where you aren't fighting.
-			- examples: [[Ultrasonic Message]], [[Leaf Image]], and [[Spores]]
-		- **combat** - a special ability that your specific ancestry can bring to combat
-			- examples: [[Dermal Armor]], [[Autohaemorrhaging]], and [[Slime Trap]]
-		- **exploration** - abilities that allow you to move uniquely or otherwise assist while traveling in the [[The Wastes|Wastes]]
-			- examples: [[Fly]], [[Bioluminescence]], and [[Burrow]]
-		- **class specific** - abilities specific to your class. the core way your class plays and survives the Wastes
+Realms of Resurgence boasts a plethora of different abilities for you to choose from, and many can be chosen at the times of your choosing, providing customization and variability to each character.
 
-## New Rules from dnd
-- action, quick action, movement
-- anything else different from dnd
+**Passives:** Abilities that are always at use and are given at the early levels of a chosen Ancestry, Class, and Subclass.
+**Roleplay:** Ancestry abilities that show usefulness in moments of RP and out of combat situations.
+**Combat:** Ancestry abilities that do damage and force a condition on your enemies; increase in effectiveness as you grow stronger.
+**Exploration:** Ancestry abilities that help you move uniquely to your ancestry and provide better traversal of the world and the Wastes.
+
+Each of the above abilities are options for you to choose from when you reach levels 2, 4, and 8.
+
+**Class and Subclass Specific Abilities:** 
+Each class and subclass also come with their own abilities upon level up. These will be specific to your flavor of fighting and surviving in the Wastes.
 
 # Wastes
 *but not much because this will be revealed when they enter the Wastes and we want it to be a secret*
+## Radiation Dice
 - **radiation dice**
 	- when in the Wastes, depending on how long you've been there, you roll an extra dice along with your d20
 	- you add it to your d20 roll
