@@ -11,12 +11,14 @@ Additionally, if you're using a weapon in your offhand, you can attack with your
 Only specific classes and creatures are able to make **opportunity attacks**, otherwise creatures may move about the battlefield as they wish.
 
 ## Armor
-| Type   | Required Attributes                 | Base AC | Mitigation | Threshold (2\*mitigation)  |
-| ------ | ----------------------------------- | ------- | ---------- | ------------------------- |
-| Light  | +2 [[Finesse]]                      | 8       | 4          |                            |
-| Medium | +1 [[Finesse]] and +1 [[Fortitude]] | 6       | 6          |                            |
-| Heavy  | +2 [[Fortitude]]                    | 4       | 8                                       |
-
+| Type   | Required Attributes                 | Base AC | Mitigation | Damage Threshold (2\*mitigation) |
+| ------ | ----------------------------------- | ------- | ---------- | -------------------------------- |
+| Light  | +2 [[Finesse]]                      | 8       | 4          | 8                                |
+| Medium | +1 [[Finesse]] and +1 [[Fortitude]] | 6       | 6          | 12                               |
+| Heavy  | +2 [[Fortitude]]                    | 4       | 8          | 16                               |
+If you do not have the required attributes to wear armor, you can still gain the AC benefit, but not be able to mitigate any damage. You continue to mark damage slots based on thresholds in case you become able to mitigate, it may be broken.
+## AC
+[[Finesse]] + [[Intuition]] + Base AC of Armor
 
 
 
