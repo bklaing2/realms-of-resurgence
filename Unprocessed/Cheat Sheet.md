@@ -1,8 +1,8 @@
 # Combat
 ## Calculating to Hit
-Roll a d20 and add the related attribute for the [[Weapons|weapon]] (likely your [[Intelligence]] or [[Intuition]])
+Roll a d20 and add the related **attribute** for the [[Weapons|weapon]] (likely your [[Intelligence]] or [[Intuition]])
 ## Calculating Damage Given on a Hit
-Weapon damage + Related weapon attribute ([[Finesse]] or [[Fortitude]])
+Weapon damage + Related weapon **attribute** ([[Finesse]] or [[Fortitude]])
 **Critical hits:** normal rolled damage + max damage possible for rolled dice + related weapon attribute
 
 For example, a bow may use [[Intelligence]] for the to hit number (cause aiming is hard) and damage will use [[Fortitude]] (how strong you are to pull it back farther).
@@ -71,11 +71,3 @@ A 20 on your d20 is still a critical, but just not a radical success.
 - Mantic charges refresh and any stored fade away
 
 Resting in the Wastes is necessary, but dangerous, PCs should think twice about when and where they rest.
-
-# Vocabulary
-What vocab is *specific* to our game?
-- we've already covered the radiation fails and crits
-- proximity radiation fails
-- mitigation
-- damage thresholds
-- (might be it tbh)
