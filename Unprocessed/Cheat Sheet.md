@@ -1,24 +1,24 @@
 # Combat
 ## Calculating to Hit
-Roll a d20 and add the related **attribute** for the [[Weapons|weapon]] (likely your [[Intelligence]] or [[Intuition]])
+Roll a d20 and add the related **attribute** for the Weapons|weapon (likely your **Intelligence** or **Intuition**)
 ## Calculating Damage Given on a Hit
-Weapon damage + Related weapon **attribute** ([[Finesse]] or [[Fortitude]])
+Weapon damage + Related weapon **attribute** (**Finesse** or **Fortitude**)
 **Critical hits:** normal rolled damage + max damage possible for rolled dice + related weapon attribute
-For example, a bow may use [[Intelligence]] for the **to hit** number (cause aiming is hard) and **damage** will use [[Fortitude]] (how strong you are to pull it back).
+For example, a bow may use Intelligence for the **to hit** number (cause aiming is hard) and **damage** will use **Fortitude** (how strong you are to pull it back).
 ## Offhand Attacks
 Additionally, if you're using a weapon in your **offhand**, you can attack with your **quick action**, but you don't include the to hit attribute score when calculating to hit.
 
 Only specific classes and creatures are able to make **opportunity attacks**, otherwise creatures may move about the battlefield as they wish.
 ## Armor
-| Type   | Required Attributes                 | Base AC | Mitigation | Damage Threshold | Damage Slots |
-| ------ | ----------------------------------- | ------- | ---------- | ---------------- | ------------ |
-| Light  | +2 [[Finesse]]                      | 8       | 4          | 8                | 6            |
-| Medium | +1 [[Finesse]] and +1 [[Fortitude]] | 6       | 6          | 12               | 4            |
-| Heavy  | +2 [[Fortitude]]                    | 4       | 8          | 16               | 2            |
+| Type   | Required Attributes         | Base AC | Mitigation | Damage Threshold | Damage Slots |
+| ------ | --------------------------- | ------- | ---------- | ---------------- | ------------ |
+| Light  | +2 Finesse                  | 8       | 4          | 8                | 6            |
+| Medium | +1 Finesse and +1 Fortitude | 6       | 6          | 12               | 4            |
+| Heavy  | +2 Fortitude                | 4       | 8          | 16               | 2            |
 
 If you do **not** have the required attributes to wear armor, you can still gain the **AC** benefit, but not be able to **mitigate** any damage. You **continue** to mark damage slots based on thresholds in case you become able to mitigate, it may be broken.
 ## AC
-[[Finesse]] + [[Intuition]] + Base AC of Armor
+Finesse + Intuition + Base AC of Armor
 ## Calculating Damage Received on a Hit
 Subtract the **armor mitigation number** from the damage received. If it falls below zero you take no damage. If it falls above the **armor's damage threshold** (before the mitigation), you take the mitigated damage and mark off an **armor damage slot**. Once your armor is out of damage slots, it can no longer mitigate damage, but still grants you its AC score. These can be **repaired** during rests.
 **Example:** You are wearing **Medium** armor, your **Finesse** is a +2 and your **Intuition** is a +1. Your AC is a 9. If you get hit for 10 points of damage, you mitigate 6 of that and only take 4 points of damage to your HP.
