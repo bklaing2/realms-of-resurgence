@@ -8,7 +8,7 @@
 | **Mantic**                                  | Spellcasting, resisting mantic influences |     |
 # Combat
 ## Calculating to Hit
-Roll a d20 and add the related **attribute** for the Weapons|weapon (likely your **Intelligence** or **Intuition**)
+Roll a d20 and add the related **attribute** for the weapon (likely your **Intelligence** or **Intuition**)
 ## Calculating Damage Given on a Hit
 Weapon damage + Related weapon **attribute** (**Finesse** or **Fortitude**)
 **Critical hits:** normal rolled damage + max damage possible for rolled dice + related weapon attribute
