@@ -16,7 +16,7 @@ Only specific classes and creatures are able to make **opportunity attacks**, ot
 | Medium | +1 Finesse and +1 Fortitude | 6       | 6          | 12               | 4            |
 | Heavy  | +2 Fortitude                | 4       | 8          | 16               | 2            |
 
-If you do **not** have the required attributes to wear armor, you can still gain the **AC** benefit, but not be able to **mitigate** any damage. You **continue** to mark damage slots based on thresholds in case you become able to mitigate, it may be broken.
+If you do **not** have the required attributes to wear armor, you can still gain the **AC** benefit, but not be able to **mitigate** any damage. You **still** mark damage slots based on thresholds in case you become able to mitigate, it may be broken.
 ## AC
 Finesse + Intuition + Base AC of Armor
 ## Calculating Damage Received on a Hit
