@@ -1,4 +1,28 @@
-#brainstorm what needs to be included
+# Combat
+## Calculating to Hit
+Roll a d20 and add the related attribute for the [[Weapons|weapon]] (likely your [[Intelligence]] or [[Intuition]])
+## Calculating Damage Given on a Hit
+Weapon damage + Related weapon attribute ([[Finesse]] or [[Fortitude]])
+
+For example, a bow may use [[Intelligence]] for the to hit number (cause aiming is hard) and damage will use [[Fortitude]] (how strong you are to pull it back farther).
+## Offhand Attacks
+Additionally, if you're using a weapon in your offhand, you can attack with your quick action, but you don't include the to hit attribute score when calculating to hit.
+
+Only specific classes and creatures are able to make **opportunity attacks**, otherwise creatures may move about the battlefield as they wish.
+
+## Armor
+| Type   | Required Attributes                 | Base AC | Mitigation | Threshold (2\*mitigation)  |
+| ------ | ----------------------------------- | ------- | ---------- | ------------------------- |
+| Light  | +2 [[Finesse]]                      | 8       | 4          |                            |
+| Medium | +1 [[Finesse]] and +1 [[Fortitude]] | 6       | 6          |                            |
+| Heavy  | +2 [[Fortitude]]                    | 4       | 8                                       |
+
+
+
+
+
+
+
 
 # Combat 
 Rules for attacking

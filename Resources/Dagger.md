@@ -5,7 +5,7 @@ equippable slots:
   - "[[Primary Hand]]"
   - "[[Off Hand]]"
 throwable: true
-hit attribute: "[[Intelligence]]"
+hit attribute: "[[Intuition]]"
 damage attribute: "[[Finesse]]"
 range: 20/60 ft
 damage: 1d4
@@ -16,6 +16,6 @@ size:
 ---
 # Description #todo
 
-dagger - 1d4 piercing ([[Finesse]], light, thrown 20/60)
+dagger - 1d4 slashing ([[Finesse]], light, thrown 20/60 piercing)
 [[Intuition]] to hit
 [[Finesse]] for damage

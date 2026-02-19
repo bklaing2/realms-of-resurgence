@@ -19,7 +19,10 @@ Weapon damage + Related weapon attribute ([[Finesse]] or [[Fortitude]])
 
 #brainstorm ~~Should opp attacks just be if you started the turn in their range?~~
 
-Only specific classes and creatures are able to make opportunity attacks.
+## Offhand Attacks
+Additionally, if you're using a weapon in your offhand, you can attack with your quick action, but you don't include the to hit attribute score when calculating to hit.
+
+Only specific classes and creatures are able to make **opportunity attacks**, otherwise creatures may move about the battlefield as they wish.
 
 
 
@@ -34,7 +37,7 @@ There are three basic types of [[Maps of Content/Armor|armor]],
 | Light  | +2 [[Finesse]]                      | 8       | 4          | 8                                | 6            |
 | Medium | +1 [[Finesse]] and +1 [[Fortitude]] | 6       | 6          | 12                               | 4            |
 | Heavy  | +2 [[Fortitude]]                    | 4       | 8          | 16                               | 2            |
-#brainstorm What if you rolled a die for mitigating damage on each hit? Higher tiers you roll multiple die. Then the Mitigation becomes a Mitigation die
+~~#brainstorm What if you rolled a die for mitigating damage on each hit? Higher tiers you roll multiple die. Then the Mitigation becomes a Mitigation die~~
 
 #brainstorm if you do not have the required attributes to wear the armor, you can still wear it and gain the AC benefit, but not be able to mitigate any damage. You still mark damage slots based on thresholds in case you become able to mitigate, it still may be broken.
 
