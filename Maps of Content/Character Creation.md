@@ -27,13 +27,13 @@ Every class has a variation found on each planet in the [[Sai Yoxis System]].
 
 Characters in this system have 5 [[Attribute]] - 2 physical, 2 mental, and 1 mantic.
 
-| *Attribute*                            | *Examples*                                  |
-| :------------------------------------- | ------------------------------------------- |
-| **[[Fortitude]]**                      | *Strength,*                                 |
-| **[[Finesse]]**                        | *Sneaking, lockpicking*                     |
-| **[[Intelligence]]** (*"Book Smarts")* | *[[Lore|History]], perception*                       |
-| **[[Intuition]]** *("Street Smarts")*      | *Charisma, wisdom*                          |
-| **[[Mantic]]**                             | *Spellcasting, resisting mantic influences* |
+| ***Attribute***                        | ***Examples***                              |     |
+| :------------------------------------- | ------------------------------------------- | --- |
+| **[[Fortitude]]**                      | *Strength, toughness*                       |     |
+| **[[Finesse]]**                        | *Sneaking, lockpicking*                     |     |
+| **[[Intelligence]]** (*"Book Smarts")* | *Lore, History, perception*                 |     |
+| **[[Intuition]]** *("Street Smarts")*  | *Charisma, wisdom*                          |     |
+| **[[Mantic]]**                         | *Spellcasting, resisting mantic influences* |     |
 
 ## Roll for Base Attribute Value
 
