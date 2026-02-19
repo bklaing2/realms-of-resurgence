@@ -72,7 +72,6 @@ If you have the right materials and enough money, you can upgrade your armor or 
 # Initiative
 
 Roll a d20 and add your [[Finesse]] modifier. If in [[The Wastes]], roll the Radiation Die. On a [[The Wastes#D20 < Radiation Die (Radical Failure)]], you automatically go at the end of initiative. On a [[The Wastes#D20 = Radiation Die (Radical Success)]], you can choose where you go in initiative order after it has been set for everyone else.
-#brainstorm On a Radical Critical, you get a bonus action during your first turn.
 
 ## Rolling as a Group
 

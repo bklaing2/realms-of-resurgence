@@ -52,13 +52,9 @@ Each class and subclass also come with their own abilities upon level up. These 
 *but not much because this will be revealed when they enter the Wastes and we want it to be a secret*
 ## Radiation Dice
 When you have been in the Wastes, you will roll an extra dice along with **any** d20 roll and add it to your roll along with the attributes being added to the roll.
-**Radical**
-
-- **radiation dice**
-	- when in the Wastes, depending on how long you've been there, you roll an extra dice along with your d20
-	- you add it to your d20 roll
-	- radical success - when your d20 and radiation dice are the same (no matter the number, even a 1), very good
-	- radical fail - when your d20 is lower than your radiation dice, very bad
+**Radical Success:** When the number on your d20 and radiation dice are the same (no matter the number, even 1s) - like a natural 20, but with something extra.
+**Radical Failure:** When the number on your d20 is lower than your radiation dice - like a natural 1, but even worse.
+A 20 on your d20 is still a critical, but just not a radical success.
 
 # Resting
 Times and how long it takes, what can be done. things from [[Resting]]
