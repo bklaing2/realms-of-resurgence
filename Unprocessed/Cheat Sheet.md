@@ -57,8 +57,19 @@ When you have been in the Wastes, you will roll an extra dice along with **any**
 A 20 on your d20 is still a critical, but just not a radical success.
 
 # Resting
-Times and how long it takes, what can be done. things from [[Resting]]
-In the Wastes things are different, maybe say there is a table, but don't explain more than that
+## Short Rest
+- 30 minutes long
+- Can roll a number of hit dice equal to their class level to gain health back, but hit dice only refresh on a long rest.
+- Can repair armor with a repair kit
+- Some classes can also refresh mantic charges
+## Long Rest
+- 6 hours long
+- Max HP
+- Refresh hit dice (only refresh half when in the Wastes)
+- Armor can be repaired without a repair kit
+- Mantic charges refresh and any stored fade away
+
+Resting in the Wastes is necessary, but dangerous, PCs should think twice about when and where they rest.
 
 # Vocabulary
 What vocab is *specific* to our game?
