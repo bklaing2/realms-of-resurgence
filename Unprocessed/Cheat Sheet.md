@@ -1,11 +1,11 @@
 # Attributes
-| ***Attribute***                             | ***Examples***                              |     |
-| :------------------------------------------ | ------------------------------------------- | --- |
-| **Fortitude** (*"Strength & Constitution"*) | *Strength, toughness*                       |     |
-| **Finesse** (*"Dexterity & Stealth"*)       | *Sneaking, lockpicking*                     |     |
-| **Intelligence** (*"Book Smarts")*          | *Lore, History, perception*                 |     |
-| **Intuition** *("Street Smarts")*           | *Charisma, wisdom*                          |     |
-| **Mantic**                                  | *Spellcasting, resisting mantic influences* |     |
+| ***Attribute***                             | ***Examples***                            |     |
+| :------------------------------------------ | ----------------------------------------- | --- |
+| **Fortitude** (*"Strength & Constitution"*) | toughness, resilience                     |     |
+| **Finesse** (*"Dexterity & Stealth"*)       | Sneaking, lockpicking                     |     |
+| **Intelligence** (*"Book Smarts")*          | Lore, History, perception                 |     |
+| **Intuition** *("Street Smarts")*           | Charisma, wisdom                          |     |
+| **Mantic**                                  | Spellcasting, resisting mantic influences |     |
 # Combat
 ## Calculating to Hit
 Roll a d20 and add the related **attribute** for the Weapons|weapon (likely your **Intelligence** or **Intuition**)
