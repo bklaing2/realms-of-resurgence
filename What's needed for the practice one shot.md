@@ -1,5 +1,5 @@
-# 1 WEEK TO GET THIS READY!!
-
+# *1 WEEK TO GET THIS READY!!*
+# AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 # Big Picture
 
 - [ ] At least 5 classes complete through level 4
@@ -241,3 +241,10 @@ Look how cool this is
 
 **19-02-2026**
 - [[Cheat Sheet]] done!
+
+**20-02-2026**
+- [[Caterpillarfolk]]
+- [[Butterflyfolk]]
+- [[Mantic Wing]]
+- [[Snailadites]]
+- 
