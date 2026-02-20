@@ -23,3 +23,4 @@ Once per short rest, the wearer can use a quick action to listen to the faint ba
 
 Grows cold near gravesites and faint battlefield commands whisper into the wind from a command long dead.
 
+#todo **Still needs a curse or detriment**
