@@ -1,6 +1,6 @@
 ---
 type: "[[Item]]"
-item type:
+item type: "[[Potion]]"
 consumable: true
 price:
 weight:

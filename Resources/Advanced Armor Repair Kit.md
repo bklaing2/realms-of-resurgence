@@ -4,6 +4,7 @@ consumable: true
 price:
 weight:
 size:
+item type: Tool
 ---
 # Description #todo
 

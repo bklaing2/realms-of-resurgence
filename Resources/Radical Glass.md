@@ -1,6 +1,6 @@
 ---
 type: "[[Item]]"
-item type:
+item type: Tool
 price:
 weight:
 size:

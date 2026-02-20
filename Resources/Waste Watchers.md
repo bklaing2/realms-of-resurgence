@@ -1,10 +1,8 @@
 ---
 type: "[[Item]]"
-item type:
+item type: Tool
 price:
 weight:
 size:
 ---
-# Description #todo
-
-Penetrate the radical mists of the waste to see farther and better within the wastes
+Magical tool that allows you to see much farther, and has the ability to pierce through the mists and gloom of [[The Wastes]]
