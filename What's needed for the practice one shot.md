@@ -247,4 +247,13 @@ Look how cool this is
 - [[Butterflyfolk]]
 - [[Mantic Wing]]
 - [[Snailadites]]
+- [[Hollow Coin]]
+- [[Compass of Misery]]
+- [[Flamestone]]
+- [[Blight Web Visor]]
+- [[Hissing Sea Saltwarder Armor]]
+- [[Fallen Thorn]]
+- [[Cinderbow]]
+- [[Ashen Pike]]
+- [[Graven Blade]]
 - 
