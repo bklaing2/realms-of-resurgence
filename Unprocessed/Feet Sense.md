@@ -1,0 +1,1 @@
+Butterflyfolk can sense if someone or something has passed by within the last two hours just by walking over where they may have passed. They are also able to tell how long ago it was that they passed by.

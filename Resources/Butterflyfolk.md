@@ -3,7 +3,8 @@ type: "[[Creature]]"
 creature type: "[[Ancestry]]"
 description:
 passive abilities:
-roleplay ability:
+  - "[[Feet Sense]]"
+roleplay ability: "[[Monarch]]"
 exploration ability:
 combat ability:
 tags:
