@@ -260,4 +260,5 @@ Look how cool this is
 - [[Skyfather's Talon]]
 - [[Droughtaxe]]
 - [[Scavplate]]
+- [[Veilwoven Leathers]]
 - 
