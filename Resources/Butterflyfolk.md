@@ -15,6 +15,8 @@ image: "[[IMG_1160.jpg]]"
 
 Found on [[Sai Yoxis IV]]
 
+Metamorphosed from a [[Caterpillarfolk]] at some point in their life. Either before the game started (playing as a butterflyfolk from the start of the game) or at some point during the game as described in the [[Caterpillarfolk]] ancestry.
+
 ![[IMG_1160.jpg]]
 ![[IMG_1161.jpg]]
 ![[IMG_1158.jpg]]
