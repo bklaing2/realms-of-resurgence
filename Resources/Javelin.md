@@ -3,7 +3,6 @@ type: "[[Item]]"
 item type: "[[Equipment]]"
 equippable slots:
   - "[[Primary Hand]]"
-  - "[[Off Hand]]"
 throwable: true
 hit attribute: "[[Intelligence]]"
 damage attribute: "[[Fortitude]]"
@@ -14,7 +13,6 @@ price:
 weight:
 size:
 ---
-# Description #todo
 
 javelin - 1d6 piercing (thrown 30/120)
 [[Intelligence]] to hit

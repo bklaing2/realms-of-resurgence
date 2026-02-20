@@ -3,18 +3,18 @@ type: "[[Item]]"
 item type: "[[Equipment]]"
 equippable slots:
   - "[[Primary Hand]]"
-  - "[[Off Hand]]"
+throwable: true
 hit attribute: "[[Intelligence]]"
-damage attribute: "[[Finesse]]"
-range: 5 ft
-damage: 1d8
-damage type: "[[Slashing]]"
+damage attribute: "[[Mantic]]"
+range: 10/30 ft
+damage: 1d6+2
+damage type: "[[Mantic]]"
 price:
 weight:
 size:
 ---
-# Description #todo
 
-longsword - 1d8 slashing
+Pike - 1d6 + 2 mantic piercing (thrown 30/120)
 [[Intelligence]] to hit
-[[Finesse]] for damage
+[[Mantic]] for damage
+
