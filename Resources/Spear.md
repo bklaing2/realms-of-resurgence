@@ -16,6 +16,6 @@ size:
 # Description #todo
 
 [[Intelligence]] to hit
-[[Finesse]] to damage
+[[Finesse]] damage
 10 ft range
 1d6 piercing damage

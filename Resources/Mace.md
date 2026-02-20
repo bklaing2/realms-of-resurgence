@@ -13,4 +13,9 @@ price:
 weight:
 size:
 ---
-# Description #todo
+# Description
+
+[[Intelligence]] to hit
+[[Fortitude]] for damage
+5 ft
+1d6 bludgeoning damage

@@ -7,10 +7,15 @@ equippable slots:
 hit attribute: "[[Intuition]]"
 damage attribute: "[[Finesse]]"
 range: 5 ft
-damage: 1d4
+damage: 1d6
 damage type: "[[Slashing]]"
 price:
 weight:
 size:
 ---
-# Description #todo
+# Description
+
+[[Intuition]] to hit
+[[Finesse]] damage
+5 ft range
+1d6 slashing damage
