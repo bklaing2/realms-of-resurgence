@@ -8,13 +8,17 @@ throwable: true
 hit attribute: "[[Intuition]]"
 damage attribute: "[[Finesse]]"
 range: 20/60 ft
-damage: 1d4
-damage type: "[[Slashing]]"
+damage: 1d4+2
+damage type: "[[Mantic]]"
 price:
 weight:
 size:
 ---
+# Description
+A long dagger of ever-so-slightly glowing metal.
 
-dagger - 1d4 slashing ([[Finesse]], light, thrown 20/60 piercing)
++2 to hit
+dagger - 1d4+2 mantic slashing (light, thrown 20/60 piercing)
 [[Intuition]] to hit
-[[Finesse]] for damage
+[[Mantic]] for damage
+

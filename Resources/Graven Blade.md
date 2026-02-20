@@ -12,8 +12,10 @@ price:
 weight:
 size:
 ---
-# Description #todo
+# Description
+A blackened sword forged with ancient [[Obsidian Salt]].
 
++1 to hit
 longsword - 1d8 +2 mantic slashing
 [[Intelligence]] to hit
 [[Mantic]] for damage

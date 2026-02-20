@@ -13,8 +13,14 @@ price:
 weight:
 size:
 ---
+# Description
+Its head is etched with barely visible sigils.
 
++1 to hit
 Pike - 1d6 + 2 mantic piercing (thrown 30/120)
 [[Intelligence]] to hit
 [[Mantic]] for damage
 
+Creatures with at least one wound by this pike take 1 point of damage at the start of their turn. If they have multiple (up to 5) they take that much damage.
+
+Wood shaft feels warm near mantic energy and wounds left by this weapon are covered in gray ashy dust.
