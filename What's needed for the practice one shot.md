@@ -259,4 +259,5 @@ Look how cool this is
 - [[Gravewake Maul]]
 - [[Skyfather's Talon]]
 - [[Droughtaxe]]
+- [[Scavplate]]
 - 
