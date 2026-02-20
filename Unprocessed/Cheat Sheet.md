@@ -1,11 +1,11 @@
 # Attributes
-| ***Attribute***                             | ***Examples***                            |     |
-| :------------------------------------------ | ----------------------------------------- | --- |
-| **Fortitude** (*"Strength & Constitution"*) | toughness, resilience, Athletics          |     |
-| **Finesse** (*"Dexterity & Stealth"*)       | Subterfuge, Tinker                        |     |
-| **Intelligence** (*"Book Smarts")*          | Lore, Investigation                       |     |
-| **Intuition** *("Street Smarts")*           | Insight, perception, charisma             |     |
-| **Mantic**                                  | Spellcasting, resisting mantic influences |     |
+| ***Attribute***                             | ***Examples***                            |
+| :------------------------------------------ | ----------------------------------------- |
+| **Fortitude** (*"Strength & Constitution"*) | toughness, resilience, Athletics          |
+| **Finesse** (*"Dexterity & Stealth"*)       | Subterfuge, Tinker                        |
+| **Intelligence** (*"Book Smarts")*          | Lore, Investigation                       |
+| **Intuition** *("Street Smarts")*           | Insight, perception, charisma             |
+| **Mantic**                                  | Spellcasting, resisting mantic influences |
 # Combat
 ## Calculating to Hit
 Roll a d20 and add the related **attribute** for the weapon (likely your **Intelligence** or **Intuition**)
@@ -58,8 +58,8 @@ Each class and subclass also come with their own abilities upon level up. These 
 
 # Wastes
 *but not much because this will be revealed when they enter the Wastes and we want it to be a secret*
-## Radiation Dice
-When you have been in the Wastes, you will roll an extra dice along with **any** d20 roll and add it to your roll along with the attributes being added to the roll.
+## Radiation Die
+When you have been in the Wastes, you will roll an extra die along with **any** d20 roll and add it to your roll along with the attributes being added to the roll.
 **Radical Success:** When the number on your d20 and radiation dice are the same (no matter the number, even 1s) - like a natural 20, but with something extra.
 **Radical Failure:** When the number on your d20 is lower than your radiation dice - like a natural 1, but even worse.
 A 20 on your d20 is still a critical, but just not a radical success.
