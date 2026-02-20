@@ -19,7 +19,7 @@ actions:
   - "[[#Slam]]"
   - "[[#Kick]]"
 proximity radical fail outcome: "[[#Proximity Radical Fail Outcome]]"
-image: IMG_0815.jpg
+image: "[[IMG_0815.jpg]]"
 ---
 [[The Wastes]], [[Component]]
   
@@ -41,3 +41,4 @@ PCs make a DC 14 [[Finesse]] saving throw or catch a face of bark leg. 1/2 damag
 When a PC within 30 ft rolls a [[Radical Fail]], the Barkspawn Sleeper suddenly blooms and PCs within 15 ft must make DC 12 [[Finesse]] saving throws to avoid rotten fruit and large seeds that fall from the top of the Sleeper. Failures take 6d6 + 6 damage and 1/2 on a success.
 
 ![[IMG_0815.jpg]]
+![[IMG_1162.jpg]]
