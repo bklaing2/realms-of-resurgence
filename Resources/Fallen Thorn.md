@@ -22,3 +22,6 @@ dagger - 1d4+2 mantic slashing (light, thrown 20/60 piercing)
 [[Intuition]] to hit
 [[Mantic]] for damage
 
+Once per short rest can ignore armor mitigation (or do an extra 6 points of damage to a creature without armor mitigation)
+
+Faces can be seen reflected in the blade. Sometimes the face of someone that you *will* see within the next day.
