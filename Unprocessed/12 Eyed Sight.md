@@ -1,0 +1,1 @@
+Advantage on [[Investigation]] checks by getting close to the ground and using all 12 eyes to search.

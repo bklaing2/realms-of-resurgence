@@ -1,0 +1,1 @@
+Caterpillarfolk can eat up to their level number of days of food at once time, and then do not have to eat again for that same number of days and can be sustained on what was eaten at the start.

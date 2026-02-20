@@ -1,0 +1,1 @@
+Caterpillarfolk are able to make silk to assist them in things like climbing, protection from elements, and repelling. It takes a caterpillarfolk a short rest to produce 20 ft of silk and it dissipates after the next long rest. Caterpillarfolk can produce up to 60 ft of silk during a long rest and still get the benefits of a long rest.

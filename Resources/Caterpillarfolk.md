@@ -3,9 +3,10 @@ type: "[[Creature]]"
 creature type: "[[Ancestry]]"
 description:
 passive abilities:
-roleplay ability:
-exploration ability:
-combat ability:
+  - "[[Eat Your Fill]]"
+roleplay ability: "[[12 Eyed Sight]]"
+exploration ability: "[[Silk Production]]"
+combat ability: "[[Smelly Osmeterium]]"
 tags:
   - needs/name
 image: "[[IMG_1154.jpg]]"

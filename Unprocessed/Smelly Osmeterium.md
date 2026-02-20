@@ -1,0 +1,1 @@
+Caterpillarfolk can spray a smelly gas in a 10 ft cube all around them as an action. Any creature within the radius must make a DC 8 + level [[Fortitude]] check or take 1d4 damage and no damage on a success. Creatures who fail are also left unable to take an action their next turn because they are coughing. *(need a name for this condition #todo )*
