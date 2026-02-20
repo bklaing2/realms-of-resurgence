@@ -23,10 +23,10 @@
       - [x] high waste radiation
 
   - [x] Weapons for each player
-- [ ] Cool items to find
-  - [ ] A good range
-  - [ ] a couple magic weapons
-  - [ ] a few magic items
+- [x] Cool items to find
+  - [x] A good range
+  - [x] a couple magic weapons
+  - [x] a few magic items
 
 - [ ] Flesh out the wastes a bit more
   - [x] Get a good wastes table
@@ -256,4 +256,7 @@ Look how cool this is
 - [[Cinderbow]]
 - [[Ashen Pike]]
 - [[Graven Blade]]
+- [[Gravewake Maul]]
+- [[Skyfather's Talon]]
+- [[Droughtaxe]]
 - 
