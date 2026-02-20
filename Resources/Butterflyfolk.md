@@ -5,8 +5,8 @@ description:
 passive abilities:
   - "[[Feet Sense]]"
 roleplay ability: "[[Monarch]]"
-exploration ability:
-combat ability:
+exploration ability: "[[Fast Flying]]"
+combat ability: "[[Proboscis Strike]]"
 tags:
   - needs/name
 image: "[[IMG_1160.jpg]]"

@@ -1,1 +1,1 @@
-Shoot out a barrage of thorns in a 5 ft radius around you. Each creature takes 1d4 damage, and must roll a 1d8 + Level [[Finesse]] check or be inflicted with [[Bleed (Condition)]]
+Shoot out a barrage of thorns in a 5 ft radius around you. Each creature takes 1d4 damage, and must roll a 8 + Level [[Finesse]] check or be inflicted with [[Bleed (Condition)]]

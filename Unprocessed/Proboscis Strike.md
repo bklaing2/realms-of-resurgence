@@ -1,0 +1,1 @@
+10 ft range, butterflyfolk can shoot out their proboscis and strike a creature within range with it. The proboscis does 1d6 damage and the creature attacked makes a DC 8 + your level [[Fortitude]] check or you heal for half of the damage dealt

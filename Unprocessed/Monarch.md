@@ -1,1 +1,1 @@
-Able to mimic a voice that you have heard.
+Advantage on charisma checks to command, ask for, or demand something or in some way place yourself in a higher position.

@@ -1,1 +1,1 @@
-slime trap - can leave a slippery/sticky slime trail. An enemy that enters the trap becomes [[Restrained (Condition)]] until they save, DC 1d8 + Level [[Fortitude]] 
+slime trap - can leave a slippery/sticky slime trail. An enemy that enters the trap becomes [[Restrained (Condition)]] until they save, DC 8 + Level [[Fortitude]] 
