@@ -31,4 +31,5 @@ Found on [[Sai Yoxis IV]]
 slug drug - saving through if someone ingests your slime, otherwise they become inebriated
 
 ![[image1 (1).jpeg]]
+![[IMG_1157.jpg]]
 ![[image2 1.jpeg]]
