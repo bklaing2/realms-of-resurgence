@@ -6,7 +6,7 @@ sentience level: "[[High (Sentience)]]"
 creature size: "[[Large]]"
 fortitude: 2
 finesse: 7
-intuition: 6
+intuition: 4
 intelligence: 4
 mantic: 6
 hit points: 55

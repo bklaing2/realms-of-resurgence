@@ -24,7 +24,6 @@ image: IMG_0815.jpg
 [[The Wastes]], [[Component]]
   
 # Forest rest
-
 When not moving, blends in with the trees and landscape around them to look just like very tall trees. **Advantage** on [[Subterfuge|stealth]] and very hard to see when not looking.
 
 # Slam
