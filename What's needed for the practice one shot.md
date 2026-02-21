@@ -262,4 +262,4 @@ Look how cool this is
 - [[Scavplate]]
 - [[Veilwoven Leathers]]
 - [[Silver Liturgy Helm]]
-- 
+- made the **Artifact** check box on [[Item|Items]] for magic items
