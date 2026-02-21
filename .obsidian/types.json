@@ -34,6 +34,7 @@
     "attacks": "multitext",
     "reactions": "multitext",
     "passive": "checkbox",
-    "legendary actions": "multitext"
+    "legendary actions": "multitext",
+    "artifact": "checkbox"
   }
 }

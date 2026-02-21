@@ -7,6 +7,7 @@ armor type: "[[Armor - Light]]"
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 Stitched with threads taken from ancient rune-covered banners.

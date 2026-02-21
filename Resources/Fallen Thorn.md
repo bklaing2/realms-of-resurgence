@@ -13,6 +13,7 @@ damage type: "[[Mantic]]"
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 A long dagger of ever-so-slightly glowing metal.

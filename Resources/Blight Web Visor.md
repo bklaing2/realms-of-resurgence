@@ -6,6 +6,7 @@ equippable slots:
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 A piece of armor wrapped in magically strengthened webbing from the [[Blightreach]].

@@ -11,6 +11,7 @@ damage type: "[[Mantic]]"
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 The head of this maul was forged from stones taken from an ancient tomb.

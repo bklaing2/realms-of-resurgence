@@ -11,6 +11,7 @@ damage type: "[[Mantic (Damage)]]"
 price:
 weight:
 size:
+artifact: false
 ---
 # Description #todo
 

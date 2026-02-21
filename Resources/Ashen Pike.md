@@ -12,6 +12,7 @@ damage type: "[[Mantic]]"
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 Its head is etched with barely visible sigils.

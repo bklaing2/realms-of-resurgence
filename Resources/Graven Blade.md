@@ -11,6 +11,7 @@ damage type: "[[Mantic]]"
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 A blackened sword forged with ancient [[Obsidian Salt]] from an ancient [[Obsidian Desert]].

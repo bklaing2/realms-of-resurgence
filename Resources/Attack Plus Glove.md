@@ -6,5 +6,6 @@ equippable slots:
 price:
 weight:
 size:
+artifact: true
 ---
 # Description #todo

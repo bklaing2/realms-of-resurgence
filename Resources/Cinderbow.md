@@ -11,6 +11,7 @@ damage type: "[[Mantic]]"
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 Made of bone and strung with sinew of a long dead beast.

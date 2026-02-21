@@ -13,6 +13,7 @@ damage type: "[[Mantic]]"
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 A broad, chipped handaxe made from dull grey metal that seems to absorb moisture.

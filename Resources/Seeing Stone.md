@@ -6,6 +6,7 @@ price:
 weight:
 size:
 image: image0 1.jpeg
+artifact: true
 ---
 # Description
 A fist sized rock that has closed eyes embedded within it.

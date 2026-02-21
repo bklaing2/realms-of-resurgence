@@ -5,6 +5,7 @@ consumable: true
 price:
 weight:
 size:
+artifact: true
 ---
 # Description #todo
 

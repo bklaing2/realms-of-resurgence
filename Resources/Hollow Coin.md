@@ -4,6 +4,7 @@ item type: Tool
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 Small ancient coin shaped piece of weak metal.

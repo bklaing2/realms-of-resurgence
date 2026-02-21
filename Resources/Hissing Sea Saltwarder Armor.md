@@ -7,6 +7,7 @@ armor type:
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 Threaded with crystallized sea salt from the [[Hissing Sea]]

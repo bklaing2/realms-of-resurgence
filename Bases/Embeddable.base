@@ -187,6 +187,7 @@ views:
       - item type
       - equippable slots
       - consumable
+      - artifact
     sort:
       - property: equipment type
         direction: DESC

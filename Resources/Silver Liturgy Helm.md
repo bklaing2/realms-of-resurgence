@@ -6,6 +6,7 @@ equippable slots:
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 Heavy helm engraved with fragments of prayers to long forgotten gods.

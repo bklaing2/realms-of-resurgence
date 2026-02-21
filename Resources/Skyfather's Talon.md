@@ -12,6 +12,7 @@ damage type: "[[Slashing]]"
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 A hooked war-sickle with a bone handle carved in avian shapes.

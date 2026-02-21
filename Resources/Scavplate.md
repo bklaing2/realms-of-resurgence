@@ -7,6 +7,7 @@ armor type:
 price:
 weight:
 size:
+artifact: true
 ---
 # Description
 Armor patched together from ancient battlefield scavenging.
