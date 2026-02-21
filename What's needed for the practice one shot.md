@@ -261,4 +261,5 @@ Look how cool this is
 - [[Droughtaxe]]
 - [[Scavplate]]
 - [[Veilwoven Leathers]]
+- [[Silver Liturgy Helm]]
 - 
