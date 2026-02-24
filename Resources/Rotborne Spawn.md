@@ -26,7 +26,7 @@ If within 60 ft of a [[Rotborne Overseer]], deals an extra 1d4 damage on every a
 
 20 ft range
 1d6 + 3 poison damage
-5 ft radius AOE, every [[Creature]] inside must make a [[Finesse]] check or take the damage. Half damage on a success. 
+5 ft radius AOE, every [[Creature]] inside must make a [[Finesse]] check or take the damage. Half damage on a success, DC 13
 
 # Proximity Radical Fail Outcome
 
