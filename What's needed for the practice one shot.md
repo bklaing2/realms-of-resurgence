@@ -263,3 +263,6 @@ Look how cool this is
 - [[Veilwoven Leathers]]
 - [[Silver Liturgy Helm]]
 - made the **Artifact** check box on [[Item|Items]] for magic items
+
+**24-02-2026**
+- [[Playtest GM Notes]] started
