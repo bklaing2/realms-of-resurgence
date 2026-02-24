@@ -15,6 +15,7 @@
 - level 1
 - party chases the Rotborne through the Wastes
 - run into something while out there (maybe [[Wastewalker]]s in an abandoned building again and they stun them and leave them as they see someone else show up)
+- find the Rotborne slain in the basement of the building they find (or something) and then stand on a [[Rune]] or something that freezes them all or knocks them all out.
 - level 2
 - wake up days later inside one of the special [[Waste Environments]] captured
 - must escape and then enter into the [[crypts]] below where they were held and fight whatever is down there to get the artifact
