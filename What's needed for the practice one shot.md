@@ -266,3 +266,4 @@ Look how cool this is
 
 **24-02-2026**
 - [[Playtest GM Notes]] started
+- [[Character Sheet]]
