@@ -40,7 +40,7 @@ As the battle rages, you see the Standing within the Settlement arm themselves a
 Party fights the Spawn.
 When they kill the last one, the leader of The [[The Gathering Bright|Gathering Bright]] strolls up to the Gate and begins to speak with the captain of the Standing.
 The captain is a male [[Mousefolk]] dressed in armor and holding a rapier, he has his helmet clipped into his belt and speaks in a strong baritone voice and named Captain Tavian.
-The Hierophant of this Settlement's [[Reliquary]] is a female [[Plantfolk]] named Loria Venn. She is wearing a large, loose, voluminous robes covering most of her body. Her face is covered in lengths of chain, crisscrossing across her face, and attached to her robes are these wooden and metallic knickknacks hanging via robe and cording of varying sizes all over the robes, that make small clacking noises as she walks. She speaks in a quiet and calm voice, but one that you know is meant to be listened to.
+The Hierophant of this Settlement's [[Reliquary]] is a female [[Plantfolk]] named Loria Venn. She is wearing a large, loose, voluminous robes covering most of her body. Her face is covered in lengths of chain, crisscrossing across her face, and attached to her robes are these wooden and metallic charm-like adornments (called Seal Bindings and represent how many rituals and prayers that specific member knows and has done to "gather" the bright within themself) hanging via robe and cording of varying sizes all over the robes, that make small clacking noises as she walks. She speaks in a quiet and calm voice, but one that you know is meant to be listened to.
 
 She calmly walks up to Captain Tavian and says, "Captain, what is the meaning of this?" He replies, "Hierophant, your most Bright" and does a small bow with his fist against his forehead "We have sent men out to protect and bring in the caravan." "And it appears to me, that things are getting away from you Captain." As she says this, you see that the Rotborne have killed all of the original guards of the caravan and the Standing are getting slaughtered at the same time. The [[Rotborne Overseer]] has walked up to the caravan and he and another [[Rotborne Feral]] have begun to tear it apart and strew everything within on the ground.
 "Close the Gate"
@@ -53,4 +53,13 @@ The Hierophant turns toward you all and regards you solemnly.
 
 LEVEL 1
 
-The party makes their way to the [[Reliquary]]. When they arrive, 
+The party makes their way to the [[Reliquary]]. When they arrive, they knock on the door and Offerant Sorell (male [[Roachfolk]]) answers the door and lets them inside. He is wearing fewer robes and doesn't have any chains across his face, but does have a single, new, hanging Seal Binding from his robes. He nervously escorts you in and walks you down a few halls until you come to the main room of the [[Reliquary]], then he bows, both arms crossed, to the Hierophant and the other Pontifices in the room and quickly leaves the way you came, going down another hallway, further into the building.
+
+The main room of the [[Reliquary]] is large and wide open. High ceilings like you all have never seen, floor to ceiling bookshelves and cabinets and tables and desks, all cluttered with books, scrolls, pens, ancient pieces of paper, glass vials - some empty and some full of strange liquids, bones, rocks, and other random items that you've never seen before.
+
+Two other members of [[The Gathering Bright]] are present in this room, one, a female [[Lizardfolk]] named Pontifex Othmar with blue-green scales is doing some sort of set of experiments in one corner of the room on some strange liquids and flecks of an ice-blue gem ([[Frostgem Flecks]]) constantly muttering and writing things down in a thick, leather wrapped book.
+The other Pontifex in the room is hunched in a corner pouring through scribbles of notes and hastily drawn figures and maps muttering about Rotborne and corruption and death, this is Pontifex Hale, and he is a male [[Slugfolk]] who barely looks up when the party enters.
+
+In the center of the room is a large cylindrical glass ball, filled with some kind of blue energy, swirling around. You have heard rumor about this, it must be The Bright Spindle, supposedly what protects [[Settlement]]s from the horrors of the Wastes.
+
+Hierophant Loria Venn glides down the stairs 
