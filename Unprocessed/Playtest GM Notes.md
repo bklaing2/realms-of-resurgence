@@ -71,12 +71,15 @@ Introduces the guide (Bryceson's character - level 2) and gives them some items 
 
 Bryceson is a member of the [[Mysts]] or the [[Blood of the Wastes]] and helps guide them in the Wastes and track the prints of the Rotborne.
 
-While traveling, run into some interesting things and maybe like 1-2 [[Warped Wolf]]s for a quick battle.
+While traveling, run into some interesting things and maybe like 1-2 [[Warped Wolf]]s for a quick battle? Or some [[The Attending|Attending]] and [[The Absent|Absent]].
 
 eventually track the Rotborne to an old abandoned building in the Wastes. as they enter, all quiet and finally realize that there are sleeping [[Wastewalker]]s in different rooms (3 i think?) they fight them and then finally can all go to the basement where the tracks of the Rotborne lead, and once down there, they step on a large [[Rune]] and all freeze. [[Whispering Angels Cultist]]s enter in and the party can see them out of them going in and out of consciousness. They watch as they see the bodies of the dead Rotborne in the corner, all with their throats cut, and then they all black out.
 
 # LEVEL 2
 Wake up days later in chains and have to escape.
-They see that the cultists have the artifact and so they try to get it back. Interrupt a ritual and then fight a [[Mantic Knight]] and some [[Fleshwrought Armor]] after taking the ritual succeeds.
+Maybe have to fight some cultists, or maybe something else. Some [[The Attending|Attending]] and [[The Absent|Absent]] or [[Barkspawn Runner]]?
+They see that the cultists have the artifact and it was carried down into some [[crypts]] so they try to get it back.
 
-
+# LEVEL 3
+Down in the crypts, they sneak along finding rooms and books and remnants of other awful things.
+They eventually find the main crypt room, where the cultists have set up a ritual around a large sarcophagus and the party has to interrupt the ritual and then fight a [[Mantic Knight]] and some [[Fleshwrought Armor]]s after taking the ritual succeeds.
