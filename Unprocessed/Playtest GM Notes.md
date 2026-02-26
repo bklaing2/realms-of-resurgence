@@ -22,3 +22,6 @@
 - level 3
 - maybe another [[Whispering Angels]] ritual that works this time and something is brought through for a boss, a [[Mantic Knight]]? or something crazier? I don't know if they'd be able to fight something crazier.
 - end
+
+
+# Level 0
