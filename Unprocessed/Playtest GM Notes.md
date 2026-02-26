@@ -42,4 +42,15 @@ When they kill the last one, the leader of The [[The Gathering Bright|Gathering 
 The captain is a male [[Mousefolk]] dressed in armor and holding a rapier, he has his helmet clipped into his belt and speaks in a strong baritone voice and named Captain Tavian.
 The Hierophant of this Settlement's [[Reliquary]] is a female [[Plantfolk]] named Loria Venn. She is wearing a large, loose, voluminous robes covering most of her body. Her face is covered in lengths of chain, crisscrossing across her face, and attached to her robes are these wooden and metallic knickknacks hanging via robe and cording of varying sizes all over the robes, that make small clacking noises as she walks. She speaks in a quiet and calm voice, but one that you know is meant to be listened to.
 
-She calmly walks up to Captain Tavian and says, "Captain, what is the meaning of this?" He replies, "Hierophant, your most Bright" and does a small bow with his fist against his forehead "We have sent men out to protect and bring in the caravan." 
+She calmly walks up to Captain Tavian and says, "Captain, what is the meaning of this?" He replies, "Hierophant, your most Bright" and does a small bow with his fist against his forehead "We have sent men out to protect and bring in the caravan." "And it appears to me, that things are getting away from you Captain." As she says this, you see that the Rotborne have killed all of the original guards of the caravan and the Standing are getting slaughtered at the same time. The [[Rotborne Overseer]] has walked up to the caravan and he and another [[Rotborne Feral]] have begun to tear it apart and strew everything within on the ground.
+"Close the Gate"
+"But your Brightness.."
+"Close it Captain, now. We cannot have anymore of those creatures getting inside."
+"Yes your Bright" Bows again and begins to call for the Standing to ring the bell and close the Gate. You see the absolute abject horror on the faces of the Standing that are outside as they are fighting for their lives and also trying to run back to the Settlement before the Gate closes all the way. Some of them get cut down from behind as the creatures feast on their fallen flesh, and others just freeze and stare in terror as they watch the Gate shut them out from the Settlement, locking them in the Wastes.
+The Gate closes and you can hear the screams of the dying outside and the sounds of the creatures feasting and tearing apart the caravan.
+The Hierophant turns toward you all and regards you solemnly.
+"That was quite brave of you, even if it was incredibly dangerous as well. Please, clean yourselves up and come to the [[Reliquary]], I have an offer for you." With that, she turns and heads back through the grief stricken Wastedwellers and few Standing left alive towards the tallest building in the Settlement, the [[Reliquary]] of the [[The Gathering Bright|Gathering Bright]].
+
+LEVEL 1
+
+The party makes their way to the [[Reliquary]]. When they arrive, 
