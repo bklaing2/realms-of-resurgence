@@ -63,8 +63,20 @@ The other Pontifex in the room is hunched in a corner pouring through scribbles 
 In the center of the room, sitting in the middle of a built housing is a large cylindrical glass ball, filled with some kind of blue energy, swirling around. You have heard rumor about this, it must be The Bright Spindle, supposedly what protects [[Settlement]]s from the horrors of the Wastes.
 
 Hierophant Loria Venn glides down the stairs at the back of the main room and thanks you for your bravery and for coming to see her.
-She tells you of an ancient artifact that was secretly on that caravan that is vital for the survival and protection of the [[Settlement]].
+She tells you of an ancient artifact that was secretly on that caravan that is vital for the survival and protection of the [[Settlement]]. Explains what it is and what it looks like, so the party knows it when they see it.
 She asks you all, with the help of a guide, to venture into the Wastes to find and return this artifact for the betterment of the [[Settlement]].
 Too many [[Standing]] died at the Gate for me to send them, else the [[Settlement]] be left undefended.
 Please, we are desperate. Without your help, this [[Settlement]] could fall and everyone here will die.
-Introduces the guide (Bryceson's character - level 2)
+Introduces the guide (Bryceson's character - level 2) and gives them some items to take with them on the trip (some potions and maybe a tool) they show them the maps and then they send them on their way.
+
+Bryceson is a member of the [[Mysts]] or the [[Blood of the Wastes]] and helps guide them in the Wastes and track the prints of the Rotborne.
+
+While traveling, run into some interesting things and maybe like 1-2 [[Warped Wolf]]s for a quick battle.
+
+eventually track the Rotborne to an old abandoned building in the Wastes. as they enter, all quiet and finally realize that there are sleeping [[Wastewalker]]s in different rooms (3 i think?) they fight them and then finally can all go to the basement where the tracks of the Rotborne lead, and once down there, they step on a large [[Rune]] and all freeze. [[Whispering Angels Cultist]]s enter in and the party can see them out of them going in and out of consciousness. They watch as they see the bodies of the dead Rotborne in the corner, all with their throats cut, and then they all black out.
+
+# LEVEL 2
+Wake up days later in chains and have to escape.
+They see that the cultists have the artifact and so they try to get it back. Interrupt a ritual and then fight a [[Mantic Knight]] and some [[Fleshwrought Armor]] after taking the ritual succeeds.
+
+
