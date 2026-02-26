@@ -24,7 +24,7 @@
 - end
 
 
-# Level 0
+# LEVEL 0
 Our story begins on the distant planet of Sai Yoxis IV, it has not always been called this, and most likely will not always be called this, but this is what it is called now. The residents of Sai Yoxis IV live difficult lives, they are far away from the dwarf brown star that lights their solar system, they experienced a some kind of terrible apocalyptic blast many years ago, and they live in constant fear of the latent radiation and the horrors that its created lurking outside of their tiny [[Settlement]]s in [[The Wastes]]. The Wastes are the wide expanse of uninhabitable land full of unimaginable horrors and mutated creatures that make up the predominant land masses of Sai Yoxis IV, but we will not speak too much of what mysteries and death lie within.
 
 This small story begins within the small Settlement of Ashbrook (named after the brook that used to flow through this area, but has since dried up) as an expected caravan slowly approaches Ashbrook.
@@ -51,7 +51,7 @@ The Gate closes and you can hear the screams of the dying outside and the sounds
 The Hierophant turns toward you all and regards you solemnly.
 "That was quite brave of you, even if it was incredibly dangerous as well. Please, clean yourselves up and come to the [[Reliquary]], I have an offer for you." With that, she turns and heads back through the grief stricken Wastedwellers and few Standing left alive towards the tallest building in the Settlement, the [[Reliquary]] of the [[The Gathering Bright|Gathering Bright]].
 
-LEVEL 1
+# LEVEL 1
 
 The party makes their way to the [[Reliquary]]. When they arrive, they knock on the door and Offerant Sorell (male [[Roachfolk]]) answers the door and lets them inside. He is wearing fewer robes and doesn't have any chains across his face, but does have a single, new, hanging Seal Binding from his robes. He nervously escorts you in and walks you down a few halls until you come to the main room of the [[Reliquary]], then he bows, both arms crossed, to the Hierophant and the other Pontifices in the room and quickly leaves the way you came, going down another hallway, further into the building.
 
@@ -60,6 +60,11 @@ The main room of the [[Reliquary]] is large and wide open. High ceilings like yo
 Two other members of [[The Gathering Bright]] are present in this room, one, a female [[Lizardfolk]] named Pontifex Othmar with blue-green scales is doing some sort of set of experiments in one corner of the room on some strange liquids and flecks of an ice-blue gem ([[Frostgem Flecks]]) constantly muttering and writing things down in a thick, leather wrapped book.
 The other Pontifex in the room is hunched in a corner pouring through scribbles of notes and hastily drawn figures and maps muttering about Rotborne and corruption and death, this is Pontifex Hale, and he is a male [[Slugfolk]] who barely looks up when the party enters.
 
-In the center of the room is a large cylindrical glass ball, filled with some kind of blue energy, swirling around. You have heard rumor about this, it must be The Bright Spindle, supposedly what protects [[Settlement]]s from the horrors of the Wastes.
+In the center of the room, sitting in the middle of a built housing is a large cylindrical glass ball, filled with some kind of blue energy, swirling around. You have heard rumor about this, it must be The Bright Spindle, supposedly what protects [[Settlement]]s from the horrors of the Wastes.
 
-Hierophant Loria Venn glides down the stairs 
+Hierophant Loria Venn glides down the stairs at the back of the main room and thanks you for your bravery and for coming to see her.
+She tells you of an ancient artifact that was secretly on that caravan that is vital for the survival and protection of the [[Settlement]].
+She asks you all, with the help of a guide, to venture into the Wastes to find and return this artifact for the betterment of the [[Settlement]].
+Too many [[Standing]] died at the Gate for me to send them, else the [[Settlement]] be left undefended.
+Please, we are desperate. Without your help, this [[Settlement]] could fall and everyone here will die.
+Introduces the guide (Bryceson's character - level 2)
