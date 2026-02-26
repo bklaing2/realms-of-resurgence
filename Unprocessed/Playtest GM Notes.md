@@ -71,9 +71,39 @@ Introduces the guide (Bryceson's character - level 2) and gives them some items 
 
 Bryceson is a member of the [[Mysts]] or the [[Blood of the Wastes]] and helps guide them in the Wastes and track the prints of the Rotborne.
 
-While traveling, run into some interesting things and maybe like 1-2 [[Warped Wolf]]s for a quick battle? Or some [[The Attending|Attending]] and [[The Absent|Absent]].
+While traveling, run into an [[Obelisk]] in the Wastes with a riddle that gives the party a [[Silver Liturgy Helm]] and a [[Gravewake Maul]]. 
+## Riddle:
+four smaller pillars around the [[Obelisk]]
+each pillar has a single rotating stone face on them
+each face holds a single symbol, carved into them long ago
+1. flame
+2. wave
+3. blade
+4. star
+each pillar can either face in or out (towards the [[Obelisk]] or away)
+at the base of the [[Obelisk]] is a riddle:
+“Four bore witness.  
+One struck.  
+Three turned away.”
+Clues in the environment:
+- A wide circle of fused glass in the sand (impact site).
+- A faint downward fracture running through the obelisk stone.
+- Old blade marks on the obelisk — but shallow, defensive.
+- Dried salt traces — like old water long evaporated.
+- Char patterns climbing upward — not downward.
 
-eventually track the Rotborne to an old abandoned building in the Wastes. as they enter, all quiet and finally realize that there are sleeping [[Wastewalker]]s in different rooms (3 i think?) they fight them and then finally can all go to the basement where the tracks of the Rotborne lead, and once down there, they step on a large [[Rune]] and all freeze. [[Whispering Angels Cultist]]s enter in and the party can see them out of them going in and out of consciousness. They watch as they see the bodies of the dead Rotborne in the corner, all with their throats cut, and then they all black out.
+The obelisk was struck from above.
+The star fell.
+
+Star needs to face towards the [[Obelisk]] while the others need to be turned away.
+When aligned:
+- The air pressure shifts.
+- A low tone hums.
+- A compartment opens in the obelisk base.
+
+If the wrong face is turned toward the [[Obelisk]], a blast of air shoots them back. If it happens three times, then 2 [[The Attending|Attending]] and 2 [[The Absent|Absent]] are released from within the [[Obelisk]].
+
+They eventually track the Rotborne to an old abandoned building in the Wastes. as they enter, all quiet and finally realize that there are sleeping [[Wastewalker]]s in different rooms (3 i think?) they fight them and then finally can all go to the basement where the tracks of the Rotborne lead, and once down there, they step on a large [[Rune]] and all freeze. [[Whispering Angels Cultist]]s enter in and the party can see them out of them going in and out of consciousness. They watch as they see the bodies of the dead Rotborne in the corner, all with their throats cut, and then they all black out.
 
 # LEVEL 2
 Wake up days later in chains and have to escape.
