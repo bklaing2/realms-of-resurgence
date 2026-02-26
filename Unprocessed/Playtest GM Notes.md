@@ -25,3 +25,8 @@
 
 
 # Level 0
+Our story begins on the distant planet of Sai Yoxis IV, it has not always been called this, and most likely will not always be called this, but this is what it is called now. The residents of Sai Yoxis IV live difficult lives, they are far away from the dwarf brown star that lights their solar system, they experienced a some kind of terrible apocalyptic blast many years ago, and they live in constant fear of the latent radiation and the horrors that its created lurking outside of their tiny [[Settlement]]s in [[The Wastes]]. The Wastes are the wide expanse of uninhabitable land full of unimaginable horrors and mutated creatures that make up the predominant land masses of Sai Yoxis IV, but we will not speak too much of what mysteries and death lie within.
+
+This small story begins within the small Settlement of Ashbrook (named after the brook that used to flow through this area, but has since dried up) as an expected caravan slowly approaches Ashbrook.
+
+This caravan has been traveling through the Wastes under guide of a member of the [[Mysts]] and a selection of  
