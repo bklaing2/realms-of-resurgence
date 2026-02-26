@@ -29,4 +29,15 @@ Our story begins on the distant planet of Sai Yoxis IV, it has not always been c
 
 This small story begins within the small Settlement of Ashbrook (named after the brook that used to flow through this area, but has since dried up) as an expected caravan slowly approaches Ashbrook.
 
-This caravan has been traveling through the Wastes under guide of a member of the [[Mysts]] and a selection of  
+This caravan has been traveling through the Wastes under guide of a member of the [[Mysts]] and a selection of guards coming from one of the larger Settlements (Hallowvale) and visiting smaller ones on the way bringing food, weapons, materials, letters, and many other things necessary to survival here in the Wastes.
+Everyone in Ashbrook has been abuzz for the past week knowing that the caravan should arrive soon. As a member of the [[Standing]] calls out "Caravan ho!" the people of Ashbrook drop what they are doing and rush to the walls and on top of their small, cramped buildings to perhaps get a peak of the caravan as it arrives at the Gate.
+
+As you look over the walls, you see the caravan and its guards slowly making their way towards the Gate of the Settlement, the Standing ready to open it when they get closer. Then you begin to see some sort of a commotion outside in the Wastes around the caravan and it is mirrored on the inside of the Gate as the Standing seem to begin arming themselves and frantically running about.
+
+As you watch, 4 fast moving, hyena-like creatures dash out of the fog towards the main body of the caravan, their pig-shaped faces and furred body covered and wrapped in long chains that trail back into the fog and all of a sudden whip taught. A larger, but similar creature, four-armed and holding a massive glaive in on hand and four lengths of chain in the others steps out of the fog and open its fanged, bloody mouth and screeches towards the caravan guards, the chained creatures fighting to break free of their bindings. The chains are dropped and the 4 feral-looking creatures shoot forwards toward the guards, one of them jumping and immediately tearing the neck of a guard, blood spraying into the air in a dark haze.
+As the battle rages, you see the Standing within the Settlement arm themselves and open the Gate, a bell sounds and the Gate is lifted and a group of them rush out to face down this new danger. As they fight, a buzzing sound appears and 3 [[Rotborne Spawn]] fly towards the Gate and enter the Settlement.
+
+Party fights the Spawn.
+When they kill the last one, the leader of The [[The Gathering Bright|Gathering Bright]] strolls up to the Gate and begins to speak with the captain of the Standing.
+The captain is a male [[Mousefolk]] dressed in armor and holding a rapier, he has his helmet clipped into his belt and speaks in a strong baritone voice and named Captain Tavian.
+The Hierophant of this Settlement's [[Reliquary]] is a female [[Plantfolk]] named Loria Venn. She is wearing a large, loose, voluminous robes covering most of her body. Her face is covered in lengths of chain, crisscrossing across her face, and attached to her robes are these wooden and metallic 
