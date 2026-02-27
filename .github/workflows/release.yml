@@ -31,8 +31,8 @@ jobs:
           path: content
       - name: Install Dependencies
         run: npm ci
-      - name: Build Quartz
-        run: npx quartz build
+      - name: Build Site
+        run: npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
