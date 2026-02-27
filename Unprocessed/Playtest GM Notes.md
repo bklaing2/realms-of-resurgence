@@ -63,7 +63,7 @@ The other Pontifex in the room is hunched in a corner pouring through scribbles 
 In the center of the room, sitting in the middle of a built housing is a large cylindrical glass ball, filled with some kind of blue energy, swirling around. You have heard rumor about this, it must be The Bright Spindle, supposedly what protects [[Settlement]]s from the horrors of the Wastes.
 
 Hierophant Loria Venn glides down the stairs at the back of the main room and thanks you for your bravery and for coming to see her.
-She tells you of an ancient artifact that was secretly on that caravan that is vital for the survival and protection of the [[Settlement]]. Explains what it is and what it looks like, so the party knows it when they see it.
+She tells you of an ancient artifact that was secretly on that caravan that is vital for the survival and protection of the [[Settlement]]. Explains what it is and what it looks like, so the party knows it when they see it. [[Rune-Carved Iron Spikes]]
 She asks you all, with the help of a guide, to venture into the Wastes to find and return this artifact for the betterment of the [[Settlement]].
 Too many [[Standing]] died at the Gate for me to send them, else the [[Settlement]] be left undefended.
 Please, we are desperate. Without your help, this [[Settlement]] could fall and everyone here will die.
@@ -103,12 +103,20 @@ When aligned:
 
 If the wrong face is turned toward the [[Obelisk]], a blast of air shoots them back. If it happens three times, then 2 [[The Attending|Attending]] and 2 [[The Absent|Absent]] are released from within the [[Obelisk]].
 
-They eventually track the Rotborne to an old abandoned building in the Wastes. as they enter, all quiet and finally realize that there are sleeping [[Wastewalker]]s in different rooms (3 i think?) they fight them and then finally can all go to the basement where the tracks of the Rotborne lead, and once down there, they step on a large [[Rune]] and all freeze. [[Whispering Angels Cultist]]s enter in and the party can see them out of them going in and out of consciousness. They watch as they see the bodies of the dead Rotborne in the corner, all with their throats cut, and then they all black out.
+They eventually track the Rotborne to an old abandoned building in the Wastes.
+
+As they enter, all quiet and finally realize that there are sleeping [[Wastewalker]]s in different rooms (3 i think?) they fight them and then finally can all go to the basement where the tracks of the Rotborne lead, and once down there, they step on a large [[Rune]] and all freeze. [[Whispering Angels Cultist]]s enter in and the party can see them out of them going in and out of consciousness. They watch as they see the bodies of the dead Rotborne in the corner, all with their throats cut, and then they all black out.
 
 # LEVEL 2
 Wake up days later in chains and have to escape.
-Maybe have to fight some cultists, or maybe something else. Some [[The Attending|Attending]] and [[The Absent|Absent]] or [[Barkspawn Runner]]?
+
 They see that the cultists have the artifact and it was carried down into some [[crypts]] so they try to get it back.
+
+The crypt is within seeing distance from where the party is found chained up, and they see a line of cultists walking into the crypt a ways away and at the center of the line, they have the artifact hoisted above them on a carrying thing.
+
+the artifact is two large [[Rune-Carved Iron Spikes]] to be used in rituals and summonings. the runes slightly glow with power, even when not powered.
+
+Maybe have to fight some cultists, or maybe something else. A [[Barkspawn Runner]]?
 
 # LEVEL 3
 Down in the crypts, they sneak along finding rooms and books and remnants of other awful things.
