@@ -14,8 +14,10 @@
   "scripts": {
     "dev": "concurrently -k \"npm:tailwind\" \"npm:quartz-dev\"",
     "tailwind": "npx @tailwindcss/cli -i ./quartz/styles/tailwind.css -o ./quartz/static/tailwind.css --watch",
+    "tailwind:build": "npx @tailwindcss/cli -i ./quartz/styles/tailwind.css -o ./quartz/static/tailwind.css",
     "quartz-dev": "npx quartz build --serve",
     "quartz": "./quartz/bootstrap-cli.mjs",
+    "build": "npm run tailwind:build && npx quartz build",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
