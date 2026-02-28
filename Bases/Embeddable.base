@@ -188,6 +188,8 @@ views:
       - equippable slots
       - consumable
       - artifact
+      - hit attribute
+      - damage attribute
     sort:
       - property: equipment type
         direction: DESC
