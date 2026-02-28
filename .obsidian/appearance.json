@@ -2,7 +2,7 @@
   "textFontFamily": "Baskervville,Baskerville,Cambria",
   "interfaceFontFamily": "Candara,Trebuchet MS",
   "monospaceFontFamily": "MapleMono Nerd Font,Menlo",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "cssTheme": "Minimal",
   "theme": "moonstone",
