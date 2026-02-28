@@ -1,4 +1,4 @@
-Bonus action to enter a Frenzy.
+Quick action to enter a Frenzy.
 
 Each round, to your first successful attack, add 1d4 per hit against you.
 
