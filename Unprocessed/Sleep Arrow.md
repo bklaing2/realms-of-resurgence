@@ -18,4 +18,4 @@ When a creature is shot by this arrow, the shooter rolls 4d6 + [[Tinker]] modifi
 
 The weight of the [[Component]] used to create this arrow cause it to have a reduced range.
 
-If a creature is shot by this arrow, they take the normal damage of whatever bow is used to shoot the arrow (but does not wake them, damage first, then sleep).
+If a creature is shot by this arrow, they take the norxmal damage of whatever bow is used to shoot the arrow (but does not wake them, damage first, then sleep).
