@@ -82,9 +82,9 @@ each face holds a single symbol, carved into them long ago
 4. star
 each pillar can either face in or out (towards the [[Obelisk]] or away)
 at the base of the [[Obelisk]] is a riddle:
-“Four bore witness.  
-One struck.  
-Three turned away.”
+**“Four bore witness.**  
+**One struck.**  
+**Three turned away.”**
 Clues in the environment:
 - A wide circle of fused glass in the sand (impact site).
 - A faint downward fracture running through the obelisk stone.
