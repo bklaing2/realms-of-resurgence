@@ -101,7 +101,7 @@ When aligned:
 - A low tone hums.
 - A compartment opens in the obelisk base.
 
-If the wrong face is turned toward the [[Obelisk]], a blast of air shoots them back. If it happens three times, then 2 [[The Attending|Attending]] and 2 [[The Absent|Absent]] are released from within the [[Obelisk]].
+If the wrong face is turned toward the [[Obelisk]], a blast of air shoots them back. If it happens three times, then 1 [[The Attending|Attending]] and 1 [[The Absent|Absent]] are released from within the [[Obelisk]].
 
 They eventually track the Rotborne to an old abandoned building in the Wastes.
 
