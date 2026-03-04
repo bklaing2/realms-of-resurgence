@@ -3,6 +3,7 @@ type: "[[Item]]"
 item type: "[[Equipment]]"
 equippable slots:
   - "[[Primary Hand]]"
+  - "[[Off Hand]]"
 hit attribute: "[[Intelligence]]"
 damage attribute: "[[Mantic]]"
 range: 5 ft
