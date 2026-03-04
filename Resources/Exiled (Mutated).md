@@ -5,7 +5,7 @@ power level: "[[Low]]"
 sentience level: "[[Low]]"
 creature size: "[[Medium]]"
 fortitude: 4
-finesse:
+finesse: 2
 intuition:
 intelligence:
 mantic: 3
